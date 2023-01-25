@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Machine Learning | Deep Learning | SQL | Python | PowerBI | Excel**
 
-- 📫 How to reach me **themrityunjaypathak@gmail.com**
+- 📫 Reach me at **themrityunjaypathak@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
