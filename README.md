@@ -1,7 +1,9 @@
+[![MasterHead](https://static.vecteezy.com/system/resources/previews/009/903/924/non_2x/data-science-banner-concept-has-7-steps-to-analyze-such-as-big-data-classification-analyze-statistics-solving-decision-and-knowledge-to-to-extract-knowledge-from-structured-and-unstructured-data-vector.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mrityunjay Pathak</h1>
 <h3 align="center">Data Science Enthusiast | Kaggle Expert | Graduate Student at Banaras Hindu University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themrityunjaypathak&label=Profile%20views&color=0e75b6&style=flat" alt="themrityunjaypathak" /> </p>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
 - 🌱 I’m currently learning **Data Science**
 
