@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/themrityunjaypathak](https://www.kaggle.com/themrityunjaypathak)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/mrityunjay-pathak-05793b260/](https://www.linkedin.com/in/mrityunjay-pathak-05793b260/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/themrityunjaypathak/](https://www.linkedin.com/in/themrityunjaypathak/)
 
 - 💬 Ask me about **Machine Learning | Deep Learning | SQL | Python | PowerBI | Excel**
 
