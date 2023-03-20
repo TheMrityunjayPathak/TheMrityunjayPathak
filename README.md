@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mrityunjay Pathak</h1>
-<h3 align="center">|👨‍💻| Kaggle Expert ⚛️| Data Science Enthusiast 📊| Student at Banaras Hindu University 🏫| Python 🐍| SQL | Power BI 📈|</h3>
+<h3 align="center">|👨‍💻| Kaggle Expert ⚛️| Data Science Enthusiast 📊| Student at Banaras Hindu University 🏫| Python 🐍| SQL | Power BI 📈| Machine Learning 🖥️|</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=themrityunjaypathak&label=Profile%20views&color=0e75b6&style=plastic" alt="themrityunjaypathak" /> </p>
 
