@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mrityunjay Pathak</h1>
-<h3 align="center">|👨‍💻| Kaggle Expert ⚛️| Data Science Enthusiast 📊| Student at Banaras Hindu University 🏫| Python 🐍| SQL | Power BI 📈| Machine Learning 🖥️|</h3>
+<h3 align="center"></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=themrityunjaypathak&label=Profile%20views&color=0e75b6&style=plastic" alt="themrityunjaypathak" /> </p>
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://www.kaggle.com/themrityunjaypathak](https://www.kaggle.com/themrityunjaypathak)
+- 👨‍💻 All of my projects are available at [Kaggle](https://www.kaggle.com/themrityunjaypathak)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/themrityunjaypathak/](https://www.linkedin.com/in/themrityunjaypathak/)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/themrityunjaypathak/)
 
 - 💬 Ask me about **Machine Learning | Deep Learning | SQL | Python | PowerBI | Excel**
 
