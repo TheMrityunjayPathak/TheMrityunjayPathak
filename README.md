@@ -2,9 +2,9 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [Kaggle](https://www.kaggle.com/themrityunjaypathak)
+- 👨‍💻 All of my projects are available at **Kaggle**
 
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/themrityunjaypathak/)
+- 📝 I regularly write articles on **LinkedIn**
 
 - 💬 Ask me about **Machine Learning | Deep Learning | SQL | Python | PowerBI | Excel**
 
@@ -22,16 +22,5 @@
 
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themrityunjaypathak" alt="themrityunjaypathak" /></a> </p>
-
-<br>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=themrityunjaypathak&show_icons=true&theme=radical&locale=en&layout=compact" alt="themrityunjaypathak" /></p>
 
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=themrityunjaypathak&show_icons=true&theme=radical&locale=en" alt="themrityunjaypathak" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=themrityunjaypathak&theme=dark" alt="themrityunjaypathak" /></p>
