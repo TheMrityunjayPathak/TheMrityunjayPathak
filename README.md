@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at **Kaggle**
+- 👨‍💻 All of my projects are available at **GitHub**
 
 - 📝 I regularly write articles on **LinkedIn**
 
