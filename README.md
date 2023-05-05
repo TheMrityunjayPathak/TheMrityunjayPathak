@@ -6,7 +6,7 @@
 
 - 📝 I regularly write articles on **LinkedIn**
 
-- 💬 Ask me about **Machine Learning | SQL | Python | PowerBI**
+- 💬 Ask me about **Python | SQL | PowerBI | Machine Learning**
 
 - 📫 Reach me at **themrityunjaypathak@gmail.com**
 
