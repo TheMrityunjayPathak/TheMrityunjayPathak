@@ -2,11 +2,11 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at **GitHub**
+- 💻 All of my projects are available at **GitHub**
 
 - 📝 I regularly write articles on **LinkedIn**
 
-- 💬 Ask me about **Python | SQL | PowerBI | Machine Learning**
+- 🎙️ Ask me about **Python | SQL | PowerBI | Machine Learning**
 
 - 📫 Reach me at **themrityunjaypathak@gmail.com**
 
