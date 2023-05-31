@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="3%" height="3%">, I'm Mrityunjay Pathak</h1>
+<h1 align="center">Hi 👋, I'm Mrityunjay Pathak</h1>
 
 - 🌱 I’m currently learning **Data Science**
 
