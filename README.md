@@ -24,5 +24,3 @@
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt=""/></a>
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt=""/></a>
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt=""/></a>
-
-<a href="themrityunjaypathak@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="themrityunjaypathak@gmail.com"/></a>
