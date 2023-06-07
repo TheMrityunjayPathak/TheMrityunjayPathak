@@ -10,13 +10,13 @@
 
 > 📫 Reach me at **themrityunjaypathak@gmail.com**
 
-<h5 align="left">Connect with me :</h5>
+<h4 align="left">Connect with me :</h4>
 <a href="https://www.linkedin.com/in/themrityunjaypathak" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="themrityunjaypathak"/></a>
 <a href="https://www.kaggle.com/themrityunjaypathak" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="themrityunjaypathak"/></a>
 <a href="https://www.hackerrank.com/mrityunjaypathak" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="mrityunjaypathak"/></a>
 <a href="https://linktr.ee/MrityunjayPathak" target="blank"><img align="center" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="MrityunjayPathak"/></a>
 
-<h5 align="left">Tools :</h5>
+<h4 align="left">Tools :</h4>
 <a href="https://www.python.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt=""/></a>
 <a href="https://numpy.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt=""/></a>
 <a href="https://pandas.pydata.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt=""/></a>
