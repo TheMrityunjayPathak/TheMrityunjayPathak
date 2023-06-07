@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mrityunjay Pathak</h1>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=themrityunjaypathak&label=Profile%20views&color=0e75b6&style=flat-square" alt="themrityunjaypathak" /></p>
 
 - 🌱 I’m currently learning **Data Science**
 
@@ -24,3 +25,6 @@
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt=""/></a>
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt=""/></a>
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt=""/></a>
+<br>
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=themrityunjaypathak&show_icons=true&theme=dark&locale=en&layout=compact" alt="themrityunjaypathak"/></p>
