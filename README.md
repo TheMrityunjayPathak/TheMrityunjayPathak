@@ -1,25 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mrityunjay Pathak</h1>
 
-| 🌱 I’m currently learning **Data Science** |
-|:-:|
+> 🌱 I’m currently learning **Data Science**
 
-| 🗂️ All of my projects are available at **GitHub** |
-|:-:|
+> 🗂️ All of my projects are available at **GitHub**
 
-| 📝 I regularly write articles on **LinkedIn** |
-|:-:|
+> 📝 I regularly write articles on **LinkedIn**
 
-| 🎙️ Ask me about **Python - SQL - PowerBI - Machine Learning** |
-|:-:|
+> 🎙️ Ask me about **Python - SQL - PowerBI - Machine Learning**
 
-| 📫 Reach me at **themrityunjaypathak@gmail.com** |
-|:-:|
+> 📫 Reach me at **themrityunjaypathak@gmail.com**
 
 <h4 align="left">Connect with me :</h4>
 
 | [LinkedIn](https://www.linkedin.com/in/themrityunjaypathak) | [Kaggle](https://www.kaggle.com/themrityunjaypathak) | [HackerRank](https://www.hackerrank.com/mrityunjaypathak) | [Linktree](https://linktr.ee/MrityunjayPathak) |
 |:-:|:-:|:-:|:-:|
-
 
 <h4 align="left">Tools and Libraries :</h4>
 
