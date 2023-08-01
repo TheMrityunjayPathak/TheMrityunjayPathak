@@ -29,3 +29,53 @@
 
 | [Spaceship Titanic Classification](https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification) | [Car Price Prediction](https://github.com/TheMrityunjayPathak/CarPricePrediction) | [EDA on IRIS Dataset](https://github.com/TheMrityunjayPathak/ExploratoryDataAnalysis) |
 |:-:|:-:|:-|
+
+<h4 align="left">Data Science Notebooks :</h4>
+<details>
+
+<summary>Click Here</summary>
+
+> [Python](https://www.kaggle.com/code/themrityunjaypathak/python-tutorial)
+
+> [NumPy](https://www.kaggle.com/code/themrityunjaypathak/numpy-tutorial)
+
+> [Pandas](https://www.kaggle.com/code/themrityunjaypathak/python-tutorial)
+
+> [Matplotlib](https://www.kaggle.com/code/themrityunjaypathak/matplotlib-tutorial) 
+
+</details>
+
+<h4 align="left">Machine Learning Notebooks :</h4>
+<details>
+
+<summary>Click Here</summary>
+
+> [Linear Regression](https://www.kaggle.com/code/themrityunjaypathak/linearregression)
+
+> [Logistic Regression](https://www.kaggle.com/code/themrityunjaypathak/logisticregression)
+
+> [Decision Trees](https://www.kaggle.com/code/themrityunjaypathak/decision-tree)
+
+> [Random Forests](https://www.kaggle.com/code/themrityunjaypathak/random-forest)
+
+> [Support Vector Machines (SVM)](https://www.kaggle.com/code/themrityunjaypathak/support-vector-machine)
+
+> [K-Nearest Neighbors (KNN)](https://www.kaggle.com/code/themrityunjaypathak/knn-classification)
+
+> [K-Means Clustering](https://www.kaggle.com/code/themrityunjaypathak/k-means-clustering-algorithm)
+
+> [K-Fold Cross Validation](https://www.kaggle.com/code/themrityunjaypathak/k-fold-cross-validation)
+
+> [Naive Bayes](https://www.kaggle.com/code/themrityunjaypathak/spam-detection-using-naive-bayes)
+
+> [Principal Component Analysis (PCA)](https://www.kaggle.com/code/themrityunjaypathak/principal-component-analysis)
+
+> [Bagging Ensemble](https://www.kaggle.com/code/themrityunjaypathak/bagging-ensemble-technique)
+
+> [Saving Model to a File](https://www.kaggle.com/code/themrityunjaypathak/saving-model-to-a-file)
+
+</details>
+
+
+
+
