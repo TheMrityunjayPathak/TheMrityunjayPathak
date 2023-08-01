@@ -35,13 +35,15 @@
 
 <summary>Click Here</summary>
 
-> [Python](https://www.kaggle.com/code/themrityunjaypathak/python-tutorial)
+- [Python](https://www.kaggle.com/code/themrityunjaypathak/python-tutorial)
 
-> [NumPy](https://www.kaggle.com/code/themrityunjaypathak/numpy-tutorial)
+- [NumPy](https://www.kaggle.com/code/themrityunjaypathak/numpy-tutorial)
 
-> [Pandas](https://www.kaggle.com/code/themrityunjaypathak/python-tutorial)
+- [Pandas](https://www.kaggle.com/code/themrityunjaypathak/python-tutorial)
 
-> [Matplotlib](https://www.kaggle.com/code/themrityunjaypathak/matplotlib-tutorial) 
+- [Matplotlib](https://www.kaggle.com/code/themrityunjaypathak/matplotlib-tutorial)
+
+For more Details → Go to [Data Science](https://github.com/TheMrityunjayPathak/DataScience) Repository
 
 </details>
 
@@ -50,29 +52,52 @@
 
 <summary>Click Here</summary>
 
-> [Linear Regression](https://www.kaggle.com/code/themrityunjaypathak/linearregression)
+- [Linear Regression](https://www.kaggle.com/code/themrityunjaypathak/linearregression)
 
-> [Logistic Regression](https://www.kaggle.com/code/themrityunjaypathak/logisticregression)
+- [Logistic Regression](https://www.kaggle.com/code/themrityunjaypathak/logisticregression)
 
-> [Decision Trees](https://www.kaggle.com/code/themrityunjaypathak/decision-tree)
+- [Decision Trees](https://www.kaggle.com/code/themrityunjaypathak/decision-tree)
 
-> [Random Forests](https://www.kaggle.com/code/themrityunjaypathak/random-forest)
+- [Random Forests](https://www.kaggle.com/code/themrityunjaypathak/random-forest)
 
-> [Support Vector Machines (SVM)](https://www.kaggle.com/code/themrityunjaypathak/support-vector-machine)
+- [Support Vector Machines (SVM)](https://www.kaggle.com/code/themrityunjaypathak/support-vector-machine)
 
-> [K-Nearest Neighbors (KNN)](https://www.kaggle.com/code/themrityunjaypathak/knn-classification)
+- [K-Nearest Neighbors (KNN)](https://www.kaggle.com/code/themrityunjaypathak/knn-classification)
 
-> [K-Means Clustering](https://www.kaggle.com/code/themrityunjaypathak/k-means-clustering-algorithm)
+- [K-Means Clustering](https://www.kaggle.com/code/themrityunjaypathak/k-means-clustering-algorithm)
 
-> [K-Fold Cross Validation](https://www.kaggle.com/code/themrityunjaypathak/k-fold-cross-validation)
+- [K-Fold Cross Validation](https://www.kaggle.com/code/themrityunjaypathak/k-fold-cross-validation)
 
-> [Naive Bayes](https://www.kaggle.com/code/themrityunjaypathak/spam-detection-using-naive-bayes)
+- [Naive Bayes](https://www.kaggle.com/code/themrityunjaypathak/spam-detection-using-naive-bayes)
 
-> [Principal Component Analysis (PCA)](https://www.kaggle.com/code/themrityunjaypathak/principal-component-analysis)
+- [Principal Component Analysis (PCA)](https://www.kaggle.com/code/themrityunjaypathak/principal-component-analysis)
 
-> [Bagging Ensemble](https://www.kaggle.com/code/themrityunjaypathak/bagging-ensemble-technique)
+- [Bagging Ensemble](https://www.kaggle.com/code/themrityunjaypathak/bagging-ensemble-technique)
 
-> [Saving Model to a File](https://www.kaggle.com/code/themrityunjaypathak/saving-model-to-a-file)
+- [Saving Model to a File](https://www.kaggle.com/code/themrityunjaypathak/saving-model-to-a-file)
+
+For more Details → Go to [Machine Learning](https://github.com/TheMrityunjayPathak/MachineLearning) Repository
+
+</details>
+
+<h4 align="left">Feature  Notebooks :</h4>
+<details>
+
+<summary>Click Here</summary>
+
+- [Dummy Variable](https://www.kaggle.com/code/themrityunjaypathak/dummy-variable)
+
+- [Inter Quartile Range](https://www.kaggle.com/code/themrityunjaypathak/removing-outlier-from-data-using-iqr)
+
+- [Z-Score](https://www.kaggle.com/code/themrityunjaypathak/removing-outlier-from-data-using-zscore)
+
+- [Modified Z-Score](https://www.kaggle.com/code/themrityunjaypathak/removing-outlier-from-data-using-modified-zscore)
+
+- [Data Standardization](https://www.kaggle.com/code/themrityunjaypathak/data-standardization)
+
+- [Handling Imbalance Dataset](https://www.kaggle.com/code/themrityunjaypathak/handling-imbalance-datasete)
+
+For more Details → Go to [Feature Engineering](https://github.com/TheMrityunjayPathak/FeatureEngineering) Repository
 
 </details>
 
