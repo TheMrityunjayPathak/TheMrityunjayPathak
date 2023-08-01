@@ -8,7 +8,7 @@
 
 🎙️ Ask me about **Python - SQL - PowerBI - Machine Learning**
 
-📫 Reach me at **themrityunjaypathak@gmail.com**`
+📫 Reach me at **themrityunjaypathak@gmail.com**
 
 <h4 align="left">Connect with me :</h4>
 
@@ -80,7 +80,7 @@ For more Details → Go to [Machine Learning](https://github.com/TheMrityunjayPa
 
 </details>
 
-<h4 align="left">Feature  Notebooks :</h4>
+<h4 align="left">Feature Engineering Notebooks :</h4>
 <details>
 
 <summary>Click Here</summary>
