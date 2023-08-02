@@ -1,24 +1,21 @@
 <h1 align="center">Hi 👋, I'm Mrityunjay Pathak</h1>
 
-### 🌱 I’m currently learning **Data Science**
+### 🌱 I’m currently learning Data Science
 
-### 🗂️ All of my projects are available at **GitHub**
+### 🗂️ All of my projects are available at GitHub
 
-### 📝 I regularly write articles on **LinkedIn**
+### 📝 I regularly write articles on LinkedIn
 
-### 🎙️ Ask me about **Python - SQL - PowerBI - Machine Learning**
-
-### 📫 Reach me at **themrityunjaypathak@gmail.com**
+### 🎙️ Ask me about Python | SQL | PowerBI | Machine Learning
 
 ### Connect with me :
 
-| <a href="https://www.linkedin.com/in/themrityunjaypathak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> | <a href="https://www.kaggle.com/themrityunjaypathak"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"> | <a href="https://www.hackerrank.com/mrityunjaypathak"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"> | <a href="https://linktr.ee/MrityunjayPathak"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"> |
-|:-:|:-:|:-:|:-:|
+ <a href="https://www.linkedin.com/in/themrityunjaypathak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  <a href="https://www.kaggle.com/themrityunjaypathak"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">  <a href="https://www.hackerrank.com/mrityunjaypathak"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">  <a href="https://linktr.ee/MrityunjayPathak"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"> 
+
 
 ### Tools and Libraries :
 
-| [Python](https://www.python.org/) | [NumPy](https://numpy.org/) | [Pandas](https://pandas.pydata.org/) | [Matplotlib](https://matplotlib.org/) | [Seaborn](https://seaborn.pydata.org/) | [Sklearn](https://scikit-learn.org/stable/) | [SQL](https://www.mysql.com/) | [PowerBI](https://powerbi.microsoft.com/en-in/) |  
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></a> <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-matplotlib.svg?style=for-the-badge&logo=matplotlib&logoColor=black"></a> <a href=""><img src="https://img.shields.io/badge/Seaborn-005C84?style=for-the-badge&logo=seaborn&logoColor=white"></a>  <a href="https://scikit-learn.org/stable/"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>  <a href="https://powerbi.microsoft.com/en-in/"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a> 
 
 ### ML and EDA Projects :
 
@@ -101,5 +98,8 @@ For more Details → Go to [Machine Learning](https://github.com/TheMrityunjayPa
 For more Details → Go to [Feature Engineering](https://github.com/TheMrityunjayPathak/FeatureEngineering) Repository
 
 </details>
+
+| Reach me at | <a href="mailto:themrityunjaypathak@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> |
+|:-:|:-:|
 
 <h1 align="center">Thanks for Visiting!</h1>
