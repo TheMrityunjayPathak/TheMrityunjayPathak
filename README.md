@@ -1,8 +1,7 @@
 <h1 align="center">Welcome to My Corner of The Internet!🤖</h1>
 
 ### Hi 👋, I'm Mrityunjay Pathak
-
-### I am a passionate and dedicated data scientist with a drive to solve business problems using data-driven insights. I am eager to apply my skills and contribute to real-world data science projects.
+### I am a passionate and dedicated data scientist with a drive to solve business problems using data-driven insights.
 
 ### 🗂️ GitHub Repository : 
 | You can find all of my Projects and Data Science Notebooks on my GitHub Profile. It's a hub for my Data Science knowledge, where I showcase my work, experience, and contributions to various Data Science Projects. |
