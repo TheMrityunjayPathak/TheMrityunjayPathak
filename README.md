@@ -5,7 +5,7 @@
 #### I am a passionate and dedicated data scientist with a drive to solve business problems using data-driven insights.
 
 ### 🗂️ GitHub Repository
-#### You can find all of my Projects and Data Science Notebooks on my GitHub Profile.<br>It's hub for my Data Science knowledge, where I showcase my work and contributions to various Data Science Projects.
+#### You can find all of my Projects and Data Science Notebooks on my GitHub Profile.<br>It's a hub for my Data Science knowledge, where I showcase my work and contributions to various Data Science Projects.
 
 ### 📝 LinkedIn Articles
 #### I believe in the power of knowledge-sharing and strive to contribute to the Data Science Community.<br>So, regularly I share articles, insights, and tutorials on LinkedIn, aiming to help others learn and grow in the field of Data.
