@@ -1,25 +1,20 @@
 <h1 align="center">Welcome to My Corner of The Internet!🤖</h1>
 
-### Hi 👋, I'm Mrityunjay Pathak
+#### Hi 👋, I'm Mrityunjay Pathak
 
-| I am a passionate and dedicated data scientist with a drive to solve business problems using data-driven insights. I am eager to apply my skills and contribute to real-world data science projects. |
-|-|
+#### I am a passionate and dedicated data scientist with a drive to solve business problems using data-driven insights.
 
-### 🗂️ GitHub Repository : 
-| You can find all of my Projects and Data Science Notebooks on my GitHub Profile. It's a hub for my Data Science knowledge, where I showcase my work, experience, and contributions to various Data Science Projects. |
-|-|
+### 🗂️ GitHub Repository
+#### You can find all of my Projects and Data Science Notebooks on my GitHub Profile.<br>It's hub for my Data Science knowledge, where I showcase my work and contributions to various Data Science Projects.
 
-### 📝 LinkedIn Articles :
-| I believe in the power of knowledge-sharing and strive to contribute to the Data Science Community. Regularly, I share articles, insights, and tutorials on LinkedIn, aiming to help others learn and grow in the field of Data. |
-|-|
+### 📝 LinkedIn Articles
+#### I believe in the power of knowledge-sharing and strive to contribute to the Data Science Community.<br>So, regularly I share articles, insights, and tutorials on LinkedIn, aiming to help others learn and grow in the field of Data.
 
-### 🎙️ Expertise :
-| If you have any questions or need assistance with Python, SQL, PowerBI, or Machine Learning, I am here to help! I have hands-on experience with these powerful tools and techniques and would love to share my knowledge with you. |
-|-|
+### 🎙️ Expertise
+#### If you have any questions or need assistance with Python, SQL, PowerBI, or Machine Learning, I am here to help!<br>I have hands-on experience with these powerful tools and techniques and would love to share my knowledge with you.
 
-### 📫 Contact :
-| Whether you want to discuss a potential collaboration, have a data-related challenge, or simply want to connect, feel free to reach out to me at themrityunjaypathak@gmail.com. |
-|-|
+### 📫 Contact
+#### Whether you want to discuss about a project, have a data-related challenge, or simply want to connect.<br>Feel free to reach out to me at themrityunjaypathak@gmail.com.
 
 ### 🌏 Connect with me :
 
