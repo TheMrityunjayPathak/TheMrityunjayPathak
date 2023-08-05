@@ -117,7 +117,7 @@ For more Details → Go to [Feature Engineering](https://github.com/TheMrityunja
 
 ### 🏆 Acheivements :
 
-| Kaggle Expert | 3 ⭐ Python HackerRank | 3 ⭐ SQL HackerRank |
+| Kaggle Expert | 4 ⭐ Python HackerRank | 3 ⭐ SQL HackerRank |
 |-|-|-|
 
 <h1 align="center">Thanks for Visiting!</h1>
