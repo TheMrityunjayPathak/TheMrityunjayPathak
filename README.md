@@ -6,19 +6,19 @@
 
 ### 🗂️ GitHub Repository
 - #### You can find all of my Projects and Data Science Notebooks on my GitHub Profile.<br>
-- It's a hub for my Data Science knowledge, where I showcase my work and contributions to various Data Science Projects.
+- #### It's a hub for my Data Science knowledge, where I showcase my work and contributions to various Data Science Projects.
 
 ### 📝 LinkedIn Articles
 - #### I believe in the power of knowledge-sharing and strive to contribute to the Data Science Community.<br>
-- So, regularly I share articles and tutorials on LinkedIn, aiming to help others learn and grow in the field of Data Science.
+- #### So, regularly I share articles and tutorials on LinkedIn, aiming to help others learn and grow in the field of Data Science.
 
 ### 🎙️ Expertise
 - #### If you have any questions or need assistance with Python, SQL, PowerBI, or Machine Learning, I am here to help!<br>
-- I have hands-on experience with these powerful tools and techniques and would love to share my knowledge with you.
+- #### I have hands-on experience with these powerful tools and techniques and would love to share my knowledge with you.
 
 ### 📫 Contact
 - #### Whether you want to discuss about a project, have a data-related challenge, or simply want to connect.<br>
-- Feel free to reach out to me at themrityunjaypathak@gmail.com.
+- #### Feel free to reach out to me at themrityunjaypathak@gmail.com.
 
 ### 🌏 Connect with Me :
 
