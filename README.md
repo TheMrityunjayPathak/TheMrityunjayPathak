@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to My Corner of The Internet!🤖</h1>
 
-#### Hi 👋, I'm Mrityunjay Pathak
+### Hi 👋, I'm Mrityunjay Pathak
 
 #### I am a passionate and dedicated data scientist with a drive to solve business problems using data-driven insights.
 
@@ -119,5 +119,6 @@ For more Details → Go to [Feature Engineering](https://github.com/TheMrityunja
 
 | Kaggle Expert | 4 ⭐ Python HackerRank | 4 ⭐ SQL HackerRank |
 |-|-|-|
+| <div style="display: inline-block; border: 1px solid #ccc; padding: 10px;"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/a469b810-d1d3-4e3a-a859-55772e568866"></div> | <div style="display: inline-block; border: 1px solid #ccc; padding: 10px;"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/9fddc3b0-910c-43b2-8ae0-020f594c27d1"></div> | <div style="display: inline-block; border: 1px solid #ccc; padding: 10px;"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/1c5f1c29-5ff9-4405-b565-36d88c6c0435"></div> |
 
 <h1 align="center">Thanks for Visiting!</h1>
