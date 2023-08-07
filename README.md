@@ -5,18 +5,22 @@
 #### I am a passionate and dedicated data scientist with a drive to solve business problems using data-driven insights.
 
 ### 🗂️ GitHub Repository
-#### You can find all of my Projects and Data Science Notebooks on my GitHub Profile.<br>It's a hub for my Data Science knowledge, where I showcase my work and contributions to various Data Science Projects.
+- #### You can find all of my Projects and Data Science Notebooks on my GitHub Profile.<br>
+- It's a hub for my Data Science knowledge, where I showcase my work and contributions to various Data Science Projects.
 
 ### 📝 LinkedIn Articles
-#### I believe in the power of knowledge-sharing and strive to contribute to the Data Science Community.<br>So, regularly I share articles, insights, and tutorials on LinkedIn, aiming to help others learn and grow in the field of Data.
+- #### I believe in the power of knowledge-sharing and strive to contribute to the Data Science Community.<br>
+- So, regularly I share articles and tutorials on LinkedIn, aiming to help others learn and grow in the field of Data Science.
 
 ### 🎙️ Expertise
-#### If you have any questions or need assistance with Python, SQL, PowerBI, or Machine Learning, I am here to help!<br>I have hands-on experience with these powerful tools and techniques and would love to share my knowledge with you.
+- #### If you have any questions or need assistance with Python, SQL, PowerBI, or Machine Learning, I am here to help!<br>
+- I have hands-on experience with these powerful tools and techniques and would love to share my knowledge with you.
 
 ### 📫 Contact
-#### Whether you want to discuss about a project, have a data-related challenge, or simply want to connect.<br>Feel free to reach out to me at themrityunjaypathak@gmail.com.
+- #### Whether you want to discuss about a project, have a data-related challenge, or simply want to connect.<br>
+- Feel free to reach out to me at themrityunjaypathak@gmail.com.
 
-### 🌏 Connect with me :
+### 🌏 Connect with Me :
 
 <a href="https://www.linkedin.com/in/themrityunjaypathak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   <a href="https://www.kaggle.com/themrityunjaypathak"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>   <a href="https://www.hackerrank.com/mrityunjaypathak"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>   <a href="https://linktr.ee/MrityunjayPathak"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
 
@@ -57,7 +61,7 @@
 
 - [Matplotlib](https://www.kaggle.com/code/themrityunjaypathak/matplotlib-tutorial)
 
-For more Details → Go to [Data Science](https://github.com/TheMrityunjayPathak/DataScience) Repository
+#### For more Details → Go to [Data Science](https://github.com/TheMrityunjayPathak/DataScience) Repository
 
 </details>
 
@@ -90,7 +94,7 @@ For more Details → Go to [Data Science](https://github.com/TheMrityunjayPathak
 
 - [Saving Model to a File](https://www.kaggle.com/code/themrityunjaypathak/saving-model-to-a-file)
 
-For more Details → Go to [Machine Learning](https://github.com/TheMrityunjayPathak/MachineLearning) Repository
+#### For more Details → Go to [Machine Learning](https://github.com/TheMrityunjayPathak/MachineLearning) Repository
 
 </details>
 
@@ -111,14 +115,13 @@ For more Details → Go to [Machine Learning](https://github.com/TheMrityunjayPa
 
 - [Handling Imbalance Dataset](https://www.kaggle.com/code/themrityunjaypathak/handling-imbalance-datasete)
 
-For more Details → Go to [Feature Engineering](https://github.com/TheMrityunjayPathak/FeatureEngineering) Repository
+#### For more Details → Go to [Feature Engineering](https://github.com/TheMrityunjayPathak/FeatureEngineering) Repository
 
 </details>
 
 ### 🏆 Acheivements :
 
-| Kaggle Expert | 4 ⭐ Python HackerRank | 4 ⭐ SQL HackerRank |
+| Kaggle Expert ⚛️ | 5 ⭐ Python HackerRank | 4 ⭐ SQL HackerRank |
 |-|-|-|
-| <div style="display: inline-block; border: 1px solid #ccc; padding: 10px;"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/a469b810-d1d3-4e3a-a859-55772e568866"></div> | <div style="display: inline-block; border: 1px solid #ccc; padding: 10px;"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/9fddc3b0-910c-43b2-8ae0-020f594c27d1"></div> | <div style="display: inline-block; border: 1px solid #ccc; padding: 10px;"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/1c5f1c29-5ff9-4405-b565-36d88c6c0435"></div> |
 
 <h1 align="center">Thanks for Visiting!</h1>
