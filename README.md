@@ -42,8 +42,8 @@
 <details>
  
 <summary>Click Here to view Dashboards</summary>
- 
-| <div style="display: inline-block; border: 1px solid #ccc; padding: 10px;"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/cbfe777f-fbab-4a12-ad47-c7714a782f7a"></div> | <div style="display: inline-block; border: 1px solid #ccc; padding: 10px;"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/d73fba66-edff-483f-bc46-a20ffa36052c"></div> | <div style="display: inline-block; border: 1px solid #ccc; padding: 10px;"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/b9d744b1-899d-47d9-bf7b-5c4198edaa4f"></div> | <div style="display: inline-block; border: 1px solid #ccc; padding: 10px;"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/3e37f5f2-3933-4beb-9c13-75e7a2028376"></div> |
+
+| <div style="display: inline-block; border: 1px solid #ccc; padding: 10px;"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/3fe92d9f-b9ef-43cb-b045-331031b7111d"></div> | <div style="display: inline-block; border: 1px solid #ccc; padding: 10px;"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/94f047ac-49e3-4641-875b-a4ae353a0dfd"></div> | <div style="display: inline-block; border: 1px solid #ccc; padding: 10px;"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/387068b7-5785-4bbc-8dc3-c0e94b823644"></div> | <div style="display: inline-block; border: 1px solid #ccc; padding: 10px;"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/7d5b72f2-0bf6-440c-93e4-d03281a74be4"></div> |
 |:-:|:-:|:-:|:-:|
 |[Retail Store Sales Dashboard](https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard)|[Finance Report Dashboard](https://github.com/TheMrityunjayPathak/FinanceReportDashboard)|[Covid Pandemic Analysis](https://github.com/TheMrityunjayPathak/CovidPandemicAnalysis)|[India Population Analysis](https://github.com/TheMrityunjayPathak/IndiaPopulationAnalysis)|
 </details>
