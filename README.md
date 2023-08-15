@@ -119,7 +119,7 @@
 
 </details>
 
-### 🏆 Acheivements :
+### 🏆 Achievement :
 
 | Kaggle Expert ⚛️ | 5 ⭐ Python HackerRank | 4 ⭐ SQL HackerRank |
 |-|-|-|
