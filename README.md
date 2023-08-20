@@ -22,15 +22,25 @@
 
 ### 🌏 Connect with Me :
 
-<a href="https://www.linkedin.com/in/themrityunjaypathak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   <a href="https://www.kaggle.com/themrityunjaypathak"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>   <a href="https://www.hackerrank.com/mrityunjaypathak"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>   <a href="https://linktr.ee/MrityunjayPathak"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
+> <a href="https://www.linkedin.com/in/themrityunjaypathak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;<a href="https://www.kaggle.com/themrityunjaypathak"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a> &nbsp;<a href="https://www.hackerrank.com/mrityunjaypathak"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a> &nbsp;<a href="https://linktr.ee/MrityunjayPathak"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
 
 ### 🛠️ Tools and Libraries :
 
-|<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a> | <a href="https://numpy.org/"><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a> | <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></a> | <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-matplotlib.svg?style=for-the-badge&logo=matplotlib&logoColor=black"></a> |
-|-|-|-|-|
+### Programming Language
+> <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a> 
 
-| <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/Seaborn-005C84?style=for-the-badge&logo=seaborn&logoColor=white"></a> | <a href="https://scikit-learn.org/stable/"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a> |<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a> | <a href="https://powerbi.microsoft.com/en-in/"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a> |
-|-|-|-|-|
+### Libraries
+> <a href="https://numpy.org/"><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>&nbsp;
+> <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></a>&nbsp;
+> <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-matplotlib.svg?style=for-the-badge&logo=matplotlib&logoColor=black"></a>&nbsp;
+> <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/Seaborn-005C84?style=for-the-badge&logo=seaborn&logoColor=white"></a>&nbsp;
+> <a href="https://scikit-learn.org/stable/"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>&nbsp;
+
+### Database
+> <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
+
+### BI Tool
+> <a href="https://powerbi.microsoft.com/en-in/"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>
 
 ### 🗃️ ML and EDA Projects :
 
@@ -41,7 +51,7 @@
 
 <details>
  
-<summary>Click Here to view Dashboards</summary>
+<summary>Click Here to view Dashboards</summary><br>
 
 | <div style="display: inline-block; border: 1px solid #ccc; padding: 10px;"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/3fe92d9f-b9ef-43cb-b045-331031b7111d"></div> | <div style="display: inline-block; border: 1px solid #ccc; padding: 10px;"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/94f047ac-49e3-4641-875b-a4ae353a0dfd"></div> | <div style="display: inline-block; border: 1px solid #ccc; padding: 10px;"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/387068b7-5785-4bbc-8dc3-c0e94b823644"></div> | <div style="display: inline-block; border: 1px solid #ccc; padding: 10px;"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/7d5b72f2-0bf6-440c-93e4-d03281a74be4"></div> |
 |:-:|:-:|:-:|:-:|
