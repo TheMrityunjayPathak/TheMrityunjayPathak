@@ -11,8 +11,6 @@
 
 #### I am a passionate and dedicated data scientist with a drive to solve business problems using data-driven insights.
 
-<img align="right" src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/4eef0e12-204e-4f2a-aba2-fc7c2c398f9a">
-
 ### 🗂️ GitHub Repository
 - #### You can find all of my Projects and Data Science Notebooks on my GitHub Profile.<br>
 - #### It's a hub for my Data Science knowledge, where I showcase my work and contributions to various Data Science Projects.
