@@ -1,5 +1,12 @@
 <h1 align="center"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/59799573-560d-4675-8731-5abf99423bd6" height="30" width="30"> Welcome to My Corner of The Internet! <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/59799573-560d-4675-8731-5abf99423bd6" height="30" width="30"></h1>
 
+<h3 align="center">Profile Visits!</h3>
+<a align="center" href="https://profile-counter.glitch.me/{TheMrityunjayPathak}/count.svg">
+ 
+![VisitorCount](https://profile-counter.glitch.me/{TheMrityunjayPathak}/count.svg)  
+
+</a>
+
 ### Hi 👋, I'm Mrityunjay Pathak
 
 #### I am a passionate and dedicated data scientist with a drive to solve business problems using data-driven insights.
