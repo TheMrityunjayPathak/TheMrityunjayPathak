@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to My Corner of The Internet!🤖</h1>
+<h1 align="center"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/59799573-560d-4675-8731-5abf99423bd6" height="30" width="30"> Welcome to My Corner of The Internet! <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/59799573-560d-4675-8731-5abf99423bd6" height="30" width="30"></h1>
 
 ### Hi 👋, I'm Mrityunjay Pathak
 
