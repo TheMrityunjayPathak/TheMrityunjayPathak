@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/59799573-560d-4675-8731-5abf99423bd6" height="30" width="30"> Welcome to My Corner of The Internet! <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/59799573-560d-4675-8731-5abf99423bd6" height="30" width="30"></h1>
 
-<h3 align="center">Profile Visits!</h3>
+### <h3 align="center">Profile Visits!</h3>
 <a align="center" href="https://profile-counter.glitch.me/{TheMrityunjayPathak}/count.svg">
  
 ![VisitorCount](https://profile-counter.glitch.me/{TheMrityunjayPathak}/count.svg)  
@@ -29,25 +29,25 @@
 
 ### 🌏 Connect with Me :
 
-> <a href="https://www.linkedin.com/in/themrityunjaypathak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;<a href="https://www.kaggle.com/themrityunjaypathak"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a> &nbsp;<a href="https://www.hackerrank.com/mrityunjaypathak"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a> &nbsp;<a href="https://linktr.ee/MrityunjayPathak"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/themrityunjaypathak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;<a href="https://www.kaggle.com/themrityunjaypathak"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a> &nbsp;<a href="https://www.hackerrank.com/mrityunjaypathak"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a> &nbsp;<a href="https://linktr.ee/MrityunjayPathak"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
 
 ### 🛠️ Tools and Libraries :
 
 ### Programming Language
-> <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a> 
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a> 
 
 ### Libraries
-> <a href="https://numpy.org/"><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>&nbsp;
-> <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></a>&nbsp;
-> <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-matplotlib.svg?style=for-the-badge&logo=matplotlib&logoColor=black"></a>&nbsp;
-> <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/Seaborn-005C84?style=for-the-badge&logo=seaborn&logoColor=white"></a>&nbsp;
-> <a href="https://scikit-learn.org/stable/"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>&nbsp;
+<a href="https://numpy.org/"><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>&nbsp;
+<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></a>&nbsp;
+<a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-matplotlib.svg?style=for-the-badge&logo=matplotlib&logoColor=black"></a>&nbsp;
+<a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/Seaborn-005C84?style=for-the-badge&logo=seaborn&logoColor=white"></a>&nbsp;
+<a href="https://scikit-learn.org/stable/"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>&nbsp;
 
 ### Database
-> <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
 
 ### BI Tool
-> <a href="https://powerbi.microsoft.com/en-in/"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>
+<a href="https://powerbi.microsoft.com/en-in/"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>
 
 ### 🗃️ ML and EDA Projects :
 
@@ -56,14 +56,38 @@
 
 ### 📊 PowerBI Projects :
 
-<details>
+<p align="left">
+<a href="https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard" title="Retail Store Sales Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/7fa2ca1a-80f4-4a88-a2df-8e57ba087ea3" alt="Retail Store Sales Dashboard" width="300px" align="left"/></a>
+<a href="https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard" title="Retail Store Sales Dashboard"><strong>Retail Store Sales Dashboard</strong></a>
  
-<summary>Click Here to view Dashboards</summary><br>
+<strong>Tool Used : PowerBI  |  Dataset : [Retail Store Sales Dataset](https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard/tree/main/Dataset)</strong>
 
-| <div style="display: inline-block; border: 1px solid #ccc; padding: 10px;"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/3fe92d9f-b9ef-43cb-b045-331031b7111d"></div> | <div style="display: inline-block; border: 1px solid #ccc; padding: 10px;"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/94f047ac-49e3-4641-875b-a4ae353a0dfd"></div> | <div style="display: inline-block; border: 1px solid #ccc; padding: 10px;"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/387068b7-5785-4bbc-8dc3-c0e94b823644"></div> | <div style="display: inline-block; border: 1px solid #ccc; padding: 10px;"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/7d5b72f2-0bf6-440c-93e4-d03281a74be4"></div> |
-|:-:|:-:|:-:|:-:|
-|[Retail Store Sales Dashboard](https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard)|[Finance Report Dashboard](https://github.com/TheMrityunjayPathak/FinanceReportDashboard)|[Covid Pandemic Analysis](https://github.com/TheMrityunjayPathak/CovidPandemicAnalysis)|[India Population Analysis](https://github.com/TheMrityunjayPathak/IndiaPopulationAnalysis)|
-</details>
+The aim of this Power BI Dashboard Project is to design a Retail Store Report that provides a clear overview of the Store's Sales performance, enabling the owner to gain actionable insights.</p><br>
+
+<p align="left">
+<a href="https://github.com/TheMrityunjayPathak/FinanceReportDashboard" title="Finance Report Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/3dfcd350-0603-4046-84a7-d72981d8eb74" alt="Finance Report Dashboard" width="300px" align="left"/></a>
+<a href="https://github.com/TheMrityunjayPathak/FinanceReportDashboard" title="Finance Report Dashboard"><strong>Finance Report Dashboard</strong></a>
+
+<strong>Tool Used : PowerBI  |  Dataset : [Finance Report Dataset](https://github.com/TheMrityunjayPathak/FinanceReportDashboard/blob/main/financial_data.csv)
+</strong>
+
+The Project aims to create a visually appealing dashboard that provides a overview of the company's financial metrics, enabling stakeholders to make informed business decisions.</p><br>
+
+<p align="left">
+<a href="https://github.com/TheMrityunjayPathak/CovidPandemicAnalysis" title="Covid Pandemic Analysis"><img src="https://github.com/TheMrityunjayPathak/CovidPandemicAnalysis/assets/123563634/deecdf9c-759c-43e7-bd21-536a8c046148" alt="Covid Pandemic Analysis" width="300px" align="left"/></a>
+<a href="https://github.com/TheMrityunjayPathak/CovidPandemicAnalysis" title="Covid Pandemic Analysis"><strong>Covid Pandemic Analysis</strong></a>
+
+<strong>Tool Used : PowerBI  |  Dataset : [Covid Pandemic Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/covid-cases-and-deaths-worldwide)</strong>
+
+The objective of this Power BI Dashboard Project is to create a comprehensive and interactive COVID-19 report that provides meaningful insights and analysis of the pandemic's impact.</p><br>
+
+<p align="left">
+<a href="https://github.com/TheMrityunjayPathak/IndiaPopulationAnalysis" title="India Population Analysis"><img src="https://github.com/TheMrityunjayPathak/IndiaPopulationAnalysis/assets/123563634/82451fc0-0216-4a76-807f-6b03d6a70a1b" alt="India Population Analysis" width="300px" align="left"/></a>
+<a href="https://github.com/TheMrityunjayPathak/IndiaPopulationAnalysis" title="India Population Analysis"><strong>India Population Analysis</strong></a>
+ 
+<strong>Tool Used : PowerBI  |  Dataset : [India Population Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/2011-census-of-india)</strong>
+
+The objective is to provide insights and visualizations that help stakeholders understand the population dynamics, trends, and patterns across various demographic factors.</p><br>
 
 ### 📕 Data Science Notebooks :
 <details>
