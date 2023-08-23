@@ -6,7 +6,15 @@
 
 </a>
 
-<div align="center"><h3>Connect with Me</h3>
+### Hi 👋, I'm Mrityunjay Pathak
+
+#### I am a passionate and dedicated data scientist with a drive to solve business problems using data-driven insights.
+
+<details>
+
+<summary>🌏 Connect with Me</summary>&nbsp;
+
+<div align="left">
     <a href="https://www.linkedin.com/in/themrityunjaypathak">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
@@ -16,14 +24,12 @@
     <a href="https://www.hackerrank.com/mrityunjaypathak">
      <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
     </a>
-    <a href="https://linktr.ee/MrityunjayPathak">
-     <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
+     <a href="mailto:themrityunjaypathak@gmail.com">
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
 </div>
 
-### Hi 👋, I'm Mrityunjay Pathak
-
-#### I am a passionate and dedicated data scientist with a drive to solve business problems using data-driven insights.
+</details>
 
 ### 🗂️ GitHub Repository
 - #### You can find all of my Projects and Data Science Notebooks on my GitHub Profile.<br>
