@@ -10,25 +10,6 @@
 
 #### I am a passionate and dedicated data scientist with a drive to solve business problems using data-driven insights.
 
-<details>
-
-<summary><strong>🌏 Connect with Me</strong></summary>&nbsp;
-
-<div align="left">
-    <a href="https://www.linkedin.com/in/themrityunjaypathak">
-     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://www.kaggle.com/themrityunjaypathak">
-     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
-    </a>
-    <a href="https://www.hackerrank.com/mrityunjaypathak">
-     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-    </a>
-     <a href="mailto:themrityunjaypathak@gmail.com">
-     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-</div>
-
 </details>
 
 ### 🗂️ GitHub Repository
@@ -46,6 +27,23 @@
 ### 📫 Contact
 - #### Whether you want to discuss about a project, have a data-related challenge, or simply want to connect.<br>
 - #### Feel free to reach out to me at themrityunjaypathak@gmail.com.
+
+### 🌏 Connect with Me :
+
+<div align="left">
+    <a href="https://www.linkedin.com/in/themrityunjaypathak">
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://www.kaggle.com/themrityunjaypathak">
+     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+    </a>
+    <a href="https://www.hackerrank.com/mrityunjaypathak">
+     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+    </a>
+     <a href="mailto:themrityunjaypathak@gmail.com">
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+</div>
 
 ### 🗃️ ML and EDA Projects :
 
@@ -90,7 +88,7 @@ The objective is to provide insights and visualizations that help stakeholders u
 ### 📕 Data Science Notebooks :
 <details>
 
-<summary>Click Here</summary>
+<summary><strong>Click Here</strong></summary>
 
 - [Python](https://www.kaggle.com/code/themrityunjaypathak/python-tutorial)
 
@@ -107,7 +105,7 @@ The objective is to provide insights and visualizations that help stakeholders u
 ### 📗 Machine Learning Notebooks :
 <details>
 
-<summary>Click Here</summary>
+<summary><strong>Click Here</strong></summary>
 
 - [Linear Regression](https://www.kaggle.com/code/themrityunjaypathak/linearregression)
 
@@ -140,7 +138,7 @@ The objective is to provide insights and visualizations that help stakeholders u
 ### 📘 Feature Engineering Notebooks :
 <details>
 
-<summary>Click Here</summary>
+<summary><strong>Click Here</strong></summary>
 
 - [Dummy Variable](https://www.kaggle.com/code/themrityunjaypathak/dummy-variable)
 
@@ -161,7 +159,7 @@ The objective is to provide insights and visualizations that help stakeholders u
 ### 📙 SQL Notebooks
 <details>
 
- <summary>Click Here</summary>
+ <summary><strong>Click Here</strong></summary>
 
 - [SQL Basics](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/dacb6d75c46a8d4bafff5e40a9c92656540994c5/SQL%20for%20Data%20Science%20-%201.ipynb)
   
