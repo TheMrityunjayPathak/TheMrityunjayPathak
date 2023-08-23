@@ -6,6 +6,24 @@
 
 </a>
 
+<div align="center">
+    <a href="https://www.linkedin.com/in/themrityunjaypathak">
+        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/c6a213eb-d702-47a7-9bff-47325098d11a" width="4%"/>
+    </a>
+    <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
+    <a href="https://github.com/TheMrityunjayPathak">
+        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/5694bd15-c992-45c4-938e-df64ff50eeaf" width="4%"/>
+    </a>
+    <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
+    <a href="https://www.kaggle.com/themrityunjaypathak">
+        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/b5c394e2-f536-41ee-94ea-30a7c8516dc2" width="4%"/>
+    </a>
+    <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
+    <a href="mailto:themrityunjaypathak@gmail.com">
+        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/653ef677-8b23-4584-89ef-ab70e153d2e2" width="4%"/>
+    </a>
+</div>
+
 ### Hi 👋, I'm Mrityunjay Pathak
 
 #### I am a passionate and dedicated data scientist with a drive to solve business problems using data-driven insights.
