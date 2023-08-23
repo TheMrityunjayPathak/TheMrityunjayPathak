@@ -6,21 +6,18 @@
 
 </a>
 
-<div align="center">
+<div align="center"><h3>Connect with Me</h3>
     <a href="https://www.linkedin.com/in/themrityunjaypathak">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/c6a213eb-d702-47a7-9bff-47325098d11a" width="4%"/>
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
-    <a href="https://github.com/TheMrityunjayPathak">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/5694bd15-c992-45c4-938e-df64ff50eeaf" width="4%"/>
-    </a>
-    <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
     <a href="https://www.kaggle.com/themrityunjaypathak">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/b5c394e2-f536-41ee-94ea-30a7c8516dc2" width="4%"/>
+     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
     </a>
-    <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
-    <a href="mailto:themrityunjaypathak@gmail.com">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/653ef677-8b23-4584-89ef-ab70e153d2e2" width="4%"/>
+    <a href="https://www.hackerrank.com/mrityunjaypathak">
+     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+    </a>
+    <a href="https://linktr.ee/MrityunjayPathak">
+     <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
     </a>
 </div>
 
@@ -43,10 +40,6 @@
 ### 📫 Contact
 - #### Whether you want to discuss about a project, have a data-related challenge, or simply want to connect.<br>
 - #### Feel free to reach out to me at themrityunjaypathak@gmail.com.
-
-### 🌏 Connect with Me :
-
-<a href="https://www.linkedin.com/in/themrityunjaypathak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;<a href="https://www.kaggle.com/themrityunjaypathak"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a> &nbsp;<a href="https://www.hackerrank.com/mrityunjaypathak"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a> &nbsp;<a href="https://linktr.ee/MrityunjayPathak"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
 
 ### 🗃️ ML and EDA Projects :
 
