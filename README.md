@@ -32,6 +32,7 @@
 
 ### 🗃️ ML and EDA Projects :
 
+<div align="left">
 <p align="left">
 <a href="https://github.com/TheMrityunjayPathak/CarPricePrediction">
  <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/e61b6833-1299-4703-ab27-2e7b3bc3675b" width="300px" align="left"/></a>
@@ -60,6 +61,7 @@ The objective of this Project is to predict whether a passenger was transported 
 
 The goal of this EDA is to gain insights into the dataset, understand the relationships between the features, and extract meaningful information that can aid in further analysis or modeling tasks.
 </p><br>
+</div>
 
 ### 📊 PowerBI Projects :
 
