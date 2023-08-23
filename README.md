@@ -12,7 +12,7 @@
 
 <details>
 
-<summary>🌏 Connect with Me</summary>&nbsp;
+<summary><strong>🌏 Connect with Me</strong></summary>&nbsp;
 
 <div align="left">
     <a href="https://www.linkedin.com/in/themrityunjaypathak">
@@ -51,7 +51,6 @@
 
 | [Car Price Prediction](https://github.com/TheMrityunjayPathak/CarPricePrediction) | [EDA on IRIS Dataset](https://github.com/TheMrityunjayPathak/ExploratoryDataAnalysis) | [Spaceship Titanic Classification](https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification) |
 |-|-|-|
-| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/e61b6833-1299-4703-ab27-2e7b3bc3675b" width="300px" align="center"/> |  <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/09ec804f-f0f9-4b3a-874f-858d9da85de0" width="300px" align="center"/> | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/e61b6833-1299-4703-ab27-2e7b3bc3675b" width="300px" align="center"/> |
 
 ### 📊 PowerBI Projects :
 
