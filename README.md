@@ -33,7 +33,8 @@
 ### 🗃️ ML and EDA Projects :
 
 <p align="left">
-<a href="https://github.com/TheMrityunjayPathak/CarPricePrediction" title="Car Price Prediction"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/e61b6833-1299-4703-ab27-2e7b3bc3675b" width="300px" align="left"/></a>
+<a href="https://github.com/TheMrityunjayPathak/CarPricePrediction">
+ <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/e61b6833-1299-4703-ab27-2e7b3bc3675b" width="300px" align="left"/></a>
 <a href="https://github.com/TheMrityunjayPathak/CarPricePrediction"><strong>Car Price Prediction</strong></a>
  
 <strong>Algorithm Used : Regression</strong>
@@ -41,9 +42,9 @@
 The objective of this Project is to develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.
 </p><br>
 
-
 <p align="left">
-<a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification" title="Spaceship Titanic Classification"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/e61b6833-1299-4703-ab27-2e7b3bc3675b" width="300px" align="left"/></a>
+<a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification">
+ <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/e61b6833-1299-4703-ab27-2e7b3bc3675b" width="300px" align="left"/></a>
 <a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification"><strong>Spaceship Titanic Classification</strong></a>
  
 <strong>Algorithm Used : Classification</strong>
@@ -51,10 +52,9 @@ The objective of this Project is to develop a Machine Learning Model that can ac
 The objective of this Project is to predict whether a passenger was transported to an alternate dimension during the spacetime anomaly.
 </p><br>
 
-
 <p align="left">
-<a href="https://github.com/TheMrityunjayPathak/ExploratoryDataAnalysis" title="Exploratory Data Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/09ec804f-f0f9-4b3a-874f-858d9da85de0" width="300px" align="left"/></a>
-<a href="https://github.com/TheMrityunjayPathak/ExploratoryDataAnalysis" title="Exploratory Data Analysis"><strong>EDA on IRIS Dataset</strong></a>
+<a href="https://github.com/TheMrityunjayPathak/ExploratoryDataAnalysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/09ec804f-f0f9-4b3a-874f-858d9da85de0" width="300px" align="left"/></a>
+<a href="https://github.com/TheMrityunjayPathak/ExploratoryDataAnalysis"><strong>EDA on IRIS Dataset</strong></a>
 
 <strong>Libraries Used : Matplotlib / Seaborn</strong>
 
