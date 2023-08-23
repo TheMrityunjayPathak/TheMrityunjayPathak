@@ -47,7 +47,7 @@ The objective of this Project is to develop a Machine Learning Model that can ac
  
 <strong>Algorithm Used : Classification</strong>
 
-The objective of this Project is to predict whether a passenger was transported to an alternate dimension during the Spaceship Titanic's collision with the spacetime anomaly.
+The objective of this Project is to predict whether a passenger was transported to an alternate dimension during the Spaceship collision with the spacetime anomaly.
 </p><br>
 
 <p align="left">
