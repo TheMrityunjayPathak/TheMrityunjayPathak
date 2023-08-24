@@ -26,23 +26,22 @@
     <a href="https://www.kaggle.com/themrityunjaypathak">
         <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/kaggle.png" width="4%"/>
     </a>
-    <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
+    <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/transparent.png" width="3%"/>
     <a href="https://www.linkedin.com/in/themrityunjaypathak">
         <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/linkedin.png" width="4%"/>
     </a>
-    <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
+    <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/transparent.png" width="3%"/>
     <a href="https://github.com/TheMrityunjayPathak">
         <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/github.png" width="4%"/>
     </a>
-    <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
+    <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/transparent.png" width="3%"/>
     <a href="https://www.hackerrank.com/mrityunjaypathak">
         <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/hackerrank.png" width="4%"/>
     </a>
-    <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
+    <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/transparent.png" width="3%"/>
     <a href="#">
         <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/website.png" width="4%" />
     </a>
-    <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
 </div>
 
 ### 🗃️ ML and EDA Projects :
