@@ -1,11 +1,5 @@
 <h1 align="center"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/59799573-560d-4675-8731-5abf99423bd6" height="30" width="30"> Welcome to My Corner of The Internet! <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/59799573-560d-4675-8731-5abf99423bd6" height="30" width="30"></h1>
 
-<a align="right" href="https://profile-counter.glitch.me/{TheMrityunjayPathak}/count.svg">
- 
-![VisitorCount](https://profile-counter.glitch.me/{TheMrityunjayPathak}/count.svg)  
-
-</a>
-
 ### Hi 👋, I'm Mrityunjay Pathak
 
 #### I am a passionate and dedicated data scientist with a drive to solve business problems using data-driven insights.
@@ -46,21 +40,23 @@
 
 <p align="left">
 <a href="https://github.com/TheMrityunjayPathak/CarPricePrediction" title="Car Price Prediction"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/f6532f64-94f1-4fdd-9cc2-6c63be44cce0" alt="Retail Store Sales Dashboard" width="300px" align="left"/></a>
-<a href="https://github.com/TheMrityunjayPathak/CarPricePrediction" title="Car Price Prediction"><strong>Car Price Prediction</strong></a>
+<a href="https://www.kaggle.com/code/themrityunjaypathak/car-price-prediction-using-linear-regression" title="Car Price Prediction"><strong>Car Price Prediction</strong></a>
  
 <strong>Algorithm Used : Regression</strong>
 
 The objective of this Project is to develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</p><br>
+
 <p align="left">
 <a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification" title="Spaceship Titanic Classification"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/f6532f64-94f1-4fdd-9cc2-6c63be44cce0" alt="Spaceship Titanic Classification" width="300px" align="left"/></a>
-<a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification" title="Spaceship Titanic Classification"><strong>Spaceship Titanic Classification</strong></a>
+<a href="https://www.kaggle.com/code/themrityunjaypathak/spaceship-titanic-classification" title="Spaceship Titanic Classification"><strong>Spaceship Titanic Classification</strong></a>
  
 <strong>Algorithm Used : Classification</strong>
 
 The objective of this Project is to predict whether a passenger was transported to an alternate dimension during the Spaceship collision with the spacetime anomaly.</p><br>
+
 <p align="left">
 <a href="https://github.com/TheMrityunjayPathak/ExploratoryDataAnalysis" title="EDA on IRIS Dataset"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/f6532f64-94f1-4fdd-9cc2-6c63be44cce0" alt="EDA on IRIS Dataset" width="300px" align="left"/></a>
-<a href="https://github.com/TheMrityunjayPathak/ExploratoryDataAnalysis" title="EDA on IRIS Dataset"><strong>EDA on IRIS Dataset</strong></a>
+<a href="https://www.kaggle.com/code/themrityunjaypathak/exploratory-data-analysis-on-iris-dataset" title="EDA on IRIS Dataset"><strong>EDA on IRIS Dataset</strong></a>
  
 <strong>Libraries Used : Matplotlib / Seaborn</strong>
 
@@ -101,10 +97,16 @@ The objective of this Power BI Dashboard Project is to create a comprehensive an
 
 The objective is to provide insights and visualizations that help stakeholders understand the population dynamics, trends, and patterns across various demographic factors.</p><br>
 
-### 🖼️ Certificates
+### 🎴 Certificates
 
-| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/44b95dbf-97af-4fad-a6cc-4f7bbf25a1fc" width="300px" align="center"/> | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/36e2a0c0-4c35-475f-afbe-4907b9b6e094" width="300px" align="center"/> | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/137d15cd-4dd5-48db-a3fa-bae273e00892" width="300px" align="center"/> | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/eb2a6c48-6785-42f4-8ef9-6774d6f2401f" width="300px" align="center"/> | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/1d00fc2a-39e0-4140-b0dc-510940d7ed6f" width="300px" align="center"/> |
-|-|-|-|-|-|
+| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/44b95dbf-97af-4fad-a6cc-4f7bbf25a1fc" width="300px" align="center"/> | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/36e2a0c0-4c35-475f-afbe-4907b9b6e094" width="300px" align="center"/> |
+|-|-|
+
+| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/137d15cd-4dd5-48db-a3fa-bae273e00892" width="300px" align="center"/> | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/eb2a6c48-6785-42f4-8ef9-6774d6f2401f" width="300px" align="center"/> | 
+|-|-|
+
+| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/1d00fc2a-39e0-4140-b0dc-510940d7ed6f" width="300px" align="center"/> |
+|-|
 
 ### 📕 Data Science Notebooks :
 <details>
