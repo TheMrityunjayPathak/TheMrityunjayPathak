@@ -24,7 +24,7 @@
 
 <div align="center"><h3 align="center">🌏 Connect with Me :</h3>
     <a href="https://www.kaggle.com/themrityunjaypathak">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/kaggle.png" width="4%"/>
+        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/kaggle-icon.png" width="3.5%"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/themrityunjaypathak">
         <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/linkedin.png" width="4%"/>
