@@ -25,28 +25,16 @@
 <div align="center"><h3 align="center">🌏 Connect with Me :</h3>
     <a href="https://www.kaggle.com/themrityunjaypathak">
         <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/kaggle.png" width="4%"/>
-    </a>
-    <a href="">
-    <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/transparent.png" width="3%"/>
-    </a>
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/themrityunjaypathak">
         <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/linkedin.png" width="4%"/>
-    </a>
-    <a href="#">
-    <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/transparent.png" width="3%"/>
-    </a>
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/TheMrityunjayPathak">
         <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/github.png" width="4%"/>
-    </a>
-    <a href="#">
-    <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/transparent.png" width="3%"/>
-    </a>
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.hackerrank.com/mrityunjaypathak">
         <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/hackerrank.png" width="4%"/>
-    </a>
-    <a href="#">
-    <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/transparent.png" width="3%"/>
-    </a>
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="#">
         <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/website.png" width="4%" />
     </a>
