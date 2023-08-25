@@ -103,10 +103,10 @@ The objective is to provide insights and visualizations that help stakeholders u
 
 ### 💼 Certificates :
 
-| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/36e2a0c0-4c35-475f-afbe-4907b9b6e094" width="300px" align="center"/> | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/137d15cd-4dd5-48db-a3fa-bae273e00892" width="300px" align="center"/> | 
+| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/36e2a0c0-4c35-475f-afbe-4907b9b6e094" width="200px" align="center"/> | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/137d15cd-4dd5-48db-a3fa-bae273e00892" width="200px" align="center"/> | 
 |-|-|
 
-| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/eb2a6c48-6785-42f4-8ef9-6774d6f2401f" width="300px" align="center"/> | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/1d00fc2a-39e0-4140-b0dc-510940d7ed6f" width="300px" align="center"/> |
+| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/eb2a6c48-6785-42f4-8ef9-6774d6f2401f" width="200px" align="center"/> | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/1d00fc2a-39e0-4140-b0dc-510940d7ed6f" width="200px" align="center"/> |
 |-|-|
 
 ### 📕 Data Science Notebooks :
