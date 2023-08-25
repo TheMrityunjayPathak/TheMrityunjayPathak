@@ -185,25 +185,26 @@ The objective is to provide insights and visualizations that help stakeholders u
 
  <summary><strong>Click Here</strong></summary>
 
-- [SQL Basics](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/dacb6d75c46a8d4bafff5e40a9c92656540994c5/SQL%20for%20Data%20Science%20-%201.ipynb)
+- [SQL Basics](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/f5c1ed7aeebb56e80c8aa50f6a76a2593a572d46/Notebooks/SQL%20for%20Data%20Science%20-%201.ipynb)
   
-- [SQL Statements](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/main/SQL%20for%20Data%20Science%20-%202.ipynb)
+- [SQL Statements](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/f5c1ed7aeebb56e80c8aa50f6a76a2593a572d46/Notebooks/SQL%20for%20Data%20Science%20-%202.ipynb)
   
-- [LIMIT, DISTINCT, ORDER BY Clause](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/main/SQL%20for%20Data%20Science%20-%203.ipynb)
+- [LIMIT, DISTINCT, ORDER BY Clause](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/f5c1ed7aeebb56e80c8aa50f6a76a2593a572d46/Notebooks/SQL%20for%20Data%20Science%20-%203.ipynb)
   
-- [SQL WHERE Statement](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/main/SQL%20for%20Data%20Science%20-%204.ipynb)
+- [SQL WHERE Statement](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/f5c1ed7aeebb56e80c8aa50f6a76a2593a572d46/Notebooks/SQL%20for%20Data%20Science%20-%204.ipynb)
   
 - [SQL Logical Operators](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/dacb6d75c46a8d4bafff5e40a9c92656540994c5/SQL%20for%20Data%20Science%20-%205.ipynb)
   
-- [SQL Joins](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/main/SQL%20for%20Data%20Science%20-%206.ipynb)
+- [SQL Joins](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/f5c1ed7aeebb56e80c8aa50f6a76a2593a572d46/Notebooks/SQL%20for%20Data%20Science%20-%206.ipynb)
   
-- [SQL Aggregation - 1](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/main/SQL%20for%20Data%20Science%20-%207.ipynb)
+- [SQL Aggregation - 1](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/f5c1ed7aeebb56e80c8aa50f6a76a2593a572d46/Notebooks/SQL%20for%20Data%20Science%20-%207.ipynb)
+  
+- [SQL Aggregation - 2](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/f5c1ed7aeebb56e80c8aa50f6a76a2593a572d46/Notebooks/SQL%20for%20Data%20Science%20-%208.ipynb)
+  
+- [SQL Aggregation - 3](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/f5c1ed7aeebb56e80c8aa50f6a76a2593a572d46/Notebooks/SQL%20for%20Data%20Science%20-%209.ipynb)
+  
+- [SQL Sub-Queries and Window Function](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/f5c1ed7aeebb56e80c8aa50f6a76a2593a572d46/Notebooks/SQL%20for%20Data%20Science%20-%2010.ipynb)
 
-- [SQL Aggregation - 2](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/main/SQL%20for%20Data%20Science%20-%208.ipynb)
-  
-- [SQL Aggregation - 3](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/main/SQL%20for%20Data%20Science%20-%209.ipynb)
-  
-- [SQL Sub-Queries and Window Function](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/main/SQL%20for%20Data%20Science%20-%2010.ipynb)
  
 #### For more Details → Go to [SQL for Data Science](https://github.com/TheMrityunjayPathak/SQLforDataScience) Repository
  
