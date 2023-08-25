@@ -26,7 +26,7 @@
     <a href="https://www.kaggle.com/themrityunjaypathak">
         <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/kaggle.png" width="4%"/>
     </a>
-    <a href="#">
+    <a href="">
     <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/transparent.png" width="3%"/>
     </a>
     <a href="https://www.linkedin.com/in/themrityunjaypathak">
