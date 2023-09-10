@@ -1,6 +1,4 @@
-<h1 align="center"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/59799573-560d-4675-8731-5abf99423bd6" height="30" width="30"> Welcome to My Corner of The Internet! <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/59799573-560d-4675-8731-5abf99423bd6" height="30" width="30"></h1>
-
-### Hi 👋, I'm Mrityunjay Pathak
+<h1 align="center">Hi 👋, I'm Mrityunjay Pathak</h1>
 
 #### I am a passionate and dedicated data scientist with a drive to solve business problems using data-driven insights.
 
