@@ -20,14 +20,6 @@
 - #### Whether you want to discuss about a project, have a data-related challenge, or simply want to connect.<br>
 - #### Feel free to reach out to me at themrityunjaypathak@gmail.com.
 
-<h3 align="center">📋 Skills :</h3>
-
-|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/749de882-b62f-4ab7-9157-afff30f77654" width="100px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/0d3fa5fc-fd72-4b52-aec6-38c5fef54671" width="100px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/1ca8a688-9602-41c6-a6da-9c0b6a28f992" width="100px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/a14d14c8-af2d-4e4b-937b-296408717db6" width="100px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/02102ef8-2bd9-47ee-87ba-935869e765c6" width="100px">|
-|-|-|-|-|-|
-
-|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/069fcad9-5397-4aac-b2ca-a962db7462f9" width="100px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/e8d6ed80-6d8f-47ed-8d36-29ef79630517" width="100px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/18f1adb7-e094-4ec9-96bc-9b7a65a6984a" width="100px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/ba807579-e8c9-4756-9b4e-c9625b7b686a" width="100px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/8b9fb14b-0bb7-4474-b804-a7c45c6bbc6f" width="100px">|
-|-|-|-|-|-|
-
 <div align="center"><h3 align="center">🌏 Connect with Me :</h3>
     <a href="https://www.kaggle.com/themrityunjaypathak">
         <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/kaggle.png" width="4%"/>
@@ -44,6 +36,16 @@
     <a href="#">
         <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/website.png" width="4%" />
     </a>
+</div>
+
+<div align="center"><h3 align="center">📋 Skills :</h3>
+
+|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/749de882-b62f-4ab7-9157-afff30f77654" width="100px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/0d3fa5fc-fd72-4b52-aec6-38c5fef54671" width="100px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/1ca8a688-9602-41c6-a6da-9c0b6a28f992" width="100px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/a14d14c8-af2d-4e4b-937b-296408717db6" width="100px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/02102ef8-2bd9-47ee-87ba-935869e765c6" width="100px">|
+|-|-|-|-|-|
+
+|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/069fcad9-5397-4aac-b2ca-a962db7462f9" width="100px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/e8d6ed80-6d8f-47ed-8d36-29ef79630517" width="100px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/18f1adb7-e094-4ec9-96bc-9b7a65a6984a" width="100px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/ba807579-e8c9-4756-9b4e-c9625b7b686a" width="100px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/8b9fb14b-0bb7-4474-b804-a7c45c6bbc6f" width="100px">|
+|-|-|-|-|-|
+
 </div>
 
 ### 🗃️ ML Projects :
