@@ -104,7 +104,7 @@ The objective is to provide insights and visualizations that help stakeholders u
 | <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/python"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/python-certificate.png" width="200px" align="center"/></a> | <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/pandas"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/pandas-certificate.png" width="200px" align="center"/></a> | 
 |-|-|
 
-| <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/data-visualization"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/data-visualization.png" width="200px" align="center"/> | <a href="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml-certificate.png"><img src="https://www.kaggle.com/learn/certification/themrityunjaypathak/intro-to-machine-learning" width="200px" align="center"/></a> |
+| <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/data-visualization"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/data-visualization.png" width="200px" align="center"/> | <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/intro-to-machine-learning"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml-certificate.png" width="200px" align="center"/></a> |
 |-|-|
 
 ### 📕 Data Science Notebooks :
