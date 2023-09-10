@@ -38,7 +38,7 @@
     </a>
 </div>
 
-### 🗃️ ML and EDA Projects :
+### 🗃️ ML Projects :
 
 <p align="left">
 <a href="https://github.com/TheMrityunjayPathak/CarPricePrediction" title="Car Price Prediction"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/f6532f64-94f1-4fdd-9cc2-6c63be44cce0" alt="Retail Store Sales Dashboard" width="300px" align="left"/></a>
@@ -56,13 +56,6 @@ The objective of this Project is to develop a Machine Learning Model that can ac
 
 The objective of this Project is to predict whether a passenger was transported to an alternate dimension during the Spaceship collision with the spacetime anomaly.</p><br>
 
-<p align="left">
-<a href="https://github.com/TheMrityunjayPathak/ExploratoryDataAnalysis" title="EDA on IRIS Dataset"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/f6532f64-94f1-4fdd-9cc2-6c63be44cce0" alt="EDA on IRIS Dataset" width="300px" align="left"/></a>
-<a href="https://www.kaggle.com/code/themrityunjaypathak/exploratory-data-analysis-on-iris-dataset" title="EDA on IRIS Dataset"><strong>EDA on IRIS Dataset</strong></a>
- 
-<strong>Libraries Used : Matplotlib / Seaborn</strong>
-
-The goal of this EDA is to gain insights into the dataset, understand the relationships between the features, and extract meaningful information that can aid in further analysis or modeling tasks.</p><br>
 
 ### 📊 PowerBI Projects :
 
