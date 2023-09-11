@@ -33,7 +33,7 @@
     <a href="https://www.hackerrank.com/mrityunjaypathak">
         <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/hacker.png" width="6%"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="#">
+    <a href="https://themrityunjaypathak.github.io/">
         <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/website.png" width="4%" />
     </a>
 </div>
