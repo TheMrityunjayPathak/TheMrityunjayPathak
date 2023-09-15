@@ -218,7 +218,7 @@ The objective is to provide insights and visualizations that help stakeholders u
 
 ### 🏆 Achievement :
 
-| Kaggle Expert | 5 ⭐ Python HackerRank | 4 ⭐ SQL HackerRank |
+| 5 ⭐ Python HackerRank | 4 ⭐ SQL HackerRank | Kaggle Expert |
 |-|-|-|
 
 <h1 align="center">Thanks for Visiting!</h1>
