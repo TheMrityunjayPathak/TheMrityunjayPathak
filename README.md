@@ -115,7 +115,9 @@ The objective is to provide insights and visualizations that help stakeholders u
 | <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/data-visualization"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/data-visualization.png" width="200px" align="center"/> | <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/intro-to-machine-learning"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml-certificate.png" width="200px" align="center"/></a> |
 |-|-|
 
-### 📕 Data Science Notebooks :
+### 📒 Notebooks :
+
+### 📕 Data Science
 <details>
 
 <summary><strong>Click Here</strong></summary>
@@ -132,7 +134,7 @@ The objective is to provide insights and visualizations that help stakeholders u
 
 </details>
 
-### 📗 Machine Learning Notebooks :
+### 📗 Machine Learning
 <details>
 
 <summary><strong>Click Here</strong></summary>
@@ -165,7 +167,7 @@ The objective is to provide insights and visualizations that help stakeholders u
 
 </details>
 
-### 📘 Feature Engineering Notebooks :
+### 📘 Feature Engineering
 <details>
 
 <summary><strong>Click Here</strong></summary>
@@ -186,7 +188,7 @@ The objective is to provide insights and visualizations that help stakeholders u
 
 </details>
 
-### 📙 SQL Notebooks :
+### 📙 Structured Query Language
 <details>
 
  <summary><strong>Click Here</strong></summary>
