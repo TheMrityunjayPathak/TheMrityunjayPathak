@@ -5,8 +5,8 @@
 </details>
 
 ### 🗂️ GitHub Repository
-- #### You can find all of my Projects and Data Science Notebooks on my GitHub Profile.<br>
-- #### It's a hub for my Data Science knowledge, where I showcase my work and contributions to various Data Science Projects.
+- #### You can find all of My Projects and Data Science Notebooks on My GitHub Profile.<br>
+- #### It's a hub for My Data Science knowledge, where I showcase My Work and contributions to various Data Science Projects.
 
 ### 📝 LinkedIn Articles
 - #### I believe in the power of knowledge-sharing and strive to contribute to the Data Science Community.<br>
