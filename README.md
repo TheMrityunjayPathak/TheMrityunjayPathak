@@ -42,15 +42,15 @@
 
 |<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/749de882-b62f-4ab7-9157-afff30f77654" width="80px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/0d3fa5fc-fd72-4b52-aec6-38c5fef54671" width="80px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/1ca8a688-9602-41c6-a6da-9c0b6a28f992" width="80px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/a14d14c8-af2d-4e4b-937b-296408717db6" width="80px">|
 |-|-|-|-|
-|<p align="center">Python|<p align="center">NumPy|<p align="center">Pandas|<p align="center">Matplotlib|
+|<p align="center"><strong>Python|<p align="center"><strong>NumPy|<p align="center"><strong>Pandas|<p align="center"><strong>Matplotlib|
 
 |<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/6890f2c1-abb8-4545-a932-a1f3db90a0c9" width="80px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/02102ef8-2bd9-47ee-87ba-935869e765c6" width="80px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/069fcad9-5397-4aac-b2ca-a962db7462f9" width="80px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/e8d6ed80-6d8f-47ed-8d36-29ef79630517" width="80px">|
 |-|-|-|-|
-|<p align="center">Seaborn|<p align="center">Sklearn|<p align="center">MySQL|<p align="center">Power BI|
+|<p align="center"><strong>Seaborn|<p align="center"><strong>Sklearn|<p align="center"><strong>MySQL|<p align="center"><strong>Power BI|
 
 |<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/18f1adb7-e094-4ec9-96bc-9b7a65a6984a" width="80px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/32b1dae7-fcd6-42ea-9d20-bf3c3d08a7d9" width="80px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/ba807579-e8c9-4756-9b4e-c9625b7b686a" width="80px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/8b9fb14b-0bb7-4474-b804-a7c45c6bbc6f" width="80px">|
 |-|-|-|-|
-|<p align="center">Git|<p align="center">AWS|<p align="center">HTML|<p align="center">CSS|
+|<p align="center"><strong>Git|<p align="center"><strong>AWS|<p align="center"><strong>HTML|<p align="center"><strong>CSS|
 </div>
 
 ### 🗃️ ML Projects :
@@ -61,7 +61,7 @@
  
 <strong>Algorithm Used : Regression</strong>
 
-The objective of this Project is to develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</p><br>
+<strong>The objective of this Project is to develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</strong></p><br>
 
 <p align="left">
 <a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification" title="Spaceship Titanic Classification"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/f6532f64-94f1-4fdd-9cc2-6c63be44cce0" alt="Spaceship Titanic Classification" width="300px" align="left"/></a>
@@ -69,7 +69,7 @@ The objective of this Project is to develop a Machine Learning Model that can ac
  
 <strong>Algorithm Used : Classification</strong>
 
-The objective of this Project is to predict whether a passenger was transported to an alternate dimension during the Spaceship collision with the spacetime anomaly.</p><br>
+<strong>The objective of this Project is to predict whether a passenger was transported to an alternate dimension during the Spaceship collision with the spacetime anomaly.</strong></p><br>
 
 
 ### 📊 PowerBI Projects :
@@ -80,7 +80,7 @@ The objective of this Project is to predict whether a passenger was transported 
  
 <strong>Tool Used : PowerBI  |  Dataset : [Retail Store Sales Dataset](https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard/tree/main/Dataset)</strong>
 
-The aim of this Power BI Dashboard Project is to design a Retail Store Report that provides a clear overview of the Store's Sales performance, enabling the owner to gain actionable insights.</p><br>
+<strong>The aim of this Power BI Dashboard Project is to design a Retail Store Report that provides a clear overview of the Store's Sales performance, enabling the owner to gain actionable insights.</strong></p><br>
 
 <p align="left">
 <a href="https://github.com/TheMrityunjayPathak/FinanceReportDashboard" title="Finance Report Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/3dfcd350-0603-4046-84a7-d72981d8eb74" alt="Finance Report Dashboard" width="300px" align="left"/></a>
@@ -89,7 +89,7 @@ The aim of this Power BI Dashboard Project is to design a Retail Store Report th
 <strong>Tool Used : PowerBI  |  Dataset : [Finance Report Dataset](https://github.com/TheMrityunjayPathak/FinanceReportDashboard/blob/main/financial_data.csv)
 </strong>
 
-The Project aims to create a visually appealing dashboard that provides a overview of the company's financial metrics, enabling stakeholders to make informed business decisions.</p><br>
+<strong>The Project aims to create a visually appealing dashboard that provides a overview of the company's financial metrics, enabling stakeholders to make informed business decisions.</strong></p><br>
 
 <p align="left">
 <a href="https://github.com/TheMrityunjayPathak/CovidPandemicAnalysis" title="Covid Pandemic Analysis"><img src="https://github.com/TheMrityunjayPathak/CovidPandemicAnalysis/assets/123563634/deecdf9c-759c-43e7-bd21-536a8c046148" alt="Covid Pandemic Analysis" width="300px" align="left"/></a>
@@ -97,7 +97,7 @@ The Project aims to create a visually appealing dashboard that provides a overvi
 
 <strong>Tool Used : PowerBI  |  Dataset : [Covid Pandemic Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/covid-cases-and-deaths-worldwide)</strong>
 
-The objective of this Power BI Dashboard Project is to create a comprehensive and interactive COVID-19 report that provides meaningful insights and analysis of the pandemic's impact.</p><br>
+<strong>The objective of this Power BI Dashboard Project is to create a comprehensive and interactive COVID-19 report that provides meaningful insights and analysis of the pandemic's impact.</strong></p><br>
 
 <p align="left">
 <a href="https://github.com/TheMrityunjayPathak/IndiaPopulationAnalysis" title="India Population Analysis"><img src="https://github.com/TheMrityunjayPathak/IndiaPopulationAnalysis/assets/123563634/82451fc0-0216-4a76-807f-6b03d6a70a1b" alt="India Population Analysis" width="300px" align="left"/></a>
@@ -105,7 +105,7 @@ The objective of this Power BI Dashboard Project is to create a comprehensive an
  
 <strong>Tool Used : PowerBI  |  Dataset : [India Population Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/2011-census-of-india)</strong>
 
-The objective is to provide insights and visualizations that help stakeholders understand the population dynamics, trends, and patterns across various demographic factors.</p><br>
+<strong>The objective is to provide insights and visualizations that help stakeholders understand the population dynamics, trends, and patterns across various demographic factors.</strong></p><br>
 
 ### 💼 Certificates :
 
