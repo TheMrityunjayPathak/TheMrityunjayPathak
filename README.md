@@ -220,7 +220,7 @@
 
 ### 🏆 Achievement :
 
-| 5 ⭐ Python HackerRank | 4 ⭐ SQL HackerRank | Kaggle Expert |
+| 5 ⭐ Python HackerRank | 5 ⭐ SQL HackerRank | Kaggle Expert |
 |-|-|-|
 
 <h1 align="center">Thanks for Visiting!</h1>
