@@ -23,7 +23,7 @@
 [![Kaggle](https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/kaggle-light.png)](https://www.kaggle.com/themrityunjaypathak#gh-dark-mode-only)
 [![Kaggle](https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/kaggle-dark.png)](https://www.kaggle.com/themrityunjaypathak#gh-light-mode-only)
 &nbsp;&nbsp;
-[![LinkedIn](https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/linkedin-light-small.png)](https://www.linkedin.com/in/themrityunjaypathak#gh-dark-mode-only)
+[![LinkedIn](https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/linkedin-light-.png)](https://www.linkedin.com/in/themrityunjaypathak#gh-dark-mode-only)
 [![LinkedIn](https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/linkedin-dark.png)](https://www.linkedin.com/in/themrityunjaypathak#gh-light-mode-only)
 &nbsp;&nbsp;
 [![GitHub](https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/github-light.png)](https://github.com/TheMrityunjayPathak#gh-dark-mode-only)
