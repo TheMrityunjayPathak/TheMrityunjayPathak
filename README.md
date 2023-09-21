@@ -20,7 +20,8 @@
 
 <div align="center"><h3 align="center">🌏 Connect with Me :</h3>
     <a href="https://www.kaggle.com/themrityunjaypathak">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/kaggle-light.png" width="5%"/>
+        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/kaggle-light.png#gh-dark-mode-only" width="5%"/>
+        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/kaggle-dark.png#gh-light-mode-only" width="5%"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/themrityunjaypathak">
         <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/linkedin-light.png" width="6%"/>
