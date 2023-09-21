@@ -19,22 +19,22 @@
 - #### Feel free to reach out to me at themrityunjaypathak@gmail.com.
 
 <div align="center"><h3 align="center">🌏 Connect with Me :</h3>
-    <a href="https://www.kaggle.com/themrityunjaypathak">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/kaggle-light.png#gh-dark-mode-only" width="5%"/>
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/kaggle-dark.png#gh-light-mode-only" width="5%"/>
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/themrityunjaypathak">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/linkedin-light.png" width="6%"/>
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/TheMrityunjayPathak">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/github-light.png" width="5%"/>
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.hackerrank.com/mrityunjaypathak">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/hacker-light.png" width="6%"/>
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://themrityunjaypathak.github.io/">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/browser-light.png" width="5%" />
-    </a>
+    
+[![Kaggle](https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/kaggle-light.png)](https://www.kaggle.com/themrityunjaypathak#gh-dark-mode-only)
+[![Kaggle](https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/kaggle-dark.png)](https://www.kaggle.com/themrityunjaypathak#gh-light-mode-only)
+&nbsp;&nbsp;
+[![LinkedIn](https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/linkedin-light.png)](https://www.linkedin.com/in/themrityunjaypathak#gh-dark-mode-only)
+[![LinkedIn](https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/linkedin-dark.png)](https://www.linkedin.com/in/themrityunjaypathak#gh-light-mode-only)
+&nbsp;&nbsp;
+[![GitHub](https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/github-light.png)](https://github.com/TheMrityunjayPathak#gh-dark-mode-only)
+[![GitHub](https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/github-dark.png)](https://github.com/TheMrityunjayPathak#gh-light-mode-only)
+&nbsp;&nbsp;
+[![HackerRank](https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/hacker-light.png)](https://www.hackerrank.com/mrityunjaypathak#gh-dark-mode-only)
+[![HackerRank](https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/hacker-dark.png)](https://www.hackerrank.com/mrityunjaypathak#gh-light-mode-only)
+&nbsp;&nbsp;
+[![Website](https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/browser-light.png)](https://themrityunjaypathak.github.io/#gh-dark-mode-only)
+[![Website](https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/browser-dark.png)](https://themrityunjaypathak.github.io/#gh-light-mode-only)
+
 </div>
 
 <div align="center"><h3 align="center">📋 Skills :</h3>
