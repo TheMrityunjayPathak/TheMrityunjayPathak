@@ -1,26 +1,24 @@
-<p align="center"><strong>Hi 👋, I'm Mrityunjay Pathak</strong></p>
+<h1 align="center">Hi 👋, I'm Mrityunjay Pathak</h1>
 
----
+#### I am a passionate and dedicated data scientist with a drive to solve business problems using data-driven insights.
 
-<p>I am a passionate and dedicated data scientist with a drive to solve business problems using data-driven insights.
+### 🗂️ GitHub Repository
+- #### You can find all of My Projects and Data Science Notebooks on My GitHub Profile.
+- #### It's a hub for My Data Science knowledge, where I showcase My Work and contributions to various Data Science Projects.
 
-<strong>🗂️ GitHub Repository</strong>
-- You can find all of My Projects and Data Science Notebooks on My GitHub Profile.
-- It's a hub for My Data Science knowledge, where I showcase My Work and contributions to various Data Science Projects.
+### 📝 LinkedIn Articles
+- #### I believe in the power of knowledge-sharing and strive to contribute to the Data Science Community.
+- #### So, regularly I share articles and tutorials on LinkedIn, aiming to help others learn and grow in the field of Data Science.
 
-<strong>📝 LinkedIn Articles</strong>
-- I believe in the power of knowledge-sharing and strive to contribute to the Data Science Community.
-- So, regularly I share articles and tutorials on LinkedIn, aiming to help others learn and grow in the field of Data Science.
+### 🎙️ Expertise
+- #### If you have any questions or need assistance with Python, SQL, PowerBI, or Machine Learning, I am here to help!
+- #### I have hands-on experience with these powerful tools and techniques and would love to share my knowledge with you.
 
-<strong>🎙️ Expertise</strong>
-- If you have any questions or need assistance with Python, SQL, PowerBI, or Machine Learning, I am here to help!
-- I have hands-on experience with these powerful tools and techniques and would love to share my knowledge with you.
+### 📫 Contact
+- #### Whether you want to discuss about a project, have a data-related challenge, or simply want to connect.
+- #### Feel free to reach out to me at themrityunjaypathak@gmail.com.
 
-<strong>📫 Contact</strong>
-- Whether you want to discuss about a project, have a data-related challenge, or simply want to connect.
-- Feel free to reach out to me at themrityunjaypathak@gmail.com.
-
-<div align="center"><p align="center"><strong>🌏 Connect with Me :</strong></p>
+<div align="center"><h3 align="center">🌏 Connect with Me :</h3>
     <a href="https://www.kaggle.com/themrityunjaypathak">
         <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/kaggle.png" width="4%"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -38,22 +36,22 @@
     </a>
 </div>
 
-<div align="center"><p align="center"><strong>📋 Skills :</strong></p>
+<div align="center"><h3 align="center">📋 Skills :</h3>
 
 |<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/749de882-b62f-4ab7-9157-afff30f77654" width="80px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/0d3fa5fc-fd72-4b52-aec6-38c5fef54671" width="80px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/1ca8a688-9602-41c6-a6da-9c0b6a28f992" width="80px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/a14d14c8-af2d-4e4b-937b-296408717db6" width="80px">|
 |-|-|-|-|
-|<p align="center"><strong>Python</strong></p>|<p align="center"><strong>NumPy</strong></p>|<p align="center"><strong>Pandas</strong></p>|<p align="center"><strong>Matplotlib</strong></p>|
+|<p align="center"><strong>Python|<p align="center"><strong>NumPy|<p align="center"><strong>Pandas|<p align="center"><strong>Matplotlib|
 
 |<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/6890f2c1-abb8-4545-a932-a1f3db90a0c9" width="80px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/02102ef8-2bd9-47ee-87ba-935869e765c6" width="80px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/069fcad9-5397-4aac-b2ca-a962db7462f9" width="80px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/e8d6ed80-6d8f-47ed-8d36-29ef79630517" width="80px">|
 |-|-|-|-|
-|<p align="center"><strong>Seaborn</strong></p>|<p align="center"><strong>Sklearn</strong></p>|<p align="center"><strong>MySQL</strong></p>|<p align="center"><strong>Power BI</strong></p>|
+|<p align="center"><strong>Seaborn|<p align="center"><strong>Sklearn|<p align="center"><strong>MySQL|<p align="center"><strong>Power BI|
 
 |<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/18f1adb7-e094-4ec9-96bc-9b7a65a6984a" width="80px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/32b1dae7-fcd6-42ea-9d20-bf3c3d08a7d9" width="80px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/ba807579-e8c9-4756-9b4e-c9625b7b686a" width="80px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/8b9fb14b-0bb7-4474-b804-a7c45c6bbc6f" width="80px">|
 |-|-|-|-|
-|<p align="center"><strong>Git</strong></p>|<p align="center"><strong>AWS</strong></p>|<p align="center"><strong>HTML</strong></p>|<p align="center"><strong>CSS</strong></p>|
+|<p align="center"><strong>Git|<p align="center"><strong>AWS|<p align="center"><strong>HTML|<p align="center"><strong>CSS|
 </div>
 
-<p><strong>🗃️ ML Projects :</strong></p>
+### 🗃️ ML Projects :
 
 <p align="left">
 <a href="https://github.com/TheMrityunjayPathak/CarPricePrediction" title="Car Price Prediction"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/f6532f64-94f1-4fdd-9cc2-6c63be44cce0" alt="Retail Store Sales Dashboard" width="300px" align="left"/></a>
@@ -72,7 +70,7 @@
 <strong>The objective of this Project is to predict whether a passenger was transported to an alternate dimension during the Spaceship collision with the spacetime anomaly.</strong></p><br>
 
 
-<p><strong>📊 PowerBI Projects :</strong></p>
+### 📊 PowerBI Projects :
 
 <p align="left">
 <a href="https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard" title="Retail Store Sales Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/7fa2ca1a-80f4-4a88-a2df-8e57ba087ea3" alt="Retail Store Sales Dashboard" width="300px" align="left"/></a>
@@ -107,7 +105,7 @@
 
 <strong>The objective is to provide insights and visualizations that help stakeholders understand the population dynamics, trends, and patterns across various demographic factors.</strong></p><br>
 
-<p><strong>💼 Certificates :</strong></p>
+### 💼 Certificates :
 
 | <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/python"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/python-certificate.png" width="200px" align="center"/></a> | <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/pandas"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/pandas-certificate.png" width="200px" align="center"/></a> | 
 |-|-|
@@ -115,9 +113,9 @@
 | <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/data-visualization"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/data-visualization.png" width="200px" align="center"/> | <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/intro-to-machine-learning"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml-certificate.png" width="200px" align="center"/></a> |
 |-|-|
 
-<p><strong>📒 Notebooks :</strong></p>
+### 📒 Notebooks :
 
-<p><strong>📕 Data Science</strong></p>
+### 📕 Data Science
 <details>
 
 <summary><strong>Click Here</strong></summary>
@@ -130,11 +128,11 @@
 
 - [Matplotlib](https://www.kaggle.com/code/themrityunjaypathak/matplotlib-tutorial)
 
-<p><strong>For more Details → Go to [Data Science](https://github.com/TheMrityunjayPathak/DataScience) Repository</strong></p>
+#### For more Details → Go to [Data Science](https://github.com/TheMrityunjayPathak/DataScience) Repository
 
 </details>
 
-<p><strong>📗 Machine Learning</strong></p>
+### 📗 Machine Learning
 <details>
 
 <summary><strong>Click Here</strong></summary>
@@ -163,11 +161,11 @@
 
 - [Saving Model to a File](https://www.kaggle.com/code/themrityunjaypathak/saving-model-to-a-file)
 
-<p><strong>For more Details → Go to [Machine Learning](https://github.com/TheMrityunjayPathak/MachineLearning) Repository</strong></p>
+#### For more Details → Go to [Machine Learning](https://github.com/TheMrityunjayPathak/MachineLearning) Repository
 
 </details>
 
-<p><strong>📘 Feature Engineering</strong></p>
+### 📘 Feature Engineering
 <details>
 
 <summary><strong>Click Here</strong></summary>
@@ -184,11 +182,11 @@
 
 - [Handling Imbalance Dataset](https://www.kaggle.com/code/themrityunjaypathak/handling-imbalance-datasete)
 
-<p><strong>For more Details → Go to [Feature Engineering](https://github.com/TheMrityunjayPathak/FeatureEngineering) Repository</strong></p>
+#### For more Details → Go to [Feature Engineering](https://github.com/TheMrityunjayPathak/FeatureEngineering) Repository
 
 </details>
 
-<p><strong>📙 Structured Query Language</strong></p>
+### 📙 Structured Query Language
 <details>
 
  <summary><strong>Click Here</strong></summary>
@@ -213,16 +211,13 @@
   
 - [SQL Sub-Queries and Window Function](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/f5c1ed7aeebb56e80c8aa50f6a76a2593a572d46/Notebooks/SQL%20for%20Data%20Science%20-%2010.ipynb)
  
-<p><strong>For more Details → Go to [SQL for Data Science](https://github.com/TheMrityunjayPathak/SQLforDataScience) Repository</strong></p>
+#### For more Details → Go to [SQL for Data Science](https://github.com/TheMrityunjayPathak/SQLforDataScience) Repository
  
 </details>
 
-<p><strong>🏆 Achievement :</strong></p>
+### 🏆 Achievement :
 
 | 5 ⭐ Python HackerRank | 5 ⭐ SQL HackerRank | Kaggle Expert |
 |-|-|-|
 
-<p align="center"><strong>Thanks for Visiting!</strong></p>
-
----
-
+<h1 align="center">Thanks for Visiting!</h1>
