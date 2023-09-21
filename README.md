@@ -2,8 +2,6 @@
 
 #### I am a passionate and dedicated data scientist with a drive to solve business problems using data-driven insights.
 
-</details>
-
 ### 🗂️ GitHub Repository
 - #### You can find all of My Projects and Data Science Notebooks on My GitHub Profile.<br>
 - #### It's a hub for My Data Science knowledge, where I showcase My Work and contributions to various Data Science Projects.
@@ -212,7 +210,6 @@
 - [SQL Aggregation - 3](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/f5c1ed7aeebb56e80c8aa50f6a76a2593a572d46/Notebooks/SQL%20for%20Data%20Science%20-%209.ipynb)
   
 - [SQL Sub-Queries and Window Function](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/f5c1ed7aeebb56e80c8aa50f6a76a2593a572d46/Notebooks/SQL%20for%20Data%20Science%20-%2010.ipynb)
-
  
 #### For more Details → Go to [SQL for Data Science](https://github.com/TheMrityunjayPathak/SQLforDataScience) Repository
  
