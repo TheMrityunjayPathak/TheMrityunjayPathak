@@ -20,19 +20,19 @@
 
 <div align="center"><h3 align="center">🌏 Connect with Me :</h3>
     <a href="https://www.kaggle.com/themrityunjaypathak">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/kaggle.png" width="4%"/>
+        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/kaggle-light.png" width="4%"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/themrityunjaypathak">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/linkedin.png" width="4%"/>
+        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/linkedin-light.png" width="4%"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/TheMrityunjayPathak">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/github.png" width="4%"/>
+        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/github-light.png" width="4%"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.hackerrank.com/mrityunjaypathak">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/hacker.png" width="6%"/>
+        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/hacker-light.png" width="5%"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://themrityunjaypathak.github.io/">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/website.png" width="4%" />
+        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/browser-light.png" width="4%" />
     </a>
 </div>
 
