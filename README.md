@@ -3,19 +3,19 @@
 #### I am a passionate and dedicated data scientist with a drive to solve business problems using data-driven insights.
 
 ### 🗂️ GitHub Repository
-- #### You can find all of My Projects and Data Science Notebooks on My GitHub Profile.<br>
+- #### You can find all of My Projects and Data Science Notebooks on My GitHub Profile.
 - #### It's a hub for My Data Science knowledge, where I showcase My Work and contributions to various Data Science Projects.
 
 ### 📝 LinkedIn Articles
-- #### I believe in the power of knowledge-sharing and strive to contribute to the Data Science Community.<br>
+- #### I believe in the power of knowledge-sharing and strive to contribute to the Data Science Community.
 - #### So, regularly I share articles and tutorials on LinkedIn, aiming to help others learn and grow in the field of Data Science.
 
 ### 🎙️ Expertise
-- #### If you have any questions or need assistance with Python, SQL, PowerBI, or Machine Learning, I am here to help!<br>
+- #### If you have any questions or need assistance with Python, SQL, PowerBI, or Machine Learning, I am here to help!
 - #### I have hands-on experience with these powerful tools and techniques and would love to share my knowledge with you.
 
 ### 📫 Contact
-- #### Whether you want to discuss about a project, have a data-related challenge, or simply want to connect.<br>
+- #### Whether you want to discuss about a project, have a data-related challenge, or simply want to connect.
 - #### Feel free to reach out to me at themrityunjaypathak@gmail.com.
 
 <div align="center"><h3 align="center">🌏 Connect with Me :</h3>
