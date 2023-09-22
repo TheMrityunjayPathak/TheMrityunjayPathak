@@ -224,11 +224,9 @@ For more Details → Go to [SQL for Data Science](https://github.com/TheMrityunj
  
 </details>
 
-<p><strong>🏆 Achievement :</strong></p>
+<p><strong>🏆 Achievements :</strong></p>
 
 | 5 ⭐ Python HackerRank | 5 ⭐ SQL HackerRank | Kaggle Expert |
 |-|-|-|
-
-<p align="center"><strong>Thanks for Visiting!</strong></p>
 
 </strong>
