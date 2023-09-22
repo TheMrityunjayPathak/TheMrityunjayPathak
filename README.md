@@ -121,7 +121,7 @@
 
 | <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/data-visualization"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/data-visualization.png" width="200px" align="center"/> | <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/intro-to-machine-learning"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml-certificate.png" width="200px" align="center"/></a> |
 |-|-|
-<br>
+
 <p><strong>📒 Notebooks :</strong></p>
 
 <p><strong>📕 Data Science</strong></p>
@@ -223,7 +223,7 @@ For more Details → Go to [Feature Engineering](https://github.com/TheMrityunja
 For more Details → Go to [SQL for Data Science](https://github.com/TheMrityunjayPathak/SQLforDataScience) Repository
  
 </details>
-<br>
+
 <p><strong>🏆 Achievement :</strong></p>
 
 | 5 ⭐ Python HackerRank | 5 ⭐ SQL HackerRank | Kaggle Expert |
