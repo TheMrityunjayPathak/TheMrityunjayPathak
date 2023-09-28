@@ -1,8 +1,6 @@
 <strong>
 
-<p align="center"><strong>Hi 👋, I'm Mrityunjay Pathak</strong></p>
-
----
+<h2 align="center"><strong>Hi 👋, I'm Mrityunjay Pathak</strong></h2>
 
 <p>I am a passionate and dedicated data scientist with a drive to solve business problems using data-driven insights.</p>
 
