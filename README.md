@@ -66,9 +66,15 @@
 
 <p><strong>🏫 Education :</strong></p>
 
-|<p align="center"><strong>Banaras Hindu University|<p align="center"><strong>B.Voc in Computer Application|<p align="center"><strong>Dec 2021 - July 2024|<p align="center"><strong>CGPA - 8.27 (SEM - III)|
-|-|-|-|-|
-|<p align="center"><strong>Mukularanyam English School|<p align="center"><strong>Class - XII - PCM - CBSE|<p align="center"><strong>April 2019 - July 2020|<p align="center"><strong>CGPA - 8.2|
+<strong>Banaras Hindu University</strong>
+- B.Voc in Computer Application
+- Dec 2021 - July 2024
+- CGPA - 8.27 (SEM - III)
+
+<strong>Mukularanyam English School</strong>
+- Class - XII - PCM - CBSE
+- April 2019 - July 2020
+- CGPA - 8.2
 
 <p><strong>🗃️ ML Projects :</strong></p>
 
