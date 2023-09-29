@@ -31,21 +31,22 @@
 - Feel free to reach out to me at themrityunjaypathak@gmail.com.
 <br>
 <div align="center"><p align="center"><strong>🌏 Connect with Me :</strong></p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.kaggle.com/themrityunjaypathak">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/kaggle.png" width="4%"/>
+        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/kaggle.png" width="4%" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/themrityunjaypathak">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/linkedin.png" width="4%"/>
+        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/linkedin.png" width="4%" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/TheMrityunjayPathak">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/github.png" width="4%"/>
+        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/github.png" width="4%" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.hackerrank.com/mrityunjaypathak">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/hacker.png" width="5%"/>
+        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/hacker.png" width="5%" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://themrityunjaypathak.github.io/">
         <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/website.png" width="4%" />
-    </a>
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <br>
 <div align="center"><p align="center"><strong>📋 Skills :</strong></p>
@@ -66,11 +67,12 @@
 
 <p><strong>🏫 Education :</strong></p>
 
-📍 <strong>Banaras Hindu University</strong>
-
-- B.Voc in Computer Application
-- Dec 2021 - July 2024
-- CGPA - 8.27 (SEM - III)
+| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/ab1724bf-1269-42c6-a5f6-9fc341c0f4fe" width="200px"> |
+|-|
+| <p align="center"><strong>Banaras Hindu University</strong></p> |
+| <p align="center"><strong>B.Voc in Computer Application</strong></p> |
+| <p align="center"><strong>Dec 2021 - July 2024</strong></p> |
+| <p align="center"><strong>CGPA - 8.27 (SEM - III)</strong></p> |
 
 <p><strong>🗃️ ML Projects :</strong></p>
 
