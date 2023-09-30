@@ -64,8 +64,7 @@
 |<p align="center"><strong>Git</strong></p>|<p align="center"><strong>AWS</strong></p>|<p align="center"><strong>HTML</strong></p>|<p align="center"><strong>CSS</strong></p>|
 </div>
 <br>
-
-<p><strong>🏫 Education :</strong></p>
+<div align="center"><p><strong>🏫 Education :</strong></p>
 
 | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/ab1724bf-1269-42c6-a5f6-9fc341c0f4fe" width="200px"> |
 |-|
@@ -74,6 +73,7 @@
 | <p align="center"><strong>Dec 2021 - July 2024</strong></p> |
 | <p align="center"><strong>CGPA - 8.27 (SEM - III)</strong></p> |
 
+</div>
 <p><strong>🗃️ ML Projects :</strong></p>
 
 <p align="left">
