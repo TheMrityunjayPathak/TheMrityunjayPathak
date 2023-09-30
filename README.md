@@ -1,3 +1,27 @@
+
+<div align="center">
+  <img src="https://your-image-url-here" alt="Your Image Alt Text">
+</div>
+
+<div align="center">
+  <p>Click on the badge to see the animation</p>
+  <a href="https://example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Animated-Badge-blue?style=for-the-badge&logo=github">
+  </a>
+</div>
+
+<style>
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+
+  img:hover {
+    animation: spin 2s linear infinite;
+  }
+</style>
+
+
 <strong>
 
 <p align="center"><strong>Hi 👋, I'm Mrityunjay Pathak</strong></p>
@@ -67,7 +91,7 @@
 <br>
 <div><p><strong>🏫 Education :</strong></p>
  
-| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/ab1724bf-1269-42c6-a5f6-9fc341c0f4fe" width="200px"> | Banaras Hindu University<br>B.Voc in Computer Application<br>Dec 2021 - July 2024<br>CGPA - 8.27 (SEM - III) |
+| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/ab1724bf-1269-42c6-a5f6-9fc341c0f4fe" width="200px"> | Banaras Hindu University<br><br>B.Voc in Computer Application<br><br>Dec 2021 - July 2024<br><br>CGPA - 8.27 (SEM - III) |
 | ----------------- | ----------------- |
 
 </div>
