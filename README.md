@@ -1,27 +1,3 @@
-
-<div align="center">
-  <img src="https://your-image-url-here" alt="Your Image Alt Text">
-</div>
-
-<div align="center">
-  <p>Click on the badge to see the animation</p>
-  <a href="https://example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Animated-Badge-blue?style=for-the-badge&logo=github">
-  </a>
-</div>
-
-<style>
-  @keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
-  }
-
-  img:hover {
-    animation: spin 2s linear infinite;
-  }
-</style>
-
-
 <strong>
 
 <p align="center"><strong>Hi 👋, I'm Mrityunjay Pathak</strong></p>
