@@ -75,7 +75,7 @@
 | <p align="center"><strong>CGPA - 8.27 (SEM - III)</strong></p> |
 
 </div>
-<br>
+
 <p><strong>🗃️ ML Projects :</strong></p>
 
 <p align="left">
@@ -84,16 +84,16 @@
  
 <strong>Algorithm Used : Regression</strong>
 
-<strong>The objective of this Project is to develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</strong></p>
-<br>
+<strong>The objective of this Project is to develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</strong></p><br>
+
 <p align="left">
 <a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification" title="Spaceship Titanic Classification"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/f6532f64-94f1-4fdd-9cc2-6c63be44cce0" alt="Spaceship Titanic Classification" width="280px" align="left"/></a>
 <a href="https://www.kaggle.com/code/themrityunjaypathak/spaceship-titanic-classification" title="Spaceship Titanic Classification"><strong>Spaceship Titanic Classification</strong></a>
  
 <strong>Algorithm Used : Classification</strong>
 
-<strong>The objective of this Project is to predict whether a passenger was transported to an alternate dimension during the Spaceship collision with the spacetime anomaly.</strong></p>
-<br>
+<strong>The objective of this Project is to predict whether a passenger was transported to an alternate dimension during the Spaceship collision with the spacetime anomaly.</strong></p><br>
+
 <p> 📊 PowerBI Projects :
 
 <p align="left">
@@ -136,7 +136,7 @@
 
 | <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/data-visualization"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/data-visualization.png" width="200px" align="center"/> | <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/intro-to-machine-learning"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml-certificate.png" width="200px" align="center"/></a> |
 |-|-|
-<br>
+
 <p><strong>📒 Notebooks :</strong></p>
 
 <p><strong>📕 Data Science</strong></p>
@@ -238,15 +238,7 @@ For more Details → Go to [Feature Engineering](https://github.com/TheMrityunja
 For more Details → Go to [SQL for Data Science](https://github.com/TheMrityunjayPathak/SQLforDataScience) Repository
  
 </details>
-<br>
-<p><strong>📋 Repositories :</strong></p>
 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheMrityunjayPathak&repo=DataScience&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/TheMrityunjayPathak/DataScience) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheMrityunjayPathak&repo=MachineLearning&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/TheMrityunjayPathak/MachineLearning) |
-|-|-|
-
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheMrityunjayPathak&repo=FeatureEngineering&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/TheMrityunjayPathak/FeatureEngineering) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheMrityunjayPathak&repo=SQLforDataScience&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/TheMrityunjayPathak/SQLforDataScience) |
-|-|-|
-<br>
 <p><strong>🏆 Achievements :</strong></p>
 
 | 5 ⭐ Python HackerRank | 5 ⭐ SQL HackerRank | Kaggle Expert |
