@@ -66,7 +66,7 @@
 <br>
 <div align="center"><p><strong>🏫 Education :</strong></p>
 
-| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/ab1724bf-1269-42c6-a5f6-9fc341c0f4fe" width="200px"> |
+| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/ab1724bf-1269-42c6-a5f6-9fc341c0f4fe" width="360px"> |
 |-|
 | <p align="center"><strong>Banaras Hindu University</strong></p> |
 | <p align="center"><strong>B.Voc in Computer Application</strong></p> |
