@@ -8,7 +8,7 @@
   <img src="https://profile-counter.glitch.me/TheMrityunjayPathak/count.svg" />
 </p>
 
-<p>I am a passionate and dedicated data scientist with a drive to solve business problems using data-driven insights.</p>
+<p>I am a dedicated data scientist with a knack for uncovering patterns and trends that help businesses make smarter decisions.</p>
 
 <p><strong>🗂️ GitHub Repository</strong></p>
  
