@@ -248,5 +248,5 @@ For more Details → Go to [SQL for Data Science](https://github.com/TheMrityunj
 | 5 ⭐ Python HackerRank | 5 ⭐ SQL HackerRank | Kaggle Expert |
 |-|-|-|
 
-<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/wave.svg" />
 </strong>
