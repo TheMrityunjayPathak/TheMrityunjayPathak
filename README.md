@@ -4,10 +4,6 @@
 
 ---
 
-<p align="right"> 
-  <img src="https://profile-counter.glitch.me/TheMrityunjayPathak/count.svg" />
-</p>
-
 <p>I am a dedicated data scientist with a knack for uncovering patterns and trends that help businesses make smarter decisions.</p>
 
 <p><strong>🗂️ GitHub Repository</strong></p>
@@ -248,5 +244,4 @@ For more Details → Go to [SQL for Data Science](https://github.com/TheMrityunj
 | 5 ⭐ Python HackerRank | 5 ⭐ SQL HackerRank | Kaggle Expert |
 |-|-|-|
 
-<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/wave.svg" />
 </strong>
