@@ -94,7 +94,7 @@
 
 <strong>The objective of this Project is to predict whether a passenger was transported to an alternate dimension during the Spaceship collision with the spacetime anomaly.</strong></p><br>
 
-<p> 📊 PowerBI Projects :
+<p> 📊 Power BI Projects :
 
 <p align="left">
 <a href="https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard" title="Retail Store Sales Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/7fa2ca1a-80f4-4a88-a2df-8e57ba087ea3" alt="Retail Store Sales Dashboard" width="280px" align="left"/></a>
