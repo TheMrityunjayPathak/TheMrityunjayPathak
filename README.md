@@ -44,9 +44,10 @@
     <a href="https://www.hackerrank.com/mrityunjaypathak">
         <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/hacker.png" width="5%" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.hackerrank.com/mrityunjaypathak">
+    <a href="https://themrityunjaypathak.github.io/">
         <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/portfolio.png" width="4%" />
     </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <br>
 <div align="center"><p align="center"><strong>📋 Skills :</strong></p>
