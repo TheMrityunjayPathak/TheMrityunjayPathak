@@ -245,10 +245,9 @@ For more Details → Go to [SQL for Data Science](https://github.com/TheMrityunj
 |-|-|-|
 
 <br>
-<p align="center"><strong>Thanks 👏 for Visiting!</strong></p>
 
-<div align="right">
 [Back to Top ⬆️](#)
-</div>
+
+<p align="center"><strong>Thanks 👏 for Visiting!</strong></p>
 
 </strong>
