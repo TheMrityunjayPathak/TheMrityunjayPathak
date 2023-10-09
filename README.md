@@ -2,7 +2,7 @@
 
 <p align="center"><strong>Hi 👋, I'm Mrityunjay Pathak</strong></p>
 
----
+#
 
 <p>I am a dedicated data scientist with a knack for uncovering patterns and trends that help businesses make smarter decisions.</p>
 
@@ -246,5 +246,7 @@ For more Details → Go to [SQL for Data Science](https://github.com/TheMrityunj
 
 <br>
 <p align="center"><strong>Thanks 👏 for Visiting!</strong></p>
+
+[Back To Top 🔼](#)
 
 </strong>
