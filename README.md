@@ -246,7 +246,7 @@ For more Details → Go to [SQL for Data Science](https://github.com/TheMrityunj
 
 <br>
 
-[Back to Top ⬆️](#)
+[Scroll to Top ⬆️](#)
 
 <p align="center"><strong>Thanks 👏 for Visiting!</strong></p>
 
