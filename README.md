@@ -87,7 +87,7 @@
 <p><strong>🗃️ ML Projects :</strong></p>
 
 <p align="left">
-<a href="https://github.com/TheMrityunjayPathak/CarPricePrediction" title="Car Price Prediction"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/f6532f64-94f1-4fdd-9cc2-6c63be44cce0" alt="Retail Store Sales Dashboard" width="280px" align="left"/></a>
+<a href="https://github.com/TheMrityunjayPathak/CarPricePrediction" title="Car Price Prediction"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/f6532f64-94f1-4fdd-9cc2-6c63be44cce0" alt="Retail Store Sales Dashboard" width="280px" align="left" title="Car Price Prediction"/></a>
 <a href="https://www.kaggle.com/code/themrityunjaypathak/car-price-prediction-using-linear-regression" title="Car Price Prediction"><strong>Car Price Prediction</strong></a>
  
 <strong>Algorithm Used : Regression</strong>
@@ -95,7 +95,7 @@
 <strong>The objective of this Project is to develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</strong></p><br>
 
 <p align="left">
-<a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification" title="Spaceship Titanic Classification"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/f6532f64-94f1-4fdd-9cc2-6c63be44cce0" alt="Spaceship Titanic Classification" width="280px" align="left"/></a>
+<a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification" title="Spaceship Titanic Classification"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/f6532f64-94f1-4fdd-9cc2-6c63be44cce0" alt="Spaceship Titanic Classification" width="280px" align="left" title="Spaceship Titanic Classification"/></a>
 <a href="https://www.kaggle.com/code/themrityunjaypathak/spaceship-titanic-classification" title="Spaceship Titanic Classification"><strong>Spaceship Titanic Classification</strong></a>
  
 <strong>Algorithm Used : Classification</strong>
@@ -105,7 +105,7 @@
 <p> 📊 Power BI Projects :
 
 <p align="left">
-<a href="https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard" title="Retail Store Sales Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/7fa2ca1a-80f4-4a88-a2df-8e57ba087ea3" alt="Retail Store Sales Dashboard" width="280px" align="left"/></a>
+<a href="https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard" title="Retail Store Sales Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/7fa2ca1a-80f4-4a88-a2df-8e57ba087ea3" alt="Retail Store Sales Dashboard" width="280px" align="left" title="Retail Store Sales Dashboard"/></a>
 <a href="https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard" title="Retail Store Sales Dashboard"><strong>Retail Store Sales Dashboard</strong></a>
  
 <strong>Tool Used : Power BI  |  Dataset : [Retail Store Sales Dataset](https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard/tree/main/Dataset)</strong>
@@ -113,7 +113,7 @@
 <strong>The aim of this Power BI Dashboard Project is to design a Retail Store Report that provides a clear overview of the Store's Sales performance, enabling the owner to gain actionable insights.</strong></p>
 <br>
 <p align="left">
-<a href="https://github.com/TheMrityunjayPathak/FinanceReportDashboard" title="Finance Report Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/3dfcd350-0603-4046-84a7-d72981d8eb74" alt="Finance Report Dashboard" width="280px" align="left"/></a>
+<a href="https://github.com/TheMrityunjayPathak/FinanceReportDashboard" title="Finance Report Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/3dfcd350-0603-4046-84a7-d72981d8eb74" alt="Finance Report Dashboard" width="280px" align="left" title="Finance Report Dashboard"/></a>
 <a href="https://github.com/TheMrityunjayPathak/FinanceReportDashboard" title="Finance Report Dashboard"><strong>Finance Report Dashboard</strong></a>
 
 <strong>Tool Used : Power BI  |  Dataset : [Finance Report Dataset](https://github.com/TheMrityunjayPathak/FinanceReportDashboard/blob/main/financial_data.csv)
@@ -122,7 +122,7 @@
 <strong>The Project aims to create a visually appealing dashboard that provides a overview of the company's financial metrics, enabling stakeholders to make informed business decisions.</strong></p><br>
 
 <p align="left">
-<a href="https://github.com/TheMrityunjayPathak/CovidPandemicAnalysis" title="Covid Pandemic Analysis"><img src="https://github.com/TheMrityunjayPathak/CovidPandemicAnalysis/assets/123563634/deecdf9c-759c-43e7-bd21-536a8c046148" alt="Covid Pandemic Analysis" width="280px" align="left"/></a>
+<a href="https://github.com/TheMrityunjayPathak/CovidPandemicAnalysis" title="Covid Pandemic Analysis"><img src="https://github.com/TheMrityunjayPathak/CovidPandemicAnalysis/assets/123563634/deecdf9c-759c-43e7-bd21-536a8c046148" alt="Covid Pandemic Analysis" width="280px" align="left" title="Covid Pandemic Analysis"/></a>
 <a href="https://github.com/TheMrityunjayPathak/CovidPandemicAnalysis" title="Covid Pandemic Analysis"><strong>Covid Pandemic Analysis</strong></a>
 
 <strong>Tool Used : Power BI  |  Dataset : [Covid Pandemic Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/covid-cases-and-deaths-worldwide)</strong>
@@ -130,7 +130,7 @@
 <strong>The objective of this Power BI Dashboard Project is to create a comprehensive and interactive COVID-19 report that provides meaningful insights and analysis of the pandemic's impact.</strong></p><br>
 
 <p align="left">
-<a href="https://github.com/TheMrityunjayPathak/IndiaPopulationAnalysis" title="India Population Analysis"><img src="https://github.com/TheMrityunjayPathak/IndiaPopulationAnalysis/assets/123563634/82451fc0-0216-4a76-807f-6b03d6a70a1b" alt="India Population Analysis" width="280px" align="left"/></a>
+<a href="https://github.com/TheMrityunjayPathak/IndiaPopulationAnalysis" title="India Population Analysis"><img src="https://github.com/TheMrityunjayPathak/IndiaPopulationAnalysis/assets/123563634/82451fc0-0216-4a76-807f-6b03d6a70a1b" alt="India Population Analysis" width="280px" align="left" title="India Population Analysis"/></a>
 <a href="https://github.com/TheMrityunjayPathak/IndiaPopulationAnalysis" title="India Population Analysis"><strong>India Population Analysis</strong></a>
  
 <strong>Tool Used : Power BI  |  Dataset : [India Population Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/2011-census-of-india)</strong>
