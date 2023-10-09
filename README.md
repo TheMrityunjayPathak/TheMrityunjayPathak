@@ -137,13 +137,15 @@
 
 <strong>The objective is to provide insights and visualizations that help stakeholders understand the population dynamics, trends, and patterns across various demographic factors.</strong></p><br>
 
-<p><strong>💼 Certificates :</strong></p>
+<div><p><strong>💼 Certificates :</strong></p>
 
 | <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/python" title="Python"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/python-certificate.png" width="200px" align="center"/></a> | <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/pandas" title="Pandas"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/pandas-certificate.png" width="200px" align="center"/></a> | 
 |-|-|
 
 | <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/data-visualization" title="Data Visualization"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/data-visualization.png" width="200px" align="center"/> | <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/intro-to-machine-learning" title="Intro to Machine Learning"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml-certificate.png" width="200px" align="center"/></a> |
 |-|-|
+
+</div>
 
 <p><strong>📒 Notebooks :</strong></p>
 
