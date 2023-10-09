@@ -67,7 +67,7 @@
 <br>
 <div><p><strong>🏫 Education :</strong></p>
  
-| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/ab1724bf-1269-42c6-a5f6-9fc341c0f4fe" width="200px"> |
+| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/ab1724bf-1269-42c6-a5f6-9fc341c0f4fe" width="200px" title="Banaras Hindu University"> |
 | :---: |
 | <p align="center"><strong>Banaras Hindu University</strong></p> |
 | <p align="center"><strong>B.Voc in Computer Application</strong></p> |
@@ -78,7 +78,7 @@
 
 <div><p><strong>📄 Resume :</strong></p>
  
-| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/16d89f50-d6d2-4c81-834e-330889d6e6e8" width="200px"> |
+| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/16d89f50-d6d2-4c81-834e-330889d6e6e8" width="200px" title="Mrityunjay's Resume"> |
 | :---: |
 | <p align="center"><strong>[Check My Resume Here 📍](https://www.canva.com/design/DAFkLIXHsbQ/cXGm0iQBx9Nq-tdaQTi_VA/view?utm_content=DAFkLIXHsbQ&utm_campaign=designshare&utm_medium=link&utm_source=viewer)</strong></p> |
 
