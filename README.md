@@ -254,7 +254,8 @@ For more Details → Go to [SQL for Data Science](https://github.com/TheMrityunj
 | 5 ⭐ Python HackerRank | 5 ⭐ SQL HackerRank | Kaggle Expert |
 |-|-|-|
 
-[Scroll to Top ⬆️](#)
+| [Scroll to Top ⬆️](#) |
+| :---: |
 
 <p align="center"><strong>Thanks 👏 for Visiting!</strong></p>
 
