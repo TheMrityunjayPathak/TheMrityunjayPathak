@@ -27,7 +27,7 @@
 <p><strong>📫 Contact</strong></p>
 
 - Whether you want to discuss about a project, have a data-related challenge, or simply want to connect.
-  
+
 - Feel free to reach out to me at <a href="mailto:themrityunjaypathak@gmail.com" title="Mrityunjay's E-Mail">themrityunjaypathak@gmail.com</a>.
 <br>
 <div align="center"><p align="center"><strong>🌏 Connect with Me :</strong></p>
