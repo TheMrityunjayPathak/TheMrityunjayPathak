@@ -87,16 +87,16 @@
 <div><p><strong>🗃️ ML Projects :</strong></p>
 
 <p align="left">
-<a href="https://github.com/TheMrityunjayPathak/CarPricePrediction" title="Car Price Prediction"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/f6532f64-94f1-4fdd-9cc2-6c63be44cce0" alt="Retail Store Sales Dashboard" width="280px" align="left" title="Car Price Prediction"/></a>
-<a href="https://www.kaggle.com/code/themrityunjaypathak/car-price-prediction-using-linear-regression" title="Car Price Prediction"><strong>Car Price Prediction</strong></a>
+<a href="https://www.kaggle.com/code/themrityunjaypathak/car-price-prediction-using-linear-regression" title="Car Price Prediction"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/f6532f64-94f1-4fdd-9cc2-6c63be44cce0" alt="Retail Store Sales Dashboard" width="280px" align="left" title="Car Price Prediction"/></a>
+<a href="https://github.com/TheMrityunjayPathak/CarPricePrediction"><strong>Car Price Prediction</strong></a>
  
 <strong>Algorithm Used : Regression</strong>
 
 <strong>The objective of this Project is to develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</strong></p><br>
 
 <p align="left">
-<a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification" title="Spaceship Titanic Classification"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/f6532f64-94f1-4fdd-9cc2-6c63be44cce0" alt="Spaceship Titanic Classification" width="280px" align="left" title="Spaceship Titanic Classification"/></a>
-<a href="https://www.kaggle.com/code/themrityunjaypathak/spaceship-titanic-classification" title="Spaceship Titanic Classification"><strong>Spaceship Titanic Classification</strong></a>
+<a href="https://www.kaggle.com/code/themrityunjaypathak/spaceship-titanic-classification" title="Spaceship Titanic Classification"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/f6532f64-94f1-4fdd-9cc2-6c63be44cce0" alt="Spaceship Titanic Classification" width="280px" align="left" title="Spaceship Titanic Classification"/></a>
+<a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification"><strong>Spaceship Titanic Classification</strong></a>
  
 <strong>Algorithm Used : Classification</strong>
 
@@ -108,7 +108,7 @@
 
 <p align="left">
 <a href="https://www.kaggle.com/discussions/general/417585" title="Retail Store Sales Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/4.png" alt="Retail Store Sales Dashboard" width="280px" align="left" title="Retail Store Sales Dashboard"/></a>
-<a href="https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard" title="Retail Store Sales Dashboard"><strong>Retail Store Sales Dashboard</strong></a>
+<a href="https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard"><strong>Retail Store Sales Dashboard</strong></a>
  
 <strong>Tool Used : Power BI  |  Dataset : [Retail Store Sales Dataset](https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard/tree/main/Dataset)</strong>
 
@@ -116,7 +116,7 @@
 <br>
 <p align="left">
 <a href="https://www.kaggle.com/discussions/general/402148" title="Finance Report Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/3.png" alt="Finance Report Dashboard" width="280px" align="left" title="Finance Report Dashboard"/></a>
-<a href="https://github.com/TheMrityunjayPathak/FinanceReportDashboard" title="Finance Report Dashboard"><strong>Finance Report Dashboard</strong></a>
+<a href="https://github.com/TheMrityunjayPathak/FinanceReportDashboard"><strong>Finance Report Dashboard</strong></a>
 
 <strong>Tool Used : Power BI  |  Dataset : [Finance Report Dataset](https://github.com/TheMrityunjayPathak/FinanceReportDashboard/blob/main/financial_data.csv)
 </strong>
@@ -125,7 +125,7 @@
 
 <p align="left">
 <a href="https://www.kaggle.com/discussions/general/389383" title="Covid Pandemic Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/2.png" alt="Covid Pandemic Analysis" width="280px" align="left" title="Covid Pandemic Analysis"/></a>
-<a href="https://github.com/TheMrityunjayPathak/CovidPandemicAnalysis" title="Covid Pandemic Analysis"><strong>Covid Pandemic Analysis</strong></a>
+<a href="https://github.com/TheMrityunjayPathak/CovidPandemicAnalysis"><strong>Covid Pandemic Analysis</strong></a>
 
 <strong>Tool Used : Power BI  |  Dataset : [Covid Pandemic Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/covid-cases-and-deaths-worldwide)</strong>
 
@@ -133,7 +133,7 @@
 
 <p align="left">
 <a href="https://www.kaggle.com/discussions/general/385012" title="India Population Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/1.png" alt="India Population Analysis" width="280px" align="left" title="India Population Analysis"/></a>
-<a href="https://github.com/TheMrityunjayPathak/IndiaPopulationAnalysis" title="India Population Analysis"><strong>India Population Analysis</strong></a>
+<a href="https://github.com/TheMrityunjayPathak/IndiaPopulationAnalysis"><strong>India Population Analysis</strong></a>
  
 <strong>Tool Used : Power BI  |  Dataset : [India Population Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/2011-census-of-india)</strong>
 
