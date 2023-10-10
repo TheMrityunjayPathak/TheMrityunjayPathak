@@ -87,7 +87,7 @@
 <div><p><strong>🗃️ ML Projects :</strong></p>
 
 <p align="left">
-<a href="https://www.kaggle.com/code/themrityunjaypathak/car-price-prediction-using-linear-regression" title="Car Price Prediction"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/f6532f64-94f1-4fdd-9cc2-6c63be44cce0" alt="Retail Store Sales Dashboard" width="280px" align="left" title="Car Price Prediction"/></a>
+<a href="https://www.kaggle.com/code/themrityunjaypathak/car-price-prediction-using-linear-regression" title="Car Price Prediction"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml-projects.png" width="280px" align="left" title="Car Price Prediction"/></a>
 <a href="https://github.com/TheMrityunjayPathak/CarPricePrediction"><strong>Car Price Prediction</strong></a>
  
 <strong>Algorithm Used : Regression</strong>
@@ -95,7 +95,7 @@
 <strong>The objective of this Project is to develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</strong></p><br>
 
 <p align="left">
-<a href="https://www.kaggle.com/code/themrityunjaypathak/spaceship-titanic-classification" title="Spaceship Titanic Classification"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/f6532f64-94f1-4fdd-9cc2-6c63be44cce0" alt="Spaceship Titanic Classification" width="280px" align="left" title="Spaceship Titanic Classification"/></a>
+<a href="https://www.kaggle.com/code/themrityunjaypathak/spaceship-titanic-classification" title="Spaceship Titanic Classification"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml-projects.png" width="280px" align="left" title="Spaceship Titanic Classification"/></a>
 <a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification"><strong>Spaceship Titanic Classification</strong></a>
  
 <strong>Algorithm Used : Classification</strong>
