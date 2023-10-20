@@ -104,6 +104,18 @@
 
 </div>
 
+<div><p><strong>🔍 Exploratory Data Analysis</strong></p>
+ 
+<p align="left">
+<a href="https://www.kaggle.com/code/themrityunjaypathak/super-market-sales-analysis" title="Super Market Sales Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/eda.png" width="280px" align="left" title="Super Market Sales Analysis"/></a>
+<a href="https://github.com/TheMrityunjayPathak/SuperMarketSalesAnalysis"><strong>Super Market Sales Analysis</strong></a>
+ 
+<strong>Dataset : [Super Market Sales Dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)</strong>
+
+<strong>The objective of this project is to analyze sales data to gain insights into customer purchasing behavior, product performance, and overall trends, of the supermarket business.</strong></p><br>
+
+</div>
+
 <div><p><strong>📊 Power BI Projects :</strong></p>
 
 <p align="left">
