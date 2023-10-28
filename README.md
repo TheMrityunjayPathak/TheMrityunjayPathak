@@ -161,6 +161,9 @@
 | <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/data-visualization" title="Data Visualization"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/data-visualization.png" width="200px" align="center"/> | <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/intro-to-machine-learning" title="Intro to Machine Learning"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml-certificate.png" width="200px" align="center"/></a> |
 | :---: | :---: |
 
+|<a href="https://www.hackerrank.com/certificates/e41a7578cc82" title="HackerRank Python (Basic)"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/deb516fc44a06ff66535769660d04d8c654978a5/python_basic%20certificate.png" width="200px" align="center"/></a>|
+| :---: |
+
 </div>
 
 <div><p><strong>📒 Notebooks :</strong></p>
