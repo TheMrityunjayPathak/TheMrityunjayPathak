@@ -248,25 +248,25 @@ For more Details → Go to [Feature Engineering](https://github.com/TheMrityunja
 
  <summary><strong>Click Here</strong></summary>
 
-- [SQL Basics](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/f5c1ed7aeebb56e80c8aa50f6a76a2593a572d46/Notebooks/SQL%20for%20Data%20Science%20-%201.ipynb)
+- [SQL Basics](https://www.kaggle.com/code/themrityunjaypathak/sql-for-data-science-day-1)
   
-- [SQL Statements](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/f5c1ed7aeebb56e80c8aa50f6a76a2593a572d46/Notebooks/SQL%20for%20Data%20Science%20-%202.ipynb)
+- [SQL Statements](https://www.kaggle.com/code/themrityunjaypathak/sql-for-data-science-day-2)
   
-- [LIMIT, DISTINCT, ORDER BY Clause](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/f5c1ed7aeebb56e80c8aa50f6a76a2593a572d46/Notebooks/SQL%20for%20Data%20Science%20-%203.ipynb)
+- [LIMIT, DISTINCT, ORDER BY Clause](https://www.kaggle.com/code/themrityunjaypathak/sql-for-data-science-day-3)
   
-- [SQL WHERE Statement](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/f5c1ed7aeebb56e80c8aa50f6a76a2593a572d46/Notebooks/SQL%20for%20Data%20Science%20-%204.ipynb)
+- [SQL WHERE Statement](https://www.kaggle.com/code/themrityunjaypathak/sql-for-data-science-day-4)
   
-- [SQL Logical Operators](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/dacb6d75c46a8d4bafff5e40a9c92656540994c5/SQL%20for%20Data%20Science%20-%205.ipynb)
+- [SQL Logical Operators](https://www.kaggle.com/code/themrityunjaypathak/sql-for-data-science-day-5)
   
-- [SQL Joins](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/f5c1ed7aeebb56e80c8aa50f6a76a2593a572d46/Notebooks/SQL%20for%20Data%20Science%20-%206.ipynb)
+- [SQL Joins](https://www.kaggle.com/code/themrityunjaypathak/sql-for-data-science-day-6)
   
-- [SQL Aggregation - 1](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/f5c1ed7aeebb56e80c8aa50f6a76a2593a572d46/Notebooks/SQL%20for%20Data%20Science%20-%207.ipynb)
+- [SQL Aggregation - 1](https://www.kaggle.com/code/themrityunjaypathak/sql-for-data-science-day-7)
   
-- [SQL Aggregation - 2](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/f5c1ed7aeebb56e80c8aa50f6a76a2593a572d46/Notebooks/SQL%20for%20Data%20Science%20-%208.ipynb)
+- [SQL Aggregation - 2](https://www.kaggle.com/code/themrityunjaypathak/sql-for-data-science-day-8)
   
-- [SQL Aggregation - 3](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/f5c1ed7aeebb56e80c8aa50f6a76a2593a572d46/Notebooks/SQL%20for%20Data%20Science%20-%209.ipynb)
+- [SQL Aggregation - 3](https://www.kaggle.com/code/themrityunjaypathak/sql-for-data-science-day-9)
   
-- [SQL Sub-Queries and Window Function](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/f5c1ed7aeebb56e80c8aa50f6a76a2593a572d46/Notebooks/SQL%20for%20Data%20Science%20-%2010.ipynb)
+- [SQL Sub-Queries and Window Function](https://www.kaggle.com/code/themrityunjaypathak/sql-for-data-science-day-10)
  
 For more Details → Go to [SQL for Data Science](https://github.com/TheMrityunjayPathak/SQLforDataScience) Repository
  
