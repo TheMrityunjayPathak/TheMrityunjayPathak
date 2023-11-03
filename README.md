@@ -104,7 +104,7 @@
 
 </div>
 
-<div><p><strong>🔍 Exploratory Data Analysis</strong></p>
+<div><p><strong>🔍 Exploratory Data Analysis :</strong></p>
  
 <p align="left">
 <a href="https://www.kaggle.com/code/themrityunjaypathak/super-market-sales-analysis" title="Super Market Sales Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/eda.png" width="280px" align="left" title="Super Market Sales Analysis"/></a>
