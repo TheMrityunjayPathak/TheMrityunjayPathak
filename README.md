@@ -155,7 +155,7 @@
 
 <div><p><strong>💼 Certificates :</strong></p>
 
-<p><strong>Kaggle Certificates</strong></p>
+- <p><strong>Kaggle Certificates</strong></p>
 
 | <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/python" title="Python"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/python-certificate.png" width="200px" align="center"/></a> | <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/pandas" title="Pandas"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/pandas-certificate.png" width="200px" align="center"/></a> |
 | :---: | :---: |
@@ -163,7 +163,7 @@
 | <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/data-visualization" title="Data Visualization"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/data-visualization.png" width="200px" align="center"/> | <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/intro-to-machine-learning" title="Intro to Machine Learning"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml-certificate.png" width="200px" align="center"/></a> |
 | :---: | :---: |
 
-<p><strong>HackerRank Certificates</strong></p>
+- <p><strong>HackerRank Certificates</strong></p>
 
 | <a href="https://www.hackerrank.com/certificates/e41a7578cc82" title="HackerRank Python (Basic)"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/deb516fc44a06ff66535769660d04d8c654978a5/python_basic%20certificate.png" width="200px" align="center"/></a> | <a href="https://www.hackerrank.com/certificates/09ec62ca442f" title="HackerRank SQL (Basic)"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/ee9d5e935fe2abf99f8e64ba6e2949d5de716d83/sql_basic%20certificate.png" width="200px" align="center"/></a> |
 | :---: | :---: |
@@ -172,7 +172,7 @@
 
 <div><p><strong>📒 Notebooks :</strong></p>
 
-<p><strong>📕 Data Science</strong></p>
+- <p><strong>📕 Data Science</strong></p>
 <details>
 
 <summary><strong>Click Here</strong></summary>
@@ -189,7 +189,7 @@ For more Details → Go to [Data Science](https://github.com/TheMrityunjayPathak
 
 </details>
 
-<p><strong>📗 Machine Learning</strong></p>
+- <p><strong>📗 Machine Learning</strong></p>
 <details>
 
 <summary><strong>Click Here</strong></summary>
@@ -222,7 +222,7 @@ For more Details → Go to [Machine Learning](https://github.com/TheMrityunjayPa
 
 </details>
 
-<p><strong>📘 Feature Engineering</strong></p>
+- <p><strong>📘 Feature Engineering</strong></p>
 <details>
 
 <summary><strong>Click Here</strong></summary>
@@ -243,7 +243,7 @@ For more Details → Go to [Feature Engineering](https://github.com/TheMrityunja
 
 </details>
 
-<p><strong>📙 Structured Query Language</strong></p>
+- <p><strong>📙 Structured Query Language</strong></p>
 <details>
 
  <summary><strong>Click Here</strong></summary>
