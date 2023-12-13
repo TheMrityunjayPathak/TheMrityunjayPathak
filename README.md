@@ -172,7 +172,7 @@
 
 <div><p><strong>📒 Notebooks :</strong></p>
 
-- <p><strong>📕 Data Science</strong></p>
+ <p><strong>📕 Data Science</strong></p>
 <details>
 
 <summary><strong>Click Here</strong></summary>
@@ -189,7 +189,7 @@ For more Details → Go to [Data Science](https://github.com/TheMrityunjayPathak
 
 </details>
 
-- <p><strong>📗 Machine Learning</strong></p>
+<p><strong>📗 Machine Learning</strong></p>
 <details>
 
 <summary><strong>Click Here</strong></summary>
@@ -222,7 +222,7 @@ For more Details → Go to [Machine Learning](https://github.com/TheMrityunjayPa
 
 </details>
 
-- <p><strong>📘 Feature Engineering</strong></p>
+<p><strong>📘 Feature Engineering</strong></p>
 <details>
 
 <summary><strong>Click Here</strong></summary>
@@ -243,7 +243,7 @@ For more Details → Go to [Feature Engineering](https://github.com/TheMrityunja
 
 </details>
 
-- <p><strong>📙 Structured Query Language</strong></p>
+<p><strong>📙 Structured Query Language</strong></p>
 <details>
 
  <summary><strong>Click Here</strong></summary>
