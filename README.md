@@ -90,19 +90,17 @@
 <a href="https://www.kaggle.com/code/themrityunjaypathak/car-price-prediction-using-linear-regression" title="Car Price Prediction"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml-projects.png" width="280px" align="left" title="Car Price Prediction"/></a>
 <a href="https://github.com/TheMrityunjayPathak/CarPricePrediction"><strong>Car Price Prediction</strong></a>
  
-| <strong>Algorithm Used : Regression</strong> |
-| :---: |
+<strong>Algorithm Used : Regression</strong>
 
-<strong>The objective of this Project is to develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</strong></p>
+<strong>The objective of this Project is to develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</strong></p><br>
 
 <p align="left">
 <a href="https://www.kaggle.com/code/themrityunjaypathak/spaceship-titanic-classification" title="Spaceship Titanic Classification"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml-projects.png" width="280px" align="left" title="Spaceship Titanic Classification"/></a>
 <a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification"><strong>Spaceship Titanic Classification</strong></a>
  
-| <strong>Algorithm Used : Classification</strong> |
-| :---: |
+<strong>Algorithm Used : Classification</strong>
 
-<strong>The objective of this Project is to predict whether a passenger was transported to an alternate dimension during the Spaceship collision with the spacetime anomaly.</strong></p>
+<strong>The objective of this Project is to predict whether a passenger was transported to an alternate dimension during the Spaceship collision with the spacetime anomaly.</strong></p><br>
 
 </div>
 
@@ -112,10 +110,9 @@
 <a href="https://www.kaggle.com/code/themrityunjaypathak/super-market-sales-analysis" title="Super Market Sales Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/eda.png" width="280px" align="left" title="Super Market Sales Analysis"/></a>
 <a href="https://github.com/TheMrityunjayPathak/SuperMarketSalesAnalysis"><strong>Super Market Sales Analysis</strong></a>
  
-| <strong>[Super Market Sales Dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)</strong> | [Web Application](https://super-market-sales-analysis.streamlit.app/) |
-| :---: | :---: |
+<strong>Dataset : [Super Market Sales Dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales) | Web App : [Super Market Sales App](https://super-market-sales-analysis.streamlit.app/)</strong>
 
-<strong>The objective of this project is to analyze sales data to gain insights into customer purchasing behavior, product performance, and overall trends, of the supermarket business.</strong></p>
+<strong>The objective of this project is to analyze sales data to gain insights into customer purchasing behavior, product performance, and overall trends, of the supermarket business.</strong></p><br>
 
 </div>
 
@@ -125,37 +122,34 @@
 <a href="https://www.kaggle.com/discussions/general/417585" title="Retail Store Sales Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/4.png" alt="Retail Store Sales Dashboard" width="280px" align="left" title="Retail Store Sales Dashboard"/></a>
 <a href="https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard"><strong>Retail Store Sales Dashboard</strong></a>
  
-| <strong>[Retail Store Sales Dataset](https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard/tree/main/Dataset)</strong> |
-| :---: |
+<strong>Dataset : [Retail Store Sales Dataset](https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard/tree/main/Dataset)</strong>
 
 <strong>The aim of this Power BI Dashboard Project is to design a Retail Store Report that provides a clear overview of the Store's Sales performance, enabling the owner to gain actionable insights.</strong></p>
-
+<br>
 <p align="left">
 <a href="https://www.kaggle.com/discussions/general/402148" title="Finance Report Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/3.png" alt="Finance Report Dashboard" width="280px" align="left" title="Finance Report Dashboard"/></a>
 <a href="https://github.com/TheMrityunjayPathak/FinanceReportDashboard"><strong>Finance Report Dashboard</strong></a>
 
-| <strong>[Finance Report Dataset](https://github.com/TheMrityunjayPathak/FinanceReportDashboard/blob/main/financial_data.csv)</strong> |
-| :---: |
+<strong>Dataset : [Finance Report Dataset](https://github.com/TheMrityunjayPathak/FinanceReportDashboard/blob/main/financial_data.csv)
+</strong>
 
-<strong>The Project aims to create a visually appealing dashboard that provides a overview of the company's financial metrics, enabling stakeholders to make informed business decisions.</strong></p>
+<strong>The Project aims to create a visually appealing dashboard that provides a overview of the company's financial metrics, enabling stakeholders to make informed business decisions.</strong></p><br>
 
 <p align="left">
 <a href="https://www.kaggle.com/discussions/general/389383" title="Covid Pandemic Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/2.png" alt="Covid Pandemic Analysis" width="280px" align="left" title="Covid Pandemic Analysis"/></a>
 <a href="https://github.com/TheMrityunjayPathak/CovidPandemicAnalysis"><strong>Covid Pandemic Analysis</strong></a>
 
-| <strong>[Covid Pandemic Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/covid-cases-and-deaths-worldwide)</strong> |
-| :---: |
+<strong>Dataset : [Covid Pandemic Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/covid-cases-and-deaths-worldwide)</strong>
 
-<strong>The objective of this Power BI Dashboard Project is to create a comprehensive and interactive COVID-19 report that provides meaningful insights and analysis of the pandemic's impact.</strong></p>
+<strong>The objective of this Power BI Dashboard Project is to create a comprehensive and interactive COVID-19 report that provides meaningful insights and analysis of the pandemic's impact.</strong></p><br>
 
 <p align="left">
 <a href="https://www.kaggle.com/discussions/general/385012" title="India Population Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/1.png" alt="India Population Analysis" width="280px" align="left" title="India Population Analysis"/></a>
 <a href="https://github.com/TheMrityunjayPathak/IndiaPopulationAnalysis"><strong>India Population Analysis</strong></a>
  
-| <strong>[India Population Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/2011-census-of-india)</strong> |
-| :---: |
+<strong>Dataset : [India Population Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/2011-census-of-india)</strong>
 
-<strong>The objective is to provide insights and visualizations that help stakeholders understand the population dynamics, trends, and patterns across various demographic factors.</strong></p>
+<strong>The objective is to provide insights and visualizations that help stakeholders understand the population dynamics, trends, and patterns across various demographic factors.</strong></p><br>
 
 </div>
 
