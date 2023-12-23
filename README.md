@@ -94,7 +94,7 @@
 | :---: |
 
 <strong>The objective of this Project is to develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</strong></p>
-&nbsp;
+
 <p align="left">
 <a href="https://www.kaggle.com/code/themrityunjaypathak/spaceship-titanic-classification" title="Spaceship Titanic Classification"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml-projects.png" width="280px" align="left" title="Spaceship Titanic Classification"/></a>
 <a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification"><strong>Spaceship Titanic Classification</strong></a>
@@ -155,7 +155,7 @@
 | <strong>[India Population Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/2011-census-of-india)</strong> |
 | :---: |
 
-<strong>The objective is to provide insights and visualizations that help stakeholders understand the population dynamics, trends, and patterns across various demographic factors.</strong></p><br>
+<strong>The objective is to provide insights and visualizations that help stakeholders understand the population dynamics, trends, and patterns across various demographic factors.</strong></p>
 
 </div>
 
