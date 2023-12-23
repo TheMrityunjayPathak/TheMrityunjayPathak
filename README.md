@@ -146,7 +146,7 @@
 | <strong>[Covid Pandemic Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/covid-cases-and-deaths-worldwide)</strong> |
 | :---: |
 
-<strong>The objective of this Power BI Dashboard Project is to create a comprehensive and interactive COVID-19 report that provides meaningful insights and analysis of the pandemic's impact.</strong></p><br>
+<strong>The objective of this Power BI Dashboard Project is to create a comprehensive and interactive COVID-19 report that provides meaningful insights and analysis of the pandemic's impact.</strong></p>
 
 <p align="left">
 <a href="https://www.kaggle.com/discussions/general/385012" title="India Population Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/1.png" alt="India Population Analysis" width="280px" align="left" title="India Population Analysis"/></a>
