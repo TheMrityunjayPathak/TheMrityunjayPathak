@@ -114,9 +114,6 @@
 
 <strong>The objective of this project is to analyze sales data to gain insights into customer purchasing behavior, product performance, and overall trends, of the supermarket business.</strong></p><br>
 
-| [Web App](https://super-market-sales-analysis.streamlit.app/) | [Dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales) |
-|:---:| :---: |
-
 </div>
 
 <div><p><strong>📊 Power BI Projects :</strong></p>
