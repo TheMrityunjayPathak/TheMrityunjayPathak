@@ -110,7 +110,7 @@
 <a href="https://www.kaggle.com/code/themrityunjaypathak/super-market-sales-analysis" title="Super Market Sales Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/eda.png" width="280px" align="left" title="Super Market Sales Analysis"/></a>
 <a href="https://github.com/TheMrityunjayPathak/SuperMarketSalesAnalysis"><strong>Super Market Sales Analysis</strong></a>
  
-<strong>Dataset : [Super Market Sales Dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales) | Web App : [Super Market Sales App](https://super-market-sales-analysis.streamlit.app/)</strong>
+<strong>Dataset : [Super Market Sales Dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales) → Web App : [Super Market Sales App](https://super-market-sales-analysis.streamlit.app/)</strong>
 
 <strong>The objective of this project is to analyze sales data to gain insights into customer purchasing behavior, product performance, and overall trends, of the supermarket business.</strong></p><br>
 
@@ -155,11 +155,15 @@
 
 <div><p><strong>💼 Certificates :</strong></p>
 
+📚 Kaggle Certificates
+
 | <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/python" title="Python"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/python-certificate.png" width="200px" align="center"/></a> | <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/pandas" title="Pandas"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/pandas-certificate.png" width="200px" align="center"/></a> |
 | :---: | :---: |
 
 | <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/data-visualization" title="Data Visualization"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/data-visualization.png" width="200px" align="center"/> | <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/intro-to-machine-learning" title="Intro to Machine Learning"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml-certificate.png" width="200px" align="center"/></a> |
 | :---: | :---: |
+
+📚 HackerRank Certificates
 
 | <a href="https://www.hackerrank.com/certificates/e41a7578cc82" title="HackerRank Python (Basic)"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/deb516fc44a06ff66535769660d04d8c654978a5/python_basic%20certificate.png" width="200px" align="center"/></a> | <a href="https://www.hackerrank.com/certificates/09ec62ca442f" title="HackerRank SQL (Basic)"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/ee9d5e935fe2abf99f8e64ba6e2949d5de716d83/sql_basic%20certificate.png" width="200px" align="center"/></a> |
 | :---: | :---: |
@@ -168,7 +172,7 @@
 
 <div><p><strong>📒 Notebooks :</strong></p>
 
- <p><strong>📕 Data Science</strong></p>
+<p><strong>📕 Data Science</strong></p>
 <details>
 
 <summary><strong>Click Here</strong></summary>
