@@ -181,7 +181,7 @@
 
 - [NumPy](https://www.kaggle.com/code/themrityunjaypathak/numpy-tutorial)
 
-- [Pandas](https://www.kaggle.com/code/themrityunjaypathak/python-tutorial)
+- [Pandas](https://www.kaggle.com/code/themrityunjaypathak/pandas-tutorial)
 
 - [Matplotlib](https://www.kaggle.com/code/themrityunjaypathak/matplotlib-tutorial)
 
