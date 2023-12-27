@@ -276,7 +276,7 @@ For more Details → Go to [SQL for Data Science](https://github.com/TheMrityunj
 <details>
 
 <summary><strong>Click Here</strong></summary>
- 
+<br>
 Linear Algebra 
 
 - [Introduction to Matrices](https://www.kaggle.com/code/themrityunjaypathak/introduction-to-matrices)
