@@ -272,6 +272,17 @@ For more Details → Go to [SQL for Data Science](https://github.com/TheMrityunj
  
 </details>
 
+<p><strong>📔 Machine Learning Mathematics</strong></p>
+<details>
+
+<summary><strong>Click Here</strong></summary>
+ 
+Linear Algebra
+
+- [Introduction to Matrices]()
+
+For more Details → Go to []() Repository
+
 </div>
 
 <div><p><strong>🏆 Achievements :</strong></p>
