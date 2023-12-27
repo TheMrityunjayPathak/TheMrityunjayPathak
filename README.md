@@ -277,11 +277,26 @@ For more Details → Go to [SQL for Data Science](https://github.com/TheMrityunj
 
 <summary><strong>Click Here</strong></summary>
  
-Linear Algebra
+Linear Algebra 
 
-- [Introduction to Matrices]()
+- [Introduction to Matrices](https://www.kaggle.com/code/themrityunjaypathak/introduction-to-matrices)
+- [Matrix Operation using Python](https://www.kaggle.com/code/themrityunjaypathak/matrix-operation-using-python)
 
-For more Details → Go to []() Repository
+Geometry
+
+- [Distance Metrics](https://www.kaggle.com/code/themrityunjaypathak/distance-metrics)
+- [Similarity Metrics](https://www.kaggle.com/code/themrityunjaypathak/similarity-measures)
+- [Box Cox Transformation](https://www.kaggle.com/code/themrityunjaypathak/box-cox-transformation)
+  
+Statistics
+
+- [Basics of Statistics](https://www.kaggle.com/themrityunjaypathak/basic-of-statistics)
+- [Descriptive Statistics with Python](https://www.kaggle.com/code/themrityunjaypathak/descriptive-statistics-with-python)
+- [Bias and Variance](https://www.kaggle.com/code/themrityunjaypathak/bias-and-variance-and-its-trade-off)
+- [Covariance and Correlation](https://www.kaggle.com/code/themrityunjaypathak/covariance-and-correlation)
+- [Understanding Normal Distribution](https://www.kaggle.com/themrityunjaypathak/understanding-normal-distribution)
+
+For more Details → Go to [Machine Learning Mathematics](https://github.com/TheMrityunjayPathak/MachineLearningMathematics) Repository
 
 </div>
 
