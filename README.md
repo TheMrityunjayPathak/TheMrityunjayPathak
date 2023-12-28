@@ -246,7 +246,7 @@ For more Details → Go to [Feature Engineering](https://github.com/TheMrityunja
 <p><strong>📙 Structured Query Language</strong></p>
 <details>
 
- <summary><strong>Click Here</strong></summary>
+<summary><strong>Click Here</strong></summary>
 
 - [SQL Basics](https://www.kaggle.com/code/themrityunjaypathak/sql-for-data-science-day-1)
   
@@ -276,24 +276,25 @@ For more Details → Go to [SQL for Data Science](https://github.com/TheMrityunj
 <details>
 
 <summary><strong>Click Here</strong></summary>
-<br>
-Linear Algebra 
 
 - [Introduction to Matrices](https://www.kaggle.com/code/themrityunjaypathak/introduction-to-matrices)
+
 - [Matrix Operation using Python](https://www.kaggle.com/code/themrityunjaypathak/matrix-operation-using-python)
 
-Geometry
-
 - [Distance Metrics](https://www.kaggle.com/code/themrityunjaypathak/distance-metrics)
+
 - [Similarity Metrics](https://www.kaggle.com/code/themrityunjaypathak/similarity-measures)
+
 - [Box Cox Transformation](https://www.kaggle.com/code/themrityunjaypathak/box-cox-transformation)
-  
-Statistics
 
 - [Basics of Statistics](https://www.kaggle.com/themrityunjaypathak/basic-of-statistics)
+
 - [Descriptive Statistics with Python](https://www.kaggle.com/code/themrityunjaypathak/descriptive-statistics-with-python)
+
 - [Bias and Variance](https://www.kaggle.com/code/themrityunjaypathak/bias-and-variance-and-its-trade-off)
+
 - [Covariance and Correlation](https://www.kaggle.com/code/themrityunjaypathak/covariance-and-correlation)
+
 - [Understanding Normal Distribution](https://www.kaggle.com/themrityunjaypathak/understanding-normal-distribution)
 
 For more Details → Go to [Machine Learning Mathematics](https://github.com/TheMrityunjayPathak/MachineLearningMathematics) Repository
