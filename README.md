@@ -272,20 +272,26 @@ For more Details → Go to [SQL for Data Science](https://github.com/TheMrityunj
  
 </details>
 
-<p><strong>📔 Machine Learning Mathematics</strong></p>
+<p><strong>📓 Machine Learning Mathematics</strong></p>
 <details>
 
 <summary><strong>Click Here</strong></summary>
 
+- Linear Algebra
+
 - [Introduction to Matrices](https://www.kaggle.com/code/themrityunjaypathak/introduction-to-matrices)
 
 - [Matrix Operation using Python](https://www.kaggle.com/code/themrityunjaypathak/matrix-operation-using-python)
+
+- Geometry
 
 - [Distance Metrics](https://www.kaggle.com/code/themrityunjaypathak/distance-metrics)
 
 - [Similarity Metrics](https://www.kaggle.com/code/themrityunjaypathak/similarity-measures)
 
 - [Box Cox Transformation](https://www.kaggle.com/code/themrityunjaypathak/box-cox-transformation)
+
+- Statistics
 
 - [Basics of Statistics](https://www.kaggle.com/themrityunjaypathak/basic-of-statistics)
 
