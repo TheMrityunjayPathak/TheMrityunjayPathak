@@ -112,7 +112,7 @@
  
 <strong>Dataset : [Super Market Sales Dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales) → Web App : [Super Market Sales App](https://super-market-sales-analysis.streamlit.app/)</strong>
 
-<strong>The objective of this project is to analyze sales data to gain insights into customer purchasing behavior, product performance, and overall trends, of the supermarket business.</strong></p><br>
+<strong>The objective of this project is to analyze sales data to gain insights into customer purchasing behavior, product performance and overall trends of the supermarket business.</strong></p><br>
 
 </div>
 
@@ -124,7 +124,7 @@
  
 <strong>Dataset : [Retail Store Sales Dataset](https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard/tree/main/Dataset)</strong>
 
-<strong>The aim of this Power BI Dashboard Project is to design a Retail Store Report that provides a clear overview of the Store's Sales performance, enabling the owner to gain actionable insights.</strong></p>
+<strong>The aim of this Power BI Dashboard Project is to design a Retail Store Report that provides a clear overview of the Store's Sales performance enabling the owner to gain actionable insights.</strong></p>
 <br>
 <p align="left">
 <a href="https://www.kaggle.com/discussions/general/402148" title="Finance Report Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/3.png" alt="Finance Report Dashboard" width="280px" align="left" title="Finance Report Dashboard"/></a>
@@ -133,7 +133,7 @@
 <strong>Dataset : [Finance Report Dataset](https://github.com/TheMrityunjayPathak/FinanceReportDashboard/blob/main/financial_data.csv)
 </strong>
 
-<strong>The Project aims to create a visually appealing dashboard that provides a overview of the company's financial metrics, enabling stakeholders to make informed business decisions.</strong></p><br>
+<strong>The Project aims to create a visually appealing dashboard that provides a overview of the company's financial metrics enabling stakeholders to make informed business decisions.</strong></p><br>
 
 <p align="left">
 <a href="https://www.kaggle.com/discussions/general/389383" title="Covid Pandemic Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/2.png" alt="Covid Pandemic Analysis" width="280px" align="left" title="Covid Pandemic Analysis"/></a>
