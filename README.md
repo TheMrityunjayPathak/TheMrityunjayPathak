@@ -4,7 +4,7 @@
 
 #
 
-<p>I am a dedicated data scientist with a knack for uncovering patterns and trends that help businesses make smarter decisions.</p>
+<p>I am a dedicated Data Scientist with a knack for uncovering patterns and trends that drive smarter decisions.</p>
 
 <p><strong>🗂️ GitHub Repository</strong></p>
  
@@ -20,7 +20,7 @@
 
 <p><strong>🎙️ Expertise</strong></p>
 
-- If you have any questions or need assistance with Python, SQL, PowerBI, or Machine Learning, I am here to help!
+- If you have any questions or need assistance with Python, SQL, Power BI, or Machine Learning, I am here to help!
   
 - I have hands-on experience with these powerful tools and techniques and would love to share my knowledge with you.
 
