@@ -165,7 +165,7 @@
 
 📃 HackerRank Certificates
 
-| <a href="https://www.hackerrank.com/certificates/e41a7578cc82" title="HackerRank Python (Basic)"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/deb516fc44a06ff66535769660d04d8c654978a5/python_basic%20certificate.png" width="200px" align="center"/></a> | <a href="https://www.hackerrank.com/certificates/09ec62ca442f" title="HackerRank SQL (Basic)"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/ee9d5e935fe2abf99f8e64ba6e2949d5de716d83/sql_basic%20certificate.png" width="200px" align="center"/></a> |
+| <a href="https://www.hackerrank.com/certificates/e41a7578cc82" title="HackerRank Python (Basic)"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/python-hacker.jpg" width="200px" align="center"/></a> | <a href="https://www.hackerrank.com/certificates/09ec62ca442f" title="HackerRank SQL (Basic)"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/sql-hacker.jpg" width="200px" align="center"/></a> |
 | :---: | :---: |
 
 </div>
