@@ -20,7 +20,7 @@
 
 <p><strong>🎙️ Expertise</strong></p>
 
-- If you have any questions or need assistance with Python, SQL, Power BI, or Machine Learning, I am here to help!
+- If you have any questions or need assistance with Python, Machine Learning, MySQL or Power BI. I am here to help!
   
 - I have hands-on experience with these powerful tools and techniques and would love to share my knowledge with you.
 
