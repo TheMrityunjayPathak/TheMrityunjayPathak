@@ -303,6 +303,10 @@ For more Details → Go to [SQL for Data Science](https://github.com/TheMrityunj
 
 - [Understanding Normal Distribution](https://www.kaggle.com/themrityunjaypathak/understanding-normal-distribution)
 
+- Probability
+
+- [Introduction to Probability](https://www.kaggle.com/themrityunjaypathak/introduction-to-probability)
+
 For more Details → Go to [Machine Learning Mathematics](https://github.com/TheMrityunjayPathak/MachineLearningMathematics) Repository
 
 </div>
