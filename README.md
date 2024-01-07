@@ -72,7 +72,7 @@
 | <p align="center"><strong>Banaras Hindu University</strong></p> |
 | <p align="center"><strong>B.Voc in Computer Application</strong></p> |
 | <p align="center"><strong>Dec 2021 - July 2024</strong></p> |
-| <p align="center"><strong>CGPA : 8.27 (SEM - III)</strong></p> |
+| <p align="center"><strong>CGPA : 8.3 (2nd Year)</strong></p> |
 
 </div>
 
