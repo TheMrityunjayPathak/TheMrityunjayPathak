@@ -315,7 +315,7 @@ For more Details → Go to [Machine Learning Mathematics](https://github.com/The
 
 <div><p><strong>🏆 Achievements :</strong></p>
 
-| 5 ⭐ Python HackerRank | 5 ⭐ SQL HackerRank | Kaggle Expert |
+| 5 ⭐ Python HackerRank | 5 ⭐ SQL HackerRank | Kaggle Master |
 | :---: | :---: | :---: |
 
 </div>
