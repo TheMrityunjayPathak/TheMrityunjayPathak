@@ -303,6 +303,8 @@ For more Details → Go to [SQL for Data Science](https://github.com/TheMrityunj
 
 - [Understanding Normal Distribution](https://www.kaggle.com/themrityunjaypathak/understanding-normal-distribution)
 
+- [Hypothesis Testing](https://www.kaggle.com/code/themrityunjaypathak/hypothesis-testing)
+
 - Probability
 
 - [Introduction to Probability](https://www.kaggle.com/themrityunjaypathak/introduction-to-probability)
