@@ -287,7 +287,7 @@ For more Details → Go to [SQL for Data Science](https://github.com/TheMrityunj
 
 - [Distance Metrics](https://www.kaggle.com/code/themrityunjaypathak/distance-metrics)
 
-- [Similarity Metrics](https://www.kaggle.com/code/themrityunjaypathak/similarity-measures)
+- [Similarity Measures](https://www.kaggle.com/code/themrityunjaypathak/similarity-measures)
 
 - [Box Cox Transformation](https://www.kaggle.com/code/themrityunjaypathak/box-cox-transformation)
 
@@ -297,11 +297,11 @@ For more Details → Go to [SQL for Data Science](https://github.com/TheMrityunj
 
 - [Descriptive Statistics with Python](https://www.kaggle.com/code/themrityunjaypathak/descriptive-statistics-with-python)
 
-- [Bias and Variance](https://www.kaggle.com/code/themrityunjaypathak/bias-and-variance-and-its-trade-off)
+- [Bias and Variance](https://www.kaggle.com/code/themrityunjaypathak/bias-and-variance)
 
 - [Covariance and Correlation](https://www.kaggle.com/code/themrityunjaypathak/covariance-and-correlation)
 
-- [Understanding Normal Distribution](https://www.kaggle.com/themrityunjaypathak/understanding-normal-distribution)
+- [Normal Distribution](https://www.kaggle.com/themrityunjaypathak/normal-distribution)
 
 - [Hypothesis Testing](https://www.kaggle.com/code/themrityunjaypathak/hypothesis-testing)
 
