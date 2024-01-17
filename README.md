@@ -311,6 +311,10 @@ For more Details → Go to [SQL for Data Science](https://github.com/TheMrityunj
 
 - [Probability Distribution](https://www.kaggle.com/themrityunjaypathak/probability-distribution)
 
+- Calculus
+
+- [Introduction to Calculus](https://www.kaggle.com/code/themrityunjaypathak/introduction-to-calculus)
+
 For more Details → Go to [Machine Learning Mathematics](https://github.com/TheMrityunjayPathak/MachineLearningMathematics) Repository
 
 </div>
