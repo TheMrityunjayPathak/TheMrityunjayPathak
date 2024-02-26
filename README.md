@@ -237,7 +237,7 @@ For more Details → Go to [Machine Learning](https://github.com/TheMrityunjayPa
 
 - [Data Standardization](https://www.kaggle.com/code/themrityunjaypathak/data-standardization)
 
-- [Handling Imbalance Dataset](https://www.kaggle.com/code/themrityunjaypathak/handling-imbalance-datasete)
+- [Handling Imbalance Dataset](https://www.kaggle.com/code/themrityunjaypathak/handling-imbalance-dataset)
 
 For more Details → Go to [Feature Engineering](https://github.com/TheMrityunjayPathak/FeatureEngineering) Repository
 
