@@ -93,7 +93,7 @@
 <a href="https://www.kaggle.com/code/themrityunjaypathak/car-price-prediction-using-linear-regression" title="Car Price Prediction"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml-projects.png" width="280px" align="left" title="Car Price Prediction"/></a>
 <a href="https://github.com/TheMrityunjayPathak/CarPricePrediction"><strong>Car Price Prediction</strong></a>
  
-<strong>Algorithm Used : Regression</strong>
+<strong>Algorithm Used : Regression → Web App : [Car Price Prediction App](https://car-price-prediction-using-lr.streamlit.app/)</strong>
 
 <strong>The objective of this Project is to develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</strong></p><br>
 
