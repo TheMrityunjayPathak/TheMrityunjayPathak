@@ -81,7 +81,7 @@
 
 <div><p><strong>📜 Resume :</strong></p>
 
-| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/49484551-e39b-4928-bf7c-c157d20c2d2c" width="200px" title="Mrityunjay Pathak - Resume"> |
+| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/33985ab3-135c-403b-a71a-7b6b0bf5c828" width="200px" title="Mrityunjay Pathak - Resume"> |
 | :---: |
 | <p align="center"><strong>[Checkout My Resume Here](https://www.canva.com/design/DAFkLIXHsbQ/cXGm0iQBx9Nq-tdaQTi_VA/view?utm_content=DAFkLIXHsbQ&utm_campaign=designshare&utm_medium=link&utm_source=viewer)</strong></p>
 
