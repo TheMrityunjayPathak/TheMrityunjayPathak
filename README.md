@@ -38,9 +38,6 @@
     <a href="https://www.linkedin.com/in/themrityunjaypathak" title="LinkedIn">
         <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/linkedin.png" width="4%" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://twitter.com/_themrityunjay" title="Twitter">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/twitter-x.png" width="4%" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/TheMrityunjayPathak" title="GitHub">
         <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/github.png" width="4%" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
