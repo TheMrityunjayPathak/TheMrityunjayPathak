@@ -75,7 +75,7 @@
 | <p align="center"><strong>CGPA : 8.3 (2nd Year)</strong></p> |
 
 </div>
-
+<br>
 <div><p><strong>📜 Resume :</strong></p>
 
 | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/ee7ce889-3dfb-400b-be30-ca1bd5e57cff" width="200px" title="Mrityunjay Pathak - Resume"> |
@@ -83,7 +83,7 @@
 | <p align="center"><strong>[Checkout My Resume Here](https://drive.google.com/file/d/198sSVWh8EAhfLOgep6oNmLhxoNQC77so/view?usp=sharing)</strong></p>
 
 </div>
-
+<br>
 <div><p><strong>🗃️ ML Projects :</strong></p>
 
 <p align="left">
@@ -92,8 +92,8 @@
  
 <strong>Dataset : [Car Price Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling) → Web App : [Car Price Prediction App](https://car-price-prediction-using-lr.streamlit.app/)</strong>
 
-<strong>The objective of this Project is to develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</strong></p><br>
-
+<strong>The objective of this Project is to develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</strong></p>
+<br>
 <p align="left">
 <a href="https://www.kaggle.com/code/themrityunjaypathak/spaceship-titanic-classification" title="Spaceship Titanic Classification"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml.png" width="280px" align="left" title="Spaceship Titanic Classification"/></a>
 <a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification"><strong>Spaceship Titanic Classification</strong></a>
@@ -102,8 +102,8 @@
 
 <strong>The objective of this Project is to predict whether a passenger was transported to an alternate dimension during the Spaceship collision with the spacetime anomaly.</strong></p>
 
-</div><br>
-
+</div>
+<br>
 <div><p><strong>🔍 Exploratory Data Analysis :</strong></p>
  
 <p align="left">
@@ -114,8 +114,8 @@
 
 <strong>The objective of this project is to analyze sales data to gain insights into customer purchasing behavior, product performance and overall trends of the supermarket business.</strong></p>
 
-</div><br>
-
+</div>
+<br>
 <div><p><strong>📊 Power BI Projects :</strong></p>
 
 <p align="left">
@@ -125,7 +125,6 @@
 <strong>Dataset : [Retail Store Sales Dataset](https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard/tree/main/Dataset)</strong>
 
 <strong>The aim of this Power BI Dashboard Project is to design a Retail Store Report that provides a clear overview of the Store's Sales performance enabling the owner to gain actionable insights.</strong></p><br>
-
 <p align="left">
 <a href="https://www.kaggle.com/discussions/general/402148" title="Finance Report Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/power-bi.png" alt="Finance Report Dashboard" width="280px" align="left" title="Finance Report Dashboard"/></a>
 <a href="https://github.com/TheMrityunjayPathak/FinanceReportDashboard"><strong>Finance Report Dashboard</strong></a>
@@ -141,16 +140,16 @@
 
 <strong>Dataset : [Covid Pandemic Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/covid-cases-and-deaths-worldwide)</strong>
 
-<strong>The objective of this Power BI Dashboard Project is to create a comprehensive and interactive COVID-19 report that provides meaningful insights and analysis of the pandemic's impact.</strong></p><br>
-
+<strong>The objective of this Power BI Dashboard Project is to create a comprehensive and interactive COVID-19 report that provides meaningful insights and analysis of the pandemic's impact.</strong></p>
+<br>
 <p align="left">
 <a href="https://www.kaggle.com/discussions/general/385012" title="India Population Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/power-bi.png" alt="India Population Analysis" width="280px" align="left" title="India Population Analysis"/></a>
 <a href="https://github.com/TheMrityunjayPathak/IndiaPopulationAnalysis"><strong>India Population Analysis</strong></a>
  
 <strong>Dataset : [India Population Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/2011-census-of-india)</strong>
 
-<strong>The objective is to provide insights and visualizations that help stakeholders understand the population dynamics, trends, and patterns across various demographic factors.</strong></p><br>
-
+<strong>The objective is to provide insights and visualizations that help stakeholders understand the population dynamics, trends, and patterns across various demographic factors.</strong></p>
+<br>
 </div>
 
 <div><p><strong>💼 Certificates :</strong></p>
@@ -169,7 +168,7 @@
 | :---: | :---: |
 
 </div>
-
+<br>
 <div><p><strong>📒 Notebooks :</strong></p>
 
 <p><strong>📕 Data Science</strong></p>
@@ -318,17 +317,16 @@ For more Details → Go to [SQL for Data Science](https://github.com/TheMrityunj
 For more Details → Go to [Machine Learning Mathematics](https://github.com/TheMrityunjayPathak/MachineLearningMathematics) Repository
 
 </div>
-
+<br>
 <div><p><strong>🏆 Achievements :</strong></p>
 
 | 5 ⭐ Python HackerRank | 5 ⭐ SQL HackerRank | Kaggle Master |
 | :---: | :---: | :---: |
 
 </div>
+<br>
 
 | [Scroll to Top ⬆️](#) |
 | :---: |
 
 <p align="center"><strong>Thanks 👏 for Visiting!</strong></p>
-
-</strong>
