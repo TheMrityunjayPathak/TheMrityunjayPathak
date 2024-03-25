@@ -100,9 +100,9 @@
  
 <strong>Dataset : [Spaceship Titanic Dataset](https://www.kaggle.com/competitions/spaceship-titanic/data?select=train.csv) → Web App : [Spaceship Titanic App](https://spaceship-titanic-classification.streamlit.app/)</strong>
 
-<strong>The objective of this Project is to predict whether a passenger was transported to an alternate dimension during the Spaceship collision with the spacetime anomaly.</strong></p><br>
+<strong>The objective of this Project is to predict whether a passenger was transported to an alternate dimension during the Spaceship collision with the spacetime anomaly.</strong></p>
 
-</div>
+</div><br>
 
 <div><p><strong>🔍 Exploratory Data Analysis :</strong></p>
  
@@ -112,9 +112,9 @@
  
 <strong>Dataset : [Super Market Sales Dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales) → Web App : [Super Market Sales App](https://super-market-sales-analysis.streamlit.app/)</strong>
 
-<strong>The objective of this project is to analyze sales data to gain insights into customer purchasing behavior, product performance and overall trends of the supermarket business.</strong></p><br>
+<strong>The objective of this project is to analyze sales data to gain insights into customer purchasing behavior, product performance and overall trends of the supermarket business.</strong></p>
 
-</div>
+</div><br>
 
 <div><p><strong>📊 Power BI Projects :</strong></p>
 
@@ -124,8 +124,8 @@
  
 <strong>Dataset : [Retail Store Sales Dataset](https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard/tree/main/Dataset)</strong>
 
-<strong>The aim of this Power BI Dashboard Project is to design a Retail Store Report that provides a clear overview of the Store's Sales performance enabling the owner to gain actionable insights.</strong></p>
-<br>
+<strong>The aim of this Power BI Dashboard Project is to design a Retail Store Report that provides a clear overview of the Store's Sales performance enabling the owner to gain actionable insights.</strong></p><br>
+
 <p align="left">
 <a href="https://www.kaggle.com/discussions/general/402148" title="Finance Report Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/power-bi.png" alt="Finance Report Dashboard" width="280px" align="left" title="Finance Report Dashboard"/></a>
 <a href="https://github.com/TheMrityunjayPathak/FinanceReportDashboard"><strong>Finance Report Dashboard</strong></a>
