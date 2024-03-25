@@ -29,7 +29,7 @@
 - Whether you want to discuss about a project, have a data-related challenge, or simply want to connect.
 
 - Feel free to reach out to me at <a href="mailto:themrityunjaypathak@gmail.com" title="Mrityunjay's E-Mail">themrityunjaypathak@gmail.com</a>.
-<br>
+
 <div align="center"><p align="center"><strong>🌏 Connect with Me :</strong></p>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.kaggle.com/themrityunjaypathak" title="Kaggle">
@@ -49,7 +49,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
-<br>
+
 <div align="center"><p align="center"><strong>📋 Skills :</strong></p>
 
 |<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/749de882-b62f-4ab7-9157-afff30f77654" width="70px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/0d3fa5fc-fd72-4b52-aec6-38c5fef54671" width="70px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/1ca8a688-9602-41c6-a6da-9c0b6a28f992" width="70px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/a14d14c8-af2d-4e4b-937b-296408717db6" width="70px">|
@@ -64,7 +64,7 @@
 | :---: | :---: | :---: | :---: |
 |<p align="center"><strong>Git</strong></p>|<p align="center"><strong>Streamlit</strong></p>|<p align="center"><strong>HTML</strong></p>|<p align="center"><strong>CSS</strong></p>|
 </div>
-<br>
+
 <div><p><strong>🏫 Education :</strong></p>
  
 | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/ab1724bf-1269-42c6-a5f6-9fc341c0f4fe" width="200px" title="Banaras Hindu University"> |
@@ -75,7 +75,7 @@
 | <p align="center"><strong>CGPA : 8.3 (2nd Year)</strong></p> |
 
 </div>
-<br>
+
 <div><p><strong>📜 Resume :</strong></p>
 
 | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/ee7ce889-3dfb-400b-be30-ca1bd5e57cff" width="200px" title="Mrityunjay Pathak - Resume"> |
@@ -83,75 +83,75 @@
 | <p align="center"><strong>[Checkout My Resume Here](https://drive.google.com/file/d/198sSVWh8EAhfLOgep6oNmLhxoNQC77so/view?usp=sharing)</strong></p>
 
 </div>
-<br>
+
 <div><p><strong>🗃️ ML Projects :</strong></p>
 
-<p align="left">
+<div align="left">
 <a href="https://www.kaggle.com/code/themrityunjaypathak/car-price-prediction-using-linear-regression" title="Car Price Prediction"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml.png" width="280px" align="left" title="Car Price Prediction"/></a>
 <a href="https://github.com/TheMrityunjayPathak/CarPricePrediction"><strong>Car Price Prediction</strong></a>
  
 <strong>Dataset : [Car Price Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling) → Web App : [Car Price Prediction App](https://car-price-prediction-using-lr.streamlit.app/)</strong>
 
-<strong>The objective of this Project is to develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</strong></p>
+<strong>The objective of this Project is to develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</strong></div>
 <br>
-<p align="left">
+<div align="left">
 <a href="https://www.kaggle.com/code/themrityunjaypathak/spaceship-titanic-classification" title="Spaceship Titanic Classification"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml.png" width="280px" align="left" title="Spaceship Titanic Classification"/></a>
 <a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification"><strong>Spaceship Titanic Classification</strong></a>
  
 <strong>Dataset : [Spaceship Titanic Dataset](https://www.kaggle.com/competitions/spaceship-titanic/data?select=train.csv) → Web App : [Spaceship Titanic App](https://spaceship-titanic-classification.streamlit.app/)</strong>
 
-<strong>The objective of this Project is to predict whether a passenger was transported to an alternate dimension during the Spaceship collision with the spacetime anomaly.</strong></p>
+<strong>The objective of this Project is to predict whether a passenger was transported to an alternate dimension during the Spaceship collision with the spacetime anomaly.</strong></div>
 
 </div>
 <br>
 <div><p><strong>🔍 Exploratory Data Analysis :</strong></p>
  
-<p align="left">
+<div align="left">
 <a href="https://www.kaggle.com/code/themrityunjaypathak/super-market-sales-analysis" title="Super Market Sales Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/eda.png" width="280px" align="left" title="Super Market Sales Analysis"/></a>
 <a href="https://github.com/TheMrityunjayPathak/SuperMarketSalesAnalysis"><strong>Super Market Sales Analysis</strong></a>
  
 <strong>Dataset : [Super Market Sales Dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales) → Web App : [Super Market Sales App](https://super-market-sales-analysis.streamlit.app/)</strong>
 
-<strong>The objective of this project is to analyze sales data to gain insights into customer purchasing behavior, product performance and overall trends of the supermarket business.</strong></p>
+<strong>The objective of this project is to analyze sales data to gain insights into customer purchasing behavior, product performance and overall trends of the supermarket business.</strong></div>
 
 </div>
 <br>
 <div><p><strong>📊 Power BI Projects :</strong></p>
 
-<p align="left">
+<div align="left">
 <a href="https://www.kaggle.com/discussions/general/417585" title="Retail Store Sales Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/power-bi.png" alt="Retail Store Sales Dashboard" width="280px" align="left" title="Retail Store Sales Dashboard"/></a>
 <a href="https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard"><strong>Retail Store Sales Dashboard</strong></a>
  
 <strong>Dataset : [Retail Store Sales Dataset](https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard/tree/main/Dataset)</strong>
 
-<strong>The aim of this Power BI Dashboard Project is to design a Retail Store Report that provides a clear overview of the Store's Sales performance enabling the owner to gain actionable insights.</strong></p><br>
-<p align="left">
+<strong>The aim of this Power BI Dashboard Project is to design a Retail Store Report that provides a clear overview of the Store's Sales performance enabling the owner to gain actionable insights.</strong></div><br>
+<div align="left">
 <a href="https://www.kaggle.com/discussions/general/402148" title="Finance Report Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/power-bi.png" alt="Finance Report Dashboard" width="280px" align="left" title="Finance Report Dashboard"/></a>
 <a href="https://github.com/TheMrityunjayPathak/FinanceReportDashboard"><strong>Finance Report Dashboard</strong></a>
 
 <strong>Dataset : [Finance Report Dataset](https://github.com/TheMrityunjayPathak/FinanceReportDashboard/blob/main/financial_data.csv)
 </strong>
 
-<strong>The Project aims to create a visually appealing dashboard that provides a overview of the company's financial metrics enabling stakeholders to make informed business decisions.</strong></p><br>
-
-<p align="left">
+<strong>The Project aims to create a visually appealing dashboard that provides a overview of the company's financial metrics enabling stakeholders to make informed business decisions.</strong></div>
+<br>
+<div align="left">
 <a href="https://www.kaggle.com/discussions/general/389383" title="Covid Pandemic Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/power-bi.png" alt="Covid Pandemic Analysis" width="280px" align="left" title="Covid Pandemic Analysis"/></a>
 <a href="https://github.com/TheMrityunjayPathak/CovidPandemicAnalysis"><strong>Covid Pandemic Analysis</strong></a>
 
 <strong>Dataset : [Covid Pandemic Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/covid-cases-and-deaths-worldwide)</strong>
 
-<strong>The objective of this Power BI Dashboard Project is to create a comprehensive and interactive COVID-19 report that provides meaningful insights and analysis of the pandemic's impact.</strong></p>
+<strong>The objective of this Power BI Dashboard Project is to create a comprehensive and interactive COVID-19 report that provides meaningful insights and analysis of the pandemic's impact.</strong></div>
 <br>
-<p align="left">
+<div align="left">
 <a href="https://www.kaggle.com/discussions/general/385012" title="India Population Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/power-bi.png" alt="India Population Analysis" width="280px" align="left" title="India Population Analysis"/></a>
 <a href="https://github.com/TheMrityunjayPathak/IndiaPopulationAnalysis"><strong>India Population Analysis</strong></a>
  
 <strong>Dataset : [India Population Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/2011-census-of-india)</strong>
 
-<strong>The objective is to provide insights and visualizations that help stakeholders understand the population dynamics, trends, and patterns across various demographic factors.</strong></p>
-<br>
-</div>
+<strong>The objective is to provide insights and visualizations that help stakeholders understand the population dynamics, trends, and patterns across various demographic factors.</strong></div>
 
+</div>
+<br>
 <div><p><strong>💼 Certificates :</strong></p>
 
 📃 Kaggle Certificates
@@ -168,7 +168,7 @@
 | :---: | :---: |
 
 </div>
-<br>
+
 <div><p><strong>📒 Notebooks :</strong></p>
 
 <p><strong>📕 Data Science</strong></p>
@@ -317,16 +317,17 @@ For more Details → Go to [SQL for Data Science](https://github.com/TheMrityunj
 For more Details → Go to [Machine Learning Mathematics](https://github.com/TheMrityunjayPathak/MachineLearningMathematics) Repository
 
 </div>
-<br>
+
 <div><p><strong>🏆 Achievements :</strong></p>
 
 | 5 ⭐ Python HackerRank | 5 ⭐ SQL HackerRank | Kaggle Master |
 | :---: | :---: | :---: |
 
 </div>
-<br>
 
 | [Scroll to Top ⬆️](#) |
 | :---: |
 
 <p align="center"><strong>Thanks 👏 for Visiting!</strong></p>
+
+</strong>
