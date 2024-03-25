@@ -87,7 +87,7 @@
 <div><p><strong>🗃️ ML Projects :</strong></p>
 
 <p align="left">
-<a href="https://www.kaggle.com/code/themrityunjaypathak/car-price-prediction-using-linear-regression" title="Car Price Prediction"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/78ed90fa-ef77-4d0a-951b-3d2f5c195147" width="280px" align="left" title="Car Price Prediction"/></a>
+<a href="https://www.kaggle.com/code/themrityunjaypathak/car-price-prediction-using-linear-regression" title="Car Price Prediction"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml.png" width="280px" align="left" title="Car Price Prediction"/></a>
 <a href="https://github.com/TheMrityunjayPathak/CarPricePrediction"><strong>Car Price Prediction</strong></a>
  
 <strong>Dataset : [Car Price Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling) → Web App : [Car Price Prediction App](https://car-price-prediction-using-lr.streamlit.app/)</strong>
@@ -95,7 +95,7 @@
 <strong>The objective of this Project is to develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</strong></p><br>
 
 <p align="left">
-<a href="https://www.kaggle.com/code/themrityunjaypathak/spaceship-titanic-classification" title="Spaceship Titanic Classification"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml-projects.png" width="280px" align="left" title="Spaceship Titanic Classification"/></a>
+<a href="https://www.kaggle.com/code/themrityunjaypathak/spaceship-titanic-classification" title="Spaceship Titanic Classification"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml.png" width="280px" align="left" title="Spaceship Titanic Classification"/></a>
 <a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification"><strong>Spaceship Titanic Classification</strong></a>
  
 <strong>Dataset : [Spaceship Titanic Dataset](https://www.kaggle.com/competitions/spaceship-titanic/data?select=train.csv) → Web App : [Spaceship Titanic App](https://spaceship-titanic-classification.streamlit.app/)</strong>
