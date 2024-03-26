@@ -29,7 +29,7 @@
 - Whether you want to discuss about a project, have a data-related challenge, or simply want to connect.
 
 - Feel free to reach out to me at <a href="mailto:themrityunjaypathak@gmail.com" title="Mrityunjay's E-Mail">themrityunjaypathak@gmail.com</a>.
-
+&nbsp;
 <div align="center"><p align="center"><strong>🌏 Connect with Me :</strong></p>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.kaggle.com/themrityunjaypathak" title="Kaggle">
@@ -49,7 +49,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
-
+&nbsp;
 <div align="center"><p align="center"><strong>📋 Skills :</strong></p>
 
 |<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/749de882-b62f-4ab7-9157-afff30f77654" width="70px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/0d3fa5fc-fd72-4b52-aec6-38c5fef54671" width="70px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/1ca8a688-9602-41c6-a6da-9c0b6a28f992" width="70px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/a14d14c8-af2d-4e4b-937b-296408717db6" width="70px">|
@@ -64,7 +64,7 @@
 | :---: | :---: | :---: | :---: |
 |<p align="center"><strong>Git</strong></p>|<p align="center"><strong>Streamlit</strong></p>|<p align="center"><strong>HTML</strong></p>|<p align="center"><strong>CSS</strong></p>|
 </div>
-
+&nbsp;
 <div><p><strong>🏫 Education :</strong></p>
  
 | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/ab1724bf-1269-42c6-a5f6-9fc341c0f4fe" width="200px" title="Banaras Hindu University"> |
@@ -89,7 +89,7 @@
 <div align="left">
 <a href="https://www.kaggle.com/code/themrityunjaypathak/car-price-prediction-using-linear-regression" title="Car Price Prediction"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml.png" width="280px" align="left" title="Car Price Prediction"/></a>
 <a href="https://github.com/TheMrityunjayPathak/CarPricePrediction"><strong>Car Price Prediction</strong></a>
- 
+
 <strong>Dataset : [Car Price Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling) → Web App : [Car Price Prediction App](https://car-price-prediction-using-lr.streamlit.app/)</strong>
 
 <strong>The objective of this Project is to develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</strong></div>
