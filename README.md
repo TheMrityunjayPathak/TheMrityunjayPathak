@@ -64,7 +64,7 @@
 | :---: | :---: | :---: | :---: |
 |<p align="center"><strong>Git</strong></p>|<p align="center"><strong>Streamlit</strong></p>|<p align="center"><strong>HTML</strong></p>|<p align="center"><strong>CSS</strong></p>|
 </div>
-&nbsp;
+
 <div><p><strong>🏫 Education :</strong></p>
  
 | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/ab1724bf-1269-42c6-a5f6-9fc341c0f4fe" width="200px" title="Banaras Hindu University"> |
@@ -103,7 +103,7 @@
 <strong>The objective of this Project is to predict whether a passenger was transported to an alternate dimension during the Spaceship collision with the spacetime anomaly.</strong></div>
 
 </div>
-<br>
+<br><br>
 <div><p><strong>🔍 Exploratory Data Analysis :</strong></p>
  
 <div align="left">
@@ -115,7 +115,7 @@
 <strong>The objective of this project is to analyze sales data to gain insights into customer purchasing behavior, product performance and overall trends of the supermarket business.</strong></div>
 
 </div>
-<br>
+<br><br>
 <div><p><strong>📊 Power BI Projects :</strong></p>
 
 <div align="left">
