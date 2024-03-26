@@ -92,7 +92,7 @@
 
 <strong>Dataset : [Car Price Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling) → Web App : [Car Price Prediction App](https://car-price-prediction-using-lr.streamlit.app/)</strong>
 
-<strong>The objective of this Project is to develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</strong></div>
+<strong>To develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</strong></div>
 <br>
 <div align="left">
 <a href="https://www.kaggle.com/code/themrityunjaypathak/spaceship-titanic-classification" title="Spaceship Titanic Classification"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml.png" width="280px" align="left" title="Spaceship Titanic Classification"/></a>
@@ -100,7 +100,7 @@
  
 <strong>Dataset : [Spaceship Titanic Dataset](https://www.kaggle.com/competitions/spaceship-titanic/data?select=train.csv) → Web App : [Spaceship Titanic App](https://spaceship-titanic-classification.streamlit.app/)</strong>
 
-<strong>The objective of this Project is to predict whether a passenger was transported to an alternate dimension during the Spaceship collision with the spacetime anomaly.</strong></div>
+<strong>To predict whether a passenger was transported to an alternate dimension during the Spaceship collision with the spacetime anomaly.</strong></div>
 
 </div>
 <br><br>
@@ -112,7 +112,7 @@
  
 <strong>Dataset : [Super Market Sales Dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales) → Web App : [Super Market Sales App](https://super-market-sales-analysis.streamlit.app/)</strong>
 
-<strong>The objective of this project is to analyze sales data to gain insights into customer purchasing behavior, product performance and overall trends of the supermarket business.</strong></div>
+<strong>To analyze sales data to gain insights into customer purchasing behavior, product performance and overall trends of the supermarket business.</strong></div>
 
 </div>
 <br>
@@ -124,7 +124,7 @@
  
 <strong>Dataset : [Retail Store Sales Dataset](https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard/tree/main/Dataset)</strong>
 
-<strong>The aim of this Power BI Dashboard Project is to design a Retail Store Report that provides a clear overview of the Store's Sales performance enabling the owner to gain actionable insights.</strong></div>
+<strong>To design a Retail Store Report that provides a clear overview of the Store's Sales performance enabling the owner to gain actionable insights.</strong></div>
 <br>
 <div align="left">
 <a href="https://www.kaggle.com/discussions/general/402148" title="Finance Report Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/power-bi.png" alt="Finance Report Dashboard" width="280px" align="left" title="Finance Report Dashboard"/></a>
@@ -132,7 +132,7 @@
 
 <strong>Dataset : [Finance Report Dataset](https://github.com/TheMrityunjayPathak/FinanceReportDashboard/blob/main/financial_data.csv)</strong>
 
-<strong>The Project aims to create a visually appealing dashboard that provides a overview of the company's financial metrics enabling stakeholders to make informed business decisions.</strong></div>
+<strong>To create a visually appealing dashboard that provides an overview of the company's financial metrics enabling stakeholders to make informed business decisions.</strong></div>
 <br>
 <div align="left">
 <a href="https://www.kaggle.com/discussions/general/389383" title="Covid Pandemic Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/power-bi.png" alt="Covid Pandemic Analysis" width="280px" align="left" title="Covid Pandemic Analysis"/></a>
@@ -140,7 +140,7 @@
 
 <strong>Dataset : [Covid Pandemic Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/covid-cases-and-deaths-worldwide)</strong>
 
-<strong>The objective of this Power BI Dashboard Project is to create a comprehensive and interactive COVID-19 report that provides meaningful insights and analysis of the pandemic's impact.</strong></div>
+<strong>To create a comprehensive and interactive COVID-19 report that provides meaningful insights and analysis of the pandemic's impact.</strong></div>
 <br>
 <div align="left">
 <a href="https://www.kaggle.com/discussions/general/385012" title="India Population Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/power-bi.png" alt="India Population Analysis" width="280px" align="left" title="India Population Analysis"/></a>
@@ -148,7 +148,7 @@
  
 <strong>Dataset : [India Population Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/2011-census-of-india)</strong>
 
-<strong>The objective is to provide insights and visualizations that help stakeholders understand the population dynamics, trends, and patterns across various demographic factors.</strong></div>
+<strong>To provide insights and visualizations that help stakeholders understand the population dynamics, trends, and patterns across various demographic factors.</strong></div>
 
 </div>
 <br>
