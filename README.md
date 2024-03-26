@@ -115,7 +115,7 @@
 <strong>To analyze sales data to gain insights into customer purchasing behavior, product performance and overall trends of the supermarket business.</strong></div>
 
 </div>
-<br>
+<br><br>
 <div><p><strong>📊 Power BI Projects :</strong></p>
 
 <div align="left">
@@ -151,7 +151,7 @@
 <strong>To provide insights and visualizations that help stakeholders understand the population dynamics, trends, and patterns across various demographic factors.</strong></div>
 
 </div>
-<br>
+<br><br>
 <div><p><strong>💼 Certificates :</strong></p>
 
 📃 Kaggle Certificates
