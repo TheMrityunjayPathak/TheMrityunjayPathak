@@ -112,7 +112,7 @@
  
 <strong>Dataset : [Super Market Sales Dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales) → Web App : [Super Market Sales App](https://super-market-sales-analysis.streamlit.app/)</strong>
 
-<strong>To analyze sales data to gain insights into customer purchasing behavior, product performance and overall trends of the supermarket business.</strong></div>
+<strong>To analyze sales data and gain insights into customer purchasing behavior, product performance and overall trends of the supermarket business.</strong></div>
 
 </div>
 <br><br>
@@ -124,7 +124,7 @@
  
 <strong>Dataset : [Retail Store Sales Dataset](https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard/tree/main/Dataset)</strong>
 
-<strong>To design a Retail Store Report that provides a clear overview of the Store's Sales performance enabling the owner to gain actionable insights.</strong></div>
+<strong>To design a Retail Store Dashboard that provides a clear overview of the Store's Sales performance enabling the owner to gain actionable insights.</strong></div>
 <br>
 <div align="left">
 <a href="https://www.kaggle.com/discussions/general/402148" title="Finance Report Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/power-bi.png" alt="Finance Report Dashboard" width="280px" align="left" title="Finance Report Dashboard"/></a>
@@ -140,7 +140,7 @@
 
 <strong>Dataset : [Covid Pandemic Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/covid-cases-and-deaths-worldwide)</strong>
 
-<strong>To create a comprehensive and interactive COVID-19 report that provides meaningful insights and analysis of the pandemic's impact.</strong></div>
+<strong>To create a comprehensive and interactive COVID-19 Dashboard that provides meaningful insights and analysis of the pandemic's impact.</strong></div>
 <br>
 <div align="left">
 <a href="https://www.kaggle.com/discussions/general/385012" title="India Population Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/power-bi.png" alt="India Population Analysis" width="280px" align="left" title="India Population Analysis"/></a>
