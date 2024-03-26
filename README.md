@@ -115,7 +115,7 @@
 <strong>The objective of this project is to analyze sales data to gain insights into customer purchasing behavior, product performance and overall trends of the supermarket business.</strong></div>
 
 </div>
-<br><br>
+<br>
 <div><p><strong>📊 Power BI Projects :</strong></p>
 
 <div align="left">
@@ -124,13 +124,13 @@
  
 <strong>Dataset : [Retail Store Sales Dataset](https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard/tree/main/Dataset)</strong>
 
-<strong>The aim of this Power BI Dashboard Project is to design a Retail Store Report that provides a clear overview of the Store's Sales performance enabling the owner to gain actionable insights.</strong></div><br>
+<strong>The aim of this Power BI Dashboard Project is to design a Retail Store Report that provides a clear overview of the Store's Sales performance enabling the owner to gain actionable insights.</strong></div>
+<br>
 <div align="left">
 <a href="https://www.kaggle.com/discussions/general/402148" title="Finance Report Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/power-bi.png" alt="Finance Report Dashboard" width="280px" align="left" title="Finance Report Dashboard"/></a>
 <a href="https://github.com/TheMrityunjayPathak/FinanceReportDashboard"><strong>Finance Report Dashboard</strong></a>
 
-<strong>Dataset : [Finance Report Dataset](https://github.com/TheMrityunjayPathak/FinanceReportDashboard/blob/main/financial_data.csv)
-</strong>
+<strong>Dataset : [Finance Report Dataset](https://github.com/TheMrityunjayPathak/FinanceReportDashboard/blob/main/financial_data.csv)</strong>
 
 <strong>The Project aims to create a visually appealing dashboard that provides a overview of the company's financial metrics enabling stakeholders to make informed business decisions.</strong></div>
 <br>
