@@ -65,17 +65,6 @@
 |<p align="center"><strong>Git</strong></p>|<p align="center"><strong>Streamlit</strong></p>|<p align="center"><strong>HTML</strong></p>|<p align="center"><strong>CSS</strong></p>|
 </div>
 
-<div><p><strong>🏫 Education :</strong></p>
- 
-| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/ab1724bf-1269-42c6-a5f6-9fc341c0f4fe" width="200px" title="Banaras Hindu University"> |
-| :---: |
-| <p align="center"><strong>Banaras Hindu University</strong></p> |
-| <p align="center"><strong>B.Voc in Computer Application</strong></p> |
-| <p align="center"><strong>Dec 2021 - July 2024</strong></p> |
-| <p align="center"><strong>CGPA : 8.3 (2nd Year)</strong></p> |
-
-</div>
-
 <div><p><strong>📜 Resume :</strong></p>
 
 | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/fe49b8ec-b823-4274-a9b3-2f82f3ac3b58" width="200px" title="Mrityunjay Pathak - Resume"> |
