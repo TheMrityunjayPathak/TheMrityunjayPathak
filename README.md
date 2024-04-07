@@ -8,7 +8,7 @@
 
 <div align="center">
 
-| [ABOUT](#about) | [SKILLS](#skills) | [PROJECTS](#projects) | [CERTIFICATES](#certificates) | [NOTEBOOKS](#notebooks) | [ACHIEVEMENTS](#achievements) | [CONTACT](#connect-with-me) |
+| <a href="#about"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/portfolio.png"></a> | [SKILLS](#skills) | [PROJECTS](#projects) | [CERTIFICATES](#certificates) | [NOTEBOOKS](#notebooks) | [ACHIEVEMENTS](#achievements) | [CONTACT](#connect-with-me) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 </div>
