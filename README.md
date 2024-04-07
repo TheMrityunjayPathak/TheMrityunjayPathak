@@ -4,8 +4,8 @@
 
 <div align="center">
 
-| [ABOUT](#about) | [SKILLS](#skills) |
-| :---: | :---: |
+| [ABOUT](#about) | [SKILLS](#skills) | [PROJECTS](#projects) | [CERTIFICATES](#certificates) | [NOTEBOOKS](#notebooks) | [ACHIEVEMENTS](#achievements) | [CONTACT]() |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 </div>
 
@@ -37,7 +37,9 @@
 
 - Feel free to reach out to me at <a href="mailto:themrityunjaypathak@gmail.com" title="Mrityunjay's E-Mail">themrityunjaypathak@gmail.com</a>.
 &nbsp;
+
 ## Connect with Me
+
 <div align="center">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.kaggle.com/themrityunjaypathak" title="Kaggle">
@@ -57,9 +59,9 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
-&nbsp;
 
-## 📋 Skills
+## Skills
+
 <div align="center">
 
 |<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/749de882-b62f-4ab7-9157-afff30f77654" width="70px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/0d3fa5fc-fd72-4b52-aec6-38c5fef54671" width="70px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/1ca8a688-9602-41c6-a6da-9c0b6a28f992" width="70px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/a14d14c8-af2d-4e4b-937b-296408717db6" width="70px">|
@@ -74,6 +76,8 @@
 | :---: | :---: | :---: | :---: |
 |<p align="center"><strong>Git</strong></p>|<p align="center"><strong>Streamlit</strong></p>|<p align="center"><strong>HTML</strong></p>|<p align="center"><strong>CSS</strong></p>|
 </div>
+
+## Projects
 
 <div><p><strong>🗃️ ML Projects :</strong></p>
 
@@ -143,7 +147,10 @@
 
 </div>
 <br><br>
-<div><p><strong>💼 Certificates :</strong></p>
+
+## Certificates
+
+<div>
 
 📃 Kaggle Certificates
 
@@ -160,7 +167,9 @@
 
 </div>
 
-<div><p><strong>📒 Notebooks :</strong></p>
+## Notebooks
+
+<div>
 
 <p><strong>📕 Data Science</strong></p>
 <details>
@@ -309,14 +318,20 @@ For more Details → Go to [Machine Learning Mathematics](https://github.com/The
 
 </div>
 
-<div><p><strong>🏆 Achievements :</strong></p>
+## Achievements
+
+<div>
 
 | 5 ⭐ Python HackerRank | 5 ⭐ SQL HackerRank | Kaggle Master |
 | :---: | :---: | :---: |
 
 </div>
 
+<div align="right">
+ 
 | [Scroll to Top ⬆️](#) |
 | :---: |
+
+</div>
 
 <p align="center"><strong>Thanks 👏 for Visiting!</strong></p>
