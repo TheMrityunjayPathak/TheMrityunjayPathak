@@ -355,7 +355,7 @@ For more Details → Go to [Machine Learning Mathematics](https://github.com/The
         <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/github.png" width="4%" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.hackerrank.com/mrityunjaypathak" title="HackerRank">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/hacker.png" width="5%" />
+        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/hacker.png" width="6%" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://themrityunjaypathak.github.io/" title="Portfolio">
         <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/portfolio.png" width="4%" />
