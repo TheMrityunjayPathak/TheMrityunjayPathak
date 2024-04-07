@@ -356,7 +356,7 @@ For more Details → Go to [Machine Learning Mathematics](https://github.com/The
 
 <div align="right">
  
-<a href="#"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/arrow-up-solid.png" width="4%"></a>
+<a href="#"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/arrow-up-solid.png" width="3%"></a>
 
 </div>
 
