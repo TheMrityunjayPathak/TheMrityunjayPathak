@@ -13,6 +13,8 @@
 
 ## About
 
+<div>
+
 <p>I am a dedicated Data Scientist with a knack for uncovering patterns and trends that drive smarter decisions.</p>
 
 <p><strong>🗂️ GitHub Repository</strong></p>
@@ -38,28 +40,7 @@
 - Whether you want to discuss about a project, have a data-related challenge, or simply want to connect.
 
 - Feel free to reach out to me at <a href="mailto:themrityunjaypathak@gmail.com" title="Mrityunjay's E-Mail">themrityunjaypathak@gmail.com</a>.
-&nbsp;
 
-## Connect with Me
-
-<div align="center">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.kaggle.com/themrityunjaypathak" title="Kaggle">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/kaggle.png" width="4%" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/themrityunjaypathak" title="LinkedIn">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/linkedin.png" width="4%" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/TheMrityunjayPathak" title="GitHub">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/github.png" width="4%" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.hackerrank.com/mrityunjaypathak" title="HackerRank">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/hacker.png" width="5%" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://themrityunjaypathak.github.io/" title="Portfolio">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/portfolio.png" width="4%" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 ## Skills
@@ -77,6 +58,7 @@
 |<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/18f1adb7-e094-4ec9-96bc-9b7a65a6984a" width="70px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/18a1bb39-a759-465e-81de-4dd96493b667" width="70px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/ba807579-e8c9-4756-9b4e-c9625b7b686a" width="70px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/8b9fb14b-0bb7-4474-b804-a7c45c6bbc6f" width="70px">|
 | :---: | :---: | :---: | :---: |
 |<p align="center"><strong>Git</strong></p>|<p align="center"><strong>Streamlit</strong></p>|<p align="center"><strong>HTML</strong></p>|<p align="center"><strong>CSS</strong></p>|
+
 </div>
 
 ## Projects
@@ -148,7 +130,7 @@
 <strong>To provide insights and visualizations that help stakeholders understand the population dynamics, trends, and patterns across various demographic factors.</strong></div>
 
 </div>
-<br><br>
+<br>
 
 ## Certificates
 
@@ -327,6 +309,28 @@ For more Details → Go to [Machine Learning Mathematics](https://github.com/The
 | 5 ⭐ Python HackerRank | 5 ⭐ SQL HackerRank | Kaggle Master |
 | :---: | :---: | :---: |
 
+</div>
+
+## Connect with Me
+
+<div align="center">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.kaggle.com/themrityunjaypathak" title="Kaggle">
+        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/kaggle.png" width="4%" />
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/themrityunjaypathak" title="LinkedIn">
+        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/linkedin.png" width="4%" />
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/TheMrityunjayPathak" title="GitHub">
+        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/github.png" width="4%" />
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.hackerrank.com/mrityunjaypathak" title="HackerRank">
+        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/hacker.png" width="5%" />
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://themrityunjaypathak.github.io/" title="Portfolio">
+        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/portfolio.png" width="4%" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <div align="right">
