@@ -1,6 +1,13 @@
-<strong>
-
 <p align="center"><strong>Hi 👋, I'm Mrityunjay Pathak</strong></p>
+
+#
+
+<div align="center">
+
+| <strong>ABOUT</strong> | [CONTACT](#connect-with-me) |
+| :---: | :---: |
+
+</div>
 
 <div align="right">
  
@@ -8,8 +15,6 @@
 | :---: |
 
 </div>
-
-#
 
 <p>I am a dedicated Data Scientist with a knack for uncovering patterns and trends that drive smarter decisions.</p>
 
@@ -37,7 +42,8 @@
 
 - Feel free to reach out to me at <a href="mailto:themrityunjaypathak@gmail.com" title="Mrityunjay's E-Mail">themrityunjaypathak@gmail.com</a>.
 &nbsp;
-<div align="center"><p align="center"><strong>🌏 Connect with Me :</strong></p>
+## Connect with Me
+<div align="center">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.kaggle.com/themrityunjaypathak" title="Kaggle">
         <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/kaggle.png" width="4%" />
@@ -317,5 +323,3 @@ For more Details → Go to [Machine Learning Mathematics](https://github.com/The
 | :---: |
 
 <p align="center"><strong>Thanks 👏 for Visiting!</strong></p>
-
-</strong>
