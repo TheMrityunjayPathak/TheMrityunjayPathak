@@ -1,3 +1,5 @@
+<strong>
+
 <div align="center">
 
 ![Mrityunjay Pathak](https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/765497b9-a73c-42dd-94a1-36b48fd0a167)
@@ -341,3 +343,5 @@ For more Details → Go to [Machine Learning Mathematics](https://github.com/The
 </div>
 
 <p align="center"><strong>Thanks 👏 for Visiting!</strong></p>
+
+</strong>
