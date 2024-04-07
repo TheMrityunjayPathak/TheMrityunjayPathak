@@ -4,17 +4,12 @@
 
 <div align="center">
 
-| <strong>ABOUT</strong> | [CONTACT](#connect-with-me) |
+| [ABOUT](#about) | [SKILLS](#skills) |
 | :---: | :---: |
 
 </div>
 
-<div align="right">
- 
-| <p align="center">[Resume](https://drive.google.com/file/d/1ZG1qBlLbSeFd2DhlYcWdIOgmUNOyGBuO/view?usp=drive_link)</p> |
-| :---: |
-
-</div>
+## About
 
 <p>I am a dedicated Data Scientist with a knack for uncovering patterns and trends that drive smarter decisions.</p>
 
@@ -63,7 +58,9 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 &nbsp;
-<div align="center"><p align="center"><strong>📋 Skills :</strong></p>
+
+## 📋 Skills
+<div align="center">
 
 |<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/749de882-b62f-4ab7-9157-afff30f77654" width="70px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/0d3fa5fc-fd72-4b52-aec6-38c5fef54671" width="70px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/1ca8a688-9602-41c6-a6da-9c0b6a28f992" width="70px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/a14d14c8-af2d-4e4b-937b-296408717db6" width="70px">|
 | :---: | :---: | :---: | :---: |
