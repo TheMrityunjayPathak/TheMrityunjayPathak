@@ -1,10 +1,12 @@
-<p align="center"><strong>Hi 👋, I'm Mrityunjay Pathak</strong></p>
+<div align="center">
 
-#
+![Mrityunjay Pathak](https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/765497b9-a73c-42dd-94a1-36b48fd0a167)
+
+</div>
 
 <div align="center">
 
-| [ABOUT](#about) | [SKILLS](#skills) | [PROJECTS](#projects) | [CERTIFICATES](#certificates) | [NOTEBOOKS](#notebooks) | [ACHIEVEMENTS](#achievements) | [CONTACT]() |
+| [ABOUT](#about) | [SKILLS](#skills) | [PROJECTS](#projects) | [CERTIFICATES](#certificates) | [NOTEBOOKS](#notebooks) | [ACHIEVEMENTS](#achievements) | [CONTACT](#connect-with-me) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 </div>
