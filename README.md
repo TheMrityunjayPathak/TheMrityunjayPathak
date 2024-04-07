@@ -9,25 +9,25 @@
 <div align="center">
 
 <a href="#about">
-  <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/user-solid.png" width="3%" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+𝗔𝗕𝗢𝗨𝗧
+</a>&nbsp;&nbsp;&nbsp;
 <a href="#skills">
-  <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/screwdriver-wrench-solid.png" width="3%" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+𝗦𝗞𝗜𝗟𝗟𝗦
+</a>&nbsp;&nbsp;&nbsp;
 <a href="#projects">
-  <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/project-section.png" width="3%" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#certificates">
-  <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/award-solid.png" width="3%" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
+</a>&nbsp;&nbsp;&nbsp;
 <a href="#notebooks">
-  <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/book-solid.png" width="3%" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+𝗡𝗢𝗧𝗘𝗕𝗢𝗢𝗞𝗦
+</a>&nbsp;&nbsp;&nbsp;
+<a href="#certificates">
+𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗘𝗦
+</a>&nbsp;&nbsp;&nbsp;
 <a href="#achievements">
-  <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/achievements-section.png" width="3%" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#connect-with-me">
-  <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/phone-solid.png" width="3%" />
+𝗔𝗖𝗛𝗜𝗘𝗩𝗘𝗠𝗘𝗡𝗧𝗦
+</a>&nbsp;&nbsp;&nbsp;
+<a href="#contact">
+𝗖𝗢𝗡𝗧𝗔𝗖𝗧
 </a>
 
 </div>
