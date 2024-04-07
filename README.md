@@ -344,10 +344,23 @@ For more Details → Go to [Machine Learning Mathematics](https://github.com/The
 ## Contact
 
 <div align="center">
-
-| <a href="https://www.kaggle.com/themrityunjaypathak" title="Kaggle"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/kaggle.png" width="30px" /></a> | <a href="https://www.linkedin.com/in/themrityunjaypathak" title="LinkedIn"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/linkedin.png" width="30px" /></a> | <a href="https://github.com/TheMrityunjayPathak" title="GitHub"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/github.png" width="30px" /></a> | <a href="https://www.hackerrank.com/mrityunjaypathak" title="HackerRank"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/hacker.png" height="30px" /></a> | <a href="https://themrityunjaypathak.github.io/" title="Portfolio"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/portfolio.png" width="30px" /></a> |
-| :---: | :---: | :---: | :---: | :---: |
-
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.kaggle.com/themrityunjaypathak" title="Kaggle">
+        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/kaggle.png" width="4%" />
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/themrityunjaypathak" title="LinkedIn">
+        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/linkedin.png" width="4%" />
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/TheMrityunjayPathak" title="GitHub">
+        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/github.png" width="4%" />
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.hackerrank.com/mrityunjaypathak" title="HackerRank">
+        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/hacker.png" width="5%" />
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://themrityunjaypathak.github.io/" title="Portfolio">
+        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/portfolio.png" width="4%" />
+    </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <div align="right">
