@@ -2,6 +2,13 @@
 
 <p align="center"><strong>Hi 👋, I'm Mrityunjay Pathak</strong></p>
 
+<div align="right">
+ 
+| <p align="center">[Resume](https://drive.google.com/file/d/1ZG1qBlLbSeFd2DhlYcWdIOgmUNOyGBuO/view?usp=drive_link)</p> |
+| :---: |
+
+</div>
+
 #
 
 <p>I am a dedicated Data Scientist with a knack for uncovering patterns and trends that drive smarter decisions.</p>
@@ -63,14 +70,6 @@
 |<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/18f1adb7-e094-4ec9-96bc-9b7a65a6984a" width="70px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/18a1bb39-a759-465e-81de-4dd96493b667" width="70px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/ba807579-e8c9-4756-9b4e-c9625b7b686a" width="70px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/8b9fb14b-0bb7-4474-b804-a7c45c6bbc6f" width="70px">|
 | :---: | :---: | :---: | :---: |
 |<p align="center"><strong>Git</strong></p>|<p align="center"><strong>Streamlit</strong></p>|<p align="center"><strong>HTML</strong></p>|<p align="center"><strong>CSS</strong></p>|
-</div>
-
-<div><p><strong>📜 Resume :</strong></p>
-
-| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/c840febd-9e00-479e-97ae-9fd466259d38" width="200px" title="Mrityunjay Pathak - Resume"> |
-| :---: |
-| <p align="center"><strong>[Checkout My Resume Here](https://drive.google.com/file/d/1ZG1qBlLbSeFd2DhlYcWdIOgmUNOyGBuO/view?usp=drive_link)</strong></p>
-
 </div>
 
 <div><p><strong>🗃️ ML Projects :</strong></p>
