@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![text-1712470601073](https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/d1100e1a-cf0e-4e97-a8dd-1f7267575e6a)
+<a href="https://github.com/TheMrityunjayPathak"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/d1100e1a-cf0e-4e97-a8dd-1f7267575e6a"></a>
 
 </div>
 
