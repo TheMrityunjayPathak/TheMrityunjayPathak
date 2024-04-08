@@ -7,6 +7,28 @@
 </div>
 
 <div align="center">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.kaggle.com/themrityunjaypathak" title="Kaggle">
+        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/kaggle.png" width="3%" />
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/themrityunjaypathak" title="LinkedIn">
+        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/linkedin.png" width="3%" />
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/TheMrityunjayPathak" title="GitHub">
+        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/github.png" width="3%" />
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.hackerrank.com/mrityunjaypathak" title="HackerRank">
+        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/hacker.png" width="5%" />
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://themrityunjaypathak.github.io/" title="Portfolio">
+        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/portfolio.png" width="3%" />
+    </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+<br>
+
+<div align="center">
 
 <a href="#about">
 𝗔𝗕𝗢𝗨𝗧
