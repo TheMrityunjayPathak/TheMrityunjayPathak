@@ -32,6 +32,15 @@
 
 </div>
 
+<br>
+
+<div align="center">
+   
+| <a href="https://drive.google.com/file/d/1ZG1qBlLbSeFd2DhlYcWdIOgmUNOyGBuO/view"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/1b60940e3687ccb94130cdde13727647639feae4/briefcase.png" width="25px"></a> | <a href="mailto:themrityunjaypathak@gmail.com"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/1b60940e3687ccb94130cdde13727647639feae4/email.png" width="25px"></a> |
+| :---: | :---: |
+
+</div>
+
 ## About
 
 <div>
@@ -327,15 +336,13 @@ For more Details → Go to [Machine Learning Mathematics](https://github.com/The
 
 <div align="center">
 
-| <a href="https://www.hackerrank.com/mrityunjaypathak"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/791fa6fd-efd0-4b5b-9441-591e6601c3b9" width="100px" align="center"/></a> | <a href="https://www.kaggle.com/themrityunjaypathak"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/b6594fab-9b67-4de5-be20-f71ce83fd37a" width="100px" align="center"/></a> | <a href="https://www.hackerrank.com/mrityunjaypathak"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/3d5e9f77-be54-4a31-bb40-46224ee4b34b" width="100px" align="center"/></a> |
-| :---: | :---: | :---: |
 | 5 ⭐ Python HackerRank | Kaggle Master | 5 ⭐ SQL HackerRank |
-
+| :---: | :---: | :---: |
 </div>
 
 ## Contact
 
-<div align="center"><p align="center"><strong>🌍 Connect with Me</strong></p>
+<div align="center"><p align="center">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.kaggle.com/themrityunjaypathak" title="Kaggle">
         <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/kaggle.png" width="4%" />
@@ -356,13 +363,6 @@ For more Details → Go to [Machine Learning Mathematics](https://github.com/The
 </div>
 
 <br>
-
-<div align="center"><p align="center"><strong>☎️ Contact</strong></p>
-   
-| <a href="https://drive.google.com/file/d/1ZG1qBlLbSeFd2DhlYcWdIOgmUNOyGBuO/view"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/1b60940e3687ccb94130cdde13727647639feae4/briefcase.png" width="25px"></a> | <a href="mailto:themrityunjaypathak@gmail.com"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/1b60940e3687ccb94130cdde13727647639feae4/email.png" width="25px"></a> |
-| :---: | :---: |
-
-</div>
 
 <div align="right">
  
