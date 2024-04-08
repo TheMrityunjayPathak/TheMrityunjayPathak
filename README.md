@@ -327,7 +327,7 @@ For more Details → Go to [Machine Learning Mathematics](https://github.com/The
 
 <div align="center">
 
-| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/791fa6fd-efd0-4b5b-9441-591e6601c3b9" width="150px" align="center"/> | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/b6594fab-9b67-4de5-be20-f71ce83fd37a" width="150px" align="center"/> | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/3d5e9f77-be54-4a31-bb40-46224ee4b34b" width="150px" align="center"/> |
+| <a href="https://www.hackerrank.com/mrityunjaypathak"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/791fa6fd-efd0-4b5b-9441-591e6601c3b9" width="100px" align="center"/></a> | <a href="https://www.kaggle.com/themrityunjaypathak"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/b6594fab-9b67-4de5-be20-f71ce83fd37a" width="100px" align="center"/></a> | <a href="https://www.hackerrank.com/mrityunjaypathak"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/3d5e9f77-be54-4a31-bb40-46224ee4b34b" width="100px" align="center"/></a> |
 | :---: | :---: | :---: |
 | 5 ⭐ Python HackerRank | Kaggle Master | 5 ⭐ SQL HackerRank |
 
