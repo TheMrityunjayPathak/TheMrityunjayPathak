@@ -84,7 +84,7 @@
 
 ## Projects
 
-<div><p><strong>🗃️ ML Projects :</strong></p>
+<div><p><strong>🗃️ ML Projects</strong></p>
 
 <div align="left">
 <a href="https://www.kaggle.com/code/themrityunjaypathak/car-price-prediction-using-linear-regression" title="Car Price Prediction"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml.png" width="280px" align="left" title="Car Price Prediction"/></a>
@@ -104,7 +104,7 @@
 
 </div>
 <br><br>
-<div><p><strong>🔍 Exploratory Data Analysis :</strong></p>
+<div><p><strong>🔍 Exploratory Data Analysis</strong></p>
  
 <div align="left">
 <a href="https://www.kaggle.com/code/themrityunjaypathak/super-market-sales-analysis" title="Super Market Sales Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/eda.png" width="280px" align="left" title="Super Market Sales Analysis"/></a>
@@ -116,7 +116,7 @@
 
 </div>
 <br><br>
-<div><p><strong>📊 Power BI Projects :</strong></p>
+<div><p><strong>📊 Power BI Projects</strong></p>
 
 <div align="left">
 <a href="https://www.kaggle.com/discussions/general/417585" title="Retail Store Sales Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/power-bi.png" alt="Retail Store Sales Dashboard" width="280px" align="left" title="Retail Store Sales Dashboard"/></a>
