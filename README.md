@@ -7,28 +7,6 @@
 </div>
 
 <div align="center">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.kaggle.com/themrityunjaypathak" title="Kaggle">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/kaggle.png" width="3%" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/themrityunjaypathak" title="LinkedIn">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/linkedin.png" width="3%" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/TheMrityunjayPathak" title="GitHub">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/github.png" width="3%" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.hackerrank.com/mrityunjaypathak" title="HackerRank">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/hacker.png" width="5%" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://themrityunjaypathak.github.io/" title="Portfolio">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/portfolio.png" width="3%" />
-    </a>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
-
-<br>
-
-<div align="center">
 
 <a href="#about">
 𝗔𝗕𝗢𝗨𝗧
@@ -356,7 +334,7 @@ For more Details → Go to [Machine Learning Mathematics](https://github.com/The
 
 ## Contact
 
-<div align="center">
+<div align="center"><p align="center"><strong>🌍 Connect with Me</strong></p>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.kaggle.com/themrityunjaypathak" title="Kaggle">
         <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/kaggle.png" width="4%" />
@@ -374,6 +352,15 @@ For more Details → Go to [Machine Learning Mathematics](https://github.com/The
         <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/portfolio.png" width="4%" />
     </a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+<br>
+
+<div align="center"><p align="center"><strong>☎️ Contact</strong></p>
+   
+| <a href="https://drive.google.com/file/d/1ZG1qBlLbSeFd2DhlYcWdIOgmUNOyGBuO/view"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/1b60940e3687ccb94130cdde13727647639feae4/briefcase.png" width="25px"></a> | <a href="mailto:themrityunjaypathak@gmail.com"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/1b60940e3687ccb94130cdde13727647639feae4/email.png" width="25px"></a> |
+| :---: | :---: |
+
 </div>
 
 <div align="right">
