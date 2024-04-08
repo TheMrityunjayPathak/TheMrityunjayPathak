@@ -32,15 +32,6 @@
 
 </div>
 
-<br>
-
-<div align="center">
-   
-| <a href="https://drive.google.com/file/d/1ZG1qBlLbSeFd2DhlYcWdIOgmUNOyGBuO/view"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/1b60940e3687ccb94130cdde13727647639feae4/briefcase.png" width="25px"></a> | <a href="mailto:themrityunjaypathak@gmail.com"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/1b60940e3687ccb94130cdde13727647639feae4/email.png" width="25px"></a> |
-| :---: | :---: |
-
-</div>
-
 ## About
 
 <div>
