@@ -47,13 +47,13 @@
 
 <p>I am a dedicated Data Scientist with a knack for uncovering patterns and trends that drive smarter decisions.</p>
 
-<p><strong>🗂️ GitHub Repository</strong></p>
+<p><strong>🗂️ Repositories</strong></p>
  
 - You can find all of My Projects and Data Science Notebooks on My GitHub Profile.
 
 - It's a hub for My Data Science knowledge, where I showcase My Work and contributions to various Data Science Projects.
 
-<p><strong>📝 LinkedIn Articles</strong></p>
+<p><strong>📝 Articles</strong></p>
 
 - I believe in the power of knowledge-sharing and strive to contribute to the Data Science Community.
  
