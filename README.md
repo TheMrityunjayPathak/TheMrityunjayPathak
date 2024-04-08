@@ -36,7 +36,7 @@
 
 <div align="right">
 
-| <a href="mailto:themrityunjaypathak@gmail.com"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/e82fb0401f80f08dfb7a9a6dff022fd8985eb7a5/email.png" height="22.5px"></a> | <a href="https://drive.google.com/file/d/1ZG1qBlLbSeFd2DhlYcWdIOgmUNOyGBuO/view"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/e82fb0401f80f08dfb7a9a6dff022fd8985eb7a5/briefcase.png" height="22.5px"></a> |
+| <a href="mailto:themrityunjaypathak@gmail.com"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/e82fb0401f80f08dfb7a9a6dff022fd8985eb7a5/email.png" height="22.5px"></a> | <a href="https://drive.google.com/file/d/1PRql6SiKKGOGmwLDx6klPZknxNzJQJEF/view?usp=drive_link"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/e82fb0401f80f08dfb7a9a6dff022fd8985eb7a5/briefcase.png" height="22.5px"></a> |
 | :---: | :---: |
 
 </div>
