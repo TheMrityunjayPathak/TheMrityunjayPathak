@@ -36,9 +36,9 @@
 
 <div align="right">
 
-<a href=""><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/e82fb0401f80f08dfb7a9a6dff022fd8985eb7a5/email.png" height="22px"></a>&nbsp;&nbsp;&nbsp;
-<a href=""><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/e82fb0401f80f08dfb7a9a6dff022fd8985eb7a5/phone.png" height="20px"></a>&nbsp;&nbsp;&nbsp;
-<a href=""><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/e82fb0401f80f08dfb7a9a6dff022fd8985eb7a5/briefcase.png" height="22px"></a>
+<a href=""><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/e82fb0401f80f08dfb7a9a6dff022fd8985eb7a5/email.png" height="22.5px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href=""><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/e82fb0401f80f08dfb7a9a6dff022fd8985eb7a5/phone.png" height="20px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href=""><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/e82fb0401f80f08dfb7a9a6dff022fd8985eb7a5/briefcase.png" height="22.5px"></a>
 
 </div>
 
