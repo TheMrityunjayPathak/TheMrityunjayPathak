@@ -364,12 +364,12 @@ For more Details → Go to [Machine Learning Mathematics](https://github.com/The
 
 <br>
 
+<p align="center"><strong>Thanks 👏 for Visiting!</strong></p>
+
 <div align="right">
  
 <a href="#"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/arrow.png" width="4%"></a>
 
 </div>
-
-<p align="center"><strong>Thanks 👏 for Visiting!</strong></p>
 
 </strong>
