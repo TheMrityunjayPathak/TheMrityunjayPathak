@@ -327,7 +327,7 @@ For more Details → Go to [Machine Learning Mathematics](https://github.com/The
 
 <div align="center">
 
-| 5 ⭐ Python HackerRank | Kaggle Master | 5 ⭐ SQL HackerRank |
+| 5 ⭐ Python HackerRank | 5 ⭐ SQL HackerRank | Kaggle Master |
 | :---: | :---: | :---: |
 </div>
 
