@@ -43,31 +43,33 @@
 
 <div>
 
-<p>I am a dedicated Data Scientist with a knack for uncovering patterns and trends that drive smarter decisions.</p>
+<p>Hi 👋, I'm 𝗠𝗿𝗶𝘁𝘆𝘂𝗻𝗷𝗮𝘆 𝗣𝗮𝘁𝗵𝗮𝗸</p>
 
-<p><strong>🗂️ Repositories</strong></p>
- 
-- You can find all of My Projects and Data Science Notebooks on My GitHub Profile.
+<p>I am a dedicated 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁 with a knack for uncovering patterns and trends that drive smarter decisions.</p>
 
-- It's a hub for My Data Science knowledge, where I showcase My Work and contributions to various Data Science Projects.
+<p>🎯 𝗦𝗸𝗶𝗹𝗹𝘀</p>
 
-<p><strong>📝 Articles</strong></p>
+<p>• 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 : I'm skilled in using Python, a powerful language for data science and data analysis.</p>
 
-- I believe in the power of knowledge-sharing and strive to contribute to the Data Science Community.
- 
-- So, regularly I share articles and tutorials on LinkedIn, aiming to help others learn and grow in the field of Data Science.
+<p>• 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀 : I'm familiar with essential libraries like NumPy (for numerical operations), Pandas (for data manipulation), and Matplotlib/Seaborn (for visualizing data).</p>
 
-<p><strong>🎙️ Expertise</strong></p>
+<p>• 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 : I'm familiar in various machine learning techniques like Regression (predicting values), Classification (sorting data into categories), Clustering (grouping similar data), Dimensionality Reduction (simplifying complex data), and Model Selection (choosing the right predictive model).</p>
 
-- If you have any questions or need assistance with Python, Machine Learning, MySQL or Power BI. I am here to help!
-  
-- I have hands-on experience with these powerful tools and techniques and would love to share my knowledge with you.
+<p>• 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 : I can work with MySQL, a popular database system, to handle and retrieve data effectively.</p>
 
-<p><strong>📫 Contact</strong></p>
+<p>• 𝗕𝗜 𝗧𝗼𝗼𝗹 : I'm proficient in using Microsoft Power BI, a tool that helps in turning data into actionable insights through interactive visualizations.</p>
 
-- Whether you want to discuss about a project, have a data-related challenge, or simply want to connect.
+<p>• 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 𝗖𝗼𝗻𝘁𝗿𝗼𝗹 : I'm familiar with Git, which helps in keeping track of changes in code and collaborating effectively with a team.</p>
 
-- Feel free to reach out to me at <a href="mailto:themrityunjaypathak@gmail.com" title="Mrityunjay's E-Mail">themrityunjaypathak@gmail.com</a>.
+<p>• 𝗪𝗲𝗯 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 : I have experience working with Streamlit, an open-source Python library that makes it easy to create custom web apps for machine learning and data science.</p>
+
+<p>• 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 : I also have some knowledge in web development, specifically HTML and CSS.
+
+<p>☎️ 𝗖𝗼𝗻𝘁𝗮𝗰𝘁</p>
+
+<p>• 𝗘-𝗠𝗮𝗶𝗹 : <a href="mailto:themrityunjaypathak@gmail.com">themrityunjaypathak@gmail.com</a></p>
+
+<p>• 𝗣𝗵𝗼𝗻𝗲 : <a href="https://wa.me/919336158993">+91 9336158993</a></p>
 
 </div>
 
