@@ -2,8 +2,8 @@
 
 <div align="right">
 
-| <a href="mailto:themrityunjaypathak@gmail.com"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/e82fb0401f80f08dfb7a9a6dff022fd8985eb7a5/email.png" height="18px"></a> | <a href="https://drive.google.com/file/d/1D2cG6MGgz3dpi4Abl16_YUicI-ChXZlv/view?usp=drive_link"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/e82fb0401f80f08dfb7a9a6dff022fd8985eb7a5/briefcase.png" height="18px"></a> |
-| :---: | :---: |
+| <a href="mailto:themrityunjaypathak@gmail.com"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/e82fb0401f80f08dfb7a9a6dff022fd8985eb7a5/email.png" width="18px"></a> | <a href="https://wa.me/919336158993"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/c4221a6d7f0f6bf67fc2c9ad7ea06fbffad4632b/square-phone.png" width="18px" height="16px"></a> | <a href="https://drive.google.com/file/d/1D2cG6MGgz3dpi4Abl16_YUicI-ChXZlv/view?usp=drive_link"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/e82fb0401f80f08dfb7a9a6dff022fd8985eb7a5/briefcase.png" width="18px"></a> |
+| :---: | :---: | :---: |
 
 </div>
 
