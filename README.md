@@ -1,5 +1,12 @@
 <strong>
 
+<div align="right">
+
+| <a href="mailto:themrityunjaypathak@gmail.com"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/e82fb0401f80f08dfb7a9a6dff022fd8985eb7a5/email.png" height="18px"></a> | <a href="https://drive.google.com/file/d/1D2cG6MGgz3dpi4Abl16_YUicI-ChXZlv/view?usp=drive_link"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/e82fb0401f80f08dfb7a9a6dff022fd8985eb7a5/briefcase.png" height="18px"></a> |
+| :---: | :---: |
+
+</div>
+
 <div align="center">
 
 <a href="https://github.com/TheMrityunjayPathak"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/1d289249-6d1d-45cf-b722-3b4388c7f007"></a>
