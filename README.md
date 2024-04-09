@@ -2,7 +2,7 @@
 
 <div align="right">
 
-| <a href="https://drive.google.com/file/d/1D2cG6MGgz3dpi4Abl16_YUicI-ChXZlv/view?usp=drive_link"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/e82fb0401f80f08dfb7a9a6dff022fd8985eb7a5/briefcase.png" width="20px"></a>&nbsp;RESUME |
+| <a href="https://drive.google.com/file/d/1D2cG6MGgz3dpi4Abl16_YUicI-ChXZlv/view?usp=drive_link"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/e82fb0401f80f08dfb7a9a6dff022fd8985eb7a5/briefcase.png" width="20px"></a> |
 | :---: |
 
 </div>
