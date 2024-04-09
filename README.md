@@ -2,8 +2,8 @@
 
 <div align="right">
 
-| <a href="mailto:themrityunjaypathak@gmail.com"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/e82fb0401f80f08dfb7a9a6dff022fd8985eb7a5/email.png" width="20px"></a> | <a href="https://wa.me/919336158993"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/eebd32a1ca17a547dd103d4c59d5b71e9ccda65a/phone-contact.png" width="22px"></a> | <a href="https://drive.google.com/file/d/1D2cG6MGgz3dpi4Abl16_YUicI-ChXZlv/view?usp=drive_link"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/e82fb0401f80f08dfb7a9a6dff022fd8985eb7a5/briefcase.png" width="20px"></a> |
-| :---: | :---: | :---: |
+| <a href="https://drive.google.com/file/d/1D2cG6MGgz3dpi4Abl16_YUicI-ChXZlv/view?usp=drive_link"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/e82fb0401f80f08dfb7a9a6dff022fd8985eb7a5/briefcase.png" width="20px"></a> |
+| :---: |
 
 </div>
 
