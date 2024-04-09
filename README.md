@@ -1,12 +1,5 @@
 <strong>
 
-<div align="right">
-
-| <a href="https://drive.google.com/file/d/1D2cG6MGgz3dpi4Abl16_YUicI-ChXZlv/view?usp=drive_link"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/e82fb0401f80f08dfb7a9a6dff022fd8985eb7a5/briefcase.png" width="20px"></a> |
-| :---: |
-
-</div>
-
 <div align="center">
 
 <a href="https://github.com/TheMrityunjayPathak"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/1d289249-6d1d-45cf-b722-3b4388c7f007"></a>
@@ -70,6 +63,8 @@
 <p>• 𝗘-𝗠𝗮𝗶𝗹 : <a href="mailto:themrityunjaypathak@gmail.com">themrityunjaypathak@gmail.com</a></p>
 
 <p>• 𝗣𝗵𝗼𝗻𝗲 : <a href="https://wa.me/919336158993">+91 9336158993</a></p>
+
+<p>• 𝗥𝗲𝘀𝘂𝗺𝗲 : <a href="https://drive.google.com/file/d/1D2cG6MGgz3dpi4Abl16_YUicI-ChXZlv/view?usp=drivesdk">Mrityunjay Pathak's Resume</a>
 
 </div>
 
