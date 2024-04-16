@@ -97,7 +97,7 @@ I am a dedicated <strong>Data Scientist</strong> with a knack for uncovering pat
 <div align="left">
 <a href="https://www.kaggle.com/code/themrityunjaypathak/car-price-prediction-using-linear-regression" title="Car Price Prediction"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml.png" width="280px" align="left" title="Car Price Prediction"/></a>
 
- <a href="https://github.com/TheMrityunjayPathak/CarPricePrediction"><strong>Car Price Prediction</strong></a>
+<a href="https://github.com/TheMrityunjayPathak/CarPricePrediction"><strong>Car Price Prediction</strong></a>
 
 <strong>Dataset : [Car Price Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling) → Web App : [Car Price Prediction App](https://car-price-prediction-using-lr.streamlit.app/)</strong>
 
@@ -105,6 +105,7 @@ To develop a Machine Learning Model that can accurately predict the prices of us
 <br>
 <div align="left">
 <a href="https://www.kaggle.com/code/themrityunjaypathak/spaceship-titanic-classification" title="Spaceship Titanic Classification"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml.png" width="280px" align="left" title="Spaceship Titanic Classification"/></a>
+
 <a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification"><strong>Spaceship Titanic Classification</strong></a>
  
 <strong>Dataset : [Spaceship Titanic Dataset](https://www.kaggle.com/competitions/spaceship-titanic/data?select=train.csv) → Web App : [Spaceship Titanic App](https://spaceship-titanic-classification.streamlit.app/)</strong>
@@ -117,6 +118,7 @@ To predict whether a passenger was transported to an alternate dimension during 
  
 <div align="left">
 <a href="https://www.kaggle.com/code/themrityunjaypathak/super-market-sales-analysis" title="Super Market Sales Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/eda.png" width="280px" align="left" title="Super Market Sales Analysis"/></a>
+
 <a href="https://github.com/TheMrityunjayPathak/SuperMarketSalesAnalysis"><strong>Super Market Sales Analysis</strong></a>
  
 <strong>Dataset : [Super Market Sales Dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales) → Web App : [Super Market Sales App](https://super-market-sales-analysis.streamlit.app/)</strong>
@@ -129,6 +131,7 @@ To analyze sales data and gain insights into customer purchasing behavior, produ
 
 <div align="left">
 <a href="https://www.kaggle.com/discussions/general/417585" title="Retail Store Sales Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/power-bi.png" alt="Retail Store Sales Dashboard" width="280px" align="left" title="Retail Store Sales Dashboard"/></a>
+
 <a href="https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard"><strong>Retail Store Sales Dashboard</strong></a>
  
 <strong>Dataset : [Retail Store Sales Dataset](https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard/tree/main/Dataset)</strong>
@@ -137,6 +140,7 @@ To design a Retail Store Sales Dashboard that provides a clear and concise overv
 <br>
 <div align="left">
 <a href="https://www.kaggle.com/discussions/general/402148" title="Finance Report Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/power-bi.png" alt="Finance Report Dashboard" width="280px" align="left" title="Finance Report Dashboard"/></a>
+
 <a href="https://github.com/TheMrityunjayPathak/FinanceReportDashboard"><strong>Finance Report Dashboard</strong></a>
 
 <strong>Dataset : [Finance Report Dataset](https://github.com/TheMrityunjayPathak/FinanceReportDashboard/blob/main/financial_data.csv)</strong>
@@ -145,6 +149,7 @@ To create a visually appealing dashboard that provides an overview of the compan
 <br>
 <div align="left">
 <a href="https://www.kaggle.com/discussions/general/389383" title="Covid Pandemic Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/power-bi.png" alt="Covid Pandemic Analysis" width="280px" align="left" title="Covid Pandemic Analysis"/></a>
+
 <a href="https://github.com/TheMrityunjayPathak/CovidPandemicAnalysis"><strong>Covid Pandemic Analysis</strong></a>
 
 <strong>Dataset : [Covid Pandemic Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/covid-cases-and-deaths-worldwide)</strong>
@@ -153,6 +158,7 @@ To create a comprehensive and interactive COVID-19 Dashboard that provides meani
 <br>
 <div align="left">
 <a href="https://www.kaggle.com/discussions/general/385012" title="India Population Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/power-bi.png" alt="India Population Analysis" width="280px" align="left" title="India Population Analysis"/></a>
+
 <a href="https://github.com/TheMrityunjayPathak/IndiaPopulationAnalysis"><strong>India Population Analysis</strong></a>
  
 <strong>Dataset : [India Population Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/2011-census-of-india)</strong>
