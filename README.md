@@ -1,5 +1,7 @@
 <strong>
 
+<br>
+
 <div align="center">
 
 <a href="https://github.com/TheMrityunjayPathak"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/1d289249-6d1d-45cf-b722-3b4388c7f007"></a>
