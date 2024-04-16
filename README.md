@@ -66,7 +66,7 @@ I am a dedicated 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁 with a kn
 
 • 𝗣𝗵𝗼𝗻𝗲 : <a href="https://wa.me/919336158993">+91 9336158993</a>
 
-• 𝗥𝗲𝘀𝘂𝗺𝗲 : <a href="https://drive.google.com/file/d/1D2cG6MGgz3dpi4Abl16_YUicI-ChXZlv/view?usp=drivesdk">Mrityunjay Pathak's Resume</a>
+• 𝗥𝗲𝘀𝘂𝗺𝗲 : <a href="https://drive.google.com/file/d/1D2cG6MGgz3dpi4Abl16_YUicI-ChXZlv/view?usp=drivesdk">Mrityunjay's Resume</a>
 
 </p>
 
@@ -124,7 +124,7 @@ I am a dedicated 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁 with a kn
 
 </div>
 <br><br>
-<div><p><strong>📊 Power BI</strong></p>
+<div><p><strong>📊 Microsoft Power BI</strong></p>
 
 <div align="left">
 <a href="https://www.kaggle.com/discussions/general/417585" title="Retail Store Sales Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/power-bi.png" alt="Retail Store Sales Dashboard" width="280px" align="left" title="Retail Store Sales Dashboard"/></a>
