@@ -38,35 +38,37 @@
 
 <div>
 
-<p>Hi 👋, I'm 𝗠𝗿𝗶𝘁𝘆𝘂𝗻𝗷𝗮𝘆 𝗣𝗮𝘁𝗵𝗮𝗸</p>
+<p>Hi 👋, I'm 𝗠𝗿𝗶𝘁𝘆𝘂𝗻𝗷𝗮𝘆 𝗣𝗮𝘁𝗵𝗮𝗸
 
-<p>I am a dedicated 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁 with a knack for uncovering patterns and trends that drive smarter decisions.</p>
+I am a dedicated 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁 with a knack for uncovering patterns and trends that drive smarter decisions.
 
-<p>🎯 𝗦𝗸𝗶𝗹𝗹𝘀</p>
+🎯 𝗦𝗸𝗶𝗹𝗹𝘀
 
-<p>• 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 : I'm skilled in using Python, a powerful language for data science and data analysis.</p>
+• 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 : I'm skilled in using Python, a powerful language for data science and data analysis.
 
-<p>• 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀 : I'm familiar with essential libraries like NumPy (for numerical operations), Pandas (for data manipulation), and Matplotlib/Seaborn (for visualizing data).</p>
+• 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀 : I'm familiar with essential libraries like NumPy (for numerical operations), Pandas (for data manipulation), and Matplotlib/Seaborn (for visualizing data).
 
-<p>• 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 : I'm familiar in various machine learning techniques like Regression (predicting values), Classification (sorting data into categories), Clustering (grouping similar data), Dimensionality Reduction (simplifying complex data), and Model Selection (choosing the right predictive model).</p>
+• 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 : I'm familiar in various machine learning techniques like Regression (predicting values), Classification (sorting data into categories), Clustering (grouping similar data), Dimensionality Reduction (simplifying complex data), and Model Selection (choosing the right predictive model).
 
-<p>• 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 : I can work with MySQL, a popular database system, to handle and retrieve data effectively.</p>
+• 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 : I can work with MySQL, a popular database system, to handle and retrieve data effectively.
 
-<p>• 𝗕𝗜 𝗧𝗼𝗼𝗹 : I'm proficient in using Microsoft Power BI, a tool that helps in turning data into actionable insights through interactive visualizations.</p>
+• 𝗕𝗜 𝗧𝗼𝗼𝗹 : I'm proficient in using Microsoft Power BI, a tool that helps in turning data into actionable insights through interactive visualizations.
 
-<p>• 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 𝗖𝗼𝗻𝘁𝗿𝗼𝗹 : I'm familiar with Git, which helps in keeping track of changes in code and collaborating effectively with a team.</p>
+• 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 𝗖𝗼𝗻𝘁𝗿𝗼𝗹 : I'm familiar with Git, which helps in keeping track of changes in code and collaborating effectively with a team.
 
-<p>• 𝗪𝗲𝗯 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 : I have experience working with Streamlit, an open-source Python library that makes it easy to create custom web apps for machine learning and data science.</p>
+• 𝗪𝗲𝗯 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 : I have experience working with Streamlit, an open-source Python library that makes it easy to create custom web apps for machine learning and data science.
 
-<p>• 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 : I also have some knowledge in web development, specifically HTML and CSS.
+• 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 : I also have some knowledge in web development, specifically HTML and CSS.
 
-<p>☎️ 𝗖𝗼𝗻𝘁𝗮𝗰𝘁</p>
+☎️ 𝗖𝗼𝗻𝘁𝗮𝗰𝘁
 
-<p>• 𝗘-𝗠𝗮𝗶𝗹 : <a href="mailto:themrityunjaypathak@gmail.com">themrityunjaypathak@gmail.com</a></p>
+• 𝗘-𝗠𝗮𝗶𝗹 : <a href="mailto:themrityunjaypathak@gmail.com">themrityunjaypathak@gmail.com</a>
 
-<p>• 𝗣𝗵𝗼𝗻𝗲 : <a href="https://wa.me/919336158993">+91 9336158993</a></p>
+• 𝗣𝗵𝗼𝗻𝗲 : <a href="https://wa.me/919336158993">+91 9336158993</a>
 
-<p>• 𝗥𝗲𝘀𝘂𝗺𝗲 : <a href="https://drive.google.com/file/d/1D2cG6MGgz3dpi4Abl16_YUicI-ChXZlv/view?usp=drivesdk">Mrityunjay Pathak's Resume</a>
+• 𝗥𝗲𝘀𝘂𝗺𝗲 : <a href="https://drive.google.com/file/d/1D2cG6MGgz3dpi4Abl16_YUicI-ChXZlv/view?usp=drivesdk">Mrityunjay Pathak's Resume</a>
+
+</p>
 
 </div>
 
