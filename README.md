@@ -99,7 +99,7 @@ I am a dedicated <strong>Data Scientist</strong> with a knack for uncovering pat
 
 <a href="https://github.com/TheMrityunjayPathak/CarPricePrediction"><strong>Car Price Prediction</strong></a>
 
-<strong>Dataset : [Car Price Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling) ➜ Web App : [Car Price Prediction App](https://car-price-prediction-using-lr.streamlit.app/)</strong>
+<strong>Dataset : [Car Price Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling) → Web App : [Car Price Prediction App](https://car-price-prediction-using-lr.streamlit.app/)</strong>
 
 To develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</div>
 <br>
@@ -108,7 +108,7 @@ To develop a Machine Learning Model that can accurately predict the prices of us
 
 <a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification"><strong>Spaceship Titanic Classification</strong></a>
  
-<strong>Dataset : [Spaceship Titanic Dataset](https://www.kaggle.com/competitions/spaceship-titanic/data?select=train.csv) ➜ Web App : [Spaceship Titanic App](https://spaceship-titanic-classification.streamlit.app/)</strong>
+<strong>Dataset : [Spaceship Titanic Dataset](https://www.kaggle.com/competitions/spaceship-titanic/data?select=train.csv) → Web App : [Spaceship Titanic App](https://spaceship-titanic-classification.streamlit.app/)</strong>
 
 To predict whether a passenger was transported to an alternate dimension during the Spaceship collision with the spacetime anomaly.</div>
 
@@ -121,7 +121,7 @@ To predict whether a passenger was transported to an alternate dimension during 
 
 <a href="https://github.com/TheMrityunjayPathak/SuperMarketSalesAnalysis"><strong>Super Market Sales Analysis</strong></a>
  
-<strong>Dataset : [Super Market Sales Dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales) ➜ Web App : [Super Market Sales App](https://super-market-sales-analysis.streamlit.app/)</strong>
+<strong>Dataset : [Super Market Sales Dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales) → Web App : [Super Market Sales App](https://super-market-sales-analysis.streamlit.app/)</strong>
 
 To analyze sales data and gain insights into customer purchasing behavior, product performance and overall trends of the supermarket business.</div>
 
