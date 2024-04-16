@@ -1,5 +1,3 @@
-<strong>
-
 <br>
 
 <div align="center">
@@ -38,35 +36,35 @@
 
 <div>
 
-<p>Hi 👋, I'm 𝗠𝗿𝗶𝘁𝘆𝘂𝗻𝗷𝗮𝘆 𝗣𝗮𝘁𝗵𝗮𝗸
+<p>Hi 👋, I'm <strong>Mrityunjay Pathak</strong>
+ 
+I am a dedicated <strong>Data Scientist</strong> with a knack for uncovering patterns and trends that drive smarter decisions.
 
-I am a dedicated 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁 with a knack for uncovering patterns and trends that drive smarter decisions.
+<strong>🎯 Skills</strong>
 
-🎯 𝗦𝗸𝗶𝗹𝗹𝘀
+• <strong>Programming</strong> : I'm skilled in using Python, a powerful language for data science and data analysis.
 
-• 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 : I'm skilled in using Python, a powerful language for data science and data analysis.
+• <strong>Data Science Libraries</strong> : I'm familiar with essential libraries like NumPy (for numerical operations), Pandas (for data manipulation), and Matplotlib/Seaborn (for visualizing data).
 
-• 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀 : I'm familiar with essential libraries like NumPy (for numerical operations), Pandas (for data manipulation), and Matplotlib/Seaborn (for visualizing data).
+• <strong>Machine Learning</strong> : I'm familiar in various machine learning techniques like Regression (predicting values), Classification (sorting data into categories), Clustering (grouping similar data), Dimensionality Reduction (simplifying complex data), and Model Selection (choosing the right predictive model).
 
-• 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 : I'm familiar in various machine learning techniques like Regression (predicting values), Classification (sorting data into categories), Clustering (grouping similar data), Dimensionality Reduction (simplifying complex data), and Model Selection (choosing the right predictive model).
+• <strong>Database Management</strong> : I can work with MySQL, a popular database system, to handle and retrieve data effectively.
 
-• 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 : I can work with MySQL, a popular database system, to handle and retrieve data effectively.
+• <strong>BI Tool</strong> : I'm proficient in using Microsoft Power BI, a tool that helps in turning data into actionable insights through interactive visualizations.
 
-• 𝗕𝗜 𝗧𝗼𝗼𝗹 : I'm proficient in using Microsoft Power BI, a tool that helps in turning data into actionable insights through interactive visualizations.
+• <strong>Version Control</strong> : I'm familiar with Git, which helps in keeping track of changes in code and collaborating effectively with a team.
 
-• 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 𝗖𝗼𝗻𝘁𝗿𝗼𝗹 : I'm familiar with Git, which helps in keeping track of changes in code and collaborating effectively with a team.
+• <strong>Web Application</strong> : I have experience working with Streamlit, an open-source Python library that makes it easy to create custom web apps for machine learning and data science.
 
-• 𝗪𝗲𝗯 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 : I have experience working with Streamlit, an open-source Python library that makes it easy to create custom web apps for machine learning and data science.
+• <strong>Web Development</strong> : I also have some knowledge in web development, specifically HTML and CSS.
 
-• 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 : I also have some knowledge in web development, specifically HTML and CSS.
+<strong>☎️ Contact</strong>
 
-☎️ 𝗖𝗼𝗻𝘁𝗮𝗰𝘁
+• <strong>E-Mail : <a href="mailto:themrityunjaypathak@gmail.com">themrityunjaypathak@gmail.com</a></strong>
 
-• 𝗘-𝗠𝗮𝗶𝗹 : <a href="mailto:themrityunjaypathak@gmail.com">themrityunjaypathak@gmail.com</a>
+• <strong>Phone : <a href="https://wa.me/919336158993">+91 9336158993</a></strong>
 
-• 𝗣𝗵𝗼𝗻𝗲 : <a href="https://wa.me/919336158993">+91 9336158993</a>
-
-• 𝗥𝗲𝘀𝘂𝗺𝗲 : <a href="https://drive.google.com/file/d/1D2cG6MGgz3dpi4Abl16_YUicI-ChXZlv/view?usp=drivesdk">Mrityunjay's Resume</a>
+• <strong>Resume : <a href="https://drive.google.com/file/d/1D2cG6MGgz3dpi4Abl16_YUicI-ChXZlv/view?usp=drivesdk">Mrityunjay's Resume</a></strong>
 
 </p>
 
@@ -100,7 +98,7 @@ I am a dedicated 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁 with a kn
 
 <strong>Dataset : [Car Price Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling) → Web App : [Car Price Prediction App](https://car-price-prediction-using-lr.streamlit.app/)</strong>
 
-<strong>To develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</strong></div>
+To develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</div>
 <br>
 <div align="left">
 <a href="https://www.kaggle.com/code/themrityunjaypathak/spaceship-titanic-classification" title="Spaceship Titanic Classification"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml.png" width="280px" align="left" title="Spaceship Titanic Classification"/></a>
@@ -108,7 +106,7 @@ I am a dedicated 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁 with a kn
  
 <strong>Dataset : [Spaceship Titanic Dataset](https://www.kaggle.com/competitions/spaceship-titanic/data?select=train.csv) → Web App : [Spaceship Titanic App](https://spaceship-titanic-classification.streamlit.app/)</strong>
 
-<strong>To predict whether a passenger was transported to an alternate dimension during the Spaceship collision with the spacetime anomaly.</strong></div>
+To predict whether a passenger was transported to an alternate dimension during the Spaceship collision with the spacetime anomaly.</div>
 
 </div>
 <br><br>
@@ -120,7 +118,7 @@ I am a dedicated 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁 with a kn
  
 <strong>Dataset : [Super Market Sales Dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales) → Web App : [Super Market Sales App](https://super-market-sales-analysis.streamlit.app/)</strong>
 
-<strong>To analyze sales data and gain insights into customer purchasing behavior, product performance and overall trends of the supermarket business.</strong></div>
+To analyze sales data and gain insights into customer purchasing behavior, product performance and overall trends of the supermarket business.</div>
 
 </div>
 <br><br>
@@ -132,7 +130,7 @@ I am a dedicated 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁 with a kn
  
 <strong>Dataset : [Retail Store Sales Dataset](https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard/tree/main/Dataset)</strong>
 
-<strong>To design a Retail Store Sales Dashboard that provides a clear and concise overview of the Store's Sales performance enabling the owner to gain actionable insights.</strong></div>
+To design a Retail Store Sales Dashboard that provides a clear and concise overview of the Store's Sales performance enabling the owner to gain actionable insights.</div>
 <br>
 <div align="left">
 <a href="https://www.kaggle.com/discussions/general/402148" title="Finance Report Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/power-bi.png" alt="Finance Report Dashboard" width="280px" align="left" title="Finance Report Dashboard"/></a>
@@ -140,7 +138,7 @@ I am a dedicated 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁 with a kn
 
 <strong>Dataset : [Finance Report Dataset](https://github.com/TheMrityunjayPathak/FinanceReportDashboard/blob/main/financial_data.csv)</strong>
 
-<strong>To create a visually appealing dashboard that provides an overview of the company's financial metrics enabling stakeholders to make informed business decisions.</strong></div>
+To create a visually appealing dashboard that provides an overview of the company's financial metrics enabling stakeholders to make informed business decisions.</div>
 <br>
 <div align="left">
 <a href="https://www.kaggle.com/discussions/general/389383" title="Covid Pandemic Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/power-bi.png" alt="Covid Pandemic Analysis" width="280px" align="left" title="Covid Pandemic Analysis"/></a>
@@ -148,7 +146,7 @@ I am a dedicated 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁 with a kn
 
 <strong>Dataset : [Covid Pandemic Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/covid-cases-and-deaths-worldwide)</strong>
 
-<strong>To create a comprehensive and interactive COVID-19 Dashboard that provides meaningful insights and analysis of the pandemic's impact.</strong></div>
+To create a comprehensive and interactive COVID-19 Dashboard that provides meaningful insights and analysis of the pandemic's impact.</div>
 <br>
 <div align="left">
 <a href="https://www.kaggle.com/discussions/general/385012" title="India Population Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/power-bi.png" alt="India Population Analysis" width="280px" align="left" title="India Population Analysis"/></a>
@@ -156,7 +154,7 @@ I am a dedicated 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁 with a kn
  
 <strong>Dataset : [India Population Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/2011-census-of-india)</strong>
 
-<strong>To provide insights and visualizations that help stakeholders understand the population dynamics, trends, and patterns across various demographic factors.</strong></div>
+To provide insights and visualizations that help stakeholders understand the population dynamics, trends, and patterns across various demographic factors.</div>
 
 </div>
 <br>
@@ -316,7 +314,7 @@ For more Details → Go to [Machine Learning Mathematics](https://github.com/The
 
 <div>
 
-📃 Kaggle Certificates
+<strong>📃 Kaggle Certificates</strong>
 
 | <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/python" title="Python"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/python-certificate.png" width="200px" align="center"/></a> | <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/pandas" title="Pandas"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/pandas-certificate.png" width="200px" align="center"/></a> |
 | :---: | :---: |
@@ -324,7 +322,7 @@ For more Details → Go to [Machine Learning Mathematics](https://github.com/The
 | <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/data-visualization" title="Data Visualization"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/data-visualization.png" width="200px" align="center"/> | <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/intro-to-machine-learning" title="Intro to Machine Learning"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml-certificate.png" width="200px" align="center"/></a> |
 | :---: | :---: |
 
-📃 HackerRank Certificates
+<strong>📃 HackerRank Certificates</strong>
 
 | <a href="https://www.hackerrank.com/certificates/e41a7578cc82" title="HackerRank Python (Basic)"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/python-hacker.jpg" width="200px" align="center"/></a> | <a href="https://www.hackerrank.com/certificates/09ec62ca442f" title="HackerRank SQL (Basic)"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/sql-hacker.jpg" width="200px" align="center"/></a> |
 | :---: | :---: |
@@ -370,5 +368,3 @@ For more Details → Go to [Machine Learning Mathematics](https://github.com/The
 <a href="#"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/arrow.png" width="4%"></a>
 
 </div>
-
-</strong>
