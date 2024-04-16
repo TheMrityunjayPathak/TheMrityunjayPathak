@@ -11,25 +11,25 @@
 <div align="center">
 
 <a href="#about">
-ABOUT
+𝗔𝗕𝗢𝗨𝗧
 </a>&nbsp;&nbsp;&nbsp;
 <a href="#skills">
-SKILLS
+𝗦𝗞𝗜𝗟𝗟𝗦
 </a>&nbsp;&nbsp;&nbsp;
 <a href="#projects">
-PROJECTS
+𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 </a>&nbsp;&nbsp;&nbsp;
 <a href="#notebooks">
-NOTEBOOKS
+𝗡𝗢𝗧𝗘𝗕𝗢𝗢𝗞𝗦
 </a>&nbsp;&nbsp;&nbsp;
 <a href="#certificates">
-CERTIFICATES
+𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗘𝗦
 </a>&nbsp;&nbsp;&nbsp;
 <a href="#achievements">
-ACHIEVEMENTS 
+𝗔𝗖𝗛𝗜𝗘𝗩𝗘𝗠𝗘𝗡𝗧𝗦
 </a>&nbsp;&nbsp;&nbsp;
 <a href="#contact">
-CONTACT
+𝗖𝗢𝗡𝗧𝗔𝗖𝗧
 </a>
 
 </div>
