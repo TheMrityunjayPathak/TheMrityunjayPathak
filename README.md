@@ -60,7 +60,7 @@ I am a dedicated <strong>Data Scientist</strong> with a knack for uncovering pat
 
 • <strong>Web Development</strong> : I also have some knowledge in web development, specifically HTML and CSS.
 
-<strong>☎️ Contact</strong>
+<strong>📫 Connect with Me</strong>
 
 • <strong>E-Mail : <a href="mailto:themrityunjaypathak@gmail.com">themrityunjaypathak@gmail.com</a></strong>
 
