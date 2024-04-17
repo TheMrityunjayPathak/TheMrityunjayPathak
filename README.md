@@ -66,7 +66,7 @@ I am a dedicated <strong>Data Scientist</strong> with a knack for uncovering pat
 
 • <strong>Phone : <a href="https://wa.me/919336158993">+91 9336158993</a></strong>
 
-• <strong>Resume : <a href="https://drive.google.com/file/d/1D2cG6MGgz3dpi4Abl16_YUicI-ChXZlv/view?usp=drivesdk">Mrityunjay's Resume</a></strong>
+• <strong>Resume : <a href="https://drive.google.com/file/d/1D2cG6MGgz3dpi4Abl16_YUicI-ChXZlv/view?usp=drivesdk">Mrityunjay Pathak - Resume</a></strong>
 
 </p>
 
