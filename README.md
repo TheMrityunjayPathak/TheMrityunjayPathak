@@ -312,31 +312,6 @@ For more Details → Go to [Machine Learning Mathematics](https://github.com/The
 
 </details>
 
-<p><strong>📔 Python Practice Questions</strong></p>
-<details>
-
-<summary><strong>Click Here</strong></summary>
-
-- [Basic Python](https://www.kaggle.com/code/themrityunjaypathak/25-basic-python-questions-with-solutions)
-  
-- [Python I-O](https://www.kaggle.com/code/themrityunjaypathak/25-python-i-o-questions-with-solutions)
-
-- [Loops](https://www.kaggle.com/code/themrityunjaypathak/25-python-loop-questions-with-solutions)
-
-- [Strings](https://www.kaggle.com/code/themrityunjaypathak/25-python-string-questions-with-solutions)
-
-- [List](https://www.kaggle.com/code/themrityunjaypathak/25-python-list-questions-with-solutions)
-
-- [Dictionary](https://www.kaggle.com/code/themrityunjaypathak/25-python-dictionary-questions-with-solutions)
-
-- [Tuple](https://www.kaggle.com/code/themrityunjaypathak/25-python-tuple-questions-with-solutions)
-
-- [Sets](https://www.kaggle.com/code/themrityunjaypathak/25-python-sets-questions-with-solutions)
-
-For more Details → Go to [Python Practice Questions](https://github.com/TheMrityunjayPathak/PythonPracticeQuestions) Repository
-
-</details>
-
 </div>
 
 ## Certificates
