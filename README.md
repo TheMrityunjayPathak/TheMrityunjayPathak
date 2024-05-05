@@ -46,11 +46,11 @@ I am a dedicated <strong>Data Scientist</strong> with a knack for uncovering pat
 
 • <strong>Programming</strong> : I'm skilled in using Python, a powerful language for data science and data analysis.
 
-• <strong>Data Science Libraries</strong> : I'm familiar with essential libraries like NumPy (for numerical operations), Pandas (for data manipulation), and Matplotlib/Seaborn (for visualizing data).
+• <strong>Libraries</strong> : I'm familiar with essential libraries like NumPy (for numerical operations), Pandas (for data manipulation), and Matplotlib/Seaborn (for visualizing data).
 
 • <strong>Machine Learning</strong> : I'm familiar in various machine learning techniques like Regression (predicting values), Classification (sorting data into categories), Clustering (grouping similar data), Dimensionality Reduction (simplifying complex data), and Model Selection (choosing the right predictive model).
 
-• <strong>Database Management</strong> : I can work with MySQL, a popular database system, to handle and retrieve data effectively.
+• <strong>Database</strong> : I can work with MySQL, a popular database system, to handle and retrieve data effectively.
 
 • <strong>BI Tool</strong> : I'm proficient in using Microsoft Power BI, a tool that helps in turning data into actionable insights through interactive visualizations.
 
