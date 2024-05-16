@@ -42,7 +42,7 @@
  
 I am a dedicated <strong>Data Scientist</strong> with a knack for uncovering patterns and trends that drive smarter decisions.
 
-<strong>🎯 Skills</strong>
+<strong>Technologies I’ve been working with recently →</strong>
 
 • <strong>Programming</strong> : I'm skilled in using Python, a powerful language for data science and data analysis.
 
