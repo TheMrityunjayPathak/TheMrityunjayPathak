@@ -13,9 +13,6 @@
 <a href="#about">
 𝗔𝗕𝗢𝗨𝗧
 </a>&nbsp;&nbsp;&nbsp;
-<a href="#skills">
-𝗦𝗞𝗜𝗟𝗟𝗦
-</a>&nbsp;&nbsp;&nbsp;
 <a href="#projects">
 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 </a>&nbsp;&nbsp;&nbsp;
@@ -42,7 +39,7 @@
  
 I am a dedicated <strong>Data Scientist</strong> with a knack for uncovering patterns and trends that drive smarter decisions.
 
-<strong>Technologies I’ve been working with recently →</strong>
+<strong>🎯 Technologies I’ve been working with Recently →</strong>
 
 • <strong>Programming</strong> : I'm skilled in using Python, a powerful language for data science and data analysis.
 
