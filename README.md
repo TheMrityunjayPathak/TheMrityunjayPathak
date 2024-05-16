@@ -59,11 +59,7 @@ I am a dedicated <strong>Data Scientist</strong> with a knack for uncovering pat
 
 <strong>📫 Connect with Me</strong>
 
-• <strong>E-Mail : <a href="mailto:themrityunjaypathak@gmail.com">themrityunjaypathak@gmail.com</a></strong>
-
-• <strong>Phone : <a href="https://wa.me/919336158993">+91 9336158993</a></strong>
-
-• <strong>Resume : <a href="https://drive.google.com/file/d/1D2cG6MGgz3dpi4Abl16_YUicI-ChXZlv/view?usp=drivesdk">Mrityunjay Pathak - Resume</a></strong>
+[Kaggle](https://www.kaggle.com/themrityunjaypathak)&nbsp;&nbsp; | &nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/themrityunjaypathak)&nbsp;&nbsp; | &nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak)&nbsp;&nbsp; | &nbsp;&nbsp;[HackerRank](https://www.hackerrank.com/mrityunjaypathak)&nbsp;&nbsp; | &nbsp;&nbsp;[Portfolio](https://themrityunjaypathak.github.io/)
 
 </p>
 
@@ -318,29 +314,18 @@ For more Details → Go to [Machine Learning Mathematics](https://github.com/The
 
 | 5 ⭐ Python HackerRank | 5 ⭐ SQL HackerRank | Kaggle Master |
 | :---: | :---: | :---: |
+
 </div>
 
 ## Contact
 
-<div align="center"><p align="center">
+<div align="center">
 
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.kaggle.com/themrityunjaypathak" title="Kaggle">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/kaggle.png" width="4%" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/themrityunjaypathak" title="LinkedIn">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/linkedin.png" width="4%" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/TheMrityunjayPathak" title="GitHub">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/github.png" width="4%" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.hackerrank.com/mrityunjaypathak" title="HackerRank">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/hacker.png" width="6%" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://themrityunjaypathak.github.io/" title="Portfolio">
-        <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/portfolio.png" width="4%" />
-    </a>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
+
+[E-Mail](mailto:themrityunjaypathak@gmail.com)&nbsp;&nbsp; | &nbsp;&nbsp;[Phone](https://wa.me/919336158993)&nbsp;&nbsp; | &nbsp;&nbsp;[Resume](https://drive.google.com/file/d/1D2cG6MGgz3dpi4Abl16_YUicI-ChXZlv/view?usp=drivesdk)
+
+</p>
 
 </div>
 
