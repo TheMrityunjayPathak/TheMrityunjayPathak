@@ -131,7 +131,7 @@ To create a comprehensive and interactive COVID-19 Dashboard that provides meani
  
 <strong>Dataset : [India Population Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/2011-census-of-india)</strong>
 
-To provide insights and visualizations that help stakeholders understand the population dynamics, trends, and patterns across various demographic factors.</div>
+To provide insights and visualizations that help stakeholders understand the population dynamics, trends and patterns across various demographic factors.</div>
 
 </div>
 <br>
