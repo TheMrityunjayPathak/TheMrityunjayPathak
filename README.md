@@ -323,7 +323,7 @@ For more Details → Go to [Machine Learning Mathematics](https://github.com/The
 
 <p align="center">
 
-[E-Mail](mailto:themrityunjaypathak@gmail.com)&nbsp;&nbsp; | &nbsp;&nbsp;[Phone](https://wa.me/919336158993)&nbsp;&nbsp; | &nbsp;&nbsp;[Resume](https://drive.google.com/file/d/1D2cG6MGgz3dpi4Abl16_YUicI-ChXZlv/view?usp=drivesdk)
+[E-Mail](mailto:themrityunjaypathak@gmail.com)&nbsp;&nbsp; | &nbsp;&nbsp;[Phone](https://wa.me/919336158993)&nbsp;&nbsp; | &nbsp;&nbsp;[Resume](https://drive.google.com/file/d/1Ng5F0dmcYhyAh1VyEDy4SF4pj70QTtmC/view?usp=sharing)
 
 </p>
 
