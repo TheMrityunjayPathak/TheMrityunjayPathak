@@ -70,7 +70,7 @@ I am a dedicated <strong>Data Scientist</strong> with a knack for uncovering pat
 <div><p><strong>🗃️ Machine Learning</strong></p>
 
 <div align="left">
-<a href="https://www.kaggle.com/discussions/general/483415" title="Car Price Prediction"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml.png" width="280px" align="left" title="Car Price Prediction"/></a>
+<a href="https://www.kaggle.com/discussions/general/483415" title="Car Price Prediction"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/f5660b88-2920-4b31-8cf8-934484a4a158" width="280px" align="left" title="Car Price Prediction"/></a>
 <a href="https://github.com/TheMrityunjayPathak/CarPricePrediction"><strong>Car Price Prediction</strong></a>
 
 <strong>Dataset : [Car Price Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling) → Web App : [Car Price Prediction App](https://car-price-prediction-using-lr.streamlit.app/)</strong>
@@ -78,7 +78,7 @@ I am a dedicated <strong>Data Scientist</strong> with a knack for uncovering pat
 To develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</div>
 <br>
 <div align="left">
-<a href="https://www.kaggle.com/discussions/accomplishments/485358" title="Spaceship Titanic Classification"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml.png" width="280px" align="left" title="Spaceship Titanic Classification"/></a>
+<a href="https://www.kaggle.com/discussions/accomplishments/485358" title="Spaceship Titanic Classification"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/f5660b88-2920-4b31-8cf8-934484a4a158" width="280px" align="left" title="Spaceship Titanic Classification"/></a>
 <a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification"><strong>Spaceship Titanic Classification</strong></a>
  
 <strong>Dataset : [Spaceship Titanic Dataset](https://www.kaggle.com/competitions/spaceship-titanic/data?select=train.csv) → Web App : [Spaceship Titanic App](https://spaceship-titanic-classification.streamlit.app/)</strong>
