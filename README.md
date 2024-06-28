@@ -85,7 +85,6 @@ To develop a Machine Learning Model that can accurately predict the prices of us
 
 To predict whether a passenger was transported to an alternate dimension during the Spaceship collision with the spacetime anomaly.</div>
 </div>
-<hr>
 <div><p><strong>🔍 Exploratory Data Analysis</strong></p>
 
 <div align="left">
@@ -97,7 +96,6 @@ To predict whether a passenger was transported to an alternate dimension during 
 To analyze sales data and gain insights into customer purchasing behavior, product performance and overall trends of the supermarket business.</div>
 
 </div>
-<hr>
 <div><p><strong>📊 Microsoft Power BI</strong></p>
 
 <div align="left">
