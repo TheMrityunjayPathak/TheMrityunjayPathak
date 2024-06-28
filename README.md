@@ -102,7 +102,7 @@ To analyze sales data and gain insights into customer purchasing behavior, produ
 <div><p><strong>📊 Microsoft Power BI</strong></p>
 
 <div align="left">
-<a href="https://www.kaggle.com/discussions/general/417585" title="Retail Store Sales Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/e7e74b83-bb55-489c-bef1-0589c27abc98" alt="Retail Store Sales Dashboard" width="280px" align="left" title="Retail Store Sales Dashboard"/></a>
+<a href="https://www.kaggle.com/discussions/general/417585" title="Retail Store Sales Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/9e0d1fb9-97ff-4ab9-b6a9-141cd3f9d88c" alt="Retail Store Sales Dashboard" width="280px" align="left" title="Retail Store Sales Dashboard"/></a>
 <a href="https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard"><strong>Retail Store Sales Dashboard</strong></a>
  
 <strong>Dataset : [Retail Store Sales Dataset](https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard/tree/main/Dataset)</strong>
@@ -110,7 +110,7 @@ To analyze sales data and gain insights into customer purchasing behavior, produ
 To design a Retail Store Sales Dashboard that provides a clear and concise overview of the Store's Sales performance enabling the owner to gain actionable insights.</div>
 <br>
 <div align="left">
-<a href="https://www.kaggle.com/discussions/general/402148" title="Finance Report Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/e7e74b83-bb55-489c-bef1-0589c27abc98" alt="Finance Report Dashboard" width="280px" align="left" title="Finance Report Dashboard"/></a>
+<a href="https://www.kaggle.com/discussions/general/402148" title="Finance Report Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/9e0d1fb9-97ff-4ab9-b6a9-141cd3f9d88c" alt="Finance Report Dashboard" width="280px" align="left" title="Finance Report Dashboard"/></a>
 <a href="https://github.com/TheMrityunjayPathak/FinanceReportDashboard"><strong>Finance Report Dashboard</strong></a>
 
 <strong>Dataset : [Finance Report Dataset](https://github.com/TheMrityunjayPathak/FinanceReportDashboard/blob/main/financial_data.csv)</strong>
@@ -118,7 +118,7 @@ To design a Retail Store Sales Dashboard that provides a clear and concise overv
 To create a visually appealing dashboard that provides an overview of the company's financial metrics enabling stakeholders to make informed business decisions.</div>
 <br>
 <div align="left">
-<a href="https://www.kaggle.com/discussions/general/389383" title="Covid Pandemic Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/e7e74b83-bb55-489c-bef1-0589c27abc98" alt="Covid Pandemic Analysis" width="280px" align="left" title="Covid Pandemic Analysis"/></a>
+<a href="https://www.kaggle.com/discussions/general/389383" title="Covid Pandemic Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/9e0d1fb9-97ff-4ab9-b6a9-141cd3f9d88c" alt="Covid Pandemic Analysis" width="280px" align="left" title="Covid Pandemic Analysis"/></a>
 <a href="https://github.com/TheMrityunjayPathak/CovidPandemicAnalysis"><strong>Covid Pandemic Analysis</strong></a>
 
 <strong>Dataset : [Covid Pandemic Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/covid-cases-and-deaths-worldwide)</strong>
@@ -126,7 +126,7 @@ To create a visually appealing dashboard that provides an overview of the compan
 To create a comprehensive and interactive COVID-19 Dashboard that provides meaningful insights and analysis of the pandemic's impact.</div>
 <br>
 <div align="left">
-<a href="https://www.kaggle.com/discussions/general/385012" title="India Population Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/e7e74b83-bb55-489c-bef1-0589c27abc98" alt="India Population Analysis" width="280px" align="left" title="India Population Analysis"/></a>
+<a href="https://www.kaggle.com/discussions/general/385012" title="India Population Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/9e0d1fb9-97ff-4ab9-b6a9-141cd3f9d88c" alt="India Population Analysis" width="280px" align="left" title="India Population Analysis"/></a>
 <a href="https://github.com/TheMrityunjayPathak/IndiaPopulationAnalysis"><strong>India Population Analysis</strong></a>
  
 <strong>Dataset : [India Population Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/2011-census-of-india)</strong>
