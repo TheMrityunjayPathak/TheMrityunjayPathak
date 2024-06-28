@@ -133,7 +133,6 @@ To create a comprehensive and interactive COVID-19 Dashboard that provides meani
 To provide insights and visualizations that help stakeholders understand the population dynamics, trends and patterns across various demographic factors.</div>
 
 </div>
-<br>
 
 ## Notebooks
 
