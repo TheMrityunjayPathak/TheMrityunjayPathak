@@ -69,8 +69,7 @@ I am a dedicated <strong>Data Scientist</strong> with a knack for uncovering pat
 
 <div>
  
-| <strong>🗃️ Machine Learning</strong> |
-| :---: |
+### 🗃️ Machine Learning
 
 <div align="left">
 <a href="https://www.kaggle.com/discussions/general/483415" title="Car Price Prediction"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/00ef9c2a-d411-46ee-8e8c-0f46f2703bae" width="280px" align="left" title="Car Price Prediction"/></a>
