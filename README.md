@@ -67,7 +67,7 @@ I am a dedicated <strong>Data Scientist</strong> with a knack for uncovering pat
 
 ## Projects
 
-<div><p><strong>🗃️ Machine Learning</strong></p>
+<div><p align="right"><strong>🗃️ Machine Learning</strong></p>
 
 <div align="left">
 <a href="https://www.kaggle.com/discussions/general/483415" title="Car Price Prediction"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/00ef9c2a-d411-46ee-8e8c-0f46f2703bae" width="280px" align="left" title="Car Price Prediction"/></a>
@@ -85,7 +85,7 @@ To develop a Machine Learning Model that can accurately predict the prices of us
 
 To predict whether a passenger was transported to an alternate dimension during the Spaceship collision with the spacetime anomaly.</div>
 </div>
-<div><p><strong>🔍 Exploratory Data Analysis</strong></p>
+<div><p align="right"><strong>🔍 Exploratory Data Analysis</strong></p>
 
 <div align="left">
 <a href="https://www.kaggle.com/discussions/general/451092" title="Super Market Sales Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/154541f4-27d5-4d8f-9871-c2d64d1aa058" width="280px" align="left" title="Super Market Sales Analysis"/></a>
@@ -96,7 +96,7 @@ To predict whether a passenger was transported to an alternate dimension during 
 To analyze sales data and gain insights into customer purchasing behavior, product performance and overall trends of the supermarket business.</div>
 
 </div>
-<div><p><strong>📊 Microsoft Power BI</strong></p>
+<div><p align="right"><strong>📊 Microsoft Power BI</strong></p>
 
 <div align="left">
 <a href="https://www.kaggle.com/discussions/general/417585" title="Retail Store Sales Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/b62fe64b-a290-4897-8c20-009053e6c592" alt="Retail Store Sales Dashboard" width="280px" align="left" title="Retail Store Sales Dashboard"/></a>
