@@ -69,7 +69,7 @@ I am a dedicated <strong>Data Scientist</strong> with a knack for uncovering pat
 
 <div>
  
-### 🗃️ Machine Learning
+#### 🗃️ Machine Learning
 
 <div align="left">
 <a href="https://www.kaggle.com/discussions/general/483415" title="Car Price Prediction"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/00ef9c2a-d411-46ee-8e8c-0f46f2703bae" width="280px" align="left" title="Car Price Prediction"/></a>
@@ -92,7 +92,7 @@ To predict whether a passenger was transported to an alternate dimension during 
 
 <div>
  
-### 🔍 Exploratory Data Analysis
+#### 🔍 Exploratory Data Analysis
 
 <div align="left">
 <a href="https://www.kaggle.com/discussions/general/451092" title="Super Market Sales Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/154541f4-27d5-4d8f-9871-c2d64d1aa058" width="280px" align="left" title="Super Market Sales Analysis"/></a>
@@ -100,13 +100,13 @@ To predict whether a passenger was transported to an alternate dimension during 
 
 <strong>Dataset : [Super Market Sales Dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales) → Web App : [Super Market Sales App](https://super-market-sales-analysis.streamlit.app/)</strong>
 
-To analyze sales data and gain insights into customer purchasing behavior, product performance and overall trends of the supermarket business.</div>
-
+To analyze sales data and gain insights into customer purchasing behavior, product performance and overall trends of the supermarket business.
 </div>
+</div>
+
 <div>
 
-| <strong>📊 Microsoft Power BI</strong> |
-| :---: |
+#### 📊 Microsoft Power BI
 
 <div align="left">
 <a href="https://www.kaggle.com/discussions/general/417585" title="Retail Store Sales Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/b62fe64b-a290-4897-8c20-009053e6c592" alt="Retail Store Sales Dashboard" width="280px" align="left" title="Retail Store Sales Dashboard"/></a>
@@ -114,7 +114,8 @@ To analyze sales data and gain insights into customer purchasing behavior, produ
  
 <strong>Dataset : [Retail Store Sales Dataset](https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard/tree/main/Dataset)</strong>
 
-To design a Retail Store Sales Dashboard that provides a clear and concise overview of the Store's Sales performance enabling the owner to gain actionable insights.</div>
+To design a Retail Store Sales Dashboard that provides a clear and concise overview of the Store's Sales performance enabling the owner to gain actionable insights.
+</div>
 
 <div align="left">
 <a href="https://www.kaggle.com/discussions/general/402148" title="Finance Report Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/b62fe64b-a290-4897-8c20-009053e6c592" alt="Finance Report Dashboard" width="280px" align="left" title="Finance Report Dashboard"/></a>
@@ -122,7 +123,8 @@ To design a Retail Store Sales Dashboard that provides a clear and concise overv
 
 <strong>Dataset : [Finance Report Dataset](https://github.com/TheMrityunjayPathak/FinanceReportDashboard/blob/main/financial_data.csv)</strong>
 
-To create a visually appealing dashboard that provides an overview of the company's financial metrics enabling stakeholders to make informed business decisions.</div>
+To create a visually appealing dashboard that provides an overview of the company's financial metrics enabling stakeholders to make informed business decisions.
+</div>
 
 <div align="left">
 <a href="https://www.kaggle.com/discussions/general/389383" title="Covid Pandemic Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/b62fe64b-a290-4897-8c20-009053e6c592" alt="Covid Pandemic Analysis" width="280px" align="left" title="Covid Pandemic Analysis"/></a>
@@ -130,7 +132,8 @@ To create a visually appealing dashboard that provides an overview of the compan
 
 <strong>Dataset : [Covid Pandemic Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/covid-cases-and-deaths-worldwide)</strong>
 
-To create a comprehensive and interactive COVID-19 Dashboard that provides meaningful insights and analysis of the pandemic's impact.</div>
+To create a comprehensive and interactive COVID-19 Dashboard that provides meaningful insights and analysis of the pandemic's impact.
+</div>
 
 <div align="left">
 <a href="https://www.kaggle.com/discussions/general/385012" title="India Population Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/b62fe64b-a290-4897-8c20-009053e6c592" alt="India Population Analysis" width="280px" align="left" title="India Population Analysis"/></a>
@@ -138,8 +141,8 @@ To create a comprehensive and interactive COVID-19 Dashboard that provides meani
  
 <strong>Dataset : [India Population Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/2011-census-of-india)</strong>
 
-To provide insights and visualizations that help stakeholders understand the population dynamics, trends and patterns across various demographic factors.</div>
-
+To provide insights and visualizations that help stakeholders understand the population dynamics, trends and patterns across various demographic factors.
+</div>
 </div>
 
 ## Notebooks
