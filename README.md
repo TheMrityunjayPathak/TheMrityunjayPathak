@@ -89,7 +89,7 @@ To predict whether a passenger was transported to an alternate dimension during 
 <div><p><strong>🔍 Exploratory Data Analysis</strong></p>
 
 <div align="left">
-<a href="https://www.kaggle.com/discussions/general/451092" title="Super Market Sales Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/b62fe64b-a290-4897-8c20-009053e6c592" width="280px" align="left" title="Super Market Sales Analysis"/></a>
+<a href="https://www.kaggle.com/discussions/general/451092" title="Super Market Sales Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/154541f4-27d5-4d8f-9871-c2d64d1aa058" width="280px" align="left" title="Super Market Sales Analysis"/></a>
 <a href="https://github.com/TheMrityunjayPathak/SuperMarketSalesAnalysis"><strong>Super Market Sales Analysis</strong></a>
 
 <strong>Dataset : [Super Market Sales Dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales) → Web App : [Super Market Sales App](https://super-market-sales-analysis.streamlit.app/)</strong>
