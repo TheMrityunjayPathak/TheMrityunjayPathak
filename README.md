@@ -78,7 +78,7 @@ I am a dedicated <strong>Data Scientist</strong> with a knack for uncovering pat
 To develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</div>
 <br>
 <div align="left">
-<a href="https://www.kaggle.com/discussions/accomplishments/485358" title="Spaceship Titanic Classification"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/742a372b-f28e-4ae6-a2b7-e4b6e6cc4ef4" width="280px" align="left" title="Spaceship Titanic Classification"/></a>
+<a href="https://www.kaggle.com/discussions/accomplishments/485358" title="Spaceship Titanic Classification"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/00ef9c2a-d411-46ee-8e8c-0f46f2703bae" width="280px" align="left" title="Spaceship Titanic Classification"/></a>
 <a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification"><strong>Spaceship Titanic Classification</strong></a>
  
 <strong>Dataset : [Spaceship Titanic Dataset](https://www.kaggle.com/competitions/spaceship-titanic/data?select=train.csv) → Web App : [Spaceship Titanic App](https://spaceship-titanic-classification.streamlit.app/)</strong>
