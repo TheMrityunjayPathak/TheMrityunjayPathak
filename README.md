@@ -67,6 +67,9 @@ I am a dedicated <strong>Data Scientist</strong> with a knack for uncovering pat
 
 ## Projects
 
+|<p><strong>🗃️ Machine Learning</strong></p>|
+| :---: |
+
 <div><p><strong>🗃️ Machine Learning</strong></p>
 
 <div align="left">
