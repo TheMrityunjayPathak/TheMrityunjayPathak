@@ -85,7 +85,7 @@ To develop a Machine Learning Model that can accurately predict the prices of us
 
 To predict whether a passenger was transported to an alternate dimension during the Spaceship collision with the spacetime anomaly.</div>
 </div>
-&nbsp;
+
 <hr>
 <div><p><strong>🔍 Exploratory Data Analysis</strong></p>
 
