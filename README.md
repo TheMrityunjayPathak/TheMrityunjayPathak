@@ -90,9 +90,9 @@ To predict whether a passenger was transported to an alternate dimension during 
 <div><p><strong>🔍 Exploratory Data Analysis</strong></p>
  
 <div align="left">
-<a href="https://www.kaggle.com/discussions/general/451092" title="Super Market Sales Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/eda-project.png" width="280px" align="left" title="Super Market Sales Analysis"/></a>
+<a href="https://www.kaggle.com/discussions/general/451092" title="Super Market Sales Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/d9ea1a65-0a6f-45e5-a815-567bb5bcb5b8" width="280px" align="left" title="Super Market Sales Analysis"/></a>
 <a href="https://github.com/TheMrityunjayPathak/SuperMarketSalesAnalysis"><strong>Super Market Sales Analysis</strong></a>
- 
+
 <strong>Dataset : [Super Market Sales Dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales) → Web App : [Super Market Sales App](https://super-market-sales-analysis.streamlit.app/)</strong>
 
 To analyze sales data and gain insights into customer purchasing behavior, product performance and overall trends of the supermarket business.</div>
