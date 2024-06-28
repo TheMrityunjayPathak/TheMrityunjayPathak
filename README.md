@@ -77,7 +77,8 @@ I am a dedicated <strong>Data Scientist</strong> with a knack for uncovering pat
  
 <strong>Dataset : [Car Price Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling) → Web App : [Car Price Prediction App](https://car-price-prediction-using-lr.streamlit.app/)</strong>
 
-To develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</div>
+To develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.
+</div>
 
 <div align="left">
 <a href="https://www.kaggle.com/discussions/accomplishments/485358" title="Spaceship Titanic Classification"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/00ef9c2a-d411-46ee-8e8c-0f46f2703bae" width="280px" align="left" title="Spaceship Titanic Classification"/></a>
@@ -85,12 +86,13 @@ To develop a Machine Learning Model that can accurately predict the prices of us
  
 <strong>Dataset : [Spaceship Titanic Dataset](https://www.kaggle.com/competitions/spaceship-titanic/data?select=train.csv) → Web App : [Spaceship Titanic App](https://spaceship-titanic-classification.streamlit.app/)</strong>
 
-To predict whether a passenger was transported to an alternate dimension during the Spaceship collision with the spacetime anomaly.</div>
+To predict whether a passenger was transported to an alternate dimension during the Spaceship collision with the spacetime anomaly.
 </div>
+</div>
+
 <div>
  
-| <strong>🔍 Exploratory Data Analysis</strong> |
-| :---: |
+### 🔍 Exploratory Data Analysis
 
 <div align="left">
 <a href="https://www.kaggle.com/discussions/general/451092" title="Super Market Sales Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/154541f4-27d5-4d8f-9871-c2d64d1aa058" width="280px" align="left" title="Super Market Sales Analysis"/></a>
