@@ -76,7 +76,7 @@ I am a dedicated <strong>Data Scientist</strong> with a knack for uncovering pat
 <strong>Dataset : [Car Price Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling) → Web App : [Car Price Prediction App](https://car-price-prediction-using-lr.streamlit.app/)</strong>
 
 To develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</div>
-<hr>
+
 <div align="left">
 <a href="https://www.kaggle.com/discussions/accomplishments/485358" title="Spaceship Titanic Classification"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/00ef9c2a-d411-46ee-8e8c-0f46f2703bae" width="280px" align="left" title="Spaceship Titanic Classification"/></a>
 <a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification"><strong>Spaceship Titanic Classification</strong></a>
@@ -85,7 +85,7 @@ To develop a Machine Learning Model that can accurately predict the prices of us
 
 To predict whether a passenger was transported to an alternate dimension during the Spaceship collision with the spacetime anomaly.</div>
 </div>
-<br><br>
+
 <div><p><strong>🔍 Exploratory Data Analysis</strong></p>
 
 <div align="left">
@@ -97,7 +97,7 @@ To predict whether a passenger was transported to an alternate dimension during 
 To analyze sales data and gain insights into customer purchasing behavior, product performance and overall trends of the supermarket business.</div>
 
 </div>
-<br><br>
+
 <div><p><strong>📊 Microsoft Power BI</strong></p>
 
 <div align="left">
