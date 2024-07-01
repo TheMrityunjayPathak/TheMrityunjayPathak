@@ -80,7 +80,7 @@ To develop a Machine Learning Model that can accurately predict the prices of us
 
 <a href="https://www.kaggle.com/discussions/general/483415">View on Kaggle →</a>
 </div>
-
+<hr>
 <div align="left">
 <a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification"><strong>Spaceship Titanic Classification</strong></a>
  
