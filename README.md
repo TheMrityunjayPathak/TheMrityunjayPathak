@@ -71,6 +71,12 @@ I am a dedicated <strong>Data Scientist</strong> with a knack for uncovering pat
  
 #### 🗃️ Machine Learning
 
+| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/e54ef544-22d7-4a72-bea5-41437a26e267" height="175px" width="250px"> |
+|:---|
+| <strong>Car Price Prediction</strong> |
+| <a href="https://github.com/TheMrityunjayPathak/CarPricePrediction">View on GitHub →</a> |
+| <a href="https://www.kaggle.com/discussions/general/483415">View on Kaggle →</a> |
+
 <div align="left">
 <a href="https://github.com/TheMrityunjayPathak/CarPricePrediction"><strong>Car Price Prediction</strong></a>
  
@@ -78,7 +84,7 @@ I am a dedicated <strong>Data Scientist</strong> with a knack for uncovering pat
 
 To develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.
 
-<a href="https://www.kaggle.com/discussions/general/483415">View on Kaggle →</a>
+
 </div>
 
 <div align="left">
