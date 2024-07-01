@@ -80,7 +80,7 @@ To develop a Machine Learning Model that can accurately predict the prices of us
 
 <a href="https://www.kaggle.com/discussions/general/483415">View on Kaggle →</a>
 </div>
-<hr>
+
 <div align="left">
 <a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification"><strong>Spaceship Titanic Classification</strong></a>
  
@@ -169,7 +169,7 @@ To provide insights and visualizations that help stakeholders understand the pop
 
 - [Matplotlib](https://www.kaggle.com/code/themrityunjaypathak/matplotlib-tutorial)
 
-For more Details → Go to [Data Science](https://github.com/TheMrityunjayPathak/DataScience) Repository
+For more details → Go to [Data Science](https://github.com/TheMrityunjayPathak/DataScience) Repository
 
 </details>
 
@@ -202,7 +202,7 @@ For more Details → Go to [Data Science](https://github.com/TheMrityunjayPathak
 
 - [Saving Model to a File](https://www.kaggle.com/code/themrityunjaypathak/saving-model-to-a-file)
 
-For more Details → Go to [Machine Learning](https://github.com/TheMrityunjayPathak/MachineLearning) Repository
+For more details → Go to [Machine Learning](https://github.com/TheMrityunjayPathak/MachineLearning) Repository
 
 </details>
 
@@ -223,7 +223,7 @@ For more Details → Go to [Machine Learning](https://github.com/TheMrityunjayPa
 
 - [Handling Imbalance Dataset](https://www.kaggle.com/code/themrityunjaypathak/handling-imbalance-dataset)
 
-For more Details → Go to [Feature Engineering](https://github.com/TheMrityunjayPathak/FeatureEngineering) Repository
+For more details → Go to [Feature Engineering](https://github.com/TheMrityunjayPathak/FeatureEngineering) Repository
 
 </details>
 
@@ -252,7 +252,7 @@ For more Details → Go to [Feature Engineering](https://github.com/TheMrityunja
   
 - [SQL Sub-Queries and Window Function](https://www.kaggle.com/code/themrityunjaypathak/sql-for-data-science-day-10)
  
-For more Details → Go to [SQL for Data Science](https://github.com/TheMrityunjayPathak/SQLforDataScience) Repository
+For more details → Go to [SQL for Data Science](https://github.com/TheMrityunjayPathak/SQLforDataScience) Repository
  
 </details>
 
@@ -299,7 +299,7 @@ For more Details → Go to [SQL for Data Science](https://github.com/TheMrityunj
 
 - [Introduction to Calculus](https://www.kaggle.com/code/themrityunjaypathak/introduction-to-calculus)
 
-For more Details → Go to [Machine Learning Mathematics](https://github.com/TheMrityunjayPathak/MachineLearningMathematics) Repository
+For more details → Go to [Machine Learning Mathematics](https://github.com/TheMrityunjayPathak/MachineLearningMathematics) Repository
 
 </details>
 
@@ -309,12 +309,12 @@ For more Details → Go to [Machine Learning Mathematics](https://github.com/The
 
 <div>
 
-<strong>📃 HackerRank Certificates</strong>
+<strong>HackerRank Certificates</strong>
 
 | <a href="https://www.hackerrank.com/certificates/e41a7578cc82" title="HackerRank Python (Basic)"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/python-hacker.jpg" width="200px" align="center"/></a> | <a href="https://www.hackerrank.com/certificates/09ec62ca442f" title="HackerRank SQL (Basic)"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/sql-hacker.jpg" width="200px" align="center"/></a> |
 | :---: | :---: |
 
-<strong>📃 Kaggle Certificates</strong>
+<strong>Kaggle Certificates</strong>
 
 | <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/python" title="Python"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/python-certificate.png" width="200px" align="center"/></a> | <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/pandas" title="Pandas"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/pandas-certificate.png" width="200px" align="center"/></a> |
 | :---: | :---: |
