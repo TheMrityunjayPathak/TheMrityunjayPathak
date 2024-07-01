@@ -68,14 +68,14 @@ I am a dedicated <strong>Data Scientist</strong> with a knack for uncovering pat
 ## Projects
 
 <div>
- 
+
 #### 🗃️ Machine Learning
 
-| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/e54ef544-22d7-4a72-bea5-41437a26e267" height="175px" width="250px"> |
-|:---|
-| <strong>Car Price Prediction</strong> |
-| <a href="https://github.com/TheMrityunjayPathak/CarPricePrediction">View on GitHub →</a> |
-| <a href="https://www.kaggle.com/discussions/general/483415">View on Kaggle →</a> |
+| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/e54ef544-22d7-4a72-bea5-41437a26e267" height="175px" width="250px"> | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/e1221428-5f06-4306-b421-77bb73518f20" height="175px" width="250px"> |
+|:---:|:---:|
+| <strong>Car Price Prediction</strong> | <strong>Spaceship Titanic Classification</strong> |
+| <a href="https://github.com/TheMrityunjayPathak/CarPricePrediction">View on GitHub →</a> | <a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification">View on GitHub →</a> |
+| <a href="https://www.kaggle.com/discussions/general/483415">View on Kaggle →</a> | <a href="https://www.kaggle.com/discussions/accomplishments/485358">View on Kaggle →</a> |
 
 <div align="left">
 <a href="https://github.com/TheMrityunjayPathak/CarPricePrediction"><strong>Car Price Prediction</strong></a>
@@ -88,13 +88,13 @@ To develop a Machine Learning Model that can accurately predict the prices of us
 </div>
 
 <div align="left">
-<a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification"><strong>Spaceship Titanic Classification</strong></a>
+<a href=""><strong>n</strong></a>
  
 <strong>Dataset : [Spaceship Titanic Dataset](https://www.kaggle.com/competitions/spaceship-titanic/data?select=train.csv) → Web App : [Spaceship Titanic App](https://spaceship-titanic-classification.streamlit.app/)</strong>
 
 To predict whether a passenger was transported to an alternate dimension during the Spaceship collision with the spacetime anomaly.
 
-<a href="https://www.kaggle.com/discussions/accomplishments/485358">View on Kaggle →</a>
+<a href="">View on Kaggle →</a>
 </div>
 </div>
 
