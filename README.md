@@ -87,6 +87,7 @@ I am a dedicated <strong>Data Scientist</strong> with a knack for uncovering pat
 
 #### 📊 Microsoft Power BI
 ![11]()
+![075 Clean Mirror]()
 
 
 
@@ -96,7 +97,7 @@ I am a dedicated <strong>Data Scientist</strong> with a knack for uncovering pat
 | <a href="https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard">View on GitHub →</a> | <a href="https://github.com/TheMrityunjayPathak/FinanceReportDashboard">View on GitHub →</a> |
 | <a href="https://www.kaggle.com/discussions/general/417585">View on Kaggle →</a> | <a href="https://www.kaggle.com/discussions/general/402148">View on Kaggle →</a> |
 
-| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/1998ceab-1213-4e57-9570-b6bc22bdfdc0" height="150px" width="250px"> | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/a12ecd5f-61e1-4b6f-b7f9-5ed036d77035" height="150px" width="250px"> |
+| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/f8279f0a-61a8-479d-a20e-36d0c1906f49" height="150px" width="250px"> | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/a12ecd5f-61e1-4b6f-b7f9-5ed036d77035" height="150px" width="250px"> |
 |:---:|:---:|
 | <strong>Covid Pandemic Analysis</strong> | <strong>India Population Analysis</strong> |
 | <a href="https://github.com/TheMrityunjayPathak/CovidPandemicAnalysis">View on GitHub →</a> | <a href="https://github.com/TheMrityunjayPathak/IndiaPopulationAnalysis">View on GitHub →</a> |
