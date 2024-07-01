@@ -86,14 +86,17 @@ I am a dedicated <strong>Data Scientist</strong> with a knack for uncovering pat
 | <a href="https://www.kaggle.com/discussions/general/451092">View on Kaggle →</a> |
 
 #### 📊 Microsoft Power BI
+![11]()
 
-| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/47e2b1d1-a65a-45c7-9355-5f156e099fde" height="150px" width="250px"> | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/fc5ee82e-0ffe-47bc-8c6d-96756546efe8" height="150px" width="250px"> |
+
+
+| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/2f7a89ab-4679-4cfc-9901-ea341f931804" height="150px" width="250px"> | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/4bb219e1-4202-4bc1-bd8b-3421f3d149bc" height="150px" width="250px"> |
 |:---:|:---:|
 | <strong>Retail Store Sales Dashboard</strong> | <strong>Finance Report Dashboard</strong> |
 | <a href="https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard">View on GitHub →</a> | <a href="https://github.com/TheMrityunjayPathak/FinanceReportDashboard">View on GitHub →</a> |
 | <a href="https://www.kaggle.com/discussions/general/417585">View on Kaggle →</a> | <a href="https://www.kaggle.com/discussions/general/402148">View on Kaggle →</a> |
 
-| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/99fb6d53-bea8-4df7-b8c5-0e927f98f242" height="150px" width="250px"> | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/a12ecd5f-61e1-4b6f-b7f9-5ed036d77035" height="150px" width="250px"> |
+| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/1998ceab-1213-4e57-9570-b6bc22bdfdc0" height="150px" width="250px"> | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/a12ecd5f-61e1-4b6f-b7f9-5ed036d77035" height="150px" width="250px"> |
 |:---:|:---:|
 | <strong>Covid Pandemic Analysis</strong> | <strong>India Population Analysis</strong> |
 | <a href="https://github.com/TheMrityunjayPathak/CovidPandemicAnalysis">View on GitHub →</a> | <a href="https://github.com/TheMrityunjayPathak/IndiaPopulationAnalysis">View on GitHub →</a> |
