@@ -286,7 +286,7 @@ For more details → Go to [Machine Learning Mathematics](https://github.com/The
 
 <p align="center">
 
-[E-Mail](mailto:themrityunjaypathak@gmail.com)&nbsp;&nbsp; | &nbsp;&nbsp;[Phone](https://wa.me/919336158993)&nbsp;&nbsp; | &nbsp;&nbsp;[Resume](https://drive.google.com/file/d/1Ccmj3-DWuEZPZtymj6emX4t1hg_yvGU3/view?usp=sharing)
+[E-Mail](mailto:themrityunjaypathak@gmail.com)&nbsp;&nbsp; | &nbsp;&nbsp;[Phone](https://wa.me/919336158993)&nbsp;&nbsp; | &nbsp;&nbsp;[Resume](https://drive.google.com/file/d/1-Pwr-v0x3LTE1QJwl5_-IR7ajL4owyiC/view?usp=sharing)
 
 </p>
 
