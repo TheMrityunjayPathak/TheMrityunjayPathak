@@ -67,11 +67,9 @@ I am a dedicated <strong>Data Scientist</strong> with a knack for uncovering pat
 
 ## Projects
 
-<div>
-
 #### 🗃️ Machine Learning
 
-| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/e54ef544-22d7-4a72-bea5-41437a26e267" height="150px" width="250px"> | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/e1221428-5f06-4306-b421-77bb73518f20" height="150px" width="250px"> |
+| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/00fc17c0-20c9-4e47-8f00-d8eea2d757dd" height="150px" width="250px"> | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/7debcdf9-264f-4b91-83a4-40e302068f87" height="150px" width="250px"> |
 |:---:|:---:|
 | <strong>Car Price Prediction</strong> | <strong>Spaceship Titanic Classification</strong> |
 | <a href="https://github.com/TheMrityunjayPathak/CarPricePrediction">View on GitHub →</a> | <a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification">View on GitHub →</a> |
@@ -79,7 +77,7 @@ I am a dedicated <strong>Data Scientist</strong> with a knack for uncovering pat
  
 #### 🔍 Exploratory Data Analysis
 
-| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/a23ded77-a98f-4bc1-bbaf-b761c249028d" height="150px" width="250px"> |
+| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/7b1569bd-f1ec-4ca2-90a0-ebfa66541918" height="150px" width="250px"> |
 |:---:|
 | <strong>Super Market Sales Analysis</strong> |
 | <a href="https://github.com/TheMrityunjayPathak/SuperMarketSalesAnalysis">View on GitHub →</a> |
@@ -87,13 +85,13 @@ I am a dedicated <strong>Data Scientist</strong> with a knack for uncovering pat
 
 #### 📊 Microsoft Power BI
 
-| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/6c72653f-7be6-4e12-88a2-f40161673abe" height="150px" width="250px"> | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/2352db48-81a7-45c1-9025-c5fdb428e2da" height="150px" width="250px"> |
+| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/23bd4e99-b603-4fce-8e37-23073ab78375" height="150px" width="250px"> | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/36374761-237e-4daa-8e39-d3e6f1079011" height="150px" width="250px"> |
 |:---:|:---:|
 | <strong>Retail Store Sales Dashboard</strong> | <strong>Finance Report Dashboard</strong> |
 | <a href="https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard">View on GitHub →</a> | <a href="https://github.com/TheMrityunjayPathak/FinanceReportDashboard">View on GitHub →</a> |
 | <a href="https://www.kaggle.com/discussions/general/417585">View on Kaggle →</a> | <a href="https://www.kaggle.com/discussions/general/402148">View on Kaggle →</a> |
 
-| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/0b152315-8439-49bf-8d50-1097c9261dc4" height="150px" width="250px"> | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/c4f6edbb-eeb5-4c97-8c35-b7662e7cdb35" height="150px" width="250px"> |
+| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/955ae927-6138-41a1-9e68-b5a5c829970a" height="150px" width="250px"> | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/b60e5516-cc4b-439d-9347-7d899ad9487b" height="150px" width="250px"> |
 |:---:|:---:|
 | <strong>Covid Pandemic Analysis</strong> | <strong>India Population Analysis</strong> |
 | <a href="https://github.com/TheMrityunjayPathak/CovidPandemicAnalysis">View on GitHub →</a> | <a href="https://github.com/TheMrityunjayPathak/IndiaPopulationAnalysis">View on GitHub →</a> |
