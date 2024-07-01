@@ -76,44 +76,14 @@ I am a dedicated <strong>Data Scientist</strong> with a knack for uncovering pat
 | <strong>Car Price Prediction</strong> | <strong>Spaceship Titanic Classification</strong> |
 | <a href="https://github.com/TheMrityunjayPathak/CarPricePrediction">View on GitHub →</a> | <a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification">View on GitHub →</a> |
 | <a href="https://www.kaggle.com/discussions/general/483415">View on Kaggle →</a> | <a href="https://www.kaggle.com/discussions/accomplishments/485358">View on Kaggle →</a> |
-
-<div align="left">
-<a href="https://github.com/TheMrityunjayPathak/CarPricePrediction"><strong>Car Price Prediction</strong></a>
- 
-<strong>Dataset : [Car Price Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling) → Web App : [Car Price Prediction App](https://car-price-prediction-using-lr.streamlit.app/)</strong>
-
-To develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.
-
-
-</div>
-
-<div align="left">
-<a href=""><strong>n</strong></a>
- 
-<strong>Dataset : [Spaceship Titanic Dataset](https://www.kaggle.com/competitions/spaceship-titanic/data?select=train.csv) → Web App : [Spaceship Titanic App](https://spaceship-titanic-classification.streamlit.app/)</strong>
-
-To predict whether a passenger was transported to an alternate dimension during the Spaceship collision with the spacetime anomaly.
-
-<a href="">View on Kaggle →</a>
-</div>
-</div>
-
-<div>
  
 #### 🔍 Exploratory Data Analysis
 
-<div align="left">
-<a href="https://github.com/TheMrityunjayPathak/SuperMarketSalesAnalysis"><strong>Super Market Sales Analysis</strong></a>
-
-<strong>Dataset : [Super Market Sales Dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales) → Web App : [Super Market Sales App](https://super-market-sales-analysis.streamlit.app/)</strong>
-
-To analyze sales data and gain insights into customer purchasing behavior, product performance and overall trends of the supermarket business.
-
-<a href="https://www.kaggle.com/discussions/general/451092">View on Kaggle →</a>
-</div>
-</div>
-
-<div>
+| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/a23ded77-a98f-4bc1-bbaf-b761c249028d" height="175px" width="250px"> |
+|:---:|
+| <strong>Super Market Sales Analysis</strong> |
+| <a href="https://github.com/TheMrityunjayPathak/SuperMarketSalesAnalysis">View on GitHub →</a> |
+| <a href="https://www.kaggle.com/discussions/general/451092">View on Kaggle →</a> |
 
 #### 📊 Microsoft Power BI
 
