@@ -87,46 +87,17 @@ I am a dedicated <strong>Data Scientist</strong> with a knack for uncovering pat
 
 #### 📊 Microsoft Power BI
 
-<div align="left">
-<a href="https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard"><strong>Retail Store Sales Dashboard</strong></a>
- 
-<strong>Dataset : [Retail Store Sales Dataset](https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard/tree/main/Dataset)</strong>
+| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/f079e81d-2685-4a60-ab73-d920ff0f3ffd" height="175px" width="250px"> | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/66a2d88c-3d40-4e66-9b4f-def81cc5f290" height="175px" width="250px"> |
+|:---:|:---:|
+| <strong>Retail Store Sales Dashboard</strong> | <strong>Finance Report Dashboard</strong> |
+| <a href="https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard">View on GitHub →</a> | <a href="https://github.com/TheMrityunjayPathak/FinanceReportDashboard">View on GitHub →</a> |
+| <a href="https://www.kaggle.com/discussions/general/417585">View on Kaggle →</a> | <a href="https://www.kaggle.com/discussions/general/402148">View on Kaggle →</a> |
 
-To design a Retail Store Sales Dashboard that provides a clear and concise overview of the Store's Sales performance enabling the owner to gain actionable insights.
-
-<a href="https://www.kaggle.com/discussions/general/417585">View on Kaggle →</a>
-</div>
-
-<div align="left">
-<a href="https://github.com/TheMrityunjayPathak/FinanceReportDashboard"><strong>Finance Report Dashboard</strong></a>
-
-<strong>Dataset : [Finance Report Dataset](https://github.com/TheMrityunjayPathak/FinanceReportDashboard/blob/main/financial_data.csv)</strong>
-
-To create a visually appealing dashboard that provides an overview of the company's financial metrics enabling stakeholders to make informed business decisions.
-
-<a href="https://www.kaggle.com/discussions/general/402148">View on Kaggle →</a>
-</div>
-
-<div align="left">
-<a href="https://github.com/TheMrityunjayPathak/CovidPandemicAnalysis"><strong>Covid Pandemic Analysis</strong></a>
-
-<strong>Dataset : [Covid Pandemic Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/covid-cases-and-deaths-worldwide)</strong>
-
-To create a comprehensive and interactive COVID-19 Dashboard that provides meaningful insights and analysis of the pandemic's impact.
-
-<a href="https://www.kaggle.com/discussions/general/389383">View on Kaggle →</a>
-</div>
-
-<div align="left">
-<a href="https://github.com/TheMrityunjayPathak/IndiaPopulationAnalysis"><strong>India Population Analysis</strong></a>
- 
-<strong>Dataset : [India Population Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/2011-census-of-india)</strong>
-
-To provide insights and visualizations that help stakeholders understand the population dynamics, trends and patterns across various demographic factors.
-
-<a href="https://www.kaggle.com/discussions/general/385012">View on Kaggle →</a>
-</div>
-</div>
+| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/705ecead-efc1-4d84-88b2-15a2214e4445" height="175px" width="250px"> | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/a12ecd5f-61e1-4b6f-b7f9-5ed036d77035" height="175px" width="250px"> |
+|:---:|:---:|
+| <strong>Covid Pandemic Analysis</strong> | <strong>India Population Analysis</strong> |
+| <a href="https://github.com/TheMrityunjayPathak/CovidPandemicAnalysis">View on GitHub →</a> | <a href="https://github.com/TheMrityunjayPathak/IndiaPopulationAnalysis">View on GitHub →</a> |
+| <a href="https://www.kaggle.com/discussions/general/389383">View on Kaggle →</a> | <a href="https://www.kaggle.com/discussions/general/385012">View on Kaggle →</a> |
 
 ## Notebooks
 
