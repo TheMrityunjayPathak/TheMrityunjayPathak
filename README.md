@@ -69,33 +69,33 @@ I am a dedicated <strong>Data Scientist</strong> with a knack for uncovering pat
 
 #### 🗃️ Machine Learning
 
-| <a href="https://car-price-prediction-using-lr.streamlit.app/" title="Car Price Prediction" target="_blank"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/00fc17c0-20c9-4e47-8f00-d8eea2d757dd" height="150px" width="250px"></a> | <a href="https://spaceship-titanic-classification.streamlit.app/" title="Spaceship Titanic Classification" target="_blank"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/7debcdf9-264f-4b91-83a4-40e302068f87" height="150px" width="250px"></a> |
+| <a href="https://car-price-prediction-using-lr.streamlit.app/" title="Car Price Prediction"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/00fc17c0-20c9-4e47-8f00-d8eea2d757dd" height="150px" width="250px"></a> | <a href="https://spaceship-titanic-classification.streamlit.app/" title="Spaceship Titanic Classification"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/7debcdf9-264f-4b91-83a4-40e302068f87" height="150px" width="250px"></a> |
 |:---:|:---:|
 | <strong>Car Price Prediction</strong> | <strong>Spaceship Titanic Classification</strong> |
-| <a href="https://github.com/TheMrityunjayPathak/CarPricePrediction" target="_blank">View on GitHub »</a> | <a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification">View on GitHub »</a> |
-| <a href="https://www.kaggle.com/discussions/general/483415" target="_blank">View on Kaggle »</a> | <a href="https://www.kaggle.com/discussions/accomplishments/485358">View on Kaggle »</a> |
+| <a href="https://github.com/TheMrityunjayPathak/CarPricePrediction">View on GitHub »</a> | <a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification">View on GitHub »</a> |
+| <a href="https://www.kaggle.com/discussions/general/483415">View on Kaggle »</a> | <a href="https://www.kaggle.com/discussions/accomplishments/485358">View on Kaggle »</a> |
  
 #### 🔍 Exploratory Data Analysis
 
-| <a href="https://super-market-sales-analysis.streamlit.app/" title="Super Market Sales Analysis" target="_blank"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/7b1569bd-f1ec-4ca2-90a0-ebfa66541918" height="150px" width="250px"></a> |
+| <a href="https://super-market-sales-analysis.streamlit.app/" title="Super Market Sales Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/7b1569bd-f1ec-4ca2-90a0-ebfa66541918" height="150px" width="250px"></a> |
 |:---:|
 | <strong>Super Market Sales Analysis</strong> |
-| <a href="https://github.com/TheMrityunjayPathak/SuperMarketSalesAnalysis" target="_blank">View on GitHub »</a> |
-| <a href="https://www.kaggle.com/discussions/general/451092" target="_blank">View on Kaggle »</a> |
+| <a href="https://github.com/TheMrityunjayPathak/SuperMarketSalesAnalysis">View on GitHub »</a> |
+| <a href="https://www.kaggle.com/discussions/general/451092">View on Kaggle »</a> |
 
 #### 📊 Microsoft Power BI
 
 | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/23bd4e99-b603-4fce-8e37-23073ab78375" height="150px" width="250px"> | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/36374761-237e-4daa-8e39-d3e6f1079011" height="150px" width="250px"> |
 |:---:|:---:|
 | <strong>Retail Store Sales Dashboard</strong> | <strong>Finance Report Dashboard</strong> |
-| <a href="https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard" target="_blank">View on GitHub »</a> | <a href="https://github.com/TheMrityunjayPathak/FinanceReportDashboard" target="_blank">View on GitHub »</a> |
-| <a href="https://www.kaggle.com/discussions/general/417585" target="_blank">View on Kaggle »</a> | <a href="https://www.kaggle.com/discussions/general/402148" target="_blank">View on Kaggle »</a> |
+| <a href="https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard">View on GitHub »</a> | <a href="https://github.com/TheMrityunjayPathak/FinanceReportDashboard">View on GitHub »</a> |
+| <a href="https://www.kaggle.com/discussions/general/417585">View on Kaggle »</a> | <a href="https://www.kaggle.com/discussions/general/402148">View on Kaggle »</a> |
 
 | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/955ae927-6138-41a1-9e68-b5a5c829970a" height="150px" width="250px"> | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/b60e5516-cc4b-439d-9347-7d899ad9487b" height="150px" width="250px"> |
 |:---:|:---:|
 | <strong>Covid Pandemic Analysis</strong> | <strong>India Population Analysis</strong> |
-| <a href="https://github.com/TheMrityunjayPathak/CovidPandemicAnalysis" target="_blank">View on GitHub »</a> | <a href="https://github.com/TheMrityunjayPathak/IndiaPopulationAnalysis" target="_blank">View on GitHub »</a> |
-| <a href="https://www.kaggle.com/discussions/general/389383" target="_blank">View on Kaggle »</a> | <a href="https://www.kaggle.com/discussions/general/385012" target="_blank">View on Kaggle »</a> |
+| <a href="https://github.com/TheMrityunjayPathak/CovidPandemicAnalysis">View on GitHub »</a> | <a href="https://github.com/TheMrityunjayPathak/IndiaPopulationAnalysis">View on GitHub »</a> |
+| <a href="https://www.kaggle.com/discussions/general/389383">View on Kaggle »</a> | <a href="https://www.kaggle.com/discussions/general/385012">View on Kaggle »</a> |
 
 ## Notebooks
 
@@ -244,7 +244,7 @@ For more details → Go to [Machine Learning Mathematics](https://github.com/The
 
 <div align="center">
 
-| <a href="https://www.hackerrank.com/mrityunjaypathak"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/python-hacker.png" width="150px"></a> | <a href="https://www.kaggle.com/themrityunjaypathak"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/kaggle-master.png" width="150px"></a> | <a href="https://www.hackerrank.com/mrityunjaypathak"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/sql-hacker.png" width="150px"></a> |
+| <a href="https://www.hackerrank.com/mrityunjaypathak" title="HackerRank"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/python-hacker.png" width="150px"></a> | <a href="https://www.kaggle.com/themrityunjaypathak" title="Kaggle"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/kaggle-master.png" width="150px"></a> | <a href="https://www.hackerrank.com/mrityunjaypathak" title="HackerRank"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/sql-hacker.png" width="150px"></a> |
 | :---: | :---: | :---: |
 | 5 ⭐ Python HackerRank | Kaggle Master | 5 ⭐ SQL HackerRank |
 
