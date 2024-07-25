@@ -172,36 +172,7 @@ For more details → Go to [Feature Engineering](https://github.com/TheMrityunja
 
 </details>
 
-<p><strong>📙 Structured Query Language</strong></p>
-<details>
-
-<summary><strong>Click Here</strong></summary>
-
-- [SQL Basics](https://www.kaggle.com/code/themrityunjaypathak/sql-for-data-science-day-1)
-  
-- [SQL Statements](https://www.kaggle.com/code/themrityunjaypathak/sql-for-data-science-day-2)
-  
-- [LIMIT, DISTINCT, ORDER BY Clause](https://www.kaggle.com/code/themrityunjaypathak/sql-for-data-science-day-3)
-  
-- [SQL WHERE Statement](https://www.kaggle.com/code/themrityunjaypathak/sql-for-data-science-day-4)
-  
-- [SQL Logical Operators](https://www.kaggle.com/code/themrityunjaypathak/sql-for-data-science-day-5)
-  
-- [SQL Joins](https://www.kaggle.com/code/themrityunjaypathak/sql-for-data-science-day-6)
-  
-- [SQL Aggregation - 1](https://www.kaggle.com/code/themrityunjaypathak/sql-for-data-science-day-7)
-  
-- [SQL Aggregation - 2](https://www.kaggle.com/code/themrityunjaypathak/sql-for-data-science-day-8)
-  
-- [SQL Aggregation - 3](https://www.kaggle.com/code/themrityunjaypathak/sql-for-data-science-day-9)
-  
-- [SQL Sub-Queries and Window Function](https://www.kaggle.com/code/themrityunjaypathak/sql-for-data-science-day-10)
- 
-For more details → Go to [SQL for Data Science](https://github.com/TheMrityunjayPathak/SQLforDataScience) Repository
- 
-</details>
-
-<p><strong>📓 Machine Learning Mathematics</strong></p>
+<p><strong>📙 Machine Learning Mathematics</strong></p>
 <details>
 
 <summary><strong>Click Here</strong></summary>
