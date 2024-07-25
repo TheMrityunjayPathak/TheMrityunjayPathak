@@ -221,7 +221,7 @@ For more details → Go to [Machine Learning Mathematics](https://github.com/The
 
 ## Certificates
 
-<div>
+<div align="center">
 
 <strong>HackerRank Certificates</strong>
 
@@ -240,7 +240,7 @@ For more details → Go to [Machine Learning Mathematics](https://github.com/The
 
 ## Achievements
 
-<div>
+<div align="center">
 
 | <a href="https://www.hackerrank.com/mrityunjaypathak" title="HackerRank"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/python-hacker.png" width="150px"></a> | <a href="https://www.kaggle.com/themrityunjaypathak" title="Kaggle"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/kaggle-master.png" width="150px"></a> | <a href="https://www.hackerrank.com/mrityunjaypathak" title="HackerRank"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/sql-hacker.png" width="150px"></a> |
 | :---: | :---: | :---: |
