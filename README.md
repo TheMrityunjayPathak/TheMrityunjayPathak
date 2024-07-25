@@ -221,7 +221,7 @@ For more details → Go to [Machine Learning Mathematics](https://github.com/The
 
 ## Certificates
 
-<div align="center">
+<div>
 
 <strong>HackerRank Certificates</strong>
 
