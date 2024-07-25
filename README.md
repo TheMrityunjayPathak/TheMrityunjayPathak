@@ -276,7 +276,6 @@ For more details → Go to [Machine Learning Mathematics](https://github.com/The
 | <img src=""> | <img src=""> | <img src=""> |
 | :---: | :---: | :---: |
 | 5 ⭐ Python HackerRank | Kaggle Master | 5 ⭐ SQL HackerRank |
-| :---: | :---: | :---: |
 
 </div>
 
