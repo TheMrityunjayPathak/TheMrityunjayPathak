@@ -273,7 +273,7 @@ For more details → Go to [Machine Learning Mathematics](https://github.com/The
 
 <div align="center">
 
-| <img src=""> | <img src=""> | <img src=""> |
+| <a href="https://www.hackerrank.com/mrityunjaypathak"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/python-hacker.png" width="150px"></a> | <a href="https://www.kaggle.com/themrityunjaypathak"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/kaggle-master.png" width="150px"></a> | <a href="https://www.hackerrank.com/mrityunjaypathak"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/sql-hacker.png" width="150px"></a> |
 | :---: | :---: | :---: |
 | 5 ⭐ Python HackerRank | Kaggle Master | 5 ⭐ SQL HackerRank |
 
