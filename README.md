@@ -69,7 +69,7 @@ I am a dedicated <strong>Data Scientist</strong> with a knack for uncovering pat
 
 #### 🗃️ Machine Learning
 
-| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/00fc17c0-20c9-4e47-8f00-d8eea2d757dd" height="150px" width="250px"> | <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/7debcdf9-264f-4b91-83a4-40e302068f87" height="150px" width="250px"> |
+| <a href="https://car-price-prediction-using-lr.streamlit.app/" title="Car Price Prediction"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/00fc17c0-20c9-4e47-8f00-d8eea2d757dd" height="150px" width="250px"></a> | <a href="https://spaceship-titanic-classification.streamlit.app/" title="Spaceship Titanic Classification"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/7debcdf9-264f-4b91-83a4-40e302068f87" height="150px" width="250px"></a> |
 |:---:|:---:|
 | <strong>Car Price Prediction</strong> | <strong>Spaceship Titanic Classification</strong> |
 | <a href="https://github.com/TheMrityunjayPathak/CarPricePrediction">View on GitHub »</a> | <a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification">View on GitHub »</a> |
@@ -77,7 +77,7 @@ I am a dedicated <strong>Data Scientist</strong> with a knack for uncovering pat
  
 #### 🔍 Exploratory Data Analysis
 
-| <img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/7b1569bd-f1ec-4ca2-90a0-ebfa66541918" height="150px" width="250px"> |
+| <a href="https://super-market-sales-analysis.streamlit.app/" title="Super Market Sales Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/7b1569bd-f1ec-4ca2-90a0-ebfa66541918" height="150px" width="250px"></a> |
 |:---:|
 | <strong>Super Market Sales Analysis</strong> |
 | <a href="https://github.com/TheMrityunjayPathak/SuperMarketSalesAnalysis">View on GitHub »</a> |
