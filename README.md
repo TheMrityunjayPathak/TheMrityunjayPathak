@@ -242,7 +242,7 @@ For more details → Go to [Machine Learning Mathematics](https://github.com/The
 
 <div align="center">
 
-| <a href="https://www.hackerrank.com/mrityunjaypathak" title="HackerRank"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/hacker-python.png" width="125px"></a> | <a href="https://www.kaggle.com/themrityunjaypathak" title="Kaggle"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/.png" width="125px"></a> | <a ref="https://www.hackerrank.com/mrityunjaypathak" title="HackerRank"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/hacker-sql.png" width="125px"></a> |
+| <a href="https://www.hackerrank.com/mrityunjaypathak" title="HackerRank"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/hacker-python.png" width="125px"></a> | <a href="https://www.kaggle.com/themrityunjaypathak" title="Kaggle"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/master-kaggle.png" width="125px"></a> | <a ref="https://www.hackerrank.com/mrityunjaypathak" title="HackerRank"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/hacker-sql.png" width="125px"></a> |
 | :---: | :---: | :---: |
 | 5 ⭐ Python HackerRank | Kaggle Master | 5 ⭐ SQL HackerRank |
 
