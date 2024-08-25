@@ -253,14 +253,10 @@ For more details → Go to [Machine Learning Mathematics](https://github.com/The
 
 |<img src="https://github.com/user-attachments/assets/ee16f70e-71ab-4c9c-87e2-3925e3e3b31e" width="25px"/>|<div align="center">E-Mail me at : [themrityunjaypathak@gmail.com](mailto:themrityunjaypathak@gmail.com)</div>|
 |:---:|:---:|
-|<img src="https://github.com/user-attachments/assets/0bbbc4ca-743c-4710-8387-08cf0f4c09c6" width="25px"/>|<div align="center"><p align="left">Chat with me on : [+91 9336158993](https://wa.me/919336158993)</p></div>|
+|<img src="https://github.com/user-attachments/assets/0bbbc4ca-743c-4710-8387-08cf0f4c09c6" width="25px"/>|<p align="left"><div align="center">Chat with me on : [+91 9336158993](https://wa.me/919336158993)</div></p>|
 |<img src="https://github.com/user-attachments/assets/6467a972-75d0-46f4-beab-1776262f4c20" width="25px"/>|<div align="center"><p align="left">Checkout my resume here : [Resume](https://drive.google.com/file/d/17UqgmzxJmSUYdsw1V0pSXpTmsc7qhSuO/view?usp=sharing)</p></div>|
 
 </div>
-
-<br>
-
-<p align="center"><strong>Thanks 👏 for Visiting!</strong></p>
 
 <div align="right">
  
