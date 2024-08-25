@@ -251,11 +251,9 @@ For more details → Go to [Machine Learning Mathematics](https://github.com/The
 
 <div>
 
-
-
-|<img src="https://github.com/user-attachments/assets/ee16f70e-71ab-4c9c-87e2-3925e3e3b31e" width="25px"/>|<p align="left">E-Mail Me at : themrityunjaypathak@gmail.com</p>|
+|<img src="https://github.com/user-attachments/assets/ee16f70e-71ab-4c9c-87e2-3925e3e3b31e" width="25px"/>|<div align="center">E-Mail Me at : themrityunjaypathak@gmail.com</div>|
 |:---:|:---:|
-|<img src="https://github.com/user-attachments/assets/44238c22-6258-4bbe-b3e9-96807356c57f" width="25px"/>|<p align="left">Call Me on : [+91 9336158993](https://wa.me/919336158993)</p>|
+|<img src="https://github.com/user-attachments/assets/edeb0670-030c-4e00-b75d-beed4c459f96" width="15px"/>|<p align="left">Call Me on : [+91 9336158993](https://wa.me/919336158993)</p>|
 |Resume||
 
 <p align="center">
