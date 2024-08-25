@@ -8,29 +8,6 @@
 
 </div>
 
-<div align="center">
-
-<a href="#about">
-𝗔𝗕𝗢𝗨𝗧
-</a>&nbsp;&nbsp;&nbsp;
-<a href="#projects">
-𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
-</a>&nbsp;&nbsp;&nbsp;
-<a href="#notebooks">
-𝗡𝗢𝗧𝗘𝗕𝗢𝗢𝗞𝗦
-</a>&nbsp;&nbsp;&nbsp;
-<a href="#certificates">
-𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗘𝗦
-</a>&nbsp;&nbsp;&nbsp;
-<a href="#achievements">
-𝗔𝗖𝗛𝗜𝗘𝗩𝗘𝗠𝗘𝗡𝗧𝗦
-</a>&nbsp;&nbsp;&nbsp;
-<a href="#contact">
-𝗖𝗢𝗡𝗧𝗔𝗖𝗧
-</a>
-
-</div>
-
 ## About
 
 <div>
