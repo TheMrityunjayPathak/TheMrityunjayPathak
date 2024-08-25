@@ -223,12 +223,12 @@ For more details → Go to [Machine Learning Mathematics](https://github.com/The
 
 <div>
 
-<strong>• HackerRank Certificates</strong>
+<strong>HackerRank Certificates</strong>
 
 | <a href="https://www.hackerrank.com/certificates/e41a7578cc82" title="HackerRank Python (Basic)"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/python-hacker.jpg" width="200px" align="center"/></a> | <a href="https://www.hackerrank.com/certificates/09ec62ca442f" title="HackerRank SQL (Basic)"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/sql-hacker.jpg" width="200px" align="center"/></a> |
 | :---: | :---: |
 
-<strong>• Kaggle Certificates</strong>
+<strong>Kaggle Certificates</strong>
 
 | <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/python" title="Python"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/python-certificate.png" width="200px" align="center"/></a> | <a href="https://www.kaggle.com/learn/certification/themrityunjaypathak/pandas" title="Pandas"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/pandas-certificate.png" width="200px" align="center"/></a> |
 | :---: | :---: |
