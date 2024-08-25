@@ -251,10 +251,8 @@ For more details → Go to [Machine Learning Mathematics](https://github.com/The
 
 <div align="center">
 
-|<a href="mailto:themrityunjaypathak@gmail.com"><img src="https://github.com/user-attachments/assets/ee16f70e-71ab-4c9c-87e2-3925e3e3b31e" width="25px"/></a>|<div align="left">E-Mail me at : [themrityunjaypathak@gmail.com](mailto:themrityunjaypathak@gmail.com)</div>|
-|:---:|:---:|
-|<img src="https://github.com/user-attachments/assets/0bbbc4ca-743c-4710-8387-08cf0f4c09c6" width="25px"/>|<div align="left">Chat with me on : [+91 9336158993](https://wa.me/919336158993)</div>|
-|<img src="https://github.com/user-attachments/assets/6467a972-75d0-46f4-beab-1776262f4c20" width="25px"/>|<div align="left">Checkout my resume here : [Resume](https://drive.google.com/file/d/17UqgmzxJmSUYdsw1V0pSXpTmsc7qhSuO/view?usp=sharing)</div>|
+|<a href="mailto:themrityunjaypathak@gmail.com" title="E-Mail"><img src="https://github.com/user-attachments/assets/ee16f70e-71ab-4c9c-87e2-3925e3e3b31e" width="25px"/></a>|<a href="https://wa.me/919336158993" title="Message"><img src="https://github.com/user-attachments/assets/0bbbc4ca-743c-4710-8387-08cf0f4c09c6" width="25px"/></a>|<a href="https://drive.google.com/file/d/17UqgmzxJmSUYdsw1V0pSXpTmsc7qhSuO/view?usp=sharing" title="Resume"><img src="https://github.com/user-attachments/assets/6467a972-75d0-46f4-beab-1776262f4c20" width="25px"/>|
+|:---:|:---:|:---:|
 
 </div>
 
