@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![sign](https://github.com/user-attachments/assets/67898db4-95b6-4fc3-ae17-b60c5ed02b18)
+<a href="https://github.com/TheMrityunjayPathak"><img src="https://github.com/user-attachments/assets/67898db4-95b6-4fc3-ae17-b60c5ed02b18"></a>
 
 </div>
 
@@ -221,7 +221,7 @@ For more details → Go to [Machine Learning Mathematics](https://github.com/The
 
 ## Certificates
 
-<div>
+<div align="center">
 
 <strong>📋 HackerRank Certificates</strong>
 
@@ -240,7 +240,7 @@ For more details → Go to [Machine Learning Mathematics](https://github.com/The
 
 ## Achievements
 
-<div>
+<div align="center">
 
 | <a href="https://www.hackerrank.com/mrityunjaypathak" title="5 ⭐ Python HackerRank"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/hacker-python.png" width="125px"></a> | <a href="https://www.kaggle.com/themrityunjaypathak" title="Kaggle Master"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/master-kaggle.png" width="125px"></a> | <a href="https://www.hackerrank.com/mrityunjaypathak" title="5 ⭐ SQL HackerRank"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/hacker-sql.png" width="125px"></a> |
 | :---: | :---: | :---: |
