@@ -110,7 +110,7 @@ I am a dedicated <strong>Data Scientist</strong> with a knack for uncovering pat
 
 - [Matplotlib](https://www.kaggle.com/code/themrityunjaypathak/matplotlib-tutorial)
 
-For more details → Go to <strong>[Data Science](https://github.com/TheMrityunjayPathak/DataScience)</strong> Repository
+For more details → Go to [Data Science](https://github.com/TheMrityunjayPathak/DataScience) Repository
 
 </details>
 
@@ -143,7 +143,7 @@ For more details → Go to <strong>[Data Science](https://github.com/TheMrityunj
 
 - [Saving Model to a File](https://www.kaggle.com/code/themrityunjaypathak/saving-model-to-a-file)
 
-For more details → Go to <strong>[Machine Learning](https://github.com/TheMrityunjayPathak/MachineLearning)</strong> Repository
+For more details → Go to [Machine Learning](https://github.com/TheMrityunjayPathak/MachineLearning) Repository
 
 </details>
 
@@ -164,7 +164,7 @@ For more details → Go to <strong>[Machine Learning](https://github.com/TheMrit
 
 - [Handling Imbalance Dataset](https://www.kaggle.com/code/themrityunjaypathak/handling-imbalance-dataset)
 
-For more details → Go to <strong>[Feature Engineering](https://github.com/TheMrityunjayPathak/FeatureEngineering)</strong> Repository
+For more details → Go to [Feature Engineering](https://github.com/TheMrityunjayPathak/FeatureEngineering) Repository
 
 </details>
 
@@ -211,7 +211,7 @@ For more details → Go to <strong>[Feature Engineering](https://github.com/TheM
 
 - [Introduction to Calculus](https://www.kaggle.com/code/themrityunjaypathak/introduction-to-calculus)
 
-For more details → Go to <strong>[Machine Learning Mathematics](https://github.com/TheMrityunjayPathak/MachineLearningMathematics)</strong> Repository
+For more details → Go to [Machine Learning Mathematics](https://github.com/TheMrityunjayPathak/MachineLearningMathematics) Repository
 
 </details>
 
