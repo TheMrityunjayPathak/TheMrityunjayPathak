@@ -100,7 +100,7 @@ I am a dedicated <strong>Data Scientist</strong> with a knack for uncovering pat
 <p><strong>📕 Data Science</strong></p>
 <details>
 
-<summary><strong>Click Here</strong></summary>
+<summary>Click Here</summary>
 
 - [Python](https://www.kaggle.com/code/themrityunjaypathak/python-tutorial)
 
@@ -110,14 +110,14 @@ I am a dedicated <strong>Data Scientist</strong> with a knack for uncovering pat
 
 - [Matplotlib](https://www.kaggle.com/code/themrityunjaypathak/matplotlib-tutorial)
 
-For more details → Go to [Data Science](https://github.com/TheMrityunjayPathak/DataScience) Repository
+For more details → Go to <strong>[Data Science](https://github.com/TheMrityunjayPathak/DataScience)</strong> Repository
 
 </details>
 
 <p><strong>📗 Machine Learning</strong></p>
 <details>
 
-<summary><strong>Click Here</strong></summary>
+<summary>Click Here</summary>
 
 - [Linear Regression](https://www.kaggle.com/code/themrityunjaypathak/linearregression)
 
@@ -143,14 +143,14 @@ For more details → Go to [Data Science](https://github.com/TheMrityunjayPathak
 
 - [Saving Model to a File](https://www.kaggle.com/code/themrityunjaypathak/saving-model-to-a-file)
 
-For more details → Go to [Machine Learning](https://github.com/TheMrityunjayPathak/MachineLearning) Repository
+For more details → Go to <strong>[Machine Learning](https://github.com/TheMrityunjayPathak/MachineLearning)</strong> Repository
 
 </details>
 
 <p><strong>📘 Feature Engineering</strong></p>
 <details>
 
-<summary><strong>Click Here</strong></summary>
+<summary>Click Here</summary>
 
 - [Dummy Variable](https://www.kaggle.com/code/themrityunjaypathak/dummy-variable)
 
@@ -164,14 +164,14 @@ For more details → Go to [Machine Learning](https://github.com/TheMrityunjayPa
 
 - [Handling Imbalance Dataset](https://www.kaggle.com/code/themrityunjaypathak/handling-imbalance-dataset)
 
-For more details → Go to [Feature Engineering](https://github.com/TheMrityunjayPathak/FeatureEngineering) Repository
+For more details → Go to <strong>[Feature Engineering](https://github.com/TheMrityunjayPathak/FeatureEngineering)</strong> Repository
 
 </details>
 
 <p><strong>📙 Machine Learning Mathematics</strong></p>
 <details>
 
-<summary><strong>Click Here</strong></summary>
+<summary>Click Here</summary>
 
 - Linear Algebra
 
@@ -211,7 +211,7 @@ For more details → Go to [Feature Engineering](https://github.com/TheMrityunja
 
 - [Introduction to Calculus](https://www.kaggle.com/code/themrityunjaypathak/introduction-to-calculus)
 
-For more details → Go to [Machine Learning Mathematics](https://github.com/TheMrityunjayPathak/MachineLearningMathematics) Repository
+For more details → Go to <strong>[Machine Learning Mathematics](https://github.com/TheMrityunjayPathak/MachineLearningMathematics)</strong> Repository
 
 </details>
 
