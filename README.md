@@ -9,7 +9,7 @@
 <div align="center">
 
 <a href="#about">
-𝗔𝗯𝗼𝘂𝘁
+𝗔𝗕𝗢𝗨𝗧
 </a>&nbsp;&nbsp;&nbsp;
 <a href="#projects">
 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
