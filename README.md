@@ -1,5 +1,3 @@
-<strong>
-
 <br>
 
 <div align="center">
@@ -260,5 +258,3 @@ For more details → Go to [Machine Learning Mathematics](https://github.com/The
 <a href="#" title="Scroll To Top"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/arrow.png" width="4%"></a>
 
 </div>
-
-</strong>
