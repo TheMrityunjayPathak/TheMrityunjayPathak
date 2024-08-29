@@ -6,6 +6,8 @@
  
 <a href="https://github.com/TheMrityunjayPathak"><img src="https://github.com/user-attachments/assets/975e2435-c071-4fb5-ada5-e37042c9ab6a"></a>
 
+![text-1724924717115](https://github.com/user-attachments/assets/b3a0064d-7f72-4cd3-8fcd-54445ab344fa)
+
 </div>
 
 <div align="center">
