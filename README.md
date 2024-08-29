@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<a href="https://github.com/TheMrityunjayPathak"><img src="https://github.com/user-attachments/assets/67898db4-95b6-4fc3-ae17-b60c5ed02b18"></a>
+<a href="https://github.com/TheMrityunjayPathak"><img src="https://github.com/user-attachments/assets/38b58132-fcb6-4d0b-ba92-33c1579ac643"></a>
 
 </div>
 
