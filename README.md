@@ -257,4 +257,10 @@ For more details → Go to [Machine Learning Mathematics](https://github.com/The
 
 </div>
 
+<div align="center">
+
+<p>Thanks 👏 for Visiting!</p>
+
+</div>
+
 </strong>
