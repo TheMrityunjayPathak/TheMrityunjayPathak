@@ -85,7 +85,7 @@ I am a dedicated Data Scientist with a knack for uncovering patterns and trends 
 
 #### 📊 Microsoft Power BI
 
-| <a href="https://www.kaggle.com/discussions/general/417585" title="Retail Store Sales Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/23bd4e99-b603-4fce-8e37-23073ab78375" height="150px" width="250px"></a> | <a href="https://www.kaggle.com/discussions/general/402148" title="Finance Report Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/36374761-237e-4daa-8e39-d3e6f1079011" height="150px" width="250px"></a> |
+| <a href="" title="Retail Store Sales Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/23bd4e99-b603-4fce-8e37-23073ab78375" height="150px" width="250px"></a> | <a href="" title="Finance Report Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/36374761-237e-4daa-8e39-d3e6f1079011" height="150px" width="250px"></a> |
 |:---:|:---:|
 | Retail Store Sales Dashboard | Finance Report Dashboard |
 | <a href="https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard">View on GitHub »</a> | <a href="https://github.com/TheMrityunjayPathak/FinanceReportDashboard">View on GitHub »</a> |
