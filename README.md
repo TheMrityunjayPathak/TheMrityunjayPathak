@@ -90,11 +90,6 @@ I am a dedicated Data Scientist with a knack for uncovering patterns and trends 
 | Retail Store Sales Dashboard | Finance Report Dashboard |
 | <a href="https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard">View on GitHub »</a> | <a href="https://github.com/TheMrityunjayPathak/FinanceReportDashboard">View on GitHub »</a> |
 
-| <a href="https://www.kaggle.com/discussions/general/389383" title="Covid Pandemic Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/955ae927-6138-41a1-9e68-b5a5c829970a" height="150px" width="250px"></a> | <a href="https://www.kaggle.com/discussions/general/385012" title="India Population Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/b60e5516-cc4b-439d-9347-7d899ad9487b" height="150px" width="250px"> |
-|:---:|:---:|
-| Covid Pandemic Analysis | India Population Analysis |
-| <a href="https://github.com/TheMrityunjayPathak/CovidPandemicAnalysis">View on GitHub »</a> | <a href="https://github.com/TheMrityunjayPathak/IndiaPopulationAnalysis">View on GitHub »</a> |
-
 ## Notebooks
 
 <div>
