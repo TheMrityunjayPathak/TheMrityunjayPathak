@@ -191,7 +191,7 @@ For more details → Go to [Feature Engineering](https://github.com/TheMrityunja
 
 - Statistics
 
-- [Basics of Statistics](https://www.kaggle.com/themrityunjaypathak/basic-of-statistics)
+- [Basics of Statistics](https://www.kaggle.com/code/themrityunjaypathak/basics-of-statistics)
 
 - [Descriptive Statistics with Python](https://www.kaggle.com/code/themrityunjaypathak/descriptive-statistics-with-python)
 
