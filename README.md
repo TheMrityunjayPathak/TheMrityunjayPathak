@@ -253,7 +253,7 @@ For more details → Go to [Machine Learning Mathematics](https://github.com/The
 
 <div align="right">
  
-<a href="#" title="Scroll To Top"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/arrow.png" width="4%"></a>
+<a href="#" title="Scroll To Top"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/arrow.png" width="30px"></a>
 
 </div>
 
