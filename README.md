@@ -76,9 +76,9 @@ I am a dedicated Data Scientist with a knack for uncovering patterns and trends 
 
 | <img src="https://github.com/user-attachments/assets/c2c783aa-9741-4cb9-8aab-988fd4230016" height="150px" width="250px"> | <img src="https://github.com/user-attachments/assets/23148725-2ff9-4492-ae16-a1be0becb8ca" height="150px" width="250px"> |
 |:---:|:---:|
-| Netflix Data Analysis | Super Market Sales Analysis |
-| <a href="https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis">View on GitHub »</a> | <a href="https://github.com/TheMrityunjayPathak/Super-Market-Sales-Analysis">View on GitHub »</a> |
-| <a href="https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis">View on Kaggle »</a> | <a href="https://www.kaggle.com/code/themrityunjaypathak/super-market-sales-analysis">View on Kaggle »</a> |
+| Netflix Data Analysis | Supermarket Sales Analysis |
+| <a href="https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis">View on GitHub »</a> | <a href="https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis">View on GitHub »</a> |
+| <a href="https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis">View on Kaggle »</a> | <a href="https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis">View on Kaggle »</a> |
 
 #### 📊 Microsoft Power BI
 
