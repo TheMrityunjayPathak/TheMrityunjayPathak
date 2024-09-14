@@ -66,7 +66,7 @@ I am a dedicated Data Scientist with a knack for uncovering patterns and trends 
 
 #### 🗃️ Machine Learning
 
-| <a href="https://car-price-prediction-using-lr.streamlit.app/" title="Car Price Prediction"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/00fc17c0-20c9-4e47-8f00-d8eea2d757dd" height="150px" width="250px"></a> | <a href="https://spaceship-titanic-classification.streamlit.app/" title="Spaceship Titanic Classification"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/7debcdf9-264f-4b91-83a4-40e302068f87" height="150px" width="250px"></a> |
+| <img src="https://github.com/user-attachments/assets/23b7011c-4927-4790-9308-41eac8e373aa" height="150px" width="250px"> | <img src="https://github.com/user-attachments/assets/23b7011c-4927-4790-9308-41eac8e373aa" height="150px" width="250px"> |
 |:---:|:---:|
 | Car Price Prediction | Spaceship Titanic Classification |
 | <a href="https://github.com/TheMrityunjayPathak/CarPricePrediction">View on GitHub »</a> | <a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification">View on GitHub »</a> |
@@ -74,7 +74,7 @@ I am a dedicated Data Scientist with a knack for uncovering patterns and trends 
  
 #### 🔍 Exploratory Data Analysis
 
-| <a href="" title="Netflix Data Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/7b1569bd-f1ec-4ca2-90a0-ebfa66541918" height="150px" width="250px"></a> | <a href="" title="Super Market Sales Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/7b1569bd-f1ec-4ca2-90a0-ebfa66541918" height="150px" width="250px"></a> |
+| <img src="https://github.com/user-attachments/assets/d80edecb-7e14-43b4-9235-26d33f4b80d6" height="150px" width="250px"> | <img src="https://github.com/user-attachments/assets/d80edecb-7e14-43b4-9235-26d33f4b80d6" height="150px" width="250px"> |
 |:---:|:---:|
 | Netflix Data Analysis | Super Market Sales Analysis |
 | <a href="https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis">View on GitHub »</a> | <a href="https://github.com/TheMrityunjayPathak/Super-Market-Sales-Analysis">View on GitHub »</a> |
@@ -82,7 +82,7 @@ I am a dedicated Data Scientist with a knack for uncovering patterns and trends 
 
 #### 📊 Microsoft Power BI
 
-| <a href="https://www.linkedin.com/posts/themrityunjaypathak_data-sales-learning-activity-7075424126290509824-zukH?utm_source=share&utm_medium=member_desktop"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/23bd4e99-b603-4fce-8e37-23073ab78375" height="150px" width="250px"></a> | <a href="https://www.linkedin.com/posts/themrityunjaypathak_powerbi-datavisualization-microsoft-activity-7053590300212023297-nyh5?utm_source=share&utm_medium=member_desktop" title="Finance Report Dashboard"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/36374761-237e-4daa-8e39-d3e6f1079011" height="150px" width="250px"></a> |
+| <img src="https://github.com/user-attachments/assets/a702e880-26f9-4947-a945-aa5a23868529" height="150px" width="250px"> | <img src="https://github.com/user-attachments/assets/a702e880-26f9-4947-a945-aa5a23868529" height="150px" width="250px"> |
 |:---:|:---:|
 | Retail Store Sales Dashboard | Finance Report Dashboard |
 | <a href="https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard">View on GitHub »</a> | <a href="https://github.com/TheMrityunjayPathak/FinanceReportDashboard">View on GitHub »</a> |
