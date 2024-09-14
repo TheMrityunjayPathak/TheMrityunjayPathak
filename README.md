@@ -66,7 +66,7 @@ I am a dedicated Data Scientist with a knack for uncovering patterns and trends 
 
 #### 🗃️ Machine Learning
 
-| <img src="https://github.com/user-attachments/assets/171f016b-e684-43ae-8201-aa99cecadd1d" height="150px" width="250px"> | <img src="https://github.com/user-attachments/assets/171f016b-e684-43ae-8201-aa99cecadd1d" height="150px" width="250px"> |
+| <img src="https://github.com/user-attachments/assets/574c4976-ad39-4468-802b-740158d6c3bd" height="150px" width="250px"> | <img src="https://github.com/user-attachments/assets/697f9a37-f1a3-458c-9c2a-e9132449d93a" height="150px" width="250px"> |
 |:---:|:---:|
 | Car Price Prediction | Spaceship Titanic Classification |
 | <a href="https://github.com/TheMrityunjayPathak/CarPricePrediction">View on GitHub »</a> | <a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification">View on GitHub »</a> |
@@ -74,7 +74,7 @@ I am a dedicated Data Scientist with a knack for uncovering patterns and trends 
  
 #### 🔍 Exploratory Data Analysis
 
-| <img src="https://github.com/user-attachments/assets/91828b1d-4798-4b9e-b618-c11c79173067" height="150px" width="250px"> | <img src="https://github.com/user-attachments/assets/91828b1d-4798-4b9e-b618-c11c79173067" height="150px" width="250px"> |
+| <img src="https://github.com/user-attachments/assets/8a574def-8e0c-4c67-b435-c14c85e44b62" height="150px" width="250px"> | <img src="https://github.com/user-attachments/assets/91828b1d-4798-4b9e-b618-c11c79173067" height="150px" width="250px"> |
 |:---:|:---:|
 | Netflix Data Analysis | Super Market Sales Analysis |
 | <a href="https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis">View on GitHub »</a> | <a href="https://github.com/TheMrityunjayPathak/Super-Market-Sales-Analysis">View on GitHub »</a> |
