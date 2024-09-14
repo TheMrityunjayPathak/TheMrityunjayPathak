@@ -94,7 +94,7 @@ I am a dedicated Data Scientist with a knack for uncovering patterns and trends 
 
 📋 HackerRank Certificates
 
-| <a href="https://www.hackerrank.com/certificates/e41a7578cc82" title="HackerRank Python (Basic)"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/python-hacker.jpg" height="190px" width="250px" align="center"/></a> | <a href="https://www.hackerrank.com/certificates/09ec62ca442f" title="HackerRank SQL (Basic)"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/sql-hacker.jpg" height="190px" width="250px" align="center"/></a> |
+| <a href="https://www.hackerrank.com/certificates/e41a7578cc82" title="HackerRank Python (Basic)"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/python-hackerrank.png" height="190px" width="250px" align="center"/></a> | <a href="https://www.hackerrank.com/certificates/09ec62ca442f" title="HackerRank SQL (Basic)"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/sql-hackerrank.png" height="190px" width="250px" align="center"/></a> |
 | :---: | :---: |
 
 </div>
