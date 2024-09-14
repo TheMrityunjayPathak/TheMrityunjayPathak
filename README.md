@@ -78,7 +78,6 @@ I am a dedicated Data Scientist with a knack for uncovering patterns and trends 
 |:---:|
 | Netflix Data Analysis |
 | <a href="https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis">View on GitHub »</a> |
-| <a href="https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis">View on Kaggle »</a> |
 
 #### 📊 Microsoft Power BI
 
