@@ -74,11 +74,11 @@ I am a dedicated Data Scientist with a knack for uncovering patterns and trends 
  
 #### 🔍 Exploratory Data Analysis
 
-| <a href="https://super-market-sales-analysis.streamlit.app/" title="Super Market Sales Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/7b1569bd-f1ec-4ca2-90a0-ebfa66541918" height="150px" width="250px"></a> |
+| <a href="" title="Netflix Data Analysis"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/7b1569bd-f1ec-4ca2-90a0-ebfa66541918" height="150px" width="250px"></a> |
 |:---:|
-| Super Market Sales Analysis |
-| <a href="https://github.com/TheMrityunjayPathak/SuperMarketSalesAnalysis">View on GitHub »</a> |
-| <a href="https://www.kaggle.com/discussions/general/451092">View on Kaggle »</a> |
+| Netflix Data Analysis |
+| <a href="https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis">View on GitHub »</a> |
+| <a href="https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis">View on Kaggle »</a> |
 
 #### 📊 Microsoft Power BI
 
