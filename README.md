@@ -66,7 +66,7 @@ I am a dedicated Data Scientist with a knack for uncovering patterns and trends 
 
 #### 🗃️ Machine Learning
 
-| <img src="https://github.com/user-attachments/assets/23b7011c-4927-4790-9308-41eac8e373aa" height="150px" width="250px"> | <img src="https://github.com/user-attachments/assets/23b7011c-4927-4790-9308-41eac8e373aa" height="150px" width="250px"> |
+| <img src="https://github.com/user-attachments/assets/171f016b-e684-43ae-8201-aa99cecadd1d" height="150px" width="250px"> | <img src="https://github.com/user-attachments/assets/171f016b-e684-43ae-8201-aa99cecadd1d" height="150px" width="250px"> |
 |:---:|:---:|
 | Car Price Prediction | Spaceship Titanic Classification |
 | <a href="https://github.com/TheMrityunjayPathak/CarPricePrediction">View on GitHub »</a> | <a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification">View on GitHub »</a> |
@@ -74,7 +74,7 @@ I am a dedicated Data Scientist with a knack for uncovering patterns and trends 
  
 #### 🔍 Exploratory Data Analysis
 
-| <img src="https://github.com/user-attachments/assets/d80edecb-7e14-43b4-9235-26d33f4b80d6" height="150px" width="250px"> | <img src="https://github.com/user-attachments/assets/d80edecb-7e14-43b4-9235-26d33f4b80d6" height="150px" width="250px"> |
+| <img src="https://github.com/user-attachments/assets/91828b1d-4798-4b9e-b618-c11c79173067" height="150px" width="250px"> | <img src="https://github.com/user-attachments/assets/91828b1d-4798-4b9e-b618-c11c79173067" height="150px" width="250px"> |
 |:---:|:---:|
 | Netflix Data Analysis | Super Market Sales Analysis |
 | <a href="https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis">View on GitHub »</a> | <a href="https://github.com/TheMrityunjayPathak/Super-Market-Sales-Analysis">View on GitHub »</a> |
@@ -82,7 +82,7 @@ I am a dedicated Data Scientist with a knack for uncovering patterns and trends 
 
 #### 📊 Microsoft Power BI
 
-| <img src="https://github.com/user-attachments/assets/a702e880-26f9-4947-a945-aa5a23868529" height="150px" width="250px"> | <img src="https://github.com/user-attachments/assets/a702e880-26f9-4947-a945-aa5a23868529" height="150px" width="250px"> |
+| <img src="https://github.com/user-attachments/assets/8f0ca02c-3690-4469-adfd-46d7df2734a1" height="150px" width="250px"> | <img src="https://github.com/user-attachments/assets/8f0ca02c-3690-4469-adfd-46d7df2734a1" height="150px" width="250px"> |
 |:---:|:---:|
 | Retail Store Sales Dashboard | Finance Report Dashboard |
 | <a href="https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard">View on GitHub »</a> | <a href="https://github.com/TheMrityunjayPathak/FinanceReportDashboard">View on GitHub »</a> |
