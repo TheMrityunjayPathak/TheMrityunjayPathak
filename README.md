@@ -82,7 +82,7 @@ I am a dedicated Data Scientist with a knack for uncovering patterns and trends 
 
 #### 📊 Microsoft Power BI
 
-| <img src="https://github.com/user-attachments/assets/4b16ad9c-130d-4142-8d0e-b80ad3b8b4b7" height="150px" width="250px"> | <img src="https://github.com/user-attachments/assets/8f0ca02c-3690-4469-adfd-46d7df2734a1" height="150px" width="250px"> |
+| <img src="https://github.com/user-attachments/assets/23148725-2ff9-4492-ae16-a1be0becb8ca" height="150px" width="250px"> | <img src="https://github.com/user-attachments/assets/4b16ad9c-130d-4142-8d0e-b80ad3b8b4b7" height="150px" width="250px"> |
 |:---:|:---:|
 | Retail Store Sales Dashboard | Finance Report Dashboard |
 | <a href="https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard">View on GitHub »</a> | <a href="https://github.com/TheMrityunjayPathak/FinanceReportDashboard">View on GitHub »</a> |
