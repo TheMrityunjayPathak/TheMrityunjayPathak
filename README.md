@@ -74,7 +74,7 @@ I am a dedicated Data Scientist with a knack for uncovering patterns and trends 
  
 #### 🔍 Exploratory Data Analysis
 
-| <img src="https://github.com/user-attachments/assets/8a574def-8e0c-4c67-b435-c14c85e44b62" height="150px" width="250px"> | <img src="https://github.com/user-attachments/assets/91828b1d-4798-4b9e-b618-c11c79173067" height="150px" width="250px"> |
+| <img src="https://github.com/user-attachments/assets/3df60a7d-faad-4d37-b127-774842db70dc" height="150px" width="250px"> | <img src="https://github.com/user-attachments/assets/08154777-c610-4466-92f5-57199e934144" height="150px" width="250px"> |
 |:---:|:---:|
 | Netflix Data Analysis | Super Market Sales Analysis |
 | <a href="https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis">View on GitHub »</a> | <a href="https://github.com/TheMrityunjayPathak/Super-Market-Sales-Analysis">View on GitHub »</a> |
