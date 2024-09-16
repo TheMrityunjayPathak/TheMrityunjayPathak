@@ -111,7 +111,7 @@ I am a dedicated Data Scientist with a knack for uncovering patterns and trends 
 
 <div align="center">
 
-| <a href="https://www.hackerrank.com/mrityunjaypathak" title="5 ⭐ Python HackerRank"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/hacker-python.png" width="125px"></a> | <a href="https://www.kaggle.com/themrityunjaypathak" title="Kaggle Master"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/master-kaggle.png" width="125px"></a> | <a href="https://www.hackerrank.com/mrityunjaypathak" title="5 ⭐ SQL HackerRank"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/hacker-sql.png" width="125px"></a> |
+| <a href="https://www.hackerrank.com/mrityunjaypathak" title="5 ⭐ Python HackerRank"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/hacker-python.png" width="100px"></a> | <a href="https://www.kaggle.com/themrityunjaypathak" title="Kaggle Master"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/master-kaggle.png" width="100px"></a> | <a href="https://www.hackerrank.com/mrityunjaypathak" title="5 ⭐ SQL HackerRank"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/hacker-sql.png" width="100px"></a> |
 | :---: | :---: | :---: |
 
 </div>
