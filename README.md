@@ -11,19 +11,19 @@
 <div align="center">
 
 <a href="#about">
-𝗔𝗕𝗢𝗨𝗧
+ABOUT
 </a>&nbsp;&nbsp;&nbsp;
 <a href="#projects">
-𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
+PROJECTS
 </a>&nbsp;&nbsp;&nbsp;
 <a href="#certificates">
-𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗘𝗦
+CERTIFICATES
 </a>&nbsp;&nbsp;&nbsp;
 <a href="#achievements">
-𝗔𝗖𝗛𝗜𝗘𝗩𝗘𝗠𝗘𝗡𝗧𝗦
+ACHIEVEMENTS
 </a>&nbsp;&nbsp;&nbsp;
 <a href="#contact">
-𝗖𝗢𝗡𝗧𝗔𝗖𝗧
+CONTACT
 </a>
 
 </div>
