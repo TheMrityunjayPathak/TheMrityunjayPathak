@@ -87,7 +87,7 @@ To predict whether a passenger was transported to an alternate dimension during 
 <div><p><strong>🔍 Exploratory Data Analysis</strong></p>
  
 <div align="left">
-<a href="https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis" title="Netflix Data Analysis"><img src="https://github.com/user-attachments/assets/c2c783aa-9741-4cb9-8aab-988fd4230016" width="280px" height="140px" align="left" title="Netflix Data Analysis"/></a>
+<a href="https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis" title="Netflix Data Analysis"><img src="https://github.com/user-attachments/assets/4d057f16-8ec1-44c0-8d02-7f13d7ee0fab" width="280px" height="140px" align="left" title="Netflix Data Analysis"/></a>
 <a href="https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis"><strong>Netflix Data Analysis</strong></a>
  
 <strong>Dataset : [Netflix TV Shows and Movies](https://www.kaggle.com/datasets/shivamb/netflix-shows)</strong>
@@ -95,7 +95,7 @@ To predict whether a passenger was transported to an alternate dimension during 
 To gain insights into the content available on Netflix and understand the patterns to uncover valuable insights into how the platform curates and evolves its offerings.</div>
 <br>
 <div align="left">
-<a href="https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis" title="Supermarket Sales Analysis"><img src="https://github.com/user-attachments/assets/c2c783aa-9741-4cb9-8aab-988fd4230016" width="280px" height="140px" align="left" title="Supermarket Sales Analysis"/></a>
+<a href="https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis" title="Supermarket Sales Analysis"><img src="https://github.com/user-attachments/assets/4d057f16-8ec1-44c0-8d02-7f13d7ee0fab" width="280px" height="140px" align="left" title="Supermarket Sales Analysis"/></a>
 <a href="https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis"><strong>Supermarket Sales Analysis</strong></a>
  
 <strong>Dataset : [Supermarket Sales Dataset](https://www.kaggle.com/datasets/mohamedharris/supermart-grocery-sales-retail-analytics-dataset)</strong>
@@ -106,7 +106,7 @@ To gain insights into Supermarket Sales Performance understanding the patterns a
 <div><p><strong>📊 Microsoft Power BI</strong></p>
 
 <div align="left">
-<a href="https://www.kaggle.com/discussions/general/417585" title="Retail Store Sales Dashboard"><img src="https://github.com/user-attachments/assets/c2c783aa-9741-4cb9-8aab-988fd4230016" alt="Retail Store Sales Dashboard" width="280px" height="140px" align="left" title="Retail Store Sales Dashboard"/></a>
+<a href="https://www.kaggle.com/discussions/general/417585" title="Retail Store Sales Dashboard"><img src="https://github.com/user-attachments/assets/cc86b85a-3a52-455e-8b40-04809c08a1ff" alt="Retail Store Sales Dashboard" width="280px" height="140px" align="left" title="Retail Store Sales Dashboard"/></a>
 <a href="https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard"><strong>Retail Store Sales Dashboard</strong></a>
  
 <strong>Dataset : [Retail Store Sales Dataset](https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard/tree/main/Dataset)</strong>
@@ -114,7 +114,7 @@ To gain insights into Supermarket Sales Performance understanding the patterns a
 To design a Retail Store Sales Dashboard that provides a clear and concise overview of the Store's Sales performance enabling the owner to gain actionable insights.</div>
 <br>
 <div align="left">
-<a href="https://www.kaggle.com/discussions/general/402148" title="Finance Report Dashboard"><img src="https://github.com/user-attachments/assets/4b16ad9c-130d-4142-8d0e-b80ad3b8b4b7" alt="Finance Report Dashboard" width="280px" height="140px" align="left" title="Finance Report Dashboard"/></a>
+<a href="https://www.kaggle.com/discussions/general/402148" title="Finance Report Dashboard"><img src="https://github.com/user-attachments/assets/cc86b85a-3a52-455e-8b40-04809c08a1ff" alt="Finance Report Dashboard" width="280px" height="140px" align="left" title="Finance Report Dashboard"/></a>
 <a href="https://github.com/TheMrityunjayPathak/FinanceReportDashboard"><strong>Finance Report Dashboard</strong></a>
 
 <strong>Dataset : [Finance Report Dataset](https://github.com/TheMrityunjayPathak/FinanceReportDashboard/blob/main/financial_data.csv)</strong>
