@@ -92,15 +92,15 @@ To predict whether a passenger was transported to an alternate dimension during 
  
 <strong>Dataset : [Netflix TV Shows and Movies](https://www.kaggle.com/datasets/shivamb/netflix-shows)</strong>
 
-To gain insights into the content available on Netflix, understanding the patterns to uncover valuable insights into how the platform curates and evolves its offerings.</div>
+To gain insights into the content available on Netflix and understand the patterns to uncover valuable insights into how the platform curates and evolves its offerings.</div>
 <br>
 <div align="left">
-<a href="https://www.kaggle.com/discussions/general/451092" title="Super Market Sales Analysis"><img src="https://github.com/user-attachments/assets/c2c783aa-9741-4cb9-8aab-988fd4230016" width="280px" height="140px" align="left" title="Super Market Sales Analysis"/></a>
-<a href="https://github.com/TheMrityunjayPathak/SuperMarketSalesAnalysis"><strong>Super Market Sales Analysis</strong></a>
+<a href="https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis" title="Supermarket Sales Analysis"><img src="https://github.com/user-attachments/assets/c2c783aa-9741-4cb9-8aab-988fd4230016" width="280px" height="140px" align="left" title="Supermarket Sales Analysis"/></a>
+<a href="https://github.com/TheMrityunjayPathak/SuperMarketSalesAnalysis"><strong>Supermarket Sales Analysis</strong></a>
  
-<strong>Dataset : [Super Market Sales Dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales) → Web App : [Super Market Sales App](https://super-market-sales-analysis.streamlit.app/)</strong>
+<strong>Dataset : [Supermarket Sales Dataset](https://www.kaggle.com/datasets/mohamedharris/supermart-grocery-sales-retail-analytics-dataset)</strong>
 
-To analyze sales data and gain insights into customer purchasing behavior, product performance and overall trends of the supermarket business.</div>
+To gain insights into Supermarket Sales Performance understanding the patterns and trends in customer behavior, product categories and regional sales.</div>
 </div>
 <br><br>
 <div><p><strong>📊 Microsoft Power BI</strong></p>
