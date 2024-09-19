@@ -67,7 +67,7 @@ I am a dedicated Data Scientist with a knack for uncovering patterns and trends 
 <div><p><strong>🗃️ Machine Learning</strong></p>
 
 <div align="left">
-<a href="https://www.kaggle.com/discussions/general/483415" title="Car Price Prediction"><img src="https://github.com/user-attachments/assets/574c4976-ad39-4468-802b-740158d6c3bd" width="280px" height="150px" align="left" title="Car Price Prediction"/></a>
+<a href="https://www.kaggle.com/discussions/general/483415" title="Car Price Prediction"><img src="https://github.com/user-attachments/assets/574c4976-ad39-4468-802b-740158d6c3bd" width="280px" height="140px" align="left" title="Car Price Prediction"/></a>
 <a href="https://github.com/TheMrityunjayPathak/CarPricePrediction"><strong>Car Price Prediction</strong></a>
 
 <strong>Dataset : [Car Price Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling) → Web App : [Car Price Prediction App](https://car-price-prediction-using-lr.streamlit.app/)</strong>
@@ -75,7 +75,7 @@ I am a dedicated Data Scientist with a knack for uncovering patterns and trends 
 To develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</div>
 <br>
 <div align="left">
-<a href="https://www.kaggle.com/discussions/accomplishments/485358" title="Spaceship Titanic Classification"><img src="https://github.com/user-attachments/assets/697f9a37-f1a3-458c-9c2a-e9132449d93a" width="280px" height="150px" align="left" title="Spaceship Titanic Classification"/></a>
+<a href="https://www.kaggle.com/discussions/accomplishments/485358" title="Spaceship Titanic Classification"><img src="https://github.com/user-attachments/assets/697f9a37-f1a3-458c-9c2a-e9132449d93a" width="280px" height="140px" align="left" title="Spaceship Titanic Classification"/></a>
 <a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification"><strong>Spaceship Titanic Classification</strong></a>
  
 <strong>Dataset : [Spaceship Titanic Dataset](https://www.kaggle.com/competitions/spaceship-titanic/data?select=train.csv) → Web App : [Spaceship Titanic App](https://spaceship-titanic-classification.streamlit.app/)</strong>
@@ -87,7 +87,7 @@ To predict whether a passenger was transported to an alternate dimension during 
 <div><p><strong>🔍 Exploratory Data Analysis</strong></p>
  
 <div align="left">
-<a href="https://www.kaggle.com/discussions/general/451092" title="Super Market Sales Analysis"><img src="https://github.com/user-attachments/assets/c2c783aa-9741-4cb9-8aab-988fd4230016" width="280px" height="150px" align="left" title="Super Market Sales Analysis"/></a>
+<a href="https://www.kaggle.com/discussions/general/451092" title="Super Market Sales Analysis"><img src="https://github.com/user-attachments/assets/c2c783aa-9741-4cb9-8aab-988fd4230016" width="280px" height="140px" align="left" title="Super Market Sales Analysis"/></a>
 <a href="https://github.com/TheMrityunjayPathak/SuperMarketSalesAnalysis"><strong>Super Market Sales Analysis</strong></a>
  
 <strong>Dataset : [Super Market Sales Dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales) → Web App : [Super Market Sales App](https://super-market-sales-analysis.streamlit.app/)</strong>
@@ -99,7 +99,7 @@ To analyze sales data and gain insights into customer purchasing behavior, produ
 <div><p><strong>📊 Microsoft Power BI</strong></p>
 
 <div align="left">
-<a href="https://www.kaggle.com/discussions/general/417585" title="Retail Store Sales Dashboard"><img src="https://github.com/user-attachments/assets/08154777-c610-4466-92f5-57199e934144" alt="Retail Store Sales Dashboard" width="280px" height="150px" align="left" title="Retail Store Sales Dashboard"/></a>
+<a href="https://www.kaggle.com/discussions/general/417585" title="Retail Store Sales Dashboard"><img src="https://github.com/user-attachments/assets/08154777-c610-4466-92f5-57199e934144" alt="Retail Store Sales Dashboard" width="280px" height="140px" align="left" title="Retail Store Sales Dashboard"/></a>
 <a href="https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard"><strong>Retail Store Sales Dashboard</strong></a>
  
 <strong>Dataset : [Retail Store Sales Dataset](https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard/tree/main/Dataset)</strong>
@@ -107,7 +107,7 @@ To analyze sales data and gain insights into customer purchasing behavior, produ
 To design a Retail Store Sales Dashboard that provides a clear and concise overview of the Store's Sales performance enabling the owner to gain actionable insights.</div>
 <br>
 <div align="left">
-<a href="https://www.kaggle.com/discussions/general/402148" title="Finance Report Dashboard"><img src="https://github.com/user-attachments/assets/4b16ad9c-130d-4142-8d0e-b80ad3b8b4b7" alt="Finance Report Dashboard" width="280px" height="150px" align="left" title="Finance Report Dashboard"/></a>
+<a href="https://www.kaggle.com/discussions/general/402148" title="Finance Report Dashboard"><img src="https://github.com/user-attachments/assets/4b16ad9c-130d-4142-8d0e-b80ad3b8b4b7" alt="Finance Report Dashboard" width="280px" height="140px" align="left" title="Finance Report Dashboard"/></a>
 <a href="https://github.com/TheMrityunjayPathak/FinanceReportDashboard"><strong>Finance Report Dashboard</strong></a>
 
 <strong>Dataset : [Finance Report Dataset](https://github.com/TheMrityunjayPathak/FinanceReportDashboard/blob/main/financial_data.csv)</strong>
@@ -165,28 +165,3 @@ To create a visually appealing dashboard that provides an overview of the compan
 </div>
 
 </strong>
-
-#### 🗃️ Machine Learning
-
-| <img src="https://github.com/user-attachments/assets/574c4976-ad39-4468-802b-740158d6c3bd" height="150px" width="250px"> | <img src="https://github.com/user-attachments/assets/697f9a37-f1a3-458c-9c2a-e9132449d93a" height="150px" width="250px"> |
-|:---:|:---:|
-| Car Price Prediction | Spaceship Titanic Classification |
-| <a href="https://github.com/TheMrityunjayPathak/CarPricePrediction">View on GitHub »</a> | <a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification">View on GitHub »</a> |
-| <a href="https://www.kaggle.com/discussions/general/483415">View on Kaggle »</a> | <a href="https://www.kaggle.com/discussions/accomplishments/485358">View on Kaggle »</a> |
- 
-#### 🔍 Exploratory Data Analysis
-
-| <img src="https://github.com/user-attachments/assets/c2c783aa-9741-4cb9-8aab-988fd4230016" height="150px" width="250px"> | <img src="https://github.com/user-attachments/assets/23148725-2ff9-4492-ae16-a1be0becb8ca" height="150px" width="250px"> |
-|:---:|:---:|
-| Netflix Data Analysis | Supermarket Sales Analysis |
-| <a href="https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis">View on GitHub »</a> | <a href="https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis">View on GitHub »</a> |
-| <a href="https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis">View on Kaggle »</a> | <a href="https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis">View on Kaggle »</a> |
-
-#### 📊 Microsoft Power BI
-
-| <img src="https://github.com/user-attachments/assets/4b16ad9c-130d-4142-8d0e-b80ad3b8b4b7" height="150px" width="250px"> | <img src="https://github.com/user-attachments/assets/08154777-c610-4466-92f5-57199e934144" height="150px" width="250px"> |
-|:---:|:---:|
-| Retail Store Sales Dashboard | Finance Report Dashboard |
-| <a href="https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard">View on GitHub »</a> | <a href="https://github.com/TheMrityunjayPathak/FinanceReportDashboard">View on GitHub »</a> |
-| <a href="https://www.kaggle.com/discussions/general/417585">View on Kaggle »</a> | <a href="https://www.kaggle.com/discussions/general/402148">View on Kaggle »</a> |
-
