@@ -106,7 +106,7 @@ To analyze sales data and gain insights into customer purchasing behavior, produ
 <div><p><strong>📊 Microsoft Power BI</strong></p>
 
 <div align="left">
-<a href="https://www.kaggle.com/discussions/general/417585" title="Retail Store Sales Dashboard"><img src="https://github.com/user-attachments/assets/08154777-c610-4466-92f5-57199e934144" alt="Retail Store Sales Dashboard" width="280px" height="140px" align="left" title="Retail Store Sales Dashboard"/></a>
+<a href="https://www.kaggle.com/discussions/general/417585" title="Retail Store Sales Dashboard"><img src="https://github.com/user-attachments/assets/c2c783aa-9741-4cb9-8aab-988fd4230016" alt="Retail Store Sales Dashboard" width="280px" height="140px" align="left" title="Retail Store Sales Dashboard"/></a>
 <a href="https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard"><strong>Retail Store Sales Dashboard</strong></a>
  
 <strong>Dataset : [Retail Store Sales Dataset](https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard/tree/main/Dataset)</strong>
