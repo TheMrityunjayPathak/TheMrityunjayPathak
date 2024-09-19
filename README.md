@@ -67,15 +67,15 @@ I am a dedicated Data Scientist with a knack for uncovering patterns and trends 
 <div><p><strong>🗃️ Machine Learning</strong></p>
 
 <div align="left">
-<a href="https://www.kaggle.com/discussions/general/483415" title="Car Price Prediction"><img src="https://github.com/user-attachments/assets/574c4976-ad39-4468-802b-740158d6c3bd" width="280px" height="125px" align="left" title="Car Price Prediction"/></a>
+<a href="https://www.kaggle.com/discussions/general/483415" title="Car Price Prediction"><img src="https://github.com/user-attachments/assets/574c4976-ad39-4468-802b-740158d6c3bd" width="280px" height="140px" align="left" title="Car Price Prediction"/></a>
 <a href="https://github.com/TheMrityunjayPathak/CarPricePrediction"><strong>Car Price Prediction</strong></a>
 
 <strong>Dataset : [Car Price Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling) → Web App : [Car Price Prediction App](https://car-price-prediction-using-lr.streamlit.app/)</strong>
 
 To develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</div>
-
+<br>
 <div align="left">
-<a href="https://www.kaggle.com/discussions/accomplishments/485358" title="Spaceship Titanic Classification"><img src="https://github.com/user-attachments/assets/697f9a37-f1a3-458c-9c2a-e9132449d93a" width="280px" height="125px" align="left" title="Spaceship Titanic Classification"/></a>
+<a href="https://www.kaggle.com/discussions/accomplishments/485358" title="Spaceship Titanic Classification"><img src="https://github.com/user-attachments/assets/697f9a37-f1a3-458c-9c2a-e9132449d93a" width="280px" height="140px" align="left" title="Spaceship Titanic Classification"/></a>
 <a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification"><strong>Spaceship Titanic Classification</strong></a>
  
 <strong>Dataset : [Spaceship Titanic Dataset](https://www.kaggle.com/competitions/spaceship-titanic/data?select=train.csv) → Web App : [Spaceship Titanic App](https://spaceship-titanic-classification.streamlit.app/)</strong>
