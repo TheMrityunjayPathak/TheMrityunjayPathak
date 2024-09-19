@@ -96,7 +96,7 @@ To gain insights into the content available on Netflix and understand the patter
 <br>
 <div align="left">
 <a href="https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis" title="Supermarket Sales Analysis"><img src="https://github.com/user-attachments/assets/c2c783aa-9741-4cb9-8aab-988fd4230016" width="280px" height="140px" align="left" title="Supermarket Sales Analysis"/></a>
-<a href="https://github.com/TheMrityunjayPathak/SuperMarketSalesAnalysis"><strong>Supermarket Sales Analysis</strong></a>
+<a href="https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis"><strong>Supermarket Sales Analysis</strong></a>
  
 <strong>Dataset : [Supermarket Sales Dataset](https://www.kaggle.com/datasets/mohamedharris/supermart-grocery-sales-retail-analytics-dataset)</strong>
 
