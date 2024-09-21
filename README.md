@@ -67,15 +67,15 @@ I am a dedicated Data Scientist with a knack for uncovering patterns and trends 
 <div><p><strong>🗃️ Machine Learning</strong></p>
 
 <div align="left">
-<a href="https://www.kaggle.com/discussions/general/483415" title="Car Price Prediction"><img src="https://github.com/user-attachments/assets/4e562650-a9ac-4218-8588-28b7047fdeaf" width="280px" height="140px" align="left" title="Car Price Prediction"/></a>
+<a href="https://www.kaggle.com/discussions/general/483415" title="Car Price Prediction"><img src="https://github.com/user-attachments/assets/fbd3ac2a-ccd4-4eb6-9c4a-6ffb1cae4902" width="280px" align="left" title="Car Price Prediction"/></a>
 <a href="https://github.com/TheMrityunjayPathak/CarPricePrediction"><strong>Car Price Prediction</strong></a>
-
+ 
 <strong>Dataset : [Car Price Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling) → Web App : [Car Price Prediction App](https://car-price-prediction-using-lr.streamlit.app/)</strong>
 
 To develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</div>
 <br>
 <div align="left">
-<a href="https://www.kaggle.com/discussions/accomplishments/485358" title="Spaceship Titanic Classification"><img src="https://github.com/user-attachments/assets/4e562650-a9ac-4218-8588-28b7047fdeaf" width="280px" height="140px" align="left" title="Spaceship Titanic Classification"/></a>
+<a href="https://www.kaggle.com/discussions/accomplishments/485358" title="Spaceship Titanic Classification"><img src="https://github.com/user-attachments/assets/fbd3ac2a-ccd4-4eb6-9c4a-6ffb1cae4902" width="280px" align="left" title="Spaceship Titanic Classification"/></a>
 <a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification"><strong>Spaceship Titanic Classification</strong></a>
  
 <strong>Dataset : [Spaceship Titanic Dataset](https://www.kaggle.com/competitions/spaceship-titanic/data?select=train.csv) → Web App : [Spaceship Titanic App](https://spaceship-titanic-classification.streamlit.app/)</strong>
@@ -87,7 +87,7 @@ To predict whether a passenger was transported to an alternate dimension during 
 <div><p><strong>🔍 Exploratory Data Analysis</strong></p>
  
 <div align="left">
-<a href="https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis" title="Netflix Data Analysis"><img src="https://github.com/user-attachments/assets/4d057f16-8ec1-44c0-8d02-7f13d7ee0fab" width="280px" height="140px" align="left" title="Netflix Data Analysis"/></a>
+<a href="https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis" title="Netflix Data Analysis"><img src="https://github.com/user-attachments/assets/4d5ccfd5-bb11-4e9f-88b6-cc25ac7e6e0c" width="280px" align="left" title="Netflix Data Analysis"/></a>
 <a href="https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis"><strong>Netflix Data Analysis</strong></a>
  
 <strong>Dataset : [Netflix TV Shows and Movies](https://www.kaggle.com/datasets/shivamb/netflix-shows)</strong>
@@ -95,7 +95,7 @@ To predict whether a passenger was transported to an alternate dimension during 
 To gain insights into the content available on Netflix and understand the patterns to uncover valuable insights into how the platform curates and evolves its offerings.</div>
 <br>
 <div align="left">
-<a href="https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis" title="Supermarket Sales Analysis"><img src="https://github.com/user-attachments/assets/4d057f16-8ec1-44c0-8d02-7f13d7ee0fab" width="280px" height="140px" align="left" title="Supermarket Sales Analysis"/></a>
+<a href="https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis" title="Supermarket Sales Analysis"><img src="https://github.com/user-attachments/assets/4d5ccfd5-bb11-4e9f-88b6-cc25ac7e6e0c" width="280px" align="left" title="Supermarket Sales Analysis"/></a>
 <a href="https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis"><strong>Supermarket Sales Analysis</strong></a>
  
 <strong>Dataset : [Supermarket Sales Dataset](https://www.kaggle.com/datasets/mohamedharris/supermart-grocery-sales-retail-analytics-dataset)</strong>
