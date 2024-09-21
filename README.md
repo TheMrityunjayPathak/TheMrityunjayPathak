@@ -19,9 +19,6 @@ PROJECTS
 <a href="#certificates">
 CERTIFICATES
 </a>&nbsp;&nbsp;&nbsp;
-<a href="#achievements">
-ACHIEVEMENTS
-</a>&nbsp;&nbsp;&nbsp;
 <a href="#contact">
 CONTACT
 </a>
