@@ -98,7 +98,8 @@ To gain insights into the content available on Netflix and understand the patter
 <strong>Dataset : [Supermarket Sales Dataset](https://www.kaggle.com/datasets/mohamedharris/supermart-grocery-sales-retail-analytics-dataset)</strong>
 
 To gain insights into Supermarket Sales Performance understanding the patterns and trends in customer behavior, product categories and regional sales.</div>
-</div><br><br>
+</div>
+<br>
 
 ## Certificates
 
