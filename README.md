@@ -39,11 +39,11 @@ I am a dedicated Data Scientist with a knack for uncovering patterns and trends 
 
 • Libraries : I'm familiar with essential libraries like NumPy (for numerical operations), Pandas (for data manipulation) and Matplotlib/Seaborn (for visualizing data).
 
+• Interactive Visualizations : I can also work with Plotly, a powerful graphing library for Python that allow us to create interactive and engaging plots for visualizing data.
+
 • Machine Learning : I'm familiar in various machine learning techniques like Regression (predicting values), Classification (sorting data into categories), Clustering (grouping similar data), Dimensionality Reduction (simplifying complex data) and Model Selection (choosing the right predictive model).
 
 • Database : I can work with MySQL, a popular database system to handle and retrieve data effectively.
-
-• Interactive Visualizations : I can also work with Plotly, a powerful graphing library for Python that allow us to create interactive and engaging plots for visualizing data.
 
 • Version Control : I'm familiar with Git, which helps in keeping track of changes in code and collaborating effectively with a team.
 
