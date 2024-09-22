@@ -18,7 +18,7 @@ Projects
 Certificates
 </a>&nbsp;&nbsp;&nbsp;
 <a href="#contact">
-Concat
+Contact
 </a>
 
 </div>
