@@ -43,7 +43,7 @@ I am a dedicated Data Scientist with a knack for uncovering patterns and trends 
 
 • Database : I can work with MySQL, a popular database system to handle and retrieve data effectively.
 
-• BI Tool : I'm proficient in using Microsoft Power BI, a tool that helps in turning data into actionable insights through interactive visualizations.
+• Interactive Visualizations : I can also work with Plotly, a powerful graphing library for Python that allow us to create interactive and engaging plots for visualizing data.
 
 • Version Control : I'm familiar with Git, which helps in keeping track of changes in code and collaborating effectively with a team.
 
