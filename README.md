@@ -1,6 +1,6 @@
 <strong>
 
-![Banner](https://github.com/user-attachments/assets/190c4dec-2a74-4710-8c08-6e96ade94d2f)
+![Banner](https://github.com/user-attachments/assets/400e853c-36bc-4854-91b1-52ab2832a7e6)
 
 <div align="center">
  
