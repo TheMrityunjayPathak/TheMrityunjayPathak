@@ -99,26 +99,6 @@ To gain insights into the content available on Netflix and understand the patter
 
 To gain insights into Supermarket Sales Performance understanding the patterns and trends in customer behavior, product categories and regional sales.</div>
 </div>
-<br><br>
-<div><p><strong>📊 Microsoft Power BI</strong></p>
-
-<div align="left">
-<a href="https://www.kaggle.com/discussions/general/417585" title="Retail Store Sales Dashboard"><img src="https://github.com/user-attachments/assets/5457c53a-4af9-45a2-a47e-2db762bad100" alt="Retail Store Sales Dashboard" width="280px" align="left" title="Retail Store Sales Dashboard"/></a>
-<a href="https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard"><strong>Retail Store Sales Dashboard</strong></a>
- 
-<strong>Dataset : [Retail Store Sales Dataset](https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard/tree/main/Dataset)</strong>
-
-To design a Retail Store Sales Dashboard that provides a clear and concise overview of the Store's Sales performance enabling the owner to gain actionable insights.</div>
-<br>
-<div align="left">
-<a href="https://www.kaggle.com/discussions/general/402148" title="Finance Report Dashboard"><img src="https://github.com/user-attachments/assets/5457c53a-4af9-45a2-a47e-2db762bad100" alt="Finance Report Dashboard" width="280px" align="left" title="Finance Report Dashboard"/></a>
-<a href="https://github.com/TheMrityunjayPathak/FinanceReportDashboard"><strong>Finance Report Dashboard</strong></a>
-
-<strong>Dataset : [Finance Report Dataset](https://github.com/TheMrityunjayPathak/FinanceReportDashboard/blob/main/financial_data.csv)</strong>
-
-To create a visually appealing dashboard that provides an overview of the company's financial metrics enabling stakeholders to make informed business decisions.
-</div>
-<br>
 
 ## Certificates
 
