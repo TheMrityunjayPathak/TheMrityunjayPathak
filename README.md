@@ -119,7 +119,7 @@ To gain insights into Supermarket Sales Performance understanding the patterns a
 
 <div align="right">
  
-<a href="#" title="Scroll To Top"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/arrow.png" width="30px"></a>
+<a href="#" title="Scroll To Top"><img src="https://github.com/user-attachments/assets/d659b889-7e76-4fb3-a55a-3a14abb4df5a" width="30px"></a>
 
 </div>
 
