@@ -9,16 +9,16 @@
 <div align="center">
 
 <a href="#about">
-About
+ABOUT
 </a>&nbsp;&nbsp;&nbsp;
 <a href="#projects">
-Projects
+PROJECTS
 </a>&nbsp;&nbsp;&nbsp;
 <a href="#certificates">
-Certificates
+CERTIFICATES
 </a>&nbsp;&nbsp;&nbsp;
 <a href="#contact">
-Contact
+CONTACT
 </a>
 
 </div>
