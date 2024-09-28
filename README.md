@@ -61,8 +61,8 @@ I am a dedicated Data Scientist with a knack for uncovering patterns and trends 
 ## Experience
 
 Data Science Intern <a href="https://drive.google.com/file/d/19Iap8SWdYVMMSbNyqpZpMBA3mWuzNFlE/view?usp=sharing">@Unified Mentor</a>
-<p>Duration : August 2024 - September 2024&nbsp;&nbsp; | &nbsp;&nbsp;Type : Remote</p>
-<p>Projects I Worked On : <a href="https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis">Netflix Data Analysis</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis">Supermarket Sales Analysis</a></p>
+<p>Duration : August 2024 - September 2024&nbsp; | &nbsp;Type : Remote</p>
+<p>Projects I Worked On : <a href="https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis">Netflix Data Analysis</a>&nbsp; | &nbsp;<a href="https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis">Supermarket Sales Analysis</a></p>
 
 ## Projects
 
