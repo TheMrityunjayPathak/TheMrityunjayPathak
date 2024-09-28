@@ -37,9 +37,7 @@ I am a dedicated Data Scientist with a knack for uncovering patterns and trends 
 
 • Programming : I'm skilled in using Python, a powerful language for data science and data analysis.
 
-• Libraries : I'm familiar with essential libraries like NumPy (for numerical operations), Pandas (for data manipulation) and Matplotlib/Seaborn (for visualizing data).
-
-• Interactive Visualizations : I can also work with Plotly, a powerful graphing library for Python that allow us to create interactive and engaging plots for visualizing data.
+• Libraries : I'm familiar with essential libraries like NumPy (for numerical operations), Pandas (for data manipulation), Matplotlib/Seaborn (for visualizing data) and Plotly(for interactive visualization).
 
 • Machine Learning : I'm familiar in various machine learning techniques like Regression (predicting values), Classification (sorting data into categories), Clustering (grouping similar data), Dimensionality Reduction (simplifying complex data) and Model Selection (choosing the right predictive model).
 
