@@ -14,7 +14,7 @@
  
 I am a dedicated Data Scientist with a knack for uncovering patterns and trends that drive smarter decisions.
 
-🎯 Tools and Technologies
+🎯 Tech Stack
 
 • Programming : I'm skilled in using Python, a powerful language for data science and data analysis.
 
