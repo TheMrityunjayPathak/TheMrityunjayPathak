@@ -40,9 +40,8 @@ I am a dedicated Data Scientist with a knack for uncovering patterns and trends 
 
 ## Experience
 
-<a href="">Data Science Intern @Unified Mentor</a>
-<p>Duration : August 2024 - September 2024</p>
-<p>Type : Remote</p>
+Data Science Intern <a href="https://drive.google.com/file/d/19Iap8SWdYVMMSbNyqpZpMBA3mWuzNFlE/view?usp=sharing">@Unified Mentor</a>
+<p>Duration : August 2024 - September 2024 | Type : Remote</p>
 <p>As a Data Science Intern at Unified Mentor, I worked on 2 impactful projects :
 
 • [Netflix Data Analysis](https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis) : To gain insights into the content available on Netflix, understanding the patterns and trends to uncover valuable insights into how the platform curates and evolves its offerings.
