@@ -62,13 +62,7 @@ I am a dedicated Data Scientist with a knack for uncovering patterns and trends 
 
 Data Science Intern <a href="https://drive.google.com/file/d/19Iap8SWdYVMMSbNyqpZpMBA3mWuzNFlE/view?usp=sharing">@Unified Mentor</a>
 <p>Duration : August 2024 - September 2024&nbsp;&nbsp; | &nbsp;&nbsp;Type : Remote</p>
-<p>As a Data Science Intern at Unified Mentor, I worked on 2 impactful projects :
- 
-• [Netflix Data Analysis](https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis) : To gain insights into the content available on Netflix, understanding the patterns and trends to uncover valuable insights into how the platform curates and evolves its offerings.
-
-• [Supermarket Sales Analysis](https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis) : To gain insights into Supermarket Sales Performance understanding the patterns and trends in customer behavior, product categories and regional sales.
-
-These projects allowed me to apply my skills and gain practical experience in fundamental areas of data science such as data cleaning, data analysis and data visualization.</p>
+<p>Projects I Worked On : <a href="https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis">Netflix Data Analysis</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis">Supermarket Sales Analysis</a></p>
 
 ## Projects
 
