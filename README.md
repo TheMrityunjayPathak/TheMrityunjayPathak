@@ -94,7 +94,7 @@ To gain insights into Supermarket Sales Performance understanding the patterns a
 
 <div align="center">
 
-<a href="mailto:themrityunjaypathak@gmail.com"><img src="https://github.com/user-attachments/assets/4fd379ee-f128-4566-9103-1d03019d5804" width="50px"></a> &nbsp;&nbsp; <a href="https://wa.me/919336158993"><img src="https://github.com/user-attachments/assets/33ade693-169a-48a3-a482-67e1b1b63199" width="50px"></a> &nbsp;&nbsp; <a href="https://drive.google.com/file/d/17UqgmzxJmSUYdsw1V0pSXpTmsc7qhSuO/view?usp=sharing"><img src="https://github.com/user-attachments/assets/3c9d41de-212d-482c-8fe1-e81ef1ab4a8a" width="50px"></a>
+<a href="mailto:themrityunjaypathak@gmail.com"><img src="https://github.com/user-attachments/assets/4fd379ee-f128-4566-9103-1d03019d5804" width="45px"></a> &nbsp;&nbsp; <a href="https://wa.me/919336158993"><img src="https://github.com/user-attachments/assets/33ade693-169a-48a3-a482-67e1b1b63199" width="45px"></a> &nbsp;&nbsp; <a href="https://drive.google.com/file/d/17UqgmzxJmSUYdsw1V0pSXpTmsc7qhSuO/view?usp=sharing"><img src="https://github.com/user-attachments/assets/3c9d41de-212d-482c-8fe1-e81ef1ab4a8a" width="45px"></a>
 
 </div>
 
