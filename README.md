@@ -63,7 +63,7 @@ I am a dedicated Data Scientist with a knack for uncovering patterns and trends 
 Data Science Intern @Unified Mentor
 <p>Duration : August 2024 - September 2024&nbsp; | &nbsp;Type : Remote</p>
 <p>Projects I Worked On : <a href="https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis">Netflix Data Analysis</a>&nbsp; | &nbsp;<a href="https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis">Supermarket Sales Analysis</a></p>
-&nbsp;<a href="https://drive.google.com/file/d/19Iap8SWdYVMMSbNyqpZpMBA3mWuzNFlE/view?usp=sharing" title="Offer Letter"><img src="https://github.com/user-attachments/assets/84abe669-5002-465e-b471-7a429273f4a4" width="125px" align="center"/></a> &nbsp; <a href="https://drive.google.com/file/d/1fcrO63SH-cijj3_UAQDeNiQ7XW-gLCt5/view?usp=sharing" title="Internship Certificate"><img src="https://github.com/user-attachments/assets/b5814b3c-97b0-4364-9ca4-286b7d28132b" width="125px" align="center"/></a>
+&nbsp;<a href="https://drive.google.com/file/d/19Iap8SWdYVMMSbNyqpZpMBA3mWuzNFlE/view?usp=sharing" title="Offer Letter"><img src="https://github.com/user-attachments/assets/84abe669-5002-465e-b471-7a429273f4a4" width="115px" align="center"/></a> &nbsp; <a href="https://drive.google.com/file/d/1fcrO63SH-cijj3_UAQDeNiQ7XW-gLCt5/view?usp=sharing" title="Internship Certificate"><img src="https://github.com/user-attachments/assets/b5814b3c-97b0-4364-9ca4-286b7d28132b" width="115px" align="center"/></a>
 
 ## Projects
 
