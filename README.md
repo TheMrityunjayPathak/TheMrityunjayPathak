@@ -63,14 +63,14 @@ I am a dedicated Data Scientist with a knack for uncovering patterns and trends 
 Data Science Intern @Unified Mentor
 <p>Duration : August 2024 - September 2024&nbsp; | &nbsp;Type : Remote</p>
 <p>Projects : <a href="https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis">Netflix Data Analysis</a>&nbsp; | &nbsp;<a href="https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis">Supermarket Sales Analysis</a></p>
-&nbsp;<a href="https://drive.google.com/file/d/19Iap8SWdYVMMSbNyqpZpMBA3mWuzNFlE/view?usp=sharing" title="Offer Letter"><img src="https://github.com/user-attachments/assets/ba198e51-aeda-4b8f-ba84-2a47213a2d5c" width="100px" align="center"/></a> <a href="https://drive.google.com/file/d/1fcrO63SH-cijj3_UAQDeNiQ7XW-gLCt5/view?usp=sharing" title="Internship Certificate"><img src="https://github.com/user-attachments/assets/748fc69d-896c-46d9-84e6-843ed23ec0a5" width="100px" align="center"/></a>
+&nbsp;<a href="https://drive.google.com/file/d/19Iap8SWdYVMMSbNyqpZpMBA3mWuzNFlE/view?usp=sharing" title="Offer Letter"><img src="https://github.com/user-attachments/assets/ba198e51-aeda-4b8f-ba84-2a47213a2d5c" width="100px" align="center"/></a> &nbsp; <a href="https://drive.google.com/file/d/1fcrO63SH-cijj3_UAQDeNiQ7XW-gLCt5/view?usp=sharing" title="Internship Certificate"><img src="https://github.com/user-attachments/assets/748fc69d-896c-46d9-84e6-843ed23ec0a5" width="100px" align="center"/></a>
 
 ## Projects
 
 <div><p><strong>🗃️ Machine Learning</strong></p>
 
 <div align="left">
-<a href="https://www.kaggle.com/discussions/general/483415" title="Car Price Prediction"><img src="https://github.com/user-attachments/assets/b5d7af43-9647-4d74-9b12-0527aec0e48d" width="280px" align="left" title="Car Price Prediction"/></a>
+<a href="https://www.kaggle.com/discussions/general/483415" title="Car Price Prediction"><img src="https://github.com/user-attachments/assets/705fc6fd-ea46-428e-b07b-e72e186614be" width="280px" align="left" title="Car Price Prediction"/></a>
 <a href="https://github.com/TheMrityunjayPathak/CarPricePrediction"><strong>Car Price Prediction</strong></a>
  
 <strong>Dataset : [Car Price Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling) → Web App : [Car Price Prediction App](https://car-price-prediction-using-lr.streamlit.app/)</strong>
@@ -78,7 +78,7 @@ Data Science Intern @Unified Mentor
 To develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</div>
 <br>
 <div align="left">
-<a href="https://www.kaggle.com/discussions/accomplishments/485358" title="Spaceship Titanic Classification"><img src="https://github.com/user-attachments/assets/b5d7af43-9647-4d74-9b12-0527aec0e48d" width="280px" align="left" title="Spaceship Titanic Classification"/></a>
+<a href="https://www.kaggle.com/discussions/accomplishments/485358" title="Spaceship Titanic Classification"><img src="https://github.com/user-attachments/assets/705fc6fd-ea46-428e-b07b-e72e186614be" width="280px" align="left" title="Spaceship Titanic Classification"/></a>
 <a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification"><strong>Spaceship Titanic Classification</strong></a>
  
 <strong>Dataset : [Spaceship Titanic Dataset](https://www.kaggle.com/competitions/spaceship-titanic/data?select=train.csv) → Web App : [Spaceship Titanic App](https://spaceship-titanic-classification.streamlit.app/)</strong>
@@ -90,7 +90,7 @@ To predict whether a passenger was transported to an alternate dimension during 
 <div><p><strong>🔍 Exploratory Data Analysis</strong></p>
  
 <div align="left">
-<a href="https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis" title="Netflix Data Analysis"><img src="https://github.com/user-attachments/assets/afa5d083-40f9-4e00-aab8-8aa2d660be1c" width="280px" align="left" title="Netflix Data Analysis"/></a>
+<a href="https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis" title="Netflix Data Analysis"><img src="https://github.com/user-attachments/assets/cf9cd72e-fabc-4989-9f1f-12470eef10a1" width="280px" align="left" title="Netflix Data Analysis"/></a>
 <a href="https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis"><strong>Netflix Data Analysis</strong></a>
  
 <strong>Dataset : [Netflix TV Shows and Movies](https://www.kaggle.com/datasets/shivamb/netflix-shows)</strong>
@@ -98,7 +98,7 @@ To predict whether a passenger was transported to an alternate dimension during 
 To gain insights into the content available on Netflix and understand the patterns to uncover valuable insights into how the platform curates and evolves its offerings.</div>
 <br>
 <div align="left">
-<a href="https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis" title="Supermarket Sales Analysis"><img src="https://github.com/user-attachments/assets/afa5d083-40f9-4e00-aab8-8aa2d660be1c" width="280px" align="left" title="Supermarket Sales Analysis"/></a>
+<a href="https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis" title="Supermarket Sales Analysis"><img src="https://github.com/user-attachments/assets/cf9cd72e-fabc-4989-9f1f-12470eef10a1" width="280px" align="left" title="Supermarket Sales Analysis"/></a>
 <a href="https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis"><strong>Supermarket Sales Analysis</strong></a>
  
 <strong>Dataset : [Supermarket Sales Dataset](https://www.kaggle.com/datasets/mohamedharris/supermart-grocery-sales-retail-analytics-dataset)</strong>
