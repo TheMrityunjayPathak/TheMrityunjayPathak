@@ -121,7 +121,7 @@ To gain insights into Supermarket Sales Performance understanding the patterns a
 
 <div align="center">
 
-[E-Mail](mailto:themrityunjaypathak@gmail.com)&nbsp;&nbsp; | &nbsp;&nbsp;[Phone](https://wa.me/919336158993)&nbsp;&nbsp; | &nbsp;&nbsp;[Resume](https://drive.google.com/file/d/17UqgmzxJmSUYdsw1V0pSXpTmsc7qhSuO/view?usp=sharing)
+[E-Mail](mailto:themrityunjaypathak@gmail.com)&nbsp;&nbsp; | &nbsp;&nbsp;[Resume](https://drive.google.com/file/d/17UqgmzxJmSUYdsw1V0pSXpTmsc7qhSuO/view?usp=sharing)
 
 </div>
 
