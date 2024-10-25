@@ -25,7 +25,7 @@ Certificates
 
 <div align="right">
 
-Contact : [E-Mail](mailto:themrityunjaypathak@gmail.com)&nbsp;&nbsp;|&nbsp;&nbsp;[Resume](https://drive.google.com/file/d/17UqgmzxJmSUYdsw1V0pSXpTmsc7qhSuO/view?usp=sharing)
+Contact :&nbsp;&nbsp;[E-Mail](mailto:themrityunjaypathak@gmail.com)&nbsp;&nbsp;|&nbsp;&nbsp;[Resume](https://drive.google.com/file/d/17UqgmzxJmSUYdsw1V0pSXpTmsc7qhSuO/view?usp=sharing)
 
 </div>
 
@@ -37,7 +37,7 @@ Contact : [E-Mail](mailto:themrityunjaypathak@gmail.com)&nbsp;&nbsp;|&nbsp;&nbsp
  
 I am a dedicated Data Scientist with a knack for uncovering patterns and trends that drive smarter decisions.
 
-➩ Tools and Technologies
+🎯 Tools and Technologies
 
 • Programming : I'm skilled in using Python, a powerful language for data science and data analysis.
 
@@ -53,7 +53,7 @@ I am a dedicated Data Scientist with a knack for uncovering patterns and trends 
 
 • Web Development : I also have some knowledge in web development, specifically HTML and CSS.
 
-➩ Connect with Me
+📫 Connect with Me
 
 [Kaggle](https://www.kaggle.com/themrityunjaypathak)&nbsp;&nbsp; | &nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/themrityunjaypathak)&nbsp;&nbsp; | &nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak)&nbsp;&nbsp; | &nbsp;&nbsp;[HackerRank](https://www.hackerrank.com/mrityunjaypathak)&nbsp;&nbsp; | &nbsp;&nbsp;[Portfolio](https://themrityunjaypathak.github.io/)
 
