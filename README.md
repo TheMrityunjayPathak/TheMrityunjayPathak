@@ -20,10 +20,13 @@ Projects
 </a>&nbsp;&nbsp;&nbsp;
 <a href="#certificates">
 Certificates
-</a>&nbsp;&nbsp;&nbsp;
-<a href="#contact">
-Contact
 </a>
+</div>
+
+<div align="right">
+
+Contact :&nbsp;&nbsp;[E-Mail](mailto:themrityunjaypathak@gmail.com)&nbsp;&nbsp;|&nbsp;&nbsp;[Resume](https://drive.google.com/file/d/17UqgmzxJmSUYdsw1V0pSXpTmsc7qhSuO/view?usp=sharing)
+
 </div>
 
 ## About
@@ -114,14 +117,6 @@ To gain insights into Supermarket Sales Performance understanding the patterns a
 📋 HackerRank Certificates
 
 <a href="https://www.hackerrank.com/certificates/e41a7578cc82" title="HackerRank Python (Basic)"><img src="https://github.com/user-attachments/assets/a06b46c9-6ff8-41d7-a035-c4f02d624422" width="175px" align="center"/></a> &nbsp;&nbsp; <a href="https://www.hackerrank.com/certificates/09ec62ca442f" title="HackerRank SQL (Basic)"><img src="https://github.com/user-attachments/assets/b49b401f-bcc4-4574-9fe9-e79052e324dc" width="175px" align="center"/></a>
-
-</div>
-
-## Contact
-
-<div align="center">
-
-[E-Mail](mailto:themrityunjaypathak@gmail.com)&nbsp;&nbsp; | &nbsp;&nbsp;[Resume](https://drive.google.com/file/d/17UqgmzxJmSUYdsw1V0pSXpTmsc7qhSuO/view?usp=sharing)
 
 </div>
 
