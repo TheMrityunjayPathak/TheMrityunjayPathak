@@ -125,7 +125,7 @@ To gain insights into Supermarket Sales Performance understanding the patterns a
 
 ## Blogs
 
-<a href="https://medium.com/@themrityunjaypathak/simple-linear-regression-an-overview-8bfe6614ede8" title="Medium"><img src="https://github.com/user-attachments/assets/707ee381-da5a-4c4a-ae99-23b003fb7cd2" width="200px" align="center"/></a>
+<a href="https://medium.com/@themrityunjaypathak/simple-linear-regression-an-overview-8bfe6614ede8" title="Medium"><img src="https://github.com/user-attachments/assets/707ee381-da5a-4c4a-ae99-23b003fb7cd2" width="175px" align="center"/></a>
 
 <div align="right">
  
