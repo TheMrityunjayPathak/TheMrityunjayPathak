@@ -38,7 +38,7 @@ Contact :&nbsp;&nbsp;[E-Mail](mailto:themrityunjaypathak@gmail.com)&nbsp;&nbsp;|
 
 <p>Hi 👋, I'm Mrityunjay Pathak
  
-I am a dedicated Data Scientist with a knack for uncovering patterns and trends that drive smarter decisions.
+I am a Data Scientist with a knack for uncovering patterns and trends that drive smarter decisions.
 
 🎯 Tools and Technologies
 
