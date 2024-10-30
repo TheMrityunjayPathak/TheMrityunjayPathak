@@ -89,7 +89,7 @@ To develop a Machine Learning Model that can accurately predict the prices of us
  
 <strong>Dataset : [Spaceship Titanic Dataset](https://www.kaggle.com/competitions/spaceship-titanic/data?select=train.csv) → Web App : [Spaceship Titanic App](https://spaceship-titanic-classification.streamlit.app/)</strong>
 
-To predict whether a passenger was transported to an alternate dimension during the Spaceship collision with the spacetime anomaly.</div>
+To predict whether a passenger was transported to an alternate dimension during the spaceship collision with the spacetime anomaly.</div>
 
 </div>
 <br><br>
