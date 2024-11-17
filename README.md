@@ -28,7 +28,7 @@ Blogs
 
 <div align="right">
 
-Contact : [E-Mail](mailto:themrityunjaypathak@gmail.com)&nbsp;&nbsp;|&nbsp;&nbsp;[Resume](https://drive.google.com/file/d/17UqgmzxJmSUYdsw1V0pSXpTmsc7qhSuO/view?usp=sharing)
+[E-Mail](mailto:themrityunjaypathak@gmail.com)&nbsp;&nbsp;•&nbsp;&nbsp;[Resume](https://drive.google.com/file/d/17UqgmzxJmSUYdsw1V0pSXpTmsc7qhSuO/view?usp=sharing)
 
 </div>
 
