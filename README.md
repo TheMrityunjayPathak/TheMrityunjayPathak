@@ -54,8 +54,6 @@ I am a Data Scientist with a knack for uncovering patterns and trends that drive
 
 • Web Application : I have experience working with Streamlit, an open-source Python library that makes it easy to create custom web apps for machine learning and data science.
 
-• Web Development : I also have some knowledge in web development, specifically HTML and CSS.
-
 📫 Connect with Me
 
 [Kaggle](https://www.kaggle.com/themrityunjaypathak)&nbsp;&nbsp;|&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/themrityunjaypathak)&nbsp;&nbsp;|&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak)&nbsp;&nbsp;|&nbsp;&nbsp;[Medium](https://medium.com/@themrityunjaypathak)&nbsp;&nbsp;|&nbsp;&nbsp;[Portfolio](https://themrityunjaypathak.github.io/)
