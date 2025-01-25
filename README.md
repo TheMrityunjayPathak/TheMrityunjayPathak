@@ -50,9 +50,13 @@ I am a Data Scientist with a knack for uncovering patterns and trends that drive
 
 • Database : I can work with MySQL, a popular database system to handle and retrieve data effectively.
 
-• Version Control : I'm familiar with Git, which helps in keeping track of changes in code and collaborating effectively with a team.
+• Data Analysis : I can work with Excel for data analysis, creating pivot tables, performing calculations and visualizing data through charts and graphs.
+
+• BI Tool : I'm familiar with Power BI for creating dynamic dashboards, generating reports and deriving actionable insights from business data.
 
 • Web Application : I have experience working with Streamlit, an open-source Python library that makes it easy to create custom web apps for machine learning and data science.
+
+• Version Control : I'm familiar with Git, which helps in keeping track of changes in code and collaborating effectively with a team.
 
 📫 Connect with Me
 
