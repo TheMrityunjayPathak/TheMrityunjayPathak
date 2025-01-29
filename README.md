@@ -28,7 +28,7 @@ Blogs
 
 <div align="right">
 
-<a href='https://drive.google.com/file/d/17UqgmzxJmSUYdsw1V0pSXpTmsc7qhSuO/view?usp=sharing' title='Resume'><img src='https://github.com/user-attachments/assets/ff227a32-600a-49af-a57b-cc14c88f24d2' width='125px'></a>
+<a href='https://drive.google.com/file/d/17UqgmzxJmSUYdsw1V0pSXpTmsc7qhSuO/view?usp=sharing' title="Mrityunjay's Resume"><img src='https://github.com/user-attachments/assets/ff227a32-600a-49af-a57b-cc14c88f24d2' width='120px'></a>
 
 </div>
 
