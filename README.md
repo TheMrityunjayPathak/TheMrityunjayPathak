@@ -95,7 +95,7 @@ To predict whether a passenger was transported to an alternate dimension during 
 
 </div>
 <br><br>
-<div><p><strong>🔍 Exploratory Data Analysis</strong></p>
+<div><p><strong>📊 Exploratory Data Analysis</strong></p>
  
 <div align="left">
 <a href="https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis" title="Netflix Data Analysis"><img src="https://github.com/user-attachments/assets/cf9cd72e-fabc-4989-9f1f-12470eef10a1" width="280px" align="left" title="Netflix Data Analysis"/></a>
