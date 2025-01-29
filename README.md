@@ -28,7 +28,7 @@ Blogs
 
 <div align="right">
 
-[E-Mail](mailto:themrityunjaypathak@gmail.com)&nbsp;&nbsp;•&nbsp;&nbsp;[Resume](https://drive.google.com/file/d/17UqgmzxJmSUYdsw1V0pSXpTmsc7qhSuO/view?usp=sharing)
+<a href='https://drive.google.com/file/d/17UqgmzxJmSUYdsw1V0pSXpTmsc7qhSuO/view?usp=sharing' title='Resume'><img src='https://github.com/user-attachments/assets/ff227a32-600a-49af-a57b-cc14c88f24d2' width='125px'></a>
 
 </div>
 
