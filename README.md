@@ -3,8 +3,8 @@
 <br>
 
 <div align="center">
- 
-<a href="https://github.com/TheMrityunjayPathak"><img src="https://github.com/user-attachments/assets/f77c7b19-1375-4bff-95e9-9e9d1482fecf"></a>
+
+<a href="https://github.com/TheMrityunjayPathak"><img src="https://github.com/user-attachments/assets/40ef2585-97a4-4f84-8774-c9e9dd7a60a2"></a>
 
 </div>
 
