@@ -135,6 +135,6 @@ To gain insights into Supermarket Sales Performance understanding the patterns a
 
 </div>
 
-<img src='https://github.com/user-attachments/assets/35eacf81-dea7-4cfc-b1d0-b66ff4c21a41'>
+<img src='https://github.com/user-attachments/assets/dc39c41f-dc7d-4b42-9c35-f0751317b1ae'>
 
 </strong>
