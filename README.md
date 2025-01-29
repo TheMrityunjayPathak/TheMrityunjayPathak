@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<a href="https://github.com/TheMrityunjayPathak"><img src="https://github.com/user-attachments/assets/40ef2585-97a4-4f84-8774-c9e9dd7a60a2"></a>
+<a href="https://github.com/TheMrityunjayPathak" title="Mrityunjay's GitHub"><img src="https://github.com/user-attachments/assets/40ef2585-97a4-4f84-8774-c9e9dd7a60a2"></a>
 
 </div>
 
@@ -127,7 +127,7 @@ To gain insights into Supermarket Sales Performance understanding the patterns a
 
 ## Blogs
 
-<a href="https://medium.com/@themrityunjaypathak/simple-linear-regression-an-overview-8bfe6614ede8" title="Medium"><img src="https://github.com/user-attachments/assets/707ee381-da5a-4c4a-ae99-23b003fb7cd2" width="175px" align="center"/></a> &nbsp;&nbsp; <a href="https://medium.com/@themrityunjaypathak/multiple-linear-regression-an-overview-5d0283d31f3f" title="Medium"><img src="https://github.com/user-attachments/assets/e5f5573d-9a1a-47aa-b71e-a9007027d303" width="175px" align="center"/></a>
+<a href="https://medium.com/@themrityunjaypathak/simple-linear-regression-an-overview-8bfe6614ede8" title="Simple Linear Regression"><img src="https://github.com/user-attachments/assets/707ee381-da5a-4c4a-ae99-23b003fb7cd2" width="175px" align="center"/></a> &nbsp;&nbsp; <a href="https://medium.com/@themrityunjaypathak/multiple-linear-regression-an-overview-5d0283d31f3f" title="Multiple Linear Regression"><img src="https://github.com/user-attachments/assets/e5f5573d-9a1a-47aa-b71e-a9007027d303" width="175px" align="center"/></a>
 
 <div align="right">
  
