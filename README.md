@@ -119,8 +119,6 @@ To gain insights into Supermarket Sales Performance understanding the patterns a
 
 <div>
 
-📋 HackerRank Certificates
-
 <a href="https://www.hackerrank.com/certificates/e41a7578cc82" title="HackerRank Python (Basic)"><img src="https://github.com/user-attachments/assets/a06b46c9-6ff8-41d7-a035-c4f02d624422" width="175px" align="center"/></a> &nbsp;&nbsp; <a href="https://www.hackerrank.com/certificates/09ec62ca442f" title="HackerRank SQL (Basic)"><img src="https://github.com/user-attachments/assets/b49b401f-bcc4-4574-9fe9-e79052e324dc" width="175px" align="center"/></a>
 
 </div>
