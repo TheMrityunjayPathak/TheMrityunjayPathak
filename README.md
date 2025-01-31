@@ -46,19 +46,19 @@ I am a Data Scientist with a knack for uncovering patterns and trends that drive
 
 🎯 Tools and Technologies
 
-• Programming : I'm skilled in using Python, a powerful language for data science and data analysis.
+• Programming : I'm good with Python, a powerful language for data science and data analysis.
 
-• Libraries : I'm familiar with essential libraries like NumPy (for numerical operations), Pandas (for data manipulation), Matplotlib/Seaborn (for visualizing data) and Plotly(for interactive visualization).
+• Libraries : I'm familiar with essential libraries like NumPy, Pandas, Matplotlib/Seaborn and Plotly.
 
-• Machine Learning : I'm familiar in various machine learning techniques like Regression (predicting values), Classification (sorting data into categories), Clustering (grouping similar data), Dimensionality Reduction (simplifying complex data) and Model Selection (choosing the right predictive model).
+• Machine Learning : I'm familiar in various machine learning techniques like Regression, Classification, Clustering, Dimensionality Reduction and Model Selection.
 
 • Database : I can work with MySQL, a popular database system to handle and retrieve data effectively.
 
-• Data Analysis : I can work with Excel for data analysis, creating pivot tables, performing calculations and visualizing data through charts and graphs.
+• Experiment Tracking : I'm familiar with MLflow, an open source platform that helps managing and tracking machine learning experiments including logging parameters, metrics and models.
 
 • BI Tool : I'm familiar with Power BI for creating dynamic dashboards, generating reports and deriving actionable insights from business data.
 
-• Web Application : I have experience working with Streamlit, an open-source Python library that makes it easy to create custom web apps for machine learning and data science.
+• Web Application : I have experience working with Streamlit, an open source Python library that makes it easy to create custom web apps for machine learning and data science.
 
 • Version Control : I'm familiar with Git, which helps in keeping track of changes in code and collaborating effectively with a team.
 
