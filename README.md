@@ -54,11 +54,11 @@ I am a Data Scientist with a knack for uncovering patterns and trends that drive
 
 • Database : I can work with MySQL, a popular database system to handle and retrieve data effectively.
 
-• Experiment Tracking : I'm familiar with MLflow, an open source platform that helps managing and tracking machine learning experiments including logging parameters, metrics and models.
+• Experiment Tracking : I'm familiar with MLflow, a platform that helps managing and tracking machine learning experiments including logging parameters, metrics and models.
 
 • BI Tool : I'm familiar with Power BI for creating dynamic dashboards, generating reports and deriving actionable insights from business data.
 
-• Web Application : I have experience working with Streamlit, an open source Python library that makes it easy to create custom web apps for machine learning and data science.
+• Web Application : I have experience with Streamlit, a library that helps create custom web applications for machine learning.
 
 • Version Control : I'm familiar with Git, which helps in keeping track of changes in code and collaborating effectively with a team.
 
