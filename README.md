@@ -50,13 +50,13 @@ I am a Data Scientist with a knack for uncovering patterns and trends that drive
 
 • Libraries : I'm familiar with essential libraries like NumPy, Pandas, Matplotlib/Seaborn and Plotly.
 
-• Machine Learning : I have experience with Sklearn, a famous machine learning library which provides techniques like regression, classification, etc.
+• Machine Learning : I have experience with Sklearn, a famous machine learning library used widely across industries.
 
 • Database : I can work with MySQL, a popular database system to handle and retrieve data effectively.
 
 • Experiment Tracking : I'm familiar with MLflow, a platform that helps managing and tracking machine learning experiments.
 
-• BI Tool : I'm familiar with Power BI for creating dynamic dashboards, generating reports and deriving actionable insights from business data.
+• BI Tool : I'm familiar with Power BI, which makes it easy to create dynamic dashboards and generate business reports.
 
 • Web Application : I have experience with Streamlit, a library that helps create custom web applications for machine learning.
 
