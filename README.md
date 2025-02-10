@@ -56,7 +56,7 @@ I am a Data Scientist with a knack for uncovering patterns and trends that drive
 
 • BI Tool : I'm familiar with Power BI, which makes it easy to create dynamic dashboards and generate business reports.
 
-• Excel : I can work with Excel for data cleaning, data analysis and creating reports with advanced formulas and pivot tables.
+• Data Analysis : I can work with Excel for data cleaning, data analysis and creating reports with advanced formulas and pivot tables.
 
 • Web Application : I have experience with Streamlit, a library that helps create custom web applications for machine learning.
 
