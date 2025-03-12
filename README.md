@@ -46,7 +46,7 @@ I am a Data Scientist with a knack for uncovering patterns and trends that drive
 
 🎯 Tools and Technologies
 
-• Programming Language : I'm good with Python, a powerful language for data science and data analysis.
+• Programming Language : I have experience with Python, a powerful language for data science and data analysis.
 
 • Data Science Libraries : I'm familiar with essential libraries like NumPy, Pandas, Matplotlib/Seaborn and Plotly.
 
