@@ -88,7 +88,8 @@ Data Science Intern @Unified Mentor
 <strong>Dataset : [Car Price Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling) → Web App : [Car Price Prediction App](https://car-price-prediction-using-lr.streamlit.app/)</strong>
 
 To develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</div>
-<br><br>
+</div>
+<br>
 
 <div><p><strong>📊 Exploratory Data Analysis</strong></p>
  
