@@ -88,16 +88,6 @@ Data Science Intern @Unified Mentor
 <strong>Dataset : [Car Price Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling) → Web App : [Car Price Prediction App](https://car-price-prediction-using-lr.streamlit.app/)</strong>
 
 To develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</div>
-<br>
-<div align="left">
-<a href="https://www.kaggle.com/discussions/accomplishments/485358" title="Spaceship Titanic Classification"><img src="https://github.com/user-attachments/assets/705fc6fd-ea46-428e-b07b-e72e186614be" width="280px" align="left" title="Spaceship Titanic Classification"/></a>
-<a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification"><strong>Spaceship Titanic Classification</strong></a>
- 
-<strong>Dataset : [Spaceship Titanic Dataset](https://www.kaggle.com/competitions/spaceship-titanic/data?select=train.csv) → Web App : [Spaceship Titanic App](https://spaceship-titanic-classification.streamlit.app/)</strong>
-
-To predict whether a passenger was transported to an alternate dimension during the spaceship collision with the spacetime anomaly.</div>
-
-</div>
 <br><br>
 <div><p><strong>📊 Exploratory Data Analysis</strong></p>
  
