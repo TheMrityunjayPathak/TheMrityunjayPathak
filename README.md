@@ -89,6 +89,7 @@ Data Science Intern @Unified Mentor
 
 To develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</div>
 <br>
+
 <div><p><strong>📊 Exploratory Data Analysis</strong></p>
  
 <div align="left">
