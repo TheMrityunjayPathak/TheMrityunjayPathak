@@ -107,7 +107,7 @@ To predict whether a passenger was transported to an alternate dimension during 
  
 <strong>Dataset : [Netflix TV Shows and Movies](https://www.kaggle.com/datasets/shivamb/netflix-shows)</strong>
 
-To gain insights into the content available on Netflix and understand the patterns to uncover valuable insights into how the platform curates and evolves its offerings.</div>
+To gain insights into the content available on Netflix, understanding the patterns to uncover valuable insights into how the platform curates and evolves its offerings.</div>
 <br>
 <div align="left">
 <a href="https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis" title="Supermarket Sales Analysis"><img src="https://github.com/user-attachments/assets/cf9cd72e-fabc-4989-9f1f-12470eef10a1" width="280px" align="left" title="Supermarket Sales Analysis"/></a>
@@ -115,7 +115,7 @@ To gain insights into the content available on Netflix and understand the patter
  
 <strong>Dataset : [Supermarket Sales Dataset](https://www.kaggle.com/datasets/mohamedharris/supermart-grocery-sales-retail-analytics-dataset)</strong>
 
-To gain insights into Supermarket Sales Performance understanding the patterns and trends in customer behavior, product categories and regional sales.</div>
+To gain insights into Supermarket Sales Performance, identifying key factors influencing customer purchasing behavior, product performance and regional sales distribution.</div>
 </div>
 <br>
 
