@@ -46,9 +46,9 @@ I am a Data Scientist with a knack for uncovering patterns and trends that drive
 
 🎯 Tools and Technologies
 
-• Programming Language : I have experience with Python, a powerful language for data science and data analysis.
+• Programming Language : I'm familiar with Python, a powerful language for data science and data analysis.
 
-• Data Science Libraries : I'm familiar with essential libraries like NumPy, Pandas, Matplotlib/Seaborn and Plotly.
+• Data Science Libraries : I'm also familiar with essential data science libraries like NumPy, Pandas, Matplotlib/Seaborn and Plotly.
 
 • Machine Learning : I have experience with Sklearn, a famous machine learning library used widely across industries.
 
