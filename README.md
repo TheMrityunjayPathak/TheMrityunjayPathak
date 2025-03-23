@@ -40,7 +40,7 @@ Blogs
 
 <p>Hi 👋, I'm Mrityunjay Pathak
  
-I am a Data Scientist with a knack for uncovering patterns and trends that drive smarter decisions.
+I'm a Data Scientist with a knack for uncovering patterns and trends that drive smarter decisions.
 
 🎯 Tools and Technologies
 
