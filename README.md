@@ -65,13 +65,6 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 
 </div>
 
-## Experience
-
-Data Science Intern @Unified Mentor
-<p>Duration : August 2024 - September 2024&nbsp;&nbsp;|&nbsp;&nbsp;Type : Remote</p>
-<p>Projects : <a href="https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis">Netflix Data Analysis</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis">Supermarket Sales Analysis</a></p>
-&nbsp;<a href="https://drive.google.com/file/d/19Iap8SWdYVMMSbNyqpZpMBA3mWuzNFlE/view?usp=sharing" title="Offer Letter"><img src="https://github.com/user-attachments/assets/ba198e51-aeda-4b8f-ba84-2a47213a2d5c" width="100px" align="center"/></a> &nbsp; <a href="https://drive.google.com/file/d/1fcrO63SH-cijj3_UAQDeNiQ7XW-gLCt5/view?usp=sharing" title="Internship Certificate"><img src="https://github.com/user-attachments/assets/748fc69d-896c-46d9-84e6-843ed23ec0a5" width="100px" align="center"/></a>
-
 ## Projects
 
 <div><p><strong>🗃️ Machine Learning</strong></p>
