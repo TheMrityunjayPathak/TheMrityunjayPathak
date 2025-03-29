@@ -67,9 +67,9 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 
 <div align="left">
 
-<img src='https://github.com/user-attachments/assets/78edfa30-3f27-4318-b992-242a20a9dacf' width='100px'> <img src='https://github.com/user-attachments/assets/8cfc02b1-3e91-4a3c-b765-7f2635023d08' width='100px'> <img src='https://github.com/user-attachments/assets/8e24cdf0-5ca2-4491-a37f-af00d59d9bea' width='100px'> <img src='https://github.com/user-attachments/assets/d8c97060-0459-4959-bcd4-dd0c9f9aec4b' width='100px'>
+<img src='https://github.com/user-attachments/assets/78edfa30-3f27-4318-b992-242a20a9dacf' width='90px'> <img src='https://github.com/user-attachments/assets/8cfc02b1-3e91-4a3c-b765-7f2635023d08' width='90px'> <img src='https://github.com/user-attachments/assets/8e24cdf0-5ca2-4491-a37f-af00d59d9bea' width='90px'> <img src='https://github.com/user-attachments/assets/d8c97060-0459-4959-bcd4-dd0c9f9aec4b' width='90px'>
 <br>
-<img src='https://github.com/user-attachments/assets/2ccd92f2-703a-41a6-b864-20aff7235200' width='80px'> <img src='https://github.com/user-attachments/assets/3566b95a-f795-43d9-aee5-936af908b830' width='80px'> <img src='https://github.com/user-attachments/assets/064f45ba-326c-4d89-b35d-29938bfe0bfa' width='80px'> <img src='https://github.com/user-attachments/assets/3e8fedb8-6f53-4c7a-a0b5-b6798e6e04ff' width='80px'>
+<img src='https://github.com/user-attachments/assets/8d803cc2-3079-4962-9dab-72923eee8257' width='90px'> <img src='https://github.com/user-attachments/assets/4a01d9a6-488c-477d-945d-cbda19aeb7c3' width='90px'> <img src='https://github.com/user-attachments/assets/aa29ca4d-502c-4897-bda0-2612434dc523' width='90px'> <img src='https://github.com/user-attachments/assets/cff6805d-0843-42ff-8195-b3ff4d1e29bc' width='90px'>
 <br>
 <img src='https://github.com/user-attachments/assets/2261c32d-f3eb-4b52-904c-a13badfe6ec4' width='80px'> <img src='https://github.com/user-attachments/assets/0e8f2494-ce28-48ea-a134-e60086260065' width='80px'> <img src='https://github.com/user-attachments/assets/97b71ebc-5485-4f8c-87ff-4b44bca36ccb' width='80px'> <img src='https://github.com/user-attachments/assets/cb19a080-ed55-49f2-9326-a4aed63becc8' width='80px'>
 
