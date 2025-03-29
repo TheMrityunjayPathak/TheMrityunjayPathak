@@ -88,6 +88,7 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 To develop a Machine Learning Model that can accurately predict the price of used cars based on various features and attributes.</div>
 </div>
 <br>
+<br>
 
 <div><p><strong>📊 Exploratory Data Analysis</strong></p>
  
