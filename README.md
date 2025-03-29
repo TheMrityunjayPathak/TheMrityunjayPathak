@@ -67,7 +67,7 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 
 <div align="left">
 
-<img src='https://github.com/user-attachments/assets/78edfa30-3f27-4318-b992-242a20a9dacf' width='80px'> <img src='https://github.com/user-attachments/assets/8cfc02b1-3e91-4a3c-b765-7f2635023d08' width='80px'> <img src='https://github.com/user-attachments/assets/8e24cdf0-5ca2-4491-a37f-af00d59d9bea' width='80px'> <img src='https://github.com/user-attachments/assets/d8c97060-0459-4959-bcd4-dd0c9f9aec4b' width='80px'>
+<img src='https://github.com/user-attachments/assets/78edfa30-3f27-4318-b992-242a20a9dacf' width='100px'> <img src='https://github.com/user-attachments/assets/8cfc02b1-3e91-4a3c-b765-7f2635023d08' width='100px'> <img src='https://github.com/user-attachments/assets/8e24cdf0-5ca2-4491-a37f-af00d59d9bea' width='100px'> <img src='https://github.com/user-attachments/assets/d8c97060-0459-4959-bcd4-dd0c9f9aec4b' width='100px'>
 <br>
 <img src='https://github.com/user-attachments/assets/2ccd92f2-703a-41a6-b864-20aff7235200' width='80px'> <img src='https://github.com/user-attachments/assets/3566b95a-f795-43d9-aee5-936af908b830' width='80px'> <img src='https://github.com/user-attachments/assets/064f45ba-326c-4d89-b35d-29938bfe0bfa' width='80px'> <img src='https://github.com/user-attachments/assets/3e8fedb8-6f53-4c7a-a0b5-b6798e6e04ff' width='80px'>
 <br>
