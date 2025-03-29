@@ -86,7 +86,7 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 <strong>Dataset : [Car Price Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling) → Web App : [Car Price Prediction App](https://car-price-prediction-using-lr.streamlit.app/)</strong>
 
 Problem Statement
-
+<br>
 To develop a Machine Learning Model that can accurately predict the price of used cars based on various features and attributes.</div>
 </div>
 <br>
@@ -100,9 +100,9 @@ To develop a Machine Learning Model that can accurately predict the price of use
 <strong>Dataset : [Netflix TV Shows and Movies](https://www.kaggle.com/datasets/shivamb/netflix-shows)</strong>
 
 Problem Statement
-
-To gain insights into the content available on Netflix, understanding the patterns to uncover valuable insights into how the platform evolves its offerings.</div>
 <br>
+To gain insights into the content available on Netflix, understanding the patterns to uncover valuable insights into how the platform evolves its offerings.</div>
+
 <div align="left">
 <a href="https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis" title="Supermarket Sales Analysis"><img src="https://github.com/user-attachments/assets/cf9cd72e-fabc-4989-9f1f-12470eef10a1" width="280px" align="left" title="Supermarket Sales Analysis"/></a>
 <a href="https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis"><strong>Supermarket Sales Analysis</strong></a>
@@ -110,7 +110,7 @@ To gain insights into the content available on Netflix, understanding the patter
 <strong>Dataset : [Supermarket Sales Dataset](https://www.kaggle.com/datasets/mohamedharris/supermart-grocery-sales-retail-analytics-dataset)</strong>
 
 Problem Statement
-
+<br>
 To gain insights into Supermarket Sales Performance, identifying key factors influencing customer purchasing behavior and product performance.</div>
 </div>
 <br>
