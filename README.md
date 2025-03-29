@@ -83,7 +83,7 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 <a href="https://www.kaggle.com/discussions/general/483415" title="Car Price Prediction"><img src="https://github.com/user-attachments/assets/705fc6fd-ea46-428e-b07b-e72e186614be" width="280px" align="left" title="Car Price Prediction"/></a>
 <a href="https://github.com/TheMrityunjayPathak/CarPricePrediction"><strong>Car Price Prediction</strong></a>
  
-<strong>Dataset : [Car Price Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling) → Web App : [Car Price Prediction App](https://car-price-prediction-using-lr.streamlit.app/)</strong>
+<strong>Dataset : [Car Price Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling) $\rightarrow$ Web App : [Car Price Prediction App](https://car-price-prediction-using-lr.streamlit.app/)</strong>
 
 To develop a Machine Learning Model that can accurately predict the price of used cars based on various features and attributes.</div>
 </div>
