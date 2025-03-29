@@ -67,7 +67,7 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 
 ## Skills
 
-<div align="center">
+<div align="left">
 
 <img src='https://github.com/user-attachments/assets/fafb08e6-0fba-4656-937d-913a55dffdfd' width='80px'> <img src='https://github.com/user-attachments/assets/80c1c50b-a0be-4e87-9062-4fa2c51a675c' width='80px'> <img src='https://github.com/user-attachments/assets/ed94b9d7-d87a-4d94-af47-b399eca3e5a4' width='80px'> <img src='https://github.com/user-attachments/assets/9cb08d47-20fd-4435-a626-a465455e4f22' width='80px'>
 <br>
