@@ -127,6 +127,10 @@ To gain insights into Supermarket Sales Performance, identifying key factors inf
 
 <a href="https://medium.com/@themrityunjaypathak/simple-linear-regression-an-overview-8bfe6614ede8" title="Simple Linear Regression"><img src="https://github.com/user-attachments/assets/707ee381-da5a-4c4a-ae99-23b003fb7cd2" width="175px" align="center"/></a> &nbsp;&nbsp; <a href="https://medium.com/@themrityunjaypathak/multiple-linear-regression-an-overview-5d0283d31f3f" title="Multiple Linear Regression"><img src="https://github.com/user-attachments/assets/e5f5573d-9a1a-47aa-b71e-a9007027d303" width="175px" align="center"/></a>
 
+## Contact
+
+E-Mail : themrityunjaypathak@gmail.com
+
 <div align="right">
  
 <a href="#" title="Scroll To Top"><img src="https://github.com/user-attachments/assets/d659b889-7e76-4fb3-a55a-3a14abb4df5a" width="30px"></a>
