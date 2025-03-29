@@ -69,11 +69,11 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 
 <div align="center">
 
-<img src='https://github.com/user-attachments/assets/fafb08e6-0fba-4656-937d-913a55dffdfd' width='80px'> &nbsp; <img src='https://github.com/user-attachments/assets/80c1c50b-a0be-4e87-9062-4fa2c51a675c' width='80px'> &nbsp; <img src='https://github.com/user-attachments/assets/ed94b9d7-d87a-4d94-af47-b399eca3e5a4' width='80px'> &nbsp; <img src='https://github.com/user-attachments/assets/9cb08d47-20fd-4435-a626-a465455e4f22' width='80px'>
-
-<img src='https://github.com/user-attachments/assets/2ccd92f2-703a-41a6-b864-20aff7235200' width='80px'> &nbsp; <img src='https://github.com/user-attachments/assets/3566b95a-f795-43d9-aee5-936af908b830' width='80px'> &nbsp; <img src='https://github.com/user-attachments/assets/064f45ba-326c-4d89-b35d-29938bfe0bfa' width='80px'> &nbsp; <img src='https://github.com/user-attachments/assets/3e8fedb8-6f53-4c7a-a0b5-b6798e6e04ff' width='80px'>
-
-<img src='https://github.com/user-attachments/assets/2261c32d-f3eb-4b52-904c-a13badfe6ec4' width='80px'> &nbsp; <img src='https://github.com/user-attachments/assets/0e8f2494-ce28-48ea-a134-e60086260065' width='80px'> &nbsp; <img src='https://github.com/user-attachments/assets/97b71ebc-5485-4f8c-87ff-4b44bca36ccb' width='80px'> &nbsp; <img src='https://github.com/user-attachments/assets/cb19a080-ed55-49f2-9326-a4aed63becc8' width='80px'>
+<img src='https://github.com/user-attachments/assets/fafb08e6-0fba-4656-937d-913a55dffdfd' width='80px'> <img src='https://github.com/user-attachments/assets/80c1c50b-a0be-4e87-9062-4fa2c51a675c' width='80px'> <img src='https://github.com/user-attachments/assets/ed94b9d7-d87a-4d94-af47-b399eca3e5a4' width='80px'> <img src='https://github.com/user-attachments/assets/9cb08d47-20fd-4435-a626-a465455e4f22' width='80px'>
+<br>
+<img src='https://github.com/user-attachments/assets/2ccd92f2-703a-41a6-b864-20aff7235200' width='80px'> <img src='https://github.com/user-attachments/assets/3566b95a-f795-43d9-aee5-936af908b830' width='80px'> <img src='https://github.com/user-attachments/assets/064f45ba-326c-4d89-b35d-29938bfe0bfa' width='80px'> <img src='https://github.com/user-attachments/assets/3e8fedb8-6f53-4c7a-a0b5-b6798e6e04ff' width='80px'>
+<br>
+<img src='https://github.com/user-attachments/assets/2261c32d-f3eb-4b52-904c-a13badfe6ec4' width='80px'> <img src='https://github.com/user-attachments/assets/0e8f2494-ce28-48ea-a134-e60086260065' width='80px'> <img src='https://github.com/user-attachments/assets/97b71ebc-5485-4f8c-87ff-4b44bca36ccb' width='80px'> <img src='https://github.com/user-attachments/assets/cb19a080-ed55-49f2-9326-a4aed63becc8' width='80px'>
 
 </div>
 
