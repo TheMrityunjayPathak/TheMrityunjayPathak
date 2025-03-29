@@ -19,6 +19,9 @@ Certificates
 </a>&nbsp;&nbsp;&nbsp;
 <a href="#blogs">
 Blogs
+</a>&nbsp;&nbsp;&nbsp;
+<a href="#contact">
+Contact
 </a>
 
 </div>
