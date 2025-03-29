@@ -90,7 +90,6 @@ Problem Statement
 To develop a Machine Learning Model that can accurately predict the price of used cars based on various features and attributes.</div>
 </div>
 <br>
-<br>
 
 <div><p><strong>📊 Exploratory Data Analysis</strong></p>
  
@@ -100,6 +99,8 @@ To develop a Machine Learning Model that can accurately predict the price of use
  
 <strong>Dataset : [Netflix TV Shows and Movies](https://www.kaggle.com/datasets/shivamb/netflix-shows)</strong>
 
+Problem Statement
+
 To gain insights into the content available on Netflix, understanding the patterns to uncover valuable insights into how the platform evolves its offerings.</div>
 <br>
 <div align="left">
@@ -107,6 +108,8 @@ To gain insights into the content available on Netflix, understanding the patter
 <a href="https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis"><strong>Supermarket Sales Analysis</strong></a>
  
 <strong>Dataset : [Supermarket Sales Dataset](https://www.kaggle.com/datasets/mohamedharris/supermart-grocery-sales-retail-analytics-dataset)</strong>
+
+Problem Statement
 
 To gain insights into Supermarket Sales Performance, identifying key factors influencing customer purchasing behavior and product performance.</div>
 </div>
