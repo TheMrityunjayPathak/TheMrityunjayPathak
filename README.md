@@ -132,7 +132,9 @@ To gain insights into Supermarket Sales Performance, identifying key factors inf
 
 ## Contact
 
-E-Mail : themrityunjaypathak@gmail.com
+E-Mail : [themrityunjaypathak@gmail.com](mailto:themrityunjaypathak@gmail.com)
+
+Resume : [Checkout My Resume Here](https://drive.google.com/file/d/17UqgmzxJmSUYdsw1V0pSXpTmsc7qhSuO/view?usp=sharing)
 
 <div align="right">
  
