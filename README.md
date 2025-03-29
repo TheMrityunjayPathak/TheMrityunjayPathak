@@ -126,8 +126,6 @@ To gain insights into Supermarket Sales Performance, identifying key factors inf
 
 ➫ E-Mail : [themrityunjaypathak@gmail.com](mailto:themrityunjaypathak@gmail.com)
 
-➫ Resume : [Checkout My Resume Here](https://drive.google.com/file/d/17UqgmzxJmSUYdsw1V0pSXpTmsc7qhSuO/view?usp=sharing)
-
 <div align="right">
  
 <a href="#" title="Scroll To Top"><img src="https://github.com/user-attachments/assets/d659b889-7e76-4fb3-a55a-3a14abb4df5a" width="30px"></a>
