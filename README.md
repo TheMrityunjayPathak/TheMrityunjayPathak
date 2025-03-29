@@ -102,7 +102,7 @@ To develop a Machine Learning Model that can accurately predict the price of use
 Problem Statement
 <br>
 To gain insights into the content available on Netflix, understanding the patterns to uncover valuable insights into how the platform evolves its offerings.</div>
-
+&nbsp;
 <div align="left">
 <a href="https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis" title="Supermarket Sales Analysis"><img src="https://github.com/user-attachments/assets/cf9cd72e-fabc-4989-9f1f-12470eef10a1" width="280px" align="left" title="Supermarket Sales Analysis"/></a>
 <a href="https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis"><strong>Supermarket Sales Analysis</strong></a>
