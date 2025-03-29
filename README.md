@@ -77,17 +77,18 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 
 ## Projects
 
-<p><strong>🗃️ Machine Learning</strong></p>
+<div><p><strong>🗃️ Machine Learning</strong></p>
 
-<div align='left'>
-<a href="https://www.kaggle.com/discussions/general/483415" title="Car Price Prediction">
- <img src="https://github.com/user-attachments/assets/705fc6fd-ea46-428e-b07b-e72e186614be" width="280px" title="Car Price Prediction"/>
-</a>
-<div align='left'>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/TheMrityunjayPathak/CarPricePrediction"><strong>GitHub</strong></a> &nbsp;|&nbsp; <a href="https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling"><strong>Dataset</strong></a> &nbsp;|&nbsp; <a href="https://car-price-prediction-using-lr.streamlit.app/"><strong>Web App</strong></a>
-</div>
-</div>
+<div align="left">
+<a href="https://www.kaggle.com/discussions/general/483415" title="Car Price Prediction"><img src="https://github.com/user-attachments/assets/705fc6fd-ea46-428e-b07b-e72e186614be" width="280px" align="left" title="Car Price Prediction"/></a>
+<a href="https://github.com/TheMrityunjayPathak/CarPricePrediction"><strong>Car Price Prediction</strong></a>
+ 
+<strong>Dataset : [Car Price Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling) → Web App : [Car Price Prediction App](https://car-price-prediction-using-lr.streamlit.app/)</strong>
 
+Problem Statement
+<br>
+To develop a Machine Learning Model that can accurately predict the price of used cars based on various features and attributes.</div>
+</div>
 <br>
 
 <div><p><strong>📊 Exploratory Data Analysis</strong></p>
