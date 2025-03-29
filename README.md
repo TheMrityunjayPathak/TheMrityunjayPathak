@@ -81,11 +81,10 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 
 <div>
 <a href="https://www.kaggle.com/discussions/general/483415" title="Car Price Prediction">
- <img src="https://github.com/user-attachments/assets/705fc6fd-ea46-428e-b07b-e72e186614be" width="280px" align="left" title="Car Price Prediction"/>
+ <img src="https://github.com/user-attachments/assets/705fc6fd-ea46-428e-b07b-e72e186614be" width="280px" title="Car Price Prediction"/>
 </a>
 
-<a href="https://github.com/TheMrityunjayPathak/CarPricePrediction"><strong>GitHub</strong></a>
-<a href="https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling"><strong>Dataset</strong></a> <a href="https://car-price-prediction-using-lr.streamlit.app/"><strong>Web App</strong></a>
+<a href="https://github.com/TheMrityunjayPathak/CarPricePrediction"><strong>GitHub</strong></a> &nbsp;&nbsp; <a href="https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling"><strong>Dataset</strong></a> &nbsp;&nbsp; <a href="https://car-price-prediction-using-lr.streamlit.app/"><strong>Web App</strong></a>
 </div>
 
 <br>
