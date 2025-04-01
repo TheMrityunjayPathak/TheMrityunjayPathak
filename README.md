@@ -29,6 +29,13 @@ Contact
 
 </div>
 
+<div align="right">
+
+<a href='https://drive.google.com/file/d/17UqgmzxJmSUYdsw1V0pSXpTmsc7qhSuO/view?usp=sharing' title="Resume">
+<img src='https://github.com/user-attachments/assets/3c69bd98-4582-4e7d-82d6-b5d9f7212a25' width="100px" align="center"/></a>
+
+</div>
+
 ## About
 
 <div>
