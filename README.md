@@ -125,7 +125,7 @@ More than 20% of the Movies and TV Shows are uploaded on 1st Day of the Month.
 
 More than 30% of the content is exclusive for United States.
  
-Links&nbsp;&nbsp;:&nbsp;&nbsp;[Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)&nbsp;&nbsp;|&nbsp;&nbsp;[Kaggle](https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis)
+Links&nbsp;&nbsp;:&nbsp;&nbsp;[Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)&nbsp;&nbsp;|&nbsp;&nbsp;[Notebook](https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis)
 </details>
 
 <div align="left">
@@ -153,7 +153,7 @@ Health Drinks and Soft Drinks are the most profitable category in Beverages.
 
 November was the most profitable month contributing about 15% of the Total Annual Profits.
  
-Links&nbsp;&nbsp;:&nbsp;&nbsp;[Dataset](https://www.kaggle.com/datasets/mohamedharris/supermart-grocery-sales-retail-analytics-dataset)&nbsp;&nbsp;|&nbsp;&nbsp;[Kaggle](https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis)
+Links&nbsp;&nbsp;:&nbsp;&nbsp;[Dataset](https://www.kaggle.com/datasets/mohamedharris/supermart-grocery-sales-retail-analytics-dataset)&nbsp;&nbsp;|&nbsp;&nbsp;[Notebook](https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis)
 </details>
 
 </div>
