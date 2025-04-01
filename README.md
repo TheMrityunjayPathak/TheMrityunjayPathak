@@ -86,7 +86,7 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 </div>
 <details>
 <summary>Car Price Prediction</summary>
-<br> 
+<br>
 
 ➔ Objective
 
@@ -98,25 +98,65 @@ Links&nbsp;&nbsp;:&nbsp;&nbsp;[Dataset](https://www.kaggle.com/datasets/themrity
 </details>
 </div>
 
+<hr>
+
 <div><p><strong>📊 Exploratory Data Analysis</strong></p>
  
 <div align="left">
-<a href="https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis" title="Netflix Data Analysis"><img src="https://github.com/user-attachments/assets/cf9cd72e-fabc-4989-9f1f-12470eef10a1" width="280px" align="left" title="Netflix Data Analysis"/></a>
-<a href="https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis"><strong>Netflix Data Analysis</strong></a>
- 
-<strong>Dataset : [Netflix TV Shows and Movies](https://www.kaggle.com/datasets/shivamb/netflix-shows)</strong>
-
-To gain insights into the content available on Netflix, understanding the patterns to uncover valuable insights into how the platform evolves its offerings.</div>
-<br>
-<div align="left">
-<a href="https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis" title="Supermarket Sales Analysis"><img src="https://github.com/user-attachments/assets/cf9cd72e-fabc-4989-9f1f-12470eef10a1" width="280px" align="left" title="Supermarket Sales Analysis"/></a>
-<a href="https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis"><strong>Supermarket Sales Analysis</strong></a>
- 
-<strong>Dataset : [Supermarket Sales Dataset](https://www.kaggle.com/datasets/mohamedharris/supermart-grocery-sales-retail-analytics-dataset)</strong>
-
-To gain insights into Supermarket Sales Performance, identifying key factors influencing customer purchasing behavior and product performance.</div>
+<a href="https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis" title="Netflix Data Analysis">
+ <img src="https://github.com/user-attachments/assets/cf9cd72e-fabc-4989-9f1f-12470eef10a1" width="280px" title="Netflix Data Analysis"/>
+</a>
 </div>
+<details>
+<summary>Netflix Data Analysis</summary>
 <br>
+
+➔ Objective
+
+• To gain insights into the content available on Netflix, understanding the patterns to uncover valuable insights into how the platform evolves its offerings.
+
+➔ Some Key Findings
+
+• Cleaned and analyzed dataset of 8000+ Netflix Movies and TV Shows.
+
+• More than 60% of the content on Netflix is rated for Mature Audience Only.
+
+• More than 20% of the Movies and TV Shows are uploaded on 1st Day of the Month.
+
+• More than 30% of the content is exclusive for United States.
+ 
+Links&nbsp;&nbsp;:&nbsp;&nbsp;[Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)&nbsp;&nbsp;|&nbsp;&nbsp;[Kaggle](https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis)
+</details>
+
+<div align="left">
+<a href="https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis" title="Supermarket Sales Analysis">
+ <img src="https://github.com/user-attachments/assets/cf9cd72e-fabc-4989-9f1f-12470eef10a1" width="280px" title="Supermarket Sales Analysis"/>
+</a>
+</div>
+<details>
+<summary>Supermarket Sales Analysis</summary>
+<br>
+
+➔ Objective
+
+• To gain insights into Supermarket Sales Performance, identifying key factors influencing customer purchasing behavior and product performance.
+
+➔ Some Key Findings
+
+• Analyzed purchasing pattern of 9000+ Customers of Supermarket.
+
+• More than 15% of the products sold were Snacks.
+
+• More than 32% of the sales were occurred in West Region of the Supermarket.
+
+• Health Drinks and Soft Drinks are the most profitable category in Beverages.
+
+• November was the most profitable month contributing about 15% of the Total Annual Profits.
+ 
+Links&nbsp;&nbsp;:&nbsp;&nbsp;[Dataset](https://www.kaggle.com/datasets/mohamedharris/supermart-grocery-sales-retail-analytics-dataset)&nbsp;&nbsp;|&nbsp;&nbsp;[Kaggle](https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis)
+</details>
+
+</div>
 
 ## Certificates
 
