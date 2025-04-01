@@ -94,7 +94,7 @@ To develop a Machine Learning Model that can accurately predict the price of use
 
 The predicted price will assist both buyers and sellers in making informed decisions, ensuring fair transactions in the used car market.
 
-Links&nbsp;&nbsp;:&nbsp;&nbsp;[Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling)&nbsp;&nbsp;|&nbsp;&nbsp;[Web App](https://car-price-prediction-using-lr.streamlit.app/)
+Links&nbsp;&nbsp;:&nbsp;&nbsp;[Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling)&nbsp;&nbsp;|&nbsp;&nbsp;[Web Application](https://car-price-prediction-using-lr.streamlit.app/)
 </details>
 </div>
 
