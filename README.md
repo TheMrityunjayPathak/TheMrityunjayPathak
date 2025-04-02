@@ -70,7 +70,7 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 ➔ Objective
 
 - To develop a Machine Learning Model that can accurately predict the price of used cars based on various features and attributes.
-- The predicted price will assist both buyers and sellers in making informed decisions, ensuring fair transactions in used car market.
+- The predicted price will assist both buyers and sellers in making informed decisions and ensure fair transactions.
 
 Links&nbsp;&nbsp;:&nbsp;&nbsp;[Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling)&nbsp;&nbsp;|&nbsp;&nbsp;[Web Application](https://car-price-prediction-using-lr.streamlit.app/)
 </details>
@@ -82,7 +82,7 @@ Links&nbsp;&nbsp;:&nbsp;&nbsp;[Dataset](https://www.kaggle.com/datasets/themrity
 
 ➔ Objective
 
-To gain insights into the content available on Netflix, understanding the patterns to uncover valuable insights into how the platform evolves its offerings.
+- To gain insights into the content available on Netflix, uncovering valuable insights into how the platform evolves its offerings.
 
 ➔ Some Key Findings
 
@@ -101,7 +101,7 @@ Links&nbsp;&nbsp;:&nbsp;&nbsp;[Dataset](https://www.kaggle.com/datasets/shivamb/
 
 ➔ Objective
 
-To gain insights into Supermarket Sales Performance, identifying key factors influencing customer purchasing behavior and product performance.
+To gain insights into supermarket sales performance, identifying key factors influencing customer purchasing behavior and product performance.
 
 ➔ Some Key Findings
 
