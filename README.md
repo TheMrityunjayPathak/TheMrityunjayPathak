@@ -62,17 +62,18 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 
 ## Projects
 
-<a href="https://github.com/TheMrityunjayPathak/CarPricePrediction" title="Car Price Prediction">
- <img src="https://github.com/user-attachments/assets/705fc6fd-ea46-428e-b07b-e72e186614be" width="250px" title="Car Price Prediction"/>
-</a>
+<details>
+<summary>Car Price Prediction</summary>
+<br>
 
-<a href="https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis" title="Netflix Data Analysis">
- <img src="https://github.com/user-attachments/assets/cf9cd72e-fabc-4989-9f1f-12470eef10a1" width="250px" title="Netflix Data Analysis"/>
-</a>
+➔ Objective
 
-<a href="https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis" title="Supermarket Sales Analysis">
- <img src="https://github.com/user-attachments/assets/cf9cd72e-fabc-4989-9f1f-12470eef10a1" width="250px" title="Supermarket Sales Analysis"/>
-</a>
+To develop a Machine Learning Model that can accurately predict the price of used cars based on various features and attributes.
+
+The predicted price will assist both buyers and sellers in making informed decisions, ensuring fair transactions in the used car market.
+
+Links&nbsp;&nbsp;:&nbsp;&nbsp;[Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling)&nbsp;&nbsp;|&nbsp;&nbsp;[Web Application](https://car-price-prediction-using-lr.streamlit.app/)
+</details>
 
 ## Certificates
 
