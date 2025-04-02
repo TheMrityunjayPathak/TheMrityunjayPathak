@@ -82,14 +82,14 @@ Links&nbsp;&nbsp;:&nbsp;&nbsp;[Dataset](https://www.kaggle.com/datasets/themrity
 
 ➔ Objective
 
-- To gain insights into the content available on Netflix, uncovering valuable insights into how the platform evolve its offerings.
+- To analyze netflix content data, uncovering valuable insights into how the platform evolve its offerings over time.
 
 ➔ Some Key Findings
 
-- Cleaned and analyzed dataset of 8000+ Netflix Movies and TV Shows.
-- More than 60% of the content on Netflix is rated for Mature Audience Only.
-- More than 20% of the Movies and TV Shows are uploaded on 1st Day of the Month.
-- More than 30% of the content is exclusive for United States.
+- Cleaned and analyzed dataset of 8000+ netflix movies and tv shows.
+- More than 60% of the content on netflix is rated for mature audience only.
+- More than 20% of the movies and tv shows are uploaded on 1st day of the month.
+- More than 30% of the content is exclusive for united states.
 
 Links&nbsp;&nbsp;:&nbsp;&nbsp;[Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)&nbsp;&nbsp;|&nbsp;&nbsp;[Notebook](https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis)
 </details>
@@ -101,15 +101,15 @@ Links&nbsp;&nbsp;:&nbsp;&nbsp;[Dataset](https://www.kaggle.com/datasets/shivamb/
 
 ➔ Objective
 
-To gain insights into supermarket sales performance, identifying key factors influencing customer purchasing behavior and product performance.
+- To analyze supermarket sales data, identifying key factors for improving profitability and operational efficiency.
 
 ➔ Some Key Findings
 
-- Analyzed purchasing pattern of 9000+ Customers of Supermarket.
-- More than 15% of the products sold were Snacks.
-- More than 32% of the sales were occurred in West Region of the Supermarket.
-- Health Drinks and Soft Drinks are the most profitable category in Beverages.
-- November was the most profitable month contributing about 15% of the Total Annual Profits.
+- Analyzed purchasing pattern of 9000+ customers of supermarket.
+- More than 15% of the products sold were snacks.
+- More than 32% of the sales were occurred in west region of the supermarket.
+- Health and Soft drinks are the most profitable category in beverages.
+- November was the most profitable month contributing about 15% of the total annual profits.
 
 Links&nbsp;&nbsp;:&nbsp;&nbsp;[Dataset](https://www.kaggle.com/datasets/mohamedharris/supermart-grocery-sales-retail-analytics-dataset)&nbsp;&nbsp;|&nbsp;&nbsp;[Notebook](https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis)
 </details>
