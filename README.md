@@ -70,7 +70,7 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 ➔ Objective
 
 - To develop a Machine Learning Model that can accurately predict the price of used cars based on various features and attributes.
-- The predicted price will assist both buyers and sellers in making informed decisions, ensuring fair transactions in the used car market.
+- The predicted price will assist both buyers and sellers in making informed decisions, ensuring fair transactions in used car market.
 
 Links&nbsp;&nbsp;:&nbsp;&nbsp;[Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling)&nbsp;&nbsp;|&nbsp;&nbsp;[Web Application](https://car-price-prediction-using-lr.streamlit.app/)
 </details>
