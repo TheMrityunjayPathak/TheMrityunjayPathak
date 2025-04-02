@@ -72,7 +72,7 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 - To develop a model that can accurately predict the price of used cars based on various features and attributes.
 - The predicted price will assist both buyers and sellers in making informed decisions and ensure fair transactions.
 
-Links&nbsp;&nbsp;:&nbsp;&nbsp;[Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling)&nbsp;&nbsp;|&nbsp;&nbsp;[Web Application](https://car-price-prediction-using-lr.streamlit.app/)
+Links&nbsp;&nbsp;:&nbsp;&nbsp;[Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling)&nbsp;&nbsp;|&nbsp;&nbsp;[Application](https://car-price-prediction-using-lr.streamlit.app/)
 </details>
 
 ### Netflix Data Analysis
