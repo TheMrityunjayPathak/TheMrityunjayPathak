@@ -82,7 +82,7 @@ Links&nbsp;&nbsp;:&nbsp;&nbsp;[Dataset](https://www.kaggle.com/datasets/themrity
 
 ➔ Objective
 
-- To gain insights into the content available on Netflix, uncovering valuable insights into how the platform evolves its offerings.
+- To gain insights into the content available on Netflix, uncovering valuable insights into how the platform evolve its offerings.
 
 ➔ Some Key Findings
 
