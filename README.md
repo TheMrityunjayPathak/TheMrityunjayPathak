@@ -72,8 +72,8 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 
 ## Projects
 
-| <img src='https://github.com/user-attachments/assets/db86fa18-3d76-4739-920c-025cfad458b4' width='250px'> | <img src='https://github.com/user-attachments/assets/7b8c3c15-745c-4c46-bbd9-2a71880a4e81' width='250px'> |
-|:---:|:---:|
+| <img src='https://github.com/user-attachments/assets/db86fa18-3d76-4739-920c-025cfad458b4' width='225px'> | <img src='https://github.com/user-attachments/assets/7b8c3c15-745c-4c46-bbd9-2a71880a4e81' width='225px'> | <img src='https://github.com/user-attachments/assets/7b8c3c15-745c-4c46-bbd9-2a71880a4e81' width='225px'> |
+|:---:|:---:|:---:|
 | Car Price Prediction | Netflix Data Analysis | Supermarket Sales Analysis |
 | [GitHub](https://github.com/TheMrityunjayPathak/CarPricePrediction) | [GitHub](https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis) | [GitHub](https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis) |
 | [Application](https://car-price-prediction-using-lr.streamlit.app/) | [Notebook](https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis) | [Notebook](https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis) |
