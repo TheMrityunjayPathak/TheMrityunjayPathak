@@ -72,6 +72,13 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 - To develop a model that can accurately predict the price of used cars based on various features and attributes.
 - The predicted price will assist both buyers and sellers in making informed decisions and ensure fair transactions.
 
+➔ Some Key Findings
+
+- Developed a highly accurate linear model to predict used car prices using various features and attributes.
+- Achieved an average prediction accuracy of 82% demonstrating strong model performance.
+- Validated model robustness through rigorous k-fold cross-validation, resulting in a mean cross-val score of 83%.
+- Created an interactive application using streamlit, enabling users to input data and receive real-time predictions.
+
 Links&nbsp;&nbsp;:&nbsp;&nbsp;[Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling)&nbsp;&nbsp;|&nbsp;&nbsp;[Application](https://car-price-prediction-using-lr.streamlit.app/)
 </details>
 
