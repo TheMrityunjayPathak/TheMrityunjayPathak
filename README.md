@@ -72,7 +72,9 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 
 ## Projects
 
-<img src='https://github.com/user-attachments/assets/acf60da9-794a-49d6-b34d-d2089ea6304d' width='250px'>
+<img src='https://github.com/user-attachments/assets/7b8c3c15-745c-4c46-bbd9-2a71880a4e81' width='250px'>
+
+<img src='https://github.com/user-attachments/assets/db86fa18-3d76-4739-920c-025cfad458b4' width='250px'>
 
 <details>
 <summary>Click Here</summary>
