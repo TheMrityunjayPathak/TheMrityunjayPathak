@@ -76,6 +76,8 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 
 <img src='https://github.com/user-attachments/assets/7b8c3c15-745c-4c46-bbd9-2a71880a4e81' width='250px'>
 
+Car Price Prediction
+
 <details>
 <summary>Click Here</summary>
 <br>
@@ -101,7 +103,8 @@ Links&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak/Ca
 
 <img src='https://github.com/user-attachments/assets/7b8c3c15-745c-4c46-bbd9-2a71880a4e81' width='250px'>
 
-### Netflix Data Analysis
+Netflix Data Analysis
+
 <details>
 <summary>Click Here</summary>
 <br>
@@ -123,7 +126,8 @@ Links&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak/Ne
 
 <img src='https://github.com/user-attachments/assets/7b8c3c15-745c-4c46-bbd9-2a71880a4e81' width='250px'>
 
-### Supermarket Sales Analysis
+Supermarket Sales Analysis
+
 <details>
 <summary>Click Here</summary>
 <br>
