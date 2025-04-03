@@ -136,6 +136,8 @@ Links&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak/Su
 ## Contact
 
 ➫ E-Mail : [themrityunjaypathak@gmail.com](mailto:themrityunjaypathak@gmail.com)
+➫ Phone : [Phone](https://wa.me/919336158993)
+➫ Resume : [Checkout My Resume Here](https://drive.google.com/file/d/17UqgmzxJmSUYdsw1V0pSXpTmsc7qhSuO/view?usp=sharing)
 
 <div align="right">
  
