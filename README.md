@@ -79,7 +79,7 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 - Validated model robustness through rigorous k-fold cross-validation, resulting in a mean cross-val score of 83%.
 - Created an interactive application using streamlit, enabling users to input data and receive real-time predictions.
 
-Links&nbsp;&nbsp;:&nbsp;&nbsp;[Dataset](https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling)&nbsp;&nbsp;|&nbsp;&nbsp;[Application](https://car-price-prediction-using-lr.streamlit.app/)
+Links&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak/CarPricePrediction)&nbsp;&nbsp;|&nbsp;&nbsp;[Application](https://car-price-prediction-using-lr.streamlit.app/)
 </details>
 
 ### Netflix Data Analysis
@@ -98,7 +98,7 @@ Links&nbsp;&nbsp;:&nbsp;&nbsp;[Dataset](https://www.kaggle.com/datasets/themrity
 - More than 20% of the movies and tv shows are uploaded on 1st day of the month.
 - More than 30% of the content is exclusive for united states.
 
-Links&nbsp;&nbsp;:&nbsp;&nbsp;[Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)&nbsp;&nbsp;|&nbsp;&nbsp;[Notebook](https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis)
+Links&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis)&nbsp;&nbsp;|&nbsp;&nbsp;[Notebook](https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis)
 </details>
 
 ### Supermarket Sales Analysis
@@ -118,7 +118,7 @@ Links&nbsp;&nbsp;:&nbsp;&nbsp;[Dataset](https://www.kaggle.com/datasets/shivamb/
 - Health and Soft drinks are the most profitable category in beverages.
 - November was the most profitable month contributing about 15% of the total annual profits.
 
-Links&nbsp;&nbsp;:&nbsp;&nbsp;[Dataset](https://www.kaggle.com/datasets/mohamedharris/supermart-grocery-sales-retail-analytics-dataset)&nbsp;&nbsp;|&nbsp;&nbsp;[Notebook](https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis)
+Links&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis)&nbsp;&nbsp;|&nbsp;&nbsp;[Notebook](https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis)
 </details>
 
 ## Certificates
