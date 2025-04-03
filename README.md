@@ -72,7 +72,7 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 
 ## Projects
 
-| <img src='https://github.com/user-attachments/assets/15852099-24bd-464e-933c-be77fca227ae' width='225px'> | <img src='https://github.com/user-attachments/assets/56bb8673-41f1-47bf-b460-736a6013c3f0' width='225px'> | <img src='https://github.com/user-attachments/assets/92d6cc24-5e66-49ac-accb-aeb9321d396e' width='225px'> |
+| <img src='https://github.com/user-attachments/assets/15852099-24bd-464e-933c-be77fca227ae' width='225px'> | <img src='https://github.com/user-attachments/assets/56bb8673-41f1-47bf-b460-736a6013c3f0' width='225px'> | <img src='https://github.com/user-attachments/assets/ba99c673-69c8-4860-ba88-e5401361bb3e' width='225px'> |
 |:---:|:---:|:---:|
 | Car Price Prediction | Netflix Data Analysis | Supermarket Sales Analysis |
 | [GitHub](https://github.com/TheMrityunjayPathak/CarPricePrediction) | [GitHub](https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis) | [GitHub](https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis) |
