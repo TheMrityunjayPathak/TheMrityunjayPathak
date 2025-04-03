@@ -74,7 +74,7 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 
 #### Car Price Prediction
 
-<img src='https://github.com/user-attachments/assets/7b8c3c15-745c-4c46-bbd9-2a71880a4e81' width='250px'>
+<img src='https://github.com/user-attachments/assets/7b8c3c15-745c-4c46-bbd9-2a71880a4e81' width='175px'>
 
 <details>
 <summary>Click Here</summary>
@@ -97,7 +97,7 @@ Links&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak/Ca
 
 #### Netflix Data Analysis
 
-<img src='https://github.com/user-attachments/assets/7b8c3c15-745c-4c46-bbd9-2a71880a4e81' width='250px'>
+<img src='https://github.com/user-attachments/assets/7b8c3c15-745c-4c46-bbd9-2a71880a4e81' width='175px'>
 
 <details>
 <summary>Click Here</summary>
@@ -119,7 +119,7 @@ Links&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak/Ne
 
 #### Supermarket Sales Analysis
 
-<img src='https://github.com/user-attachments/assets/7b8c3c15-745c-4c46-bbd9-2a71880a4e81' width='250px'>
+<img src='https://github.com/user-attachments/assets/7b8c3c15-745c-4c46-bbd9-2a71880a4e81' width='175px'>
 
 <details>
 <summary>Click Here</summary>
