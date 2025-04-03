@@ -64,7 +64,7 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 
 <img src='https://github.com/user-attachments/assets/acf60da9-794a-49d6-b34d-d2089ea6304d' width='250px'>
 
-### Car Price Prediction
+Car Price Prediction
 <details>
 <summary>Click Here</summary>
 <br>
