@@ -6,6 +6,12 @@
 
 </div>
 
+<div align='right'>
+
+<a href='mailto:themrityunjaypathak@gmail.com'><img src='https://github.com/user-attachments/assets/c91e3f0f-9fb1-4f47-a4fe-c63a86f54467' width='90px'></a> &nbsp; <a href='https://drive.google.com/file/d/17UqgmzxJmSUYdsw1V0pSXpTmsc7qhSuO/view?usp=sharing'><img src='https://github.com/user-attachments/assets/40af16fc-ab9b-4f65-b4f5-11d77dd6000e' width='90px'></a>
+
+</div>
+
 <div align="center">
  
 <a href="#about">
@@ -133,10 +139,6 @@ Links&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak/Su
 ## Blogs
 
 <a href="https://medium.com/@themrityunjaypathak/simple-linear-regression-an-overview-8bfe6614ede8" title="Simple Linear Regression"><img src="https://github.com/user-attachments/assets/707ee381-da5a-4c4a-ae99-23b003fb7cd2" width="175px" align="center"/></a> &nbsp;&nbsp; <a href="https://medium.com/@themrityunjaypathak/multiple-linear-regression-an-overview-5d0283d31f3f" title="Multiple Linear Regression"><img src="https://github.com/user-attachments/assets/e5f5573d-9a1a-47aa-b71e-a9007027d303" width="175px" align="center"/></a>
-
-## Contact
-
-<a href='mailto:themrityunjaypathak@gmail.com'><img src='https://github.com/user-attachments/assets/c91e3f0f-9fb1-4f47-a4fe-c63a86f54467' width='100px'></a> &nbsp; <a href='https://drive.google.com/file/d/17UqgmzxJmSUYdsw1V0pSXpTmsc7qhSuO/view?usp=sharing'><img src='https://github.com/user-attachments/assets/40af16fc-ab9b-4f65-b4f5-11d77dd6000e' width='100px'></a>
 
 <div align="right">
  
