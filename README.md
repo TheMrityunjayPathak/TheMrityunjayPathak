@@ -1,7 +1,9 @@
 <strong>
 
 <div align="center">
+ 
 <a href="https://github.com/TheMrityunjayPathak" title="Mrityunjay's GitHub"><img src="https://github.com/user-attachments/assets/301effa3-f09e-487c-9739-44863e5aaf96"></a>
+
 </div>
 
 <br>
@@ -137,9 +139,9 @@ Links&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak/Su
 
 ➫ E-Mail : [themrityunjaypathak@gmail.com](mailto:themrityunjaypathak@gmail.com)
 
-➫ Phone : [Phone](https://wa.me/919336158993)
-
 ➫ Resume : [Checkout My Resume Here](https://drive.google.com/file/d/17UqgmzxJmSUYdsw1V0pSXpTmsc7qhSuO/view?usp=sharing)
+
+➫ Phone : [Phone](https://wa.me/919336158993)
 
 <div align="right">
  
