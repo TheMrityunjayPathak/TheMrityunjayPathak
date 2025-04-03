@@ -6,8 +6,6 @@
 
 </div>
 
-<br>
-
 <div align="center">
  
 <a href="#about">
