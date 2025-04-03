@@ -29,9 +29,7 @@ Blogs
 
 ## About
 
-<div>
-
-<p>Hi 👋, I'm Mrityunjay Pathak
+Hi 👋, I'm Mrityunjay Pathak
  
 I'm a Data Scientist with a knack for uncovering patterns and trends that drive smarter decisions.
 
@@ -56,10 +54,6 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 📫 Connect with Me
 
 [Kaggle](https://www.kaggle.com/themrityunjaypathak)&nbsp;&nbsp;|&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/themrityunjaypathak)&nbsp;&nbsp;|&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak)&nbsp;&nbsp;|&nbsp;&nbsp;[Medium](https://medium.com/@themrityunjaypathak)&nbsp;&nbsp;|&nbsp;&nbsp;[Portfolio](https://themrityunjaypathak.github.io/)
-
-</p>
-
-</div>
 
 ## Projects
 
