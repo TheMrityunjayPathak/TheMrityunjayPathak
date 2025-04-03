@@ -140,9 +140,6 @@ Links&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak/Su
 
 ➫ Resume : [Checkout My Resume Here](https://drive.google.com/file/d/17UqgmzxJmSUYdsw1V0pSXpTmsc7qhSuO/view?usp=sharing)
 
-![1743615307813](https://github.com/user-attachments/assets/dcb51cee-9f59-4092-9f47-f2a621e7f029)
-
-
 <div align="right">
  
 <a href="#" title="Scroll To Top"><img src="https://github.com/user-attachments/assets/d659b889-7e76-4fb3-a55a-3a14abb4df5a" width="30px"></a>
