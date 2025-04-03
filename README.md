@@ -136,9 +136,7 @@ Links&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak/Su
 
 ## Contact
 
-➫ E-Mail : [themrityunjaypathak@gmail.com](mailto:themrityunjaypathak@gmail.com)
-
-➫ Resume : [Checkout My Resume Here](https://drive.google.com/file/d/17UqgmzxJmSUYdsw1V0pSXpTmsc7qhSuO/view?usp=sharing)
+<a href='mailto:themrityunjaypathak@gmail.com'><img src='https://github.com/user-attachments/assets/3ff5d61d-9db7-4b3b-9d12-b4dc523356c8' width='100px'></a> &nbsp; <a href='https://drive.google.com/file/d/17UqgmzxJmSUYdsw1V0pSXpTmsc7qhSuO/view?usp=sharing'><img src='https://github.com/user-attachments/assets/58f2fda9-fdc9-4cbc-a6b4-7a9730169329' width='100px'></a>
 
 <div align="right">
  
