@@ -74,7 +74,10 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 
 #### Car Price Prediction
 
-<img src='https://github.com/user-attachments/assets/db86fa18-3d76-4739-920c-025cfad458b4' width='175px'>
+| <img src='https://github.com/user-attachments/assets/db86fa18-3d76-4739-920c-025cfad458b4' width='250px'> |
+|:---:|
+| [GitHub](https://github.com/TheMrityunjayPathak/CarPricePrediction) |
+| [Application](https://car-price-prediction-using-lr.streamlit.app/) |
 
 <details>
 <summary>Click Here</summary>
@@ -92,7 +95,7 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 - Validated model robustness through rigorous k-fold cross-validation, resulting in a mean cross-val score of 83%.
 - Created an interactive application using streamlit, enabling users to input data and receive real-time predictions.
 
-Links&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak/CarPricePrediction)&nbsp;&nbsp;|&nbsp;&nbsp;[Application](https://car-price-prediction-using-lr.streamlit.app/)
+Links&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
 </details>
 
 #### Netflix Data Analysis
