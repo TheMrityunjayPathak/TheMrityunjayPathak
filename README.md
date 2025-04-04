@@ -26,8 +26,14 @@ Blogs
 
 </div>
 
-<div align='right'>
-<a href='mailto:themrityunjaypathak@gmail.com' title='E-Mail'><img src='https://github.com/user-attachments/assets/c91e3f0f-9fb1-4f47-a4fe-c63a86f54467' width='70px'></a> &nbsp; <a href='https://drive.google.com/file/d/17UqgmzxJmSUYdsw1V0pSXpTmsc7qhSuO/view?usp=sharing' title='Resume'><img src='https://github.com/user-attachments/assets/40af16fc-ab9b-4f65-b4f5-11d77dd6000e' width='70px'></a>
+<div align="right">
+ 
+<a href='mailto:themrityunjaypathak@gmail.com' title="Email">
+<img src='https://github.com/user-attachments/assets/f24b0e80-2aba-4f1c-8cff-4ce0d75d0f57' width="80px" align="center"/></a>
+&nbsp;
+<a href='https://drive.google.com/file/d/17UqgmzxJmSUYdsw1V0pSXpTmsc7qhSuO/view?usp=sharing' title="Resume">
+<img src='https://github.com/user-attachments/assets/3c69bd98-4582-4e7d-82d6-b5d9f7212a25' width="100px" align="center"/></a>
+
 </div>
 
 ## About
