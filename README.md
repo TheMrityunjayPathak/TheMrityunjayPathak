@@ -78,9 +78,45 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 
 ## Projects
 
+### Car Price Prediction
+➔ Objective
+- To develop a model that can accurately predict the price of used cars based on various features and attributes.
+- The predicted price will assist both buyers and sellers in making informed decisions and ensure fair transactions.
+
+➔ Some Key Findings
+- Developed a highly accurate linear model to predict used car prices using various features and attributes.
+- Achieved an average prediction accuracy of 82% demonstrating strong model performance.
+- Validated model robustness through rigorous k-fold cross-validation, resulting in a mean cross-val score of 83%.
+- Created an interactive application using streamlit, enabling users to input data and receive real-time predictions.
+
+<hr>
+
+### Netflix Data Analysis
+➔ Objective
+- To analyze netflix content data, uncovering valuable insights into how the platform evolve its offerings over time.
+
+➔ Some Key Findings
+- Cleaned and analyzed dataset of 8000+ netflix movies and tv shows.
+- More than 60% of the content on netflix is rated for mature audience only.
+- More than 20% of the movies and tv shows are uploaded on 1st day of the month.
+- More than 30% of the content is exclusive for united states.
+
+<hr>
+
+### Supermarket Sales Analysis
+➔ Objective
+- To analyze supermarket sales data, identifying key factors for improving profitability and operational efficiency.
+
+➔ Some Key Findings
+- Analyzed purchasing pattern of 9000+ customers of supermarket.
+- More than 15% of the products sold were snacks.
+- More than 32% of the sales were occurred in west region of the supermarket.
+- Health and Soft drinks are the most profitable category in beverages.
+- November was the most profitable month contributing about 15% of the total annual profits.
+
 | <img src='https://github.com/user-attachments/assets/ff44081f-485a-45f3-9fdd-520e1800c203' width='225px'> | <img src='https://github.com/user-attachments/assets/56bb8673-41f1-47bf-b460-736a6013c3f0' width='225px'> | <img src='https://github.com/user-attachments/assets/92d6cc24-5e66-49ac-accb-aeb9321d396e' width='225px'> |
 |:---:|:---:|:---:|
-| Car Price Prediction | Netflix Data Analysis | Supermarket Sales Analysis |
+|  |  |  |
 | [GitHub](https://github.com/TheMrityunjayPathak/CarPricePrediction) | [GitHub](https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis) | [GitHub](https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis) |
 | [Application](https://car-price-prediction-using-lr.streamlit.app/) | [Notebook](https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis) | [Notebook](https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis) |
 
