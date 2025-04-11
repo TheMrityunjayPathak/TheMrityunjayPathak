@@ -89,6 +89,8 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 - Validated model robustness through rigorous k-fold cross-validation, resulting in a mean cross-val score of 83%.
 - Created an interactive application using streamlit, enabling users to input data and receive real-time predictions.
 
+Link&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak/CarPricePrediction)&nbsp;&nbsp;|&nbsp;&nbsp;[Application](https://car-price-prediction-using-lr.streamlit.app/)
+
 <hr>
 
 ### Netflix Data Analysis
@@ -100,6 +102,8 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 - More than 60% of the content on netflix is rated for mature audience only.
 - More than 20% of the movies and tv shows are uploaded on 1st day of the month.
 - More than 30% of the content is exclusive for united states.
+
+Link&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis)&nbsp;&nbsp;|&nbsp;&nbsp;[Notebook](https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis)
 
 <hr>
 
@@ -114,11 +118,7 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 - Health and Soft drinks are the most profitable category in beverages.
 - November was the most profitable month contributing about 15% of the total annual profits.
 
-| <img src='https://github.com/user-attachments/assets/ff44081f-485a-45f3-9fdd-520e1800c203' width='225px'> | <img src='https://github.com/user-attachments/assets/56bb8673-41f1-47bf-b460-736a6013c3f0' width='225px'> | <img src='https://github.com/user-attachments/assets/92d6cc24-5e66-49ac-accb-aeb9321d396e' width='225px'> |
-|:---:|:---:|:---:|
-|  |  |  |
-| [GitHub](https://github.com/TheMrityunjayPathak/CarPricePrediction) | [GitHub](https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis) | [GitHub](https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis) |
-| [Application](https://car-price-prediction-using-lr.streamlit.app/) | [Notebook](https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis) | [Notebook](https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis) |
+Link&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis)&nbsp;&nbsp;|&nbsp;&nbsp;[Notebook](https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis)
 
 ## Certificates
 
