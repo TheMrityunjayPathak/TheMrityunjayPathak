@@ -68,7 +68,7 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 
 <div align="left">
 
-<img src='https://github.com/user-attachments/assets/78edfa30-3f27-4318-b992-242a20a9dacf' title='Python' width='90px'> <img src='https://github.com/user-attachments/assets/8cfc02b1-3e91-4a3c-b765-7f2635023d08' title='NumPy' width='90px'> <img src='https://github.com/user-attachments/assets/8e24cdf0-5ca2-4491-a37f-af00d59d9bea' title='Pandas' width='90px'> <img src='https://github.com/user-attachments/assets/d8c97060-0459-4959-bcd4-dd0c9f9aec4b' title='Matplotlib' width='90px'>
+<a href='#'><img src='https://github.com/user-attachments/assets/78edfa30-3f27-4318-b992-242a20a9dacf' title='Python' width='90px'></a> <img src='https://github.com/user-attachments/assets/8cfc02b1-3e91-4a3c-b765-7f2635023d08' title='NumPy' width='90px'> <img src='https://github.com/user-attachments/assets/8e24cdf0-5ca2-4491-a37f-af00d59d9bea' title='Pandas' width='90px'> <img src='https://github.com/user-attachments/assets/d8c97060-0459-4959-bcd4-dd0c9f9aec4b' title='Matplotlib' width='90px'>
 <br>
 <img src='https://github.com/user-attachments/assets/8d803cc2-3079-4962-9dab-72923eee8257' title='Seaborn' width='90px'> <img src='https://github.com/user-attachments/assets/4a01d9a6-488c-477d-945d-cbda19aeb7c3' title='Plotly' width='90px'> <img src='https://github.com/user-attachments/assets/aa29ca4d-502c-4897-bda0-2612434dc523' title='Sklearn' width='90px'> <img src='https://github.com/user-attachments/assets/cff6805d-0843-42ff-8195-b3ff4d1e29bc' title='MySQL' width='90px'>
 <br>
