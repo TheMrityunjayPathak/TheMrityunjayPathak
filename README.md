@@ -78,18 +78,20 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 
 ## Projects
 
-### Car Price Prediction
+### Movie Recommender System
 ➔ Objective
-- To develop a model that can accurately predict the price of used cars based on various features and attributes.
-- The predicted price will assist both buyers and sellers in making informed decisions and ensure fair transactions.
+- With the rise of streaming services, viewers now have access to thousands of movies across platforms.
+- As a result, many viewers spend more time browsing than actually watching.
+- This problem can lead to frustration, lower satisfaction and less time spent on the platform.
+- Which can impact both the user experience and business performance.
 
-➔ Some Key Findings
-- Developed a highly accurate linear model to predict used car prices using various features and attributes.
-- Achieved an average prediction accuracy of 82% demonstrating strong model performance.
-- Validated model robustness through rigorous k-fold cross-validation, resulting in a mean cross-val score of 83%.
-- Created an interactive application using streamlit, enabling users to input data and receive real-time predictions.
+➔ Impact
+If this system gets scaled and integrated with a streaming service, this could :
+- Reduce the time users spend choosing what to watch.
+- Increase user engagement, watch time and customer satisfaction.
+- Help streaming platforms retain users by offering better personalized content.
 
-Link&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak/CarPricePrediction)&nbsp;&nbsp;|&nbsp;&nbsp;[Application](https://car-price-prediction-using-lr.streamlit.app/)
+Link&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak/Pickify)&nbsp;&nbsp;|&nbsp;&nbsp;[Application](https://pickify.streamlit.app/)
 
 <hr>
 
