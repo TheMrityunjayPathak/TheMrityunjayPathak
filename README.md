@@ -85,6 +85,12 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 - This problem can lead to frustration, lower satisfaction and less time spent on the platform.
 - Which can impact both the user experience and business performance.
 
+➔ Solution
+- A production-ready content-based movie recommender system built with clean coding practices, modular design, proper version control and deployed as a web application.
+- It analyzes metadata of 5000+ movies such as genres, cast, crew, keywords and overview to recommend top 5 similar movies based on a user-selected movie.
+- The system uses techniques like CountVectorizer for text vectorization and cosine_similarity to find similarity between movies.
+- The project not only focuses on functionality but on building a clean, scalable and production ready solution, applying industry standard practices.
+
 ➔ Impact
 
 If this system gets scaled and integrated with a streaming service, this could :
