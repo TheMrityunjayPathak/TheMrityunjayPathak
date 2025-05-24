@@ -79,13 +79,14 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 ## Projects
 
 ### Movie Recommender System
-➔ Objective
+➔ Problem Statement
 - With the rise of streaming services, viewers now have access to thousands of movies across platforms.
 - As a result, many viewers spend more time browsing than actually watching.
 - This problem can lead to frustration, lower satisfaction and less time spent on the platform.
 - Which can impact both the user experience and business performance.
 
 ➔ Impact
+
 If this system gets scaled and integrated with a streaming service, this could :
 - Reduce the time users spend choosing what to watch.
 - Increase user engagement, watch time and customer satisfaction.
