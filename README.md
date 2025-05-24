@@ -79,7 +79,7 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 ## Projects
 
 ### Movie Recommender System
-➔ Problem Statement
+➔ Problem
 - With the rise of streaming services, viewers now have access to thousands of movies across platforms.
 - As a result, many viewers spend more time browsing than actually watching.
 - This problem can lead to frustration, lower satisfaction and less time spent on the platform.
