@@ -103,7 +103,8 @@ Link&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak/Pic
 - To analyze netflix content data, uncovering valuable insights into how the platform evolve its offerings over time.
 
 ➔ Some Key Findings
-- Cleaned and analyzed dataset of 8000+ netflix movies and tv shows.
+
+After cleaning and analyzing dataset of 8000+ netflix movies and tv shows, here are some key takeaways :
 - More than 60% of the content on netflix is rated for mature audience only.
 - More than 20% of the movies and tv shows are uploaded on 1st day of the month.
 - More than 30% of the content is exclusive for united states.
@@ -117,7 +118,8 @@ Link&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak/Net
 - To analyze supermarket sales data, identifying key factors for improving profitability and operational efficiency.
 
 ➔ Some Key Findings
-- Analyzed purchasing pattern of 9000+ customers of supermarket.
+
+After analyzed purchasing pattern of 9000+ customers of supermarket, here are some key takeaways :
 - More than 15% of the products sold were snacks.
   - Shows that snacks are quick, easy choice and are a big source of revenue.
 - More than 32% of the sales were occurred in west region of the supermarket.
