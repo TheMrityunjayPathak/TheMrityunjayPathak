@@ -119,9 +119,13 @@ Link&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak/Net
 ➔ Some Key Findings
 - Analyzed purchasing pattern of 9000+ customers of supermarket.
 - More than 15% of the products sold were snacks.
+  - Shows that snacks are quick, easy choice and are a big source of revenue.
 - More than 32% of the sales were occurred in west region of the supermarket.
+  - Suggesting that west region is a strong-performing area from others.
 - Health and Soft drinks are the most profitable category in beverages.
+  - Showing that both healthy and fun drink options sell well.
 - November was the most profitable month contributing about 15% of the total annual profits.
+  - Making it a great time for running promotions and special offers.
 
 Link&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis)&nbsp;&nbsp;|&nbsp;&nbsp;[Notebook](https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis)
 
