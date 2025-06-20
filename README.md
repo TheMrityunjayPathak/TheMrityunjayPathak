@@ -103,11 +103,17 @@ Link&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak/Pic
 - To analyze netflix content data, uncovering valuable insights into how the platform evolve its offerings over time.
 
 ➔ Some Key Findings
-
-After cleaning and analyzing dataset of 8000+ netflix movies and tv shows, here are some key takeaways :
+- Cleaned and analyzed dataset of 8000+ netflix movies and tv shows.
 - More than 60% of the content on netflix is rated for mature audience only.
-- More than 20% of the movies and tv shows are uploaded on 1st day of the month.
-- More than 30% of the content is exclusive for united states.
+  - Suggests Netflix targets adult viewers, likely to boost engagement and retention. 
+- More than 25% of the movies and tv shows are released on 1st day of the month.
+  - Shows a consistent content release schedule, likely to align with subscription cycles. 
+- More than 40% of the content is exclusive for united states.
+  - Points to region-specific licensing and a strong focus on U.S market. 
+- More than 20% of the content falls under the drama genre.
+  - Confirms that drama is a core genre in netflix's content library. 
+- More than 23% of the content is released in 2019 alone.
+  - Indicates a significant content push that year, possibly tied to growth or user acquisition goals. 
 
 Link&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis)&nbsp;&nbsp;|&nbsp;&nbsp;[Notebook](https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis)
 
