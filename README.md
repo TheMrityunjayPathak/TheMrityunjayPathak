@@ -84,7 +84,7 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 ➔ Solution
 - A content-based movie recommender system built with clean and modular code with proper version control.
 - It analyzes metadata of 5000+ movies to recommend top 5 similar titles based on a user selected input.
-- The system uses techniques like CountVectorizer and CosineSimilarity to recommend similar movies.
+- The system uses techniques like count_vectorizer and cosine_similarity to recommend similar movies.
 - The project not only focuses on functionality but on building a clean and scalable solution.
 
 ➔ Impact
