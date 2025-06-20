@@ -125,7 +125,7 @@ After analyzed purchasing pattern of 9000+ customers of supermarket, here are so
 - More than 32% of the sales were occurred in west region of the supermarket.
   - Suggesting that west region is a strong-performing area from others.
 - Health and Soft drinks are the most profitable category in beverages.
-  - Showing that both healthy and fun drink options sell well.
+  - Showing that both healthy and fun drinks option sell well.
 - November was the most profitable month contributing about 15% of the total annual profits.
   - Making it a great time for running promotions and special offers.
 
