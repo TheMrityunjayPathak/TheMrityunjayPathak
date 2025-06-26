@@ -105,7 +105,7 @@ Link&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak/Pic
 ➔ Some Key Findings
 - Cleaned and analyzed dataset of 8000+ netflix movies and tv shows.
 - More than 60% of the content on netflix is rated for mature audience.
-  - Suggests netflix targets adult viewers, likely to boost engagement and retention. 
+  - Suggests that netflix targets adult viewers, likely to boost engagement and retention. 
 - More than 25% of the movies and tv shows are released on 1st day of the month.
   - Shows a consistent release schedule, likely to align with subscription cycles. 
 - More than 40% of the content is exclusive for united states.
