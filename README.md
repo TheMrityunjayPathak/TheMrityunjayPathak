@@ -102,18 +102,18 @@ Link&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak/Pic
 ➔ Objective
 - To analyze netflix content data, uncovering valuable insights into how the platform evolve its offerings over time.
 
-➔ Some Key Findings
-- Cleaned and analyzed dataset of 8000+ netflix movies and tv shows.
-- More than 60% of the content on netflix is rated for mature audience.
-  - Suggests that netflix targets adult viewers, likely to boost engagement and retention. 
-- More than 25% of the movies and tv shows are released on 1st day of the month.
-  - Shows a consistent release schedule, likely to align with subscription cycles. 
-- More than 40% of the content is exclusive for united states.
-  - Points to region-specific licensing and a strong focus on U.S market. 
-- More than 20% of the content falls under the drama genre.
-  - Confirms that drama is a core genre in netflix's content library. 
-- More than 23% of the content is released in 2019 alone.
-  - Indicates a significant content push that year, possibly tied to growth or user acquisition goals. 
+➔ 𝗦𝗼𝗺𝗲 𝗞𝗲𝘆 𝗙𝗶𝗻𝗱𝗶𝗻𝗴𝘀
+- Cleaned and analyzed dataset of 8000+ Netflix Movies and TV Shows.
+- More than 60% of content on Netflix is rated for mature audiences.
+  - Suggests that Netflix targets adult viewers to boost engagement and retention.
+- More than 25% of Movies and TV Shows are released on 1st day of the month.
+  - Shows a consistent release schedule, likely to align with subscription cycles.
+- More than 40% of the content on Netflix is exclusive to United States.
+  - Shows a strong focus on the U.S. market and content availability by location.
+- More than 20% of the content on Netflix falls under the "Drama" genre.
+  - Confirms that "Drama" is a key part of Netflix's content library.
+- More than 23% of the content on Netflix was released in 2019 alone.
+  - Indicates a major content push that year, possibly tied to growth or user acquisition goals.
 
 Link&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis)&nbsp;&nbsp;|&nbsp;&nbsp;[Notebook](https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis)
 
@@ -123,16 +123,16 @@ Link&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak/Net
 ➔ Objective
 - To analyze supermarket sales data, identifying key factors for improving profitability and operational efficiency.
 
-➔ Some Key Findings
-- Analyzed purchasing pattern of 9000+ customers of supermarket.
-- More than 15% of the products sold were snacks.
-  - Shows that snacks are quick, easy choice and are big source of revenue.
-- More than 32% of the sales were occurred in west region of the supermarket.
-  - Suggesting that west region is a strong performing area from others.
-- Health and Soft drinks are the most profitable category in beverages.
-  - Showing that both healthy and fun drinks option sells well.
+➔ 𝗦𝗼𝗺𝗲 𝗞𝗲𝘆 𝗙𝗶𝗻𝗱𝗶𝗻𝗴𝘀
+- Analyzed purchasing pattern of 9000+ customers of Supermarket.
+- More than 15% of the products sold were Snacks.
+  - Shows that Snacks are a convenient choice and a big source of revenue.
+- More than 32% of the sales were occurred in West region of Supermarket.
+  - Suggests that West region is a strong performing area as compared to others.
+- Health and Soft drinks are the most profitable category in Beverages.
+  - Shows that both type of drinks option sells well.
 - November was the most profitable month contributing about 15% of the total annual profits.
-  - Making it a great time for running promotions and special offers.
+  - Makes it an ideal time for running promotions and special offers.
 
 Link&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis)&nbsp;&nbsp;|&nbsp;&nbsp;[Notebook](https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis)
 
