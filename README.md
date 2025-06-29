@@ -100,7 +100,7 @@ Link&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak/Pic
 
 ### Netflix Data Analysis
 ➔ Objective
-- To analyze Netflix content data, uncovering valuable insights into how the platform evolve its offerings over time.
+- To analyze Netflix content data, uncovering valuable insights into how the platform evolves over time.
 
 ➔ 𝗦𝗼𝗺𝗲 𝗞𝗲𝘆 𝗙𝗶𝗻𝗱𝗶𝗻𝗴𝘀
 - Cleaned and analyzed dataset of 8000+ Netflix Movies and TV Shows.
