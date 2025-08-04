@@ -72,7 +72,7 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 <br>
 <a href=''><img src='https://github.com/user-attachments/assets/8d803cc2-3079-4962-9dab-72923eee8257' title='Seaborn' width='90px'></a> <a href=''><img src='https://github.com/user-attachments/assets/4a01d9a6-488c-477d-945d-cbda19aeb7c3' title='Plotly' width='90px'></a> <a href=''><img src='https://github.com/user-attachments/assets/aa29ca4d-502c-4897-bda0-2612434dc523' title='Sklearn' width='90px'></a> <a href=''><img src='https://github.com/user-attachments/assets/cff6805d-0843-42ff-8195-b3ff4d1e29bc' title='MySQL' width='90px'></a>
 <br>
-<a href=''><img src='https://github.com/user-attachments/assets/ecee95dc-e4b9-4d03-a673-c1508e232242' title='Power BI' width='90px'></a> <a href=''><img src='https://github.com/user-attachments/assets/8c1e3755-da86-4fa3-9ab7-d1fe42bca6b1' title='FastAPI' width='90px'></a> <a href=''><img src='https://github.com/user-attachments/assets/6f168c07-670d-4b8e-a724-4d54a6c25363' title='Docker' width='90px'></a> <a href=''><img src='https://github.com/user-attachments/assets/9c5deb99-3359-43b3-9e18-b8fe5183e54b' title='Git' width='90px'></a>
+<a href=''><img src='https://github.com/user-attachments/assets/ecee95dc-e4b9-4d03-a673-c1508e232242' title='Power BI' width='90px'></a> <a href=''><img src='https://github.com/user-attachments/assets/ef5fe3e0-8660-45ec-b097-68ca461e9d9a' title='FastAPI' width='90px'></a> <a href=''><img src='https://github.com/user-attachments/assets/6f168c07-670d-4b8e-a724-4d54a6c25363' title='Docker' width='90px'></a> <a href=''><img src='https://github.com/user-attachments/assets/9c5deb99-3359-43b3-9e18-b8fe5183e54b' title='Git' width='90px'></a>
 
 </div>
 
