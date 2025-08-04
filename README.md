@@ -68,7 +68,7 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 <br>
 <a href=''><img src='https://github.com/user-attachments/assets/8d803cc2-3079-4962-9dab-72923eee8257' title='Seaborn' width='90px'></a> <a href=''><img src='https://github.com/user-attachments/assets/4a01d9a6-488c-477d-945d-cbda19aeb7c3' title='Plotly' width='90px'></a> <a href=''><img src='https://github.com/user-attachments/assets/aa29ca4d-502c-4897-bda0-2612434dc523' title='Sklearn' width='90px'></a> <a href=''><img src='https://github.com/user-attachments/assets/cff6805d-0843-42ff-8195-b3ff4d1e29bc' title='MySQL' width='90px'></a>
 <br>
-<a href=''><img src='https://github.com/user-attachments/assets/ecee95dc-e4b9-4d03-a673-c1508e232242' title='Power BI' width='90px'></a> <a href=''><img src='https://github.com/user-attachments/assets/f9aeed7b-36fe-4b45-9112-9a3709450125' title='Excel' width='90px'></a> <a href=''><img src='https://github.com/user-attachments/assets/13ae98dd-daf5-4805-b617-6009d0333ebd' title='Streamlit' width='90px'></a> <a href=''><img src='https://github.com/user-attachments/assets/9c5deb99-3359-43b3-9e18-b8fe5183e54b' title='Git' width='90px'></a>
+<a href=''><img src='https://github.com/user-attachments/assets/ecee95dc-e4b9-4d03-a673-c1508e232242' title='Power BI' width='90px'></a> <a href=''><img src='https://github.com/user-attachments/assets/a71d74c2-d123-4727-bc54-bf0b804966b9' title='Excel' width='90px'></a> <a href=''><img src='https://github.com/user-attachments/assets/13ae98dd-daf5-4805-b617-6009d0333ebd' title='Streamlit' width='90px'></a> <a href=''><img src='https://github.com/user-attachments/assets/9c5deb99-3359-43b3-9e18-b8fe5183e54b' title='Git' width='90px'></a>
 
 </div>
 
