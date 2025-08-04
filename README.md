@@ -52,7 +52,11 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 
 • Database : I can work with MySQL, a popular database management system to handle and retrieve data effectively.
 
-• BI Tools : I'm familiar with Power BI and Excel to perform data analysis, create dynamic dashboards and extract meaningful insights.
+• BI Tool : I'm familiar with Power BI to perform data analysis, create dynamic dashboards and extract meaningful insights.
+
+• Web Framework : I have experience with FastAPI, a high-performance web framework for building APIs with Python.
+
+• Containerization : I'm also familiar with Docker, a widely-used tool for packaging application and their dependencies into containers.
 
 • Version Control : I'm familiar with Git, which helps in keeping track of changes in code and collaborating effectively with a team.
 
