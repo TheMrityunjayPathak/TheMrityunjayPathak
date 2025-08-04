@@ -56,7 +56,7 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 
 • Web Framework : I have experience with FastAPI, a high-performance web framework for building APIs with Python.
 
-• Containerization : I'm also familiar with Docker, a widely-used tool for packaging application and their dependencies into containers.
+• Containerization : I can work with Docker for packaging application and their dependencies into containers.
 
 • Version Control : I'm familiar with Git, which helps in keeping track of changes in code and collaborating effectively with a team.
 
