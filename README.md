@@ -79,6 +79,10 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 ## Projects
 
 ### AutoIQ : Car Price Prediction
+<details>
+ <summary>Click to View Project Details</summary>
+ &nbsp;
+ 
 ➔ Problem
 - In the used car market, buyers and sellers often struggle to determine a fair and accurate price for their vehicle.
 - This project aims to provide accurate and transparent pricing for used cars by analyzing real-world data.
@@ -89,7 +93,7 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 To address this problem, I built and deployed a complete end-to-end machine learning pipeline :
 1. Data Collection
 - Scraped a dataset of ~2,800 used cars from Cars24 using Selenium and BeautifulSoup.
-2. Data Optimization
+3. Data Optimization
 - Optimized memory consumption of dataset by downcasting data types.
 - Stored the dataset in Parquet format, which compresses data without losing information.
 - It also provides much faster read/write speeds compared to CSV.
@@ -109,7 +113,10 @@ To address this problem, I built and deployed a complete end-to-end machine lear
 - Built and deployed a complete machine learning pipeline as a FastAPI application.
 - Reduced dataset memory usage by ~90% through data type optimization and Parquet conversion.
 - Delivered ~30% lower MAE and ~12% higher R2-Score compared to the baseline model.
-- Improved model stability by ~70%, ensuring more consistent and reliable predictions
+- Improved model stability by ~70%, ensuring more consistent and reliable predictions.
+</details>
+
+<a href=""><img src="https://github.com/user-attachments/assets/7ba92365-9c06-47e7-8af8-3176a3dee972" width="80px"></a> &nbsp; <a href=""><img src="https://github.com/user-attachments/assets/18e555df-f3c9-44b3-b5a0-8790f635522b" width="80px"></a> &nbsp; <a href=""><img src="https://github.com/user-attachments/assets/0dab447e-0bff-442f-8cd7-c72215fbdf15" width="80px"></a>
 
 <hr>
 
