@@ -116,7 +116,7 @@ To address this problem, I built and deployed a complete end-to-end machine lear
 - Improved model stability by ~70%, ensuring more consistent and reliable predictions.
 </details>
 
-<a href=""><img src="https://github.com/user-attachments/assets/7ba92365-9c06-47e7-8af8-3176a3dee972" width="80px"></a> &nbsp; <a href=""><img src="https://github.com/user-attachments/assets/18e555df-f3c9-44b3-b5a0-8790f635522b" width="80px"></a> &nbsp; <a href=""><img src="https://github.com/user-attachments/assets/0dab447e-0bff-442f-8cd7-c72215fbdf15" width="80px"></a>
+<a href=""><img src="https://github.com/user-attachments/assets/2acddd5c-f7ea-4034-b8d0-d839de4629e5" width="90px"></a> &nbsp; <a href=""><img src="https://github.com/user-attachments/assets/18e555df-f3c9-44b3-b5a0-8790f635522b" width="80px"></a> &nbsp; <a href=""><img src="https://github.com/user-attachments/assets/0dab447e-0bff-442f-8cd7-c72215fbdf15" width="80px"></a>
 
 <hr>
 
