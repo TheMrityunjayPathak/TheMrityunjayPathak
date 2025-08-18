@@ -117,7 +117,7 @@ To address this problem, I built and deployed a complete end-to-end machine lear
 <hr>
 
 ### Pickify : Movie Recommender System
-<a href="https://github.com/TheMrityunjayPathak/Pickify"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" title="GitHub" width="80px"></a> &nbsp; <a href="https://pickify.streamlit.app/"><img src="https://github.com/user-attachments/assets/5876b6a4-9ab2-48aa-90d3-70117399aff3" title="Application" width="80px"></a>
+<a href="https://github.com/TheMrityunjayPathak/Pickify"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" title="GitHub" width="85px"></a> &nbsp; <a href="https://pickify.streamlit.app/"><img src="https://github.com/user-attachments/assets/5876b6a4-9ab2-48aa-90d3-70117399aff3" title="Application" width="85px"></a>
 
 ➔ Problem
 - With the rise of streaming services, viewers now have access to thousands of movies across platforms.
@@ -141,7 +141,7 @@ If this system gets scaled and integrated with a streaming service, this could :
 <hr>
 
 ### Netflix Data Analysis
-<a href="https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" title="GitHub" width="80px"></a> &nbsp; <a href="https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis"><img src="https://github.com/user-attachments/assets/7b33292b-2a68-4af3-ae25-281105385f8d" title="Notebook" width="80px"></a>
+<a href="https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" title="GitHub" width="85px"></a> &nbsp; <a href="https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis"><img src="https://github.com/user-attachments/assets/7b33292b-2a68-4af3-ae25-281105385f8d" title="Notebook" width="85px"></a>
 
 ➔ Objective
 - To analyze Netflix content data, uncovering valuable insights into how the platform evolves over time.
@@ -163,7 +163,7 @@ Cleaned and analyzed dataset of 8000+ Netflix Movies and TV Shows.
 <hr>
 
 ### Supermarket Sales Analysis
-<a href="https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" title="GitHub" width="80px"></a> &nbsp; <a href="https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis"><img src="https://github.com/user-attachments/assets/7b33292b-2a68-4af3-ae25-281105385f8d" title="Notebook" width="80px"></a>
+<a href="https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" title="GitHub" width="85px"></a> &nbsp; <a href="https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis"><img src="https://github.com/user-attachments/assets/7b33292b-2a68-4af3-ae25-281105385f8d" title="Notebook" width="85px"></a>
 
 ➔ Objective
 - To analyze Supermarket Sales data, identifying key factors for improving profitability and operational efficiency.
@@ -194,7 +194,7 @@ Analyzed purchasing pattern of 9000+ customers of Supermarket.
 
 <div align="right">
  
-<a href="#" title="Scroll To Top"><img src="https://github.com/user-attachments/assets/d659b889-7e76-4fb3-a55a-3a14abb4df5a" width="30px"></a>
+<a href="#" title="Scroll To Top"><img src="https://github.com/user-attachments/assets/d659b889-7e76-4fb3-a55a-3a14abb4df5a" width="35px"></a>
 
 </div>
 
