@@ -79,6 +79,8 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 ## Projects
 
 ### AutoIQ : Car Price Prediction 
+<a href="https://github.com/TheMrityunjayPathak/AutoIQ"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" width="80px"></a> &nbsp; <a href="https://themrityunjaypathak.github.io/AutoIQ/"><img src="https://github.com/user-attachments/assets/5876b6a4-9ab2-48aa-90d3-70117399aff3" width="80px"></a> &nbsp; <a href="https://autoiq.onrender.com/docs"><img src="https://github.com/user-attachments/assets/453026e0-6b16-4b24-af29-415de2bc6bf8" width="80px"></a>
+
 ➔ Problem
 - In the used car market, buyers and sellers often struggle to determine a fair and accurate price for their vehicle.
 - This project aims to provide accurate and transparent pricing for used cars by analyzing real-world data.
@@ -112,11 +114,11 @@ To address this problem, I built and deployed a complete end-to-end machine lear
 - Improved model stability by ~70%, ensuring more consistent and reliable predictions.
 </details>
 
-<a href="https://github.com/TheMrityunjayPathak/AutoIQ"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" width="80px"></a> &nbsp; <a href="https://themrityunjaypathak.github.io/AutoIQ/"><img src="https://github.com/user-attachments/assets/5876b6a4-9ab2-48aa-90d3-70117399aff3" width="80px"></a> &nbsp; <a href="https://autoiq.onrender.com/docs"><img src="https://github.com/user-attachments/assets/453026e0-6b16-4b24-af29-415de2bc6bf8" width="80px"></a>
-
 <hr>
 
 ### Pickify : Movie Recommender System
+<a href="https://github.com/TheMrityunjayPathak/Pickify"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" width="80px"></a> &nbsp; <a href="https://pickify.streamlit.app/"><img src="https://github.com/user-attachments/assets/5876b6a4-9ab2-48aa-90d3-70117399aff3" width="80px"></a>
+
 ➔ Problem
 - With the rise of streaming services, viewers now have access to thousands of movies across platforms.
 - As a result, many viewers spend more time browsing than actually watching.
@@ -136,11 +138,11 @@ If this system gets scaled and integrated with a streaming service, this could :
 - Increase user engagement, watch time and customer satisfaction.
 - Help streaming platforms retain users by offering better personalized content.
 
-<a href="https://github.com/TheMrityunjayPathak/Pickify"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" width="80px"></a> &nbsp; <a href="https://pickify.streamlit.app/"><img src="https://github.com/user-attachments/assets/5876b6a4-9ab2-48aa-90d3-70117399aff3" width="80px"></a>
-
 <hr>
 
 ### Netflix Data Analysis
+<a href="https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" width="80px"></a> &nbsp; <a href="https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis"><img src="https://github.com/user-attachments/assets/7b33292b-2a68-4af3-ae25-281105385f8d" width="80px"></a>
+
 ➔ Objective
 - To analyze Netflix content data, uncovering valuable insights into how the platform evolves over time.
 
@@ -157,11 +159,11 @@ If this system gets scaled and integrated with a streaming service, this could :
 - More than 23% of the content on Netflix was released in 2019 alone.
   - Indicates a major content push that year, possibly tied to growth or user acquisition goals.
 
-<a href="https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" width="80px"></a> &nbsp; <a href="https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis"><img src="https://github.com/user-attachments/assets/7b33292b-2a68-4af3-ae25-281105385f8d" width="80px"></a>
-
 <hr>
 
 ### Supermarket Sales Analysis
+<a href="https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" width="80px"></a> &nbsp; <a href="https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis"><img src="https://github.com/user-attachments/assets/7b33292b-2a68-4af3-ae25-281105385f8d" width="80px"></a>
+
 ➔ Objective
 - To analyze Supermarket Sales data, identifying key factors for improving profitability and operational efficiency.
 
@@ -175,8 +177,6 @@ If this system gets scaled and integrated with a streaming service, this could :
   - Shows that both type of drinks option sells well.
 - November was the most profitable month contributing about 15% of the total annual profits.
   - Makes it an ideal time for running promotions and special offers.
-
-<a href="https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" width="80px"></a> &nbsp; <a href="https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis"><img src="https://github.com/user-attachments/assets/7b33292b-2a68-4af3-ae25-281105385f8d" width="80px"></a>
 
 ## Certificates
 
