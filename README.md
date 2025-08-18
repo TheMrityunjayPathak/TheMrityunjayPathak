@@ -78,11 +78,7 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 
 ## Projects
 
-### AutoIQ : Car Price Prediction
-<details>
- <summary>Click to View Project Details</summary>
- &nbsp;
- 
+### AutoIQ : Car Price Prediction 
 ➔ Problem
 - In the used car market, buyers and sellers often struggle to determine a fair and accurate price for their vehicle.
 - This project aims to provide accurate and transparent pricing for used cars by analyzing real-world data.
@@ -91,23 +87,23 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 ➔ Solution
 
 To address this problem, I built and deployed a complete end-to-end machine learning pipeline :
-1. Data Collection
-- Scraped a dataset of ~2,800 used cars from Cars24 using Selenium and BeautifulSoup.
-3. Data Optimization
-- Optimized memory consumption of dataset by downcasting data types.
-- Stored the dataset in Parquet format, which compresses data without losing information.
-- It also provides much faster read/write speeds compared to CSV.
-3. Preprocessing & Modeling
-- Implemented Scikit-learn Pipelines & ColumnTransformer to prevent data leakage.
-4. API Deployment
-- Deployed the machine learning model as an API using FastAPI, with :
-  - /predict endpoint for real-time predictions.
-  - /health endpoint for monitoring API status.
-  - Input validation & rate limiting for reliability.
-5. Frontend Integration
-- Designed a HTML/CSS/JS website to send API calls and display predictions in a user-friendly way.
-6. Containerization
-- Created a multi-stage Dockerfile with .dockerignore for building an optimized and lightweight Docker image.
+- Data Collection
+  - Scraped a dataset of ~2,800 used cars from Cars24 using Selenium and BeautifulSoup.
+- Data Optimization
+  - Optimized memory consumption of dataset by downcasting data types.
+  - Stored the dataset in Parquet format, which compresses data without losing information.
+  - It also provides much faster read/write speeds compared to CSV.
+- Preprocessing & Modeling
+  - Implemented Scikit-learn Pipelines & ColumnTransformer to prevent data leakage.
+- API Deployment
+  - Deployed the machine learning model as an API using FastAPI, with :
+    - /predict endpoint for real-time predictions.
+    - /health endpoint for monitoring API status.
+    - Input validation & rate limiting for reliability.
+- Frontend Integration
+  - Designed a HTML/CSS/JS website to send API calls and display predictions in a user-friendly way.
+- Containerization
+  - Created a multi-stage Dockerfile with .dockerignore for building an optimized and lightweight Docker image.
 
 ➔ 𝗜𝗺𝗽𝗮𝗰𝘁
 - Built and deployed a complete machine learning pipeline as a FastAPI application.
@@ -121,10 +117,6 @@ To address this problem, I built and deployed a complete end-to-end machine lear
 <hr>
 
 ### Pickify : Movie Recommender System
-<details>
- <summary>Click to View Project Details</summary>
- &nbsp;
- 
 ➔ Problem
 - With the rise of streaming services, viewers now have access to thousands of movies across platforms.
 - As a result, many viewers spend more time browsing than actually watching.
@@ -143,17 +135,12 @@ If this system gets scaled and integrated with a streaming service, this could :
 - Reduce the time users spend choosing what to watch.
 - Increase user engagement, watch time and customer satisfaction.
 - Help streaming platforms retain users by offering better personalized content.
-</details>
 
 <a href="https://github.com/TheMrityunjayPathak/Pickify"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" width="80px"></a> &nbsp; <a href="https://pickify.streamlit.app/"><img src="https://github.com/user-attachments/assets/5876b6a4-9ab2-48aa-90d3-70117399aff3" width="80px"></a>
 
 <hr>
 
 ### Netflix Data Analysis
-<details>
- <summary>Click to View Project Details</summary>
- &nbsp;
- 
 ➔ Objective
 - To analyze Netflix content data, uncovering valuable insights into how the platform evolves over time.
 
@@ -169,17 +156,12 @@ If this system gets scaled and integrated with a streaming service, this could :
   - Confirms that "Drama" is a key part of Netflix's content library.
 - More than 23% of the content on Netflix was released in 2019 alone.
   - Indicates a major content push that year, possibly tied to growth or user acquisition goals.
-</details>
 
 <a href="https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" width="80px"></a> &nbsp; <a href="https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis"><img src="https://github.com/user-attachments/assets/7b33292b-2a68-4af3-ae25-281105385f8d" width="80px"></a>
 
 <hr>
 
 ### Supermarket Sales Analysis
-<details>
- <summary>Click to View Project Details</summary>
- &nbsp;
- 
 ➔ Objective
 - To analyze Supermarket Sales data, identifying key factors for improving profitability and operational efficiency.
 
@@ -193,7 +175,6 @@ If this system gets scaled and integrated with a streaming service, this could :
   - Shows that both type of drinks option sells well.
 - November was the most profitable month contributing about 15% of the total annual profits.
   - Makes it an ideal time for running promotions and special offers.
-</details>
 
 <a href="https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" width="80px"></a> &nbsp; <a href="https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis"><img src="https://github.com/user-attachments/assets/7b33292b-2a68-4af3-ae25-281105385f8d" width="80px"></a>
 
