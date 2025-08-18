@@ -145,7 +145,7 @@ If this system gets scaled and integrated with a streaming service, this could :
 - Help streaming platforms retain users by offering better personalized content.
 </details>
 
-<a href="https://github.com/TheMrityunjayPathak/Pickify"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" width="90px"></a> &nbsp; <a href="https://pickify.streamlit.app/"><img src="https://github.com/user-attachments/assets/5876b6a4-9ab2-48aa-90d3-70117399aff3" width="90px"></a>
+<a href="https://github.com/TheMrityunjayPathak/Pickify"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" width="80px"></a> &nbsp; <a href="https://pickify.streamlit.app/"><img src="https://github.com/user-attachments/assets/5876b6a4-9ab2-48aa-90d3-70117399aff3" width="80px"></a>
 
 <hr>
 
@@ -171,7 +171,7 @@ If this system gets scaled and integrated with a streaming service, this could :
   - Indicates a major content push that year, possibly tied to growth or user acquisition goals.
 </details>
 
-<a href="https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" width="90px"></a> &nbsp; <a href="https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis"><img src="https://github.com/user-attachments/assets/7b33292b-2a68-4af3-ae25-281105385f8d" width="90px"></a>
+<a href="https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" width="80px"></a> &nbsp; <a href="https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis"><img src="https://github.com/user-attachments/assets/7b33292b-2a68-4af3-ae25-281105385f8d" width="80px"></a>
 
 <hr>
 
@@ -195,7 +195,7 @@ If this system gets scaled and integrated with a streaming service, this could :
   - Makes it an ideal time for running promotions and special offers.
 </details>
 
-<a href="https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" width="90px"></a> &nbsp; <a href="https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis"><img src="https://github.com/user-attachments/assets/7b33292b-2a68-4af3-ae25-281105385f8d" width="90px"></a>
+<a href="https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" width="80px"></a> &nbsp; <a href="https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis"><img src="https://github.com/user-attachments/assets/7b33292b-2a68-4af3-ae25-281105385f8d" width="80px"></a>
 
 ## Certificates
 
