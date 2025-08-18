@@ -147,7 +147,8 @@ If this system gets scaled and integrated with a streaming service, this could :
 - To analyze Netflix content data, uncovering valuable insights into how the platform evolves over time.
 
 ➔ 𝗦𝗼𝗺𝗲 𝗞𝗲𝘆 𝗙𝗶𝗻𝗱𝗶𝗻𝗴𝘀
-- Cleaned and analyzed dataset of 8000+ Netflix Movies and TV Shows.
+
+Cleaned and analyzed dataset of 8000+ Netflix Movies and TV Shows.
 - More than 60% of content on Netflix is rated for mature audiences.
   - Suggests that Netflix targets adult viewers to boost engagement and retention.
 - More than 25% of Movies and TV Shows are released on 1st day of the month.
@@ -168,7 +169,8 @@ If this system gets scaled and integrated with a streaming service, this could :
 - To analyze Supermarket Sales data, identifying key factors for improving profitability and operational efficiency.
 
 ➔ 𝗦𝗼𝗺𝗲 𝗞𝗲𝘆 𝗙𝗶𝗻𝗱𝗶𝗻𝗴𝘀
-- Analyzed purchasing pattern of 9000+ customers of Supermarket.
+
+Analyzed purchasing pattern of 9000+ customers of Supermarket.
 - More than 15% of the products sold were Snacks.
   - Shows that Snacks are a convenient choice and a big source of revenue.
 - More than 32% of the sales were occurred in West region of Supermarket.
