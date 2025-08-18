@@ -85,24 +85,25 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 - It will assist both buyers and sellers make data-driven decisions and ensure fair transactions.
 
 ➔ Solution
+
 To address this problem, I built and deployed a complete end-to-end machine learning pipeline :
-1. 𝗗𝗮𝘁𝗮 𝗖𝗼𝗹𝗹𝗲𝗰𝘁𝗶𝗼𝗻
-• Scraped a dataset of ~2,800 used cars from Cars24 using Selenium and BeautifulSoup.
-2. 𝗗𝗮𝘁𝗮 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻
-• Optimized memory consumption of dataset by downcasting data types.
-• Stored the dataset in Parquet format, which compresses data without losing information.
-• It also provides much faster read/write speeds compared to CSV.
-3. 𝗣𝗿𝗲𝗽𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴 & 𝗠𝗼𝗱𝗲𝗹𝗶𝗻𝗴
-• Implemented Scikit-learn Pipelines & ColumnTransformer to prevent data leakage.
-4. 𝗔𝗣𝗜 𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁
-• Deployed the machine learning model as an API using FastAPI, with :
- ‣ /predict endpoint for real-time predictions.
- ‣ /health endpoint for monitoring API status.
- ‣ Input validation & rate limiting for reliability.
-5. 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻
-• Designed a HTML/CSS/JS website to send API calls and display predictions in a user-friendly way.
-6. 𝗖𝗼𝗻𝘁𝗮𝗶𝗻𝗲𝗿𝗶𝘇𝗮𝘁𝗶𝗼𝗻
-• Created a multi-stage Dockerfile with .dockerignore for building an optimized and lightweight Docker image.
+1. Data Collection
+- Scraped a dataset of ~2,800 used cars from Cars24 using Selenium and BeautifulSoup.
+2. Data Optimization
+- Optimized memory consumption of dataset by downcasting data types.
+- Stored the dataset in Parquet format, which compresses data without losing information.
+- It also provides much faster read/write speeds compared to CSV.
+3. Preprocessing & Modeling
+- Implemented Scikit-learn Pipelines & ColumnTransformer to prevent data leakage.
+4. API Deployment
+- Deployed the machine learning model as an API using FastAPI, with :
+  - /predict endpoint for real-time predictions.
+  - /health endpoint for monitoring API status.
+  - Input validation & rate limiting for reliability.
+5. Frontend Integration
+- Designed a HTML/CSS/JS website to send API calls and display predictions in a user-friendly way.
+6. Containerization
+- Created a multi-stage Dockerfile with .dockerignore for building an optimized and lightweight Docker image.
 
 ➔ 𝗜𝗺𝗽𝗮𝗰𝘁
 - Built and deployed a complete machine learning pipeline as a FastAPI application.
