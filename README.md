@@ -90,7 +90,7 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 
 To address this problem, I built and deployed a complete end-to-end machine learning pipeline :
 - Data Collection
-  - Scraped a dataset of ~2,800 used cars from Cars24 using Selenium and BeautifulSoup.
+  - Scraped a dataset of 2,800+ used cars from Cars24 using Selenium and BeautifulSoup.
 - Data Optimization
   - Optimized memory consumption of dataset by downcasting data types.
   - Stored the dataset in Parquet format, which compresses data without losing information.
@@ -109,9 +109,9 @@ To address this problem, I built and deployed a complete end-to-end machine lear
 
 ➔ 𝗜𝗺𝗽𝗮𝗰𝘁
 - Built and deployed a complete machine learning pipeline as a FastAPI application.
-- Reduced dataset memory usage by ~90% through data type optimization and Parquet conversion.
-- Delivered ~30% lower MAE and ~12% higher R2-Score compared to the baseline model.
-- Improved model stability by ~70%, ensuring more consistent and reliable predictions.
+- Reduced dataset memory usage by 90% through data type optimization and Parquet conversion.
+- Delivered 30% lower MAE and 12% higher R2-Score compared to the baseline model.
+- Improved model stability by 70%, ensuring more consistent and reliable predictions.
 </details>
 
 <hr>
