@@ -31,7 +31,7 @@ Blogs
 <a href='mailto:themrityunjaypathak@gmail.com' title='Email'>
 <img src='https://github.com/user-attachments/assets/f24b0e80-2aba-4f1c-8cff-4ce0d75d0f57' width="83px" align="center"></a>
 &nbsp;
-<a href='https://drive.google.com/file/d/1F4XtOlTwRH4wqKcR1an7M1cFu7QmZzbE/view?usp=sharing' title='Resume'>
+<a href='https://drive.google.com/file/d/13RZICIT1Xar1F0eX9c6it_2I91hzGQH8/view?usp=sharing' title='Resume'>
 <img src='https://github.com/user-attachments/assets/3c69bd98-4582-4e7d-82d6-b5d9f7212a25' width="100px" align="center"></a>
 
 </div>
@@ -90,7 +90,7 @@ I'm a Data Scientist with a knack for uncovering patterns and trends that drive 
 
 To address this problem, I built and deployed a complete end-to-end machine learning pipeline :
 - Data Collection
-  - Scraped a dataset of 2,800+ used cars from Cars24 using Selenium and BeautifulSoup.
+  - Scraped a dataset of 2,800+ cars from the web using Selenium and BeautifulSoup.
 - Data Optimization
   - Optimized memory consumption of dataset by downcasting data types.
   - Stored the dataset in Parquet format, which compresses data without losing information.
@@ -109,9 +109,10 @@ To address this problem, I built and deployed a complete end-to-end machine lear
 
 ➔ 𝗜𝗺𝗽𝗮𝗰𝘁
 - Built and deployed a complete machine learning pipeline as a FastAPI application.
-- Reduced dataset memory usage by 90% through data type optimization and Parquet conversion.
-- Delivered 30% lower MAE and 12% higher R2-Score compared to the baseline model.
-- Improved model stability by 70%, ensuring more consistent and reliable predictions.
+- Reduced dataset memory usage by 90% by downcasting data types and converting to Parquet format.
+- Evaluated multiple regression models with cross-validation to identify the best-performing algorithm.
+- Achieved 30% lower MAE and 12% higher R2-score compared to the baseline model.
+- Improved model stability by 70%, ensuring more stable and reliable predictions.
 </details>
 
 <hr>
