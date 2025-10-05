@@ -38,7 +38,7 @@ Blogs
 
 ## About
 
-Hi, I'm Mrityunjay Pathak
+Hi 👋, I'm Mrityunjay Pathak
 
 I'm a recent graduate passionate about building real-world, end-to-end ML solutions, from data collection to model deployment. Since graduating in 2024, I've worked on several projects covering the full ML pipeline. I enjoy developing applications that automate processes and help solve business problems.
 
@@ -50,15 +50,15 @@ Some of the projects I've worked on:
 
 Tools and Technologies I've worked with:
 
-• Programming Language: Python
-• Libraries: NumPy, Pandas, Matplotlib, Seaborn, Plotly
-• Machine Learning: Scikit-learn
-• Database: MySQL
-• BI Tool: Power BI
-• Web Framework: FastAPI
-• Containerization: Docker
-• Version Control: Git
-• Automation: GitHub Actions
+- Programming Language: Python
+- Libraries: NumPy, Pandas, Matplotlib, Seaborn, Plotly
+- Machine Learning: Scikit-learn
+- Database: MySQL
+- BI Tool: Power BI
+- Web Framework: FastAPI
+- Containerization: Docker
+- Version Control: Git
+- Automation: GitHub Actions
 
 I'm currently looking for roles in Data Science/Data Analytics, including junior positions or internships.
 
