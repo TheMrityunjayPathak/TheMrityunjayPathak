@@ -38,27 +38,29 @@ Blogs
 
 ## About
 
-Hi 👋, I'm Mrityunjay Pathak
- 
-I'm a Data Scientist with a knack for uncovering patterns and trends that drive smarter decisions.
+Hi, I'm 𝗠𝗿𝗶𝘁𝘆𝘂𝗻𝗷𝗮𝘆 𝗣𝗮𝘁𝗵𝗮𝗸
 
-🎯 Tools and Technologies
+I'm a recent graduate passionate about building real-world, end-to-end ML solutions, from data collection to model deployment. Since graduating in 2024, I've worked on several projects covering the full ML pipeline. I enjoy developing applications that automate processes and help solve business problems.
 
-• Programming Language : I'm familiar with Python, a powerful language for data science and machine learning.
+𝗦𝗼𝗺𝗲 𝗼𝗳 𝘁𝗵𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝗜'𝘃𝗲 𝘄𝗼𝗿𝗸𝗲𝗱 𝗼𝗻:
 
-• Libraries : I'm also familiar with essential data science libraries like NumPy, Pandas, Matplotlib, Seaborn and Plotly.
+• 𝗔𝘂𝘁𝗼𝗜𝗤: Developed a used car price prediction system using FastAPI and Docker with 2,500+ scraped car records, with an interactive HTML/CSS/JS application deployed on GitHub Pages.
+• 𝗣𝗶𝗰𝗸𝗶𝗳𝘆: Built a content-based movie recommender system using metadata from 5,000+ movies, with fetching and displaying movie posters via the TMDB API.
+• 𝗧𝗿𝗲𝗻𝗱𝗶𝗳𝘆: Designed an automated ETL Pipeline and live Power BI Dashboard for 50,000+ sales records stored in a Neon PostgreSQL database, updated daily via GitHub Actions.
 
-• Machine Learning : I have experience with Scikit-learn, a famous machine learning library used widely across industries.
+𝗧𝗼𝗼𝗹𝘀 𝗮𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 𝗜'𝘃𝗲 𝘄𝗼𝗿𝗸𝗲𝗱 𝘄𝗶𝘁𝗵:
 
-• Database : I can work with MySQL, a popular database management system to handle and retrieve data effectively.
+• 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲: Python
+• 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀: NumPy, Pandas, Matplotlib, Seaborn, Plotly
+• 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: Scikit-learn
+• 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲: MySQL
+• 𝗕𝗜 𝗧𝗼𝗼𝗹: Power BI
+• 𝗪𝗲𝗯 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸: FastAPI
+• 𝗖𝗼𝗻𝘁𝗮𝗶𝗻𝗲𝗿𝗶𝘇𝗮𝘁𝗶𝗼𝗻: Docker
+• 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 𝗖𝗼𝗻𝘁𝗿𝗼𝗹: Git
+• 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻: GitHub Actions
 
-• BI Tool : I'm familiar with Power BI to perform data analysis, create dynamic dashboards and extract meaningful insights.
-
-• Web Framework : I have experience with FastAPI, a high-performance web framework for building APIs with Python.
-
-• Containerization : I can work with Docker for packaging application and their dependencies into containers.
-
-• Version Control : I'm familiar with Git, which helps in keeping track of changes in code and collaborating effectively with a team.
+I'm currently looking for roles in Data Science/Data Analytics, including junior positions or internships.
 
 📫 Connect with Me
 
