@@ -42,25 +42,23 @@ Hi 👋, I'm Mrityunjay Pathak
 
 I'm a recent graduate passionate about building real-world, end-to-end ML solutions, from data collection to model deployment. Since graduating in 2024, I've worked on several projects covering the full ML pipeline. I enjoy developing applications that automate processes and help solve business problems.
 
-Some of the projects I've worked on:
+Some of the projects I've worked on :
 
-- AutoIQ: Developed a used car price prediction system using FastAPI and Docker with 2,500+ scraped car records, with an interactive HTML/CSS/JS application deployed on GitHub Pages.
-- Pickify: Built a content-based movie recommender system using metadata from 5,000+ movies, with fetching and displaying movie posters via the TMDB API.
-- Trendify: Designed an automated ETL Pipeline and live Power BI Dashboard for 50,000+ sales records stored in a Neon PostgreSQL database, updated daily via GitHub Actions.
+- AutoIQ : Developed a used car price prediction system using FastAPI and Docker with 2,500+ scraped car records, with an interactive HTML/CSS/JS application deployed on GitHub Pages.
+- Pickify : Built a content-based movie recommender system using metadata from 5,000+ movies, with fetching and displaying movie posters via the TMDB API.
+- Trendify : Designed an automated ETL Pipeline and live Power BI Dashboard for 50,000+ sales records stored in a Neon PostgreSQL database, updated daily via GitHub Actions.
 
-Tools and Technologies I've worked with:
+Tools and Technologies I've worked with :
 
-- Programming Language: Python
-- Libraries: NumPy, Pandas, Matplotlib, Seaborn, Plotly
-- Machine Learning: Scikit-learn
-- Database: MySQL
-- BI Tool: Power BI
-- Web Framework: FastAPI
-- Containerization: Docker
-- Version Control: Git
-- Automation: GitHub Actions
-
-I'm currently looking for roles in Data Science/Data Analytics, including junior positions or internships.
+- Programming Language : Python
+- Libraries : NumPy, Pandas, Matplotlib, Seaborn, Plotly
+- Machine Learning : Scikit-learn
+- Database : MySQL
+- BI Tool : Power BI
+- Web Framework : FastAPI
+- Containerization : Docker
+- Version Control : Git
+- Automation : GitHub Actions
 
 📫 Connect with Me
 
