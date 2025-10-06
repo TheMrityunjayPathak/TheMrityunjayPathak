@@ -193,7 +193,7 @@ Analyzed purchasing pattern of 9000+ customers of Supermarket.
 
 ## Blogs
 
-<a href="https://medium.com/@themrityunjaypathak/simple-linear-regression-an-overview-8bfe6614ede8" title="Simple Linear Regression"><img src="https://github.com/user-attachments/assets/707ee381-da5a-4c4a-ae99-23b003fb7cd2" width="175px" align="center"/></a> &nbsp;&nbsp; <a href="https://medium.com/@themrityunjaypathak/multiple-linear-regression-an-overview-5d0283d31f3f" title="Multiple Linear Regression"><img src="https://github.com/user-attachments/assets/ba744e94-ee35-4074-a7d7-3e50a81fa31f" width="175px" align="center"/></a>
+<a href="https://medium.com/@themrityunjaypathak/simple-linear-regression-an-overview-8bfe6614ede8" title="Simple Linear Regression"><img src="https://github.com/user-attachments/assets/b1f48a17-20bd-463c-85cd-3974dcde19e0" width="175px" align="center"/></a> &nbsp;&nbsp; <a href="https://medium.com/@themrityunjaypathak/multiple-linear-regression-an-overview-5d0283d31f3f" title="Multiple Linear Regression"><img src="https://github.com/user-attachments/assets/ba744e94-ee35-4074-a7d7-3e50a81fa31f" width="175px" align="center"/></a>
 
 <div align="right">
  
