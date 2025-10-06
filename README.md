@@ -44,7 +44,7 @@ I'm a recent graduate passionate about building real-world, end-to-end ML soluti
 
 Some of the projects I've worked on :
 
-- AutoIQ : Developed a used car price prediction system using FastAPI and Docker with 2,500+ scraped car records, with an interactive HTML/CSS/JS application deployed on GitHub Pages.
+- AutoIQ : Developed a used car price prediction system using FastAPI and Docker with 2,800+ scraped car records, with an interactive HTML/CSS/JS application deployed on GitHub Pages.
 - Pickify : Built a content-based movie recommender system using metadata from 5,000+ movies, with fetching and displaying movie posters via the TMDB API.
 - Trendify : Designed an automated ETL Pipeline and live Power BI Dashboard for 50,000+ sales records stored in a Neon PostgreSQL database, updated daily via GitHub Actions.
 
