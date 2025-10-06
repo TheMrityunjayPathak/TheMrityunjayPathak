@@ -60,6 +60,8 @@ Tools and Technologies I've worked with :
 - Version Control : Git
 - Automation : GitHub Actions
 
+I'm currently looking for roles in Data Science/Data Analytics where I can contribute to create measurable impact and grow alongside the company through continuous learning and collaboration.
+
 📫 Connect with Me
 
 [Kaggle](https://www.kaggle.com/themrityunjaypathak)&nbsp;&nbsp;|&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/themrityunjaypathak)&nbsp;&nbsp;|&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak)&nbsp;&nbsp;|&nbsp;&nbsp;[Medium](https://medium.com/@themrityunjaypathak)&nbsp;&nbsp;|&nbsp;&nbsp;[Portfolio](https://themrityunjaypathak.github.io/)
