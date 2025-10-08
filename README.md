@@ -29,10 +29,10 @@ Blogs
 <div align="right">
  
 <a href='mailto:themrityunjaypathak@gmail.com' title='Email'>
-<img src='https://github.com/user-attachments/assets/f24b0e80-2aba-4f1c-8cff-4ce0d75d0f57' width="83px" align="center"></a>
+<img src='https://github.com/user-attachments/assets/9c01dca9-9ae6-4f66-b6f3-a09ede7b9480' height="40px" align="center"></a>
 &nbsp;
 <a href='https://drive.google.com/file/d/13RZICIT1Xar1F0eX9c6it_2I91hzGQH8/view?usp=sharing' title='Resume'>
-<img src='https://github.com/user-attachments/assets/3c69bd98-4582-4e7d-82d6-b5d9f7212a25' width="100px" align="center"></a>
+<img src='https://github.com/user-attachments/assets/0fb6f4b1-03f0-4104-af82-6f55b9f6b460' height="40px" align="center"></a>
 
 </div>
 
