@@ -94,34 +94,31 @@ If you're looking for someone who's eager to learn, collaborate and deliver resu
 ➔ Problem
 - In the used car market, buyers and sellers often struggle to determine a fair price for their vehicle.
 - This project aims to provide accurate and transparent pricing for used cars by analyzing real-world data.
-- It will assist both buyers and sellers make data-driven decisions and ensure fair transactions.
 
 ➔ Solution
-
-To address this problem, I built and deployed a complete end-to-end machine learning pipeline :
+- To address this problem, I built and deployed a complete end-to-end machine learning pipeline :
 - Data Collection
-  - Scraped a dataset of 2,800+ cars from the web using Selenium and BeautifulSoup.
+  - Scraped 2,800+ used car records from Cars24 using Selenium and BeautifulSoup.
 - Data Optimization
-  - Optimized memory consumption of dataset by downcasting data types.
-  - Stored the dataset in Parquet format, which compresses data without losing information.
-  - It also provides much faster read/write speeds compared to CSV.
+  - Optimized memory consumption of the dataset by downcasting data types.
+  - Stored the dataset in Parquet format instead of CSV, which compresses data without losing information.
+  - It also provides much faster read/write speeds as compared to CSV.
 - Preprocessing & Modeling
   - Implemented Scikit-learn Pipelines & ColumnTransformer to prevent data leakage.
 - API Deployment
   - Deployed the machine learning model as an API using FastAPI, with :
     - /predict endpoint for real-time predictions.
     - /health endpoint for monitoring API status.
-    - Input validation & rate limiting for reliability.
 - Frontend Integration
-  - Designed a HTML/CSS/JS website to send API calls and display predictions in a user-friendly way.
+  - Designed a HTML/CSS/JS application to make API calls and display predictions in a user-friendly way.
 - Containerization
   - Created a multi-stage Dockerfile with .dockerignore for building an optimized and lightweight Docker image.
+  - Pushed the Docker image to Docker Hub for deployment and reproducibility.
 
-➔ 𝗜𝗺𝗽𝗮𝗰𝘁
-- Built and deployed a complete machine learning pipeline as a FastAPI application.
-- Reduced dataset memory usage by 90% by downcasting data types and converting to Parquet format.
-- Evaluated multiple regression models with cross-validation to identify the best-performing algorithm.
-- Achieved 30% lower MAE and 12% higher R2-score compared to the baseline model.
+➔ Results
+- Built and deployed an end-to-end ML pipeline using FastAPI and Docker to predict used car prices.
+- Reduced dataset memory usage by 90% using optimized storage techniques.
+- Achieved a 30% lower MAE and a 12% higher R2-score compared to the baseline model.
 - Improved model stability by 70%, ensuring more stable and reliable predictions.
 </details>
 
@@ -134,20 +131,19 @@ To address this problem, I built and deployed a complete end-to-end machine lear
 - With the rise of streaming services, viewers now have access to thousands of movies across platforms.
 - As a result, many viewers spend more time browsing than actually watching.
 - This problem can lead to frustration, lower satisfaction and less time spent on the platform.
-- Which can impact both the user experience and business performance.
+- Ultimately, this impacts both user experience and business performance.
 
 ➔ Solution
 - A content-based movie recommender system built with clean and modular code with proper version control.
-- It analyzes metadata of 5000+ movies to recommend top 5 similar titles based on a user selected input.
+- It analyzes metadata of 5,000+ movies to recommend top 5 similar titles based on a user selected input.
 - The system uses techniques like CountVectorizer and CosineSimilarity to recommend similar movies.
-- The project not only focuses on functionality but on building a clean and scalable solution.
+- Deployed the recommender system as an interactive Streamlit web application for a user-friendly experience.
 
 ➔ Impact
-
-If this system gets scaled and integrated with a streaming service, this could :
-- Reduce the time users spend choosing what to watch.
-- Increase user engagement, watch time and customer satisfaction.
-- Help streaming platforms retain users by offering better personalized content.
+- If this system gets scaled and integrated with a streaming service, this could :
+  - Reduce the time users spend choosing what to watch.
+  - Increase user engagement, watch time and customer satisfaction.
+  - Help streaming platforms retain users by offering better personalized content.
 
 <hr>
 
