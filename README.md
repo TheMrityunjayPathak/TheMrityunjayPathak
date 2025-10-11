@@ -121,7 +121,7 @@ If you're looking for someone who's eager to learn, collaborate and deliver resu
 - Achieved a 30% lower MAE and a 12% higher R2-score compared to the baseline model.
 - Improved model stability by 70%, ensuring more stable and reliable predictions.
 
-➔ 𝗜𝗺𝗽𝗮𝗰𝘁
+➔ Impact
 - Helps car owners quickly find the right selling price for their vehicles based on real-world data.
 - Makes it easier for buyers to know if a car is fairly priced before making a purchase.
 </details>
@@ -157,7 +157,7 @@ If you're looking for someone who's eager to learn, collaborate and deliver resu
 ➔ Problem Statement
 - To analyze Netflix content data, uncovering valuable insights into how the platform evolves over time.
 
-➔ 𝗦𝗼𝗺𝗲 𝗞𝗲𝘆 𝗙𝗶𝗻𝗱𝗶𝗻𝗴𝘀
+➔ Some Key Findings
 - Cleaned and analyzed a dataset of 8,000+ Netflix Movies and TV Shows.
 - More than 60% of the content on Netflix is rated for mature audiences.
   - Suggests that Netflix targets adult viewers to boost engagement and retention.
@@ -178,7 +178,7 @@ If you're looking for someone who's eager to learn, collaborate and deliver resu
 ➔ Problem Statement
 - To analyze Supermarket Sales data, identifying key factors for improving profitability and operational efficiency.
 
-➔ 𝗦𝗼𝗺𝗲 𝗞𝗲𝘆 𝗙𝗶𝗻𝗱𝗶𝗻𝗴𝘀
+➔ Some Key Findings
 - Analyzed purchasing patterns of 9,000+ customers of a Supermarket.
 - More than 15% of the products sold were Snacks.
   - Shows that Snacks are a convenient choice and a major source of revenue.
