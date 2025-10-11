@@ -84,7 +84,7 @@ I'm currently looking for roles in Data Science/Data Analytics where I can contr
 
 
 ### AutoIQ : Car Price Prediction 
-<a href="https://github.com/TheMrityunjayPathak/AutoIQ"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" title="GitHub" width="85px"></a> &nbsp; <a href="https://themrityunjaypathak.github.io/AutoIQ/"><img src="https://github.com/user-attachments/assets/5876b6a4-9ab2-48aa-90d3-70117399aff3" title="Application" width="85px"></a> &nbsp; <a href="https://autoiq.onrender.com/docs"><img src="https://github.com/user-attachments/assets/453026e0-6b16-4b24-af29-415de2bc6bf8" title="Swagger UI" width="85px"></a>
+<a href="https://github.com/TheMrityunjayPathak/AutoIQ"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" title="GitHub" width="80px"></a>&nbsp;&nbsp;<a href="https://themrityunjaypathak.github.io/AutoIQ/"><img src="https://github.com/user-attachments/assets/5876b6a4-9ab2-48aa-90d3-70117399aff3" title="Application" width="80px"></a>&nbsp;&nbsp;<a href="https://autoiq.onrender.com/docs"><img src="https://github.com/user-attachments/assets/453026e0-6b16-4b24-af29-415de2bc6bf8" title="Swagger UI" width="80px"></a>
 
 ➔ Problem
 - In the used car market, buyers and sellers often struggle to determine a fair price for their vehicle.
