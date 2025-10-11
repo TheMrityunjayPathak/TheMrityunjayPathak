@@ -80,6 +80,9 @@ I'm currently looking for roles in Data Science/Data Analytics where I can contr
 
 ## Projects
 
+<img width="100px" alt="1" src="https://github.com/user-attachments/assets/9db8a637-3098-4ae9-864e-bed96569daec" /> &nbsp; <img width="100px" alt="2" src="https://github.com/user-attachments/assets/f594a748-49a7-45e1-a883-c26f7312fdb3" />
+
+
 ### AutoIQ : Car Price Prediction 
 <a href="https://github.com/TheMrityunjayPathak/AutoIQ"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" title="GitHub" width="85px"></a> &nbsp; <a href="https://themrityunjaypathak.github.io/AutoIQ/"><img src="https://github.com/user-attachments/assets/5876b6a4-9ab2-48aa-90d3-70117399aff3" title="Application" width="85px"></a> &nbsp; <a href="https://autoiq.onrender.com/docs"><img src="https://github.com/user-attachments/assets/453026e0-6b16-4b24-af29-415de2bc6bf8" title="Swagger UI" width="85px"></a>
 
