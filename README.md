@@ -120,6 +120,10 @@ If you're looking for someone who's eager to learn, collaborate and deliver resu
 - Reduced dataset memory usage by 90% using optimized storage techniques.
 - Achieved a 30% lower MAE and a 12% higher R2-score compared to the baseline model.
 - Improved model stability by 70%, ensuring more stable and reliable predictions.
+
+➔ 𝗜𝗺𝗽𝗮𝗰𝘁
+- Helps car owners quickly find the right selling price for their vehicles based on real-world data.
+- Makes it easier for buyers to know if a car is fairly priced before making a purchase.
 </details>
 
 <hr>
