@@ -40,13 +40,19 @@ Blogs
 
 Hi 👋, I'm Mrityunjay Pathak
 
-I'm a recent graduate passionate about building real-world, end-to-end ML solutions, from data collection to model deployment. Since graduating in 2024, I've worked on several projects covering the full ML pipeline. I enjoy developing applications that automate processes and help solve business problems.
+I'm a recent graduate passionate about building real-world, end-to-end ML solutions - from data collection to model deployment. Since graduating in 2024, I've worked on several projects covering the full ML lifecycle.
 
 Some of the projects I've worked on :
 
-- AutoIQ : Developed a used car price prediction system using FastAPI and Docker with 2,800+ scraped car records, with an interactive HTML/CSS/JS application deployed on GitHub Pages.
-- Pickify : Built a content-based movie recommender system using metadata from 5,000+ movies, with fetching and displaying movie posters via the TMDB API.
-- Trendify : Designed an automated ETL Pipeline and live Power BI Dashboard for 50,000+ sales records stored in a Neon PostgreSQL database, updated daily via GitHub Actions.
+- **AutoIQ : Car Price Prediction**
+  - Developed a used car price prediction system using FastAPI and Docker, trained on 2,800+ scraped car records from Cars24.
+  - Deployed an interactive HTML/CSS/JS application on GitHub Pages, enabling users to estimate used car prices in real time.
+- **Pickify : Movie Recommender System**
+  - Built a content-based movie recommender system using metadata from 5,000+ movies.
+  - Integrated the TMDB API to fetch and display movie posters dynamically, delivering a smooth and personalized user experience.
+- **Dashly : Live Sales Dashboard**
+  - Built a live Power BI dashboard connected to a Neon PostgreSQL database, containing 50,000+ sales records.
+  - Developed an automated ETL pipeline using GitHub Actions to collect and ingest data daily, keeping the dashboard continuously updated with the latest insights.
 
 Tools and Technologies I've worked with :
 
@@ -60,7 +66,11 @@ Tools and Technologies I've worked with :
 - Version Control : Git
 - Automation : GitHub Actions
 
-I'm currently looking for roles in Data Science/Data Analytics where I can contribute to create measurable impact and grow alongside the company through continuous learning and collaboration.
+I'm currently looking for opportunities in Data Science/Data Analytics, where I can contribute to building data-driven solutions that create measurable business impact.
+
+If you're looking for someone who's eager to learn, collaborate and deliver results, I'd love to connect and explore how I can add value to your team.
+
+Let's Connect!!!
 
 📫 Connect with Me
 
