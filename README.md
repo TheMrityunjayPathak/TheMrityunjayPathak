@@ -44,13 +44,13 @@ I'm a recent graduate passionate about building real-world, end-to-end ML soluti
 
 Some of the projects I've worked on :
 
-- **AutoIQ : Car Price Prediction**
+- AutoIQ : Car Price Prediction
   - Developed a used car price prediction system using FastAPI and Docker, trained on 2,800+ scraped car records from Cars24.
   - Deployed an interactive HTML/CSS/JS application on GitHub Pages, enabling users to estimate used car prices in real time.
-- **Pickify : Movie Recommender System**
+- Pickify : Movie Recommender System
   - Built a content-based movie recommender system using metadata from 5,000+ movies.
   - Integrated the TMDB API to fetch and display movie posters dynamically, delivering a smooth and personalized user experience.
-- **Dashly : Live Sales Dashboard**
+- Dashly : Live Sales Dashboard
   - Built a live Power BI dashboard connected to a Neon PostgreSQL database, containing 50,000+ sales records.
   - Developed an automated ETL pipeline using GitHub Actions to collect and ingest data daily, keeping the dashboard continuously updated with the latest insights.
 
@@ -154,40 +154,38 @@ If this system gets scaled and integrated with a streaming service, this could :
 ### Netflix Data Analysis
 <a href="https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" title="GitHub" width="80px"></a>&nbsp;&nbsp;<a href="https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis"><img src="https://github.com/user-attachments/assets/7b33292b-2a68-4af3-ae25-281105385f8d" title="Notebook" width="80px"></a>
 
-➔ Objective
+➔ Problem Statement
 - To analyze Netflix content data, uncovering valuable insights into how the platform evolves over time.
 
 ➔ 𝗦𝗼𝗺𝗲 𝗞𝗲𝘆 𝗙𝗶𝗻𝗱𝗶𝗻𝗴𝘀
-
-Cleaned and analyzed dataset of 8000+ Netflix Movies and TV Shows.
-- More than 60% of content on Netflix is rated for mature audiences.
+- Cleaned and analyzed a dataset of 8,000+ Netflix Movies and TV Shows.
+- More than 60% of the content on Netflix is rated for mature audiences.
   - Suggests that Netflix targets adult viewers to boost engagement and retention.
-- More than 25% of Movies and TV Shows are released on 1st day of the month.
-  - Shows a consistent release schedule, likely to align with subscription cycles.
+- More than 25% of the Movies and TV Shows were released on 1st day of the month.
+  - Shows a consistent release schedule, likely aligned with subscription renewal cycles.
 - More than 40% of the content on Netflix is exclusive to United States.
-  - Shows a strong focus on the U.S. market and content availability by location.
+  - Shows a strong focus on U.S. market and content availability by location.
 - More than 20% of the content on Netflix falls under the "Drama" genre.
   - Confirms that "Drama" is a key part of Netflix's content library.
 - More than 23% of the content on Netflix was released in 2019 alone.
-  - Indicates a major content push that year, possibly tied to growth or user acquisition goals.
+  - Indicates a major content push that year, possibly tied to growth or user acquisition efforts.
 
 <hr>
 
 ### Supermarket Sales Analysis
 <a href="https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" title="GitHub" width="80px"></a>&nbsp;&nbsp;<a href="https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis"><img src="https://github.com/user-attachments/assets/7b33292b-2a68-4af3-ae25-281105385f8d" title="Notebook" width="80px"></a>
 
-➔ Objective
+➔ Problem Statement
 - To analyze Supermarket Sales data, identifying key factors for improving profitability and operational efficiency.
 
 ➔ 𝗦𝗼𝗺𝗲 𝗞𝗲𝘆 𝗙𝗶𝗻𝗱𝗶𝗻𝗴𝘀
-
-Analyzed purchasing pattern of 9000+ customers of Supermarket.
+- Analyzed purchasing patterns of 9,000+ customers of a Supermarket.
 - More than 15% of the products sold were Snacks.
-  - Shows that Snacks are a convenient choice and a big source of revenue.
-- More than 32% of the sales were occurred in West region of Supermarket.
+  - Shows that Snacks are a convenient choice and a major source of revenue.
+- More than 32% of total sales came from the West region of the Supermarket.
   - Suggests that West region is a strong performing area as compared to others.
-- Health and Soft drinks are the most profitable category in Beverages.
-  - Shows that both type of drinks option sells well.
+- Health and Soft drinks were the most profitable sub-categories in Beverages.
+  - Shows that both type of drink options perform well among customers.
 - November was the most profitable month contributing about 15% of the total annual profits.
   - Makes it an ideal time for running promotions and special offers.
 
