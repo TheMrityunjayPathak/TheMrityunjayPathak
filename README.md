@@ -113,7 +113,7 @@ If you're looking for someone who's eager to learn, collaborate and deliver resu
   - Hosted a HTML/CSS/JS application on GitHub Pages to interact with the API and display predictions.
 - Containerization
   - Created a multi-stage Dockerfile with .dockerignore for building an optimized and lightweight Docker image.
-  - Pushed the Docker image to Docker Hub for deployment and reproducibility and easy deployment.
+  - Pushed the Docker image to Docker Hub for reproducibility and easy deployment.
 
 ➔ Results
 - Reduced dataset memory usage by 90% using optimized storage techniques.
