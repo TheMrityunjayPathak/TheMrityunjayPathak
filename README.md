@@ -1,8 +1,8 @@
 <strong>
 
 <div align="center">
- 
-<a href="https://github.com/TheMrityunjayPathak" title="Mrityunjay's GitHub"><img src="https://github.com/user-attachments/assets/506e29dc-4d8a-4a48-814c-c5d9bfae32e8"></a>
+
+<a href="https://github.com/TheMrityunjayPathak" title="Mrityunjay's GitHub"><img src="https://github.com/user-attachments/assets/9ce7099b-121e-433c-8380-e962d16958c5"></a>
 
 </div>
 
