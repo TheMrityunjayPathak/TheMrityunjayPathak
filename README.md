@@ -38,18 +38,18 @@ Blogs
 
 ## About
 
-Hi 👋, I'm Mrityunjay Pathak
+Hello! My name is Mrityunjay Pathak.
 
-I'm a recent graduate passionate about building real-world, end-to-end ML solutions - from data collection to model deployment. Since graduating in 2024, I've worked on several projects covering the full ML lifecycle.
+I'm a data scientist passionate about building real-world, end-to-end data solutions - from data analysis and dashboards to machine learning and deployment. I love creating projects that don't just stay in notebooks, but live on the internet - making them interactive, accessible and valuable for everyone.
 
-Some of the projects I've worked on :
+Some projects I've worked on :
 
 - AutoIQ : Car Price Prediction
-  - Developed a used car price prediction system using FastAPI and Docker, trained on 2,800+ scraped car records from Cars24.
-  - Deployed an interactive HTML/CSS/JS application on GitHub Pages, enabling users to estimate used car prices in real time.
+  - Built a car price prediction system using FastAPI and Docker, trained on 2,800+ scraped car records from Cars24.
+  - Deployed an interactive HTML/CSS/JS application on GitHub Pages that connects to the API, allowing users to get real-time price predictions.
 - Pickify : Movie Recommender System
   - Built a content-based movie recommender system using metadata from 5,000+ movies.
-  - Integrated the TMDB API to fetch and display movie posters dynamically, delivering a smooth and personalized user experience.
+  - Integrated the TMDB API to fetch and display movie posters dynamically, delivering a personalized user experience.
 - Dashly : Live Sales Dashboard
   - Built a live Power BI dashboard connected to a Neon PostgreSQL database, containing 50,000+ sales records.
   - Developed an automated ETL pipeline using GitHub Actions to collect and ingest data daily, keeping the dashboard continuously updated with the latest insights.
@@ -96,7 +96,7 @@ If you're looking for someone who's eager to learn, collaborate and deliver resu
 - This project aims to provide accurate and transparent pricing for used cars by analyzing real-world data.
 
 ➔ Solution
-- To address this problem, I built and deployed a complete end-to-end machine learning pipeline :
+- To address this problem, I built and deployed an end-to-end machine learning pipeline.
 - Data Collection
   - Scraped 2,800+ used car records from Cars24 using Selenium and BeautifulSoup.
 - Data Optimization
@@ -106,17 +106,16 @@ If you're looking for someone who's eager to learn, collaborate and deliver resu
 - Preprocessing & Modeling
   - Implemented Scikit-learn Pipelines & ColumnTransformer to prevent data leakage.
 - API Deployment
-  - Deployed the machine learning model as an API using FastAPI, with :
+  - Deployed the machine learning model as an API using FastAPI on Render, with :
     - /predict endpoint for real-time predictions.
     - /health endpoint for monitoring API status.
 - Frontend Integration
-  - Designed a HTML/CSS/JS application to make API calls and display predictions in a user-friendly way.
+  - Hosted a HTML/CSS/JS application on GitHub Pages to interact with the API and display predictions.
 - Containerization
   - Created a multi-stage Dockerfile with .dockerignore for building an optimized and lightweight Docker image.
-  - Pushed the Docker image to Docker Hub for deployment and reproducibility.
+  - Pushed the Docker image to Docker Hub for deployment and reproducibility and easy deployment.
 
 ➔ Results
-- Built and deployed an end-to-end ML pipeline using FastAPI and Docker to predict used car prices.
 - Reduced dataset memory usage by 90% using optimized storage techniques.
 - Achieved a 30% lower MAE and a 12% higher R2-score compared to the baseline model.
 - Improved model stability by 70%, ensuring more stable and reliable predictions.
@@ -138,9 +137,9 @@ If you're looking for someone who's eager to learn, collaborate and deliver resu
 - Ultimately, this impacts both user experience and business performance.
 
 ➔ Solution
-- A content-based movie recommender system built with clean and modular code with proper version control.
-- It analyzes metadata of 5,000+ movies to recommend top 5 similar titles based on a user selected input.
-- The system uses techniques like CountVectorizer and CosineSimilarity to recommend similar movies.
+- Built a content-based movie recommender system with clean, modular code and proper version control.
+- Analyzed metadata of 5,000+ movies to recommend top 5 similar titles based on a user selected input.
+- Implemented techniques like CountVectorizer and CosineSimilarity to recommend similar movies.
 - Deployed the recommender system as an interactive Streamlit web application for a user-friendly experience.
 
 ➔ Impact
