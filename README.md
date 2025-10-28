@@ -137,10 +137,10 @@ If you're looking for someone who's eager to learn, collaborate and deliver resu
 - Ultimately, this impacts both user experience and business performance.
 
 ➔ Solution
-- Built a content-based movie recommender system with clean, modular code and proper version control.
-- Analyzed metadata of 5,000+ movies to recommend top 5 similar titles based on a user selected input.
-- Implemented techniques like CountVectorizer and CosineSimilarity to recommend similar movies.
-- Deployed the recommender system as an interactive Streamlit web application for a user-friendly experience.
+- Built a content-based movie recommender system trained on 5,000+ movie metadata records, recommending the top 5 similar titles for any selected movie.
+- Applied CountVectorizer and CosineSimilarity to recommend similar movies, generating results in ~2.5 seconds per recommendation.
+- Integrated the TMDB API to dynamically fetch and display movie posters, creating a more engaging experience.
+- Deployed the model as an interactive Streamlit web application, used by 100+ users for discovering personalized movie suggestions.
 
 ➔ Impact
 - If this system gets scaled and integrated with a streaming service, this could :
