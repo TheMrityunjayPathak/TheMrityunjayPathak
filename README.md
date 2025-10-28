@@ -59,7 +59,7 @@ Tools and Technologies I've worked with :
 - Programming Language : Python
 - Libraries : NumPy, Pandas, Matplotlib, Seaborn, Plotly
 - Machine Learning : Scikit-learn
-- Database : MySQL
+- Database : MySQL, PostgreSQL
 - BI Tool : Power BI
 - Web Framework : FastAPI
 - Containerization : Docker
