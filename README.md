@@ -96,24 +96,13 @@ If you're looking for someone who's eager to learn, collaborate and deliver resu
 - This project aims to provide accurate and transparent pricing for used cars by analyzing real-world data.
 
 ➔ Solution
-- To address this problem, I built and deployed an end-to-end machine learning pipeline.
-- Data Collection
-  - Scraped 2,800+ used car records from Cars24 using Selenium and BeautifulSoup.
-- Data Optimization
-  - Optimized memory consumption of the dataset by downcasting data types.
-  - Stored the dataset in Parquet format instead of CSV, which compresses data without losing information.
-  - It also provides much faster read/write speeds as compared to CSV.
-- Preprocessing & Modeling
-  - Implemented Scikit-learn Pipelines & ColumnTransformer to prevent data leakage.
-- API Deployment
-  - Deployed the machine learning model as an API using FastAPI on Render, with :
-    - /predict endpoint for real-time predictions.
-    - /health endpoint for monitoring API status.
-- Frontend Integration
-  - Hosted a HTML/CSS/JS application on GitHub Pages to interact with the API and display predictions.
-- Containerization
-  - Created a multi-stage Dockerfile with .dockerignore for building an optimized and lightweight Docker image.
-  - Pushed the Docker image to Docker Hub for reproducibility and easy deployment.
+- Built and deployed an end-to-end machine learning pipeline to predict used car prices from real-world data.
+- Collected and cleaned 2,800+ used car records from Cars24 using Selenium and BeautifulSoup.
+- Optimized memory consumption of the dataset by downcasting data types and converting to Parquet format.
+- Trained models with Scikit-learn Pipelines & ColumnTransformer to avoid leakage.
+- Deployed the machine learning model as an API using FastAPI on Render (/predict and /health endpoint).
+- Built a HTML/CSS/JS frontend hosted on GitHub Pages to interact with the API and display predictions in real-time.
+- Containerized the entire application using Docker and pushed to Docker Hub for reproducibility.
 
 ➔ Results
 - Reduced dataset memory usage by 90% using optimized storage techniques.
@@ -123,7 +112,6 @@ If you're looking for someone who's eager to learn, collaborate and deliver resu
 ➔ Impact
 - Helps car owners quickly find the right selling price for their vehicles based on real-world data.
 - Makes it easier for buyers to know if a car is fairly priced before making a purchase.
-</details>
 
 <hr>
 
@@ -137,10 +125,10 @@ If you're looking for someone who's eager to learn, collaborate and deliver resu
 - Ultimately, this impacts both user experience and business performance.
 
 ➔ Solution
-- Built a content-based movie recommender system trained on 5,000+ movie metadata records, recommending the top 5 similar titles for any selected movie.
-- Applied CountVectorizer and CosineSimilarity to recommend similar movies, generating results in ~2.5 seconds per recommendation.
-- Integrated the TMDB API to dynamically fetch and display movie posters, creating a more engaging experience.
-- Deployed the model as an interactive Streamlit web application, used by 100+ users for discovering personalized movie suggestions.
+- Built a content-based movie recommender system trained on 5,000+ movie metadata records.
+- Recommends the top 5 similar titles for any selected movie in ~2.5 seconds per recommendation.
+- Integrated the TMDB API to dynamically fetch and display movie posters, enhancing user experience.
+- Deployed as a Streamlit web app, used by 100+ users to discover personalized movie suggestions.
 
 ➔ Impact
 - If this system gets scaled and integrated with a streaming service, this could :
