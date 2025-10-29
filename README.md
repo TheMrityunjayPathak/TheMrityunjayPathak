@@ -100,7 +100,7 @@ If you're looking for someone who's eager to learn, collaborate and deliver resu
 - Collected and cleaned 2,800+ used car records from Cars24 using Selenium and BeautifulSoup.
 - Optimized memory consumption of the dataset by downcasting data types and converting to Parquet format.
 - Trained models with Scikit-learn Pipelines & ColumnTransformer to avoid leakage.
-- Deployed the machine learning model as an API using FastAPI on Render (/predict and /health endpoint).
+- Deployed the machine learning model as an API using FastAPI on Render.
 - Built a HTML/CSS/JS frontend hosted on GitHub Pages to interact with the API and display predictions in real-time.
 - Containerized the entire application using Docker and pushed to Docker Hub for reproducibility.
 
