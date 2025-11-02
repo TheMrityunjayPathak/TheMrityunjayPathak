@@ -40,19 +40,19 @@ Blogs
 
 Hello! My name is Mrityunjay Pathak.
 
-I'm a data scientist passionate about building real-world, end-to-end data solutions - from data analysis and dashboards to machine learning and deployment. I love creating projects that don't just stay in notebooks, but live on the internet - making them interactive, accessible and valuable for everyone.
+I'm a data scientist who enjoys building real-world, end-to-end systems from data collection to deployment. I love creating projects that don't just stay in notebooks, but are deployed online where people can actually use them.
 
 Some projects I've worked on :
 
 - AutoIQ : Car Price Prediction
-  - Built a car price prediction system using FastAPI and Docker, trained on 2,800+ scraped car records from Cars24.
+  - Developed a car price prediction system using FastAPI and Docker, trained on 2,800+ scraped car records from Cars24.
   - Deployed an interactive HTML/CSS/JS application on GitHub Pages that connects to the API, allowing users to get real-time price predictions.
 - Pickify : Movie Recommender System
   - Built a content-based movie recommender system using metadata from 5,000+ movies.
   - Integrated the TMDB API to fetch and display movie posters dynamically, delivering a personalized user experience.
 - Dashly : Live Sales Dashboard
-  - Built a live Power BI dashboard connected to a Neon PostgreSQL database, containing 50,000+ sales records.
-  - Developed an automated ETL pipeline using GitHub Actions to collect and ingest data daily, keeping the dashboard continuously updated with the latest insights.
+  - Designed a live Power BI dashboard connected to a Neon PostgreSQL database, containing 50,000+ sales records.
+  - Engineered an automated ETL pipeline using GitHub Actions to collect and ingest data daily, keeping the dashboard continuously updated with the latest insights.
 
 Tools and Technologies I've worked with :
 
@@ -65,10 +65,11 @@ Tools and Technologies I've worked with :
 - Containerization : Docker
 - Version Control : Git
 - Automation : GitHub Actions
+- Shell Scripting : Bash (Linux)
 
-I'm currently looking for opportunities in Data Science/Data Analytics, where I can contribute to building data-driven solutions that create measurable business impact.
+I'm currently seeking opportunities as a Data Scientist, Data Analyst, or Machine Learning Engineer, where I can contribute to building data-driven solutions that create measurable business impact.
 
-If you're looking for someone who's eager to learn, collaborate and deliver results, I'd love to connect and explore how I can add value to your team.
+If you're looking for someone who's eager to learn, collaborate, and deliver results, I'd love to connect and explore how I can add value to your team.
 
 📫 Connect with Me
 
@@ -99,7 +100,7 @@ If you're looking for someone who's eager to learn, collaborate and deliver resu
 - Built and deployed an end-to-end machine learning pipeline to predict used car prices from real-world data.
 - Collected and cleaned 2,800+ used car records from Cars24 using Selenium and BeautifulSoup.
 - Optimized memory consumption of the dataset by downcasting data types and converting to Parquet format.
-- Trained models with Scikit-learn Pipelines & ColumnTransformer to avoid leakage.
+- Trained models with Scikit-learn Pipelines & ColumnTransformer to avoid data leakage.
 - Deployed the machine learning model as an API using FastAPI on Render.
 - Built a HTML/CSS/JS frontend hosted on GitHub Pages to interact with the API and display predictions in real-time.
 - Containerized the entire application using Docker and pushed to Docker Hub for reproducibility.
@@ -126,9 +127,9 @@ If you're looking for someone who's eager to learn, collaborate and deliver resu
 
 ➔ Solution
 - Built a content-based movie recommender system trained on 5,000+ movie metadata records.
-- Recommends the top 5 similar titles for any selected movie in ~2.5 seconds per recommendation.
+- Generated the top 5 similar titles for any selected movie in under 3 seconds.
 - Integrated the TMDB API to dynamically fetch and display movie posters, enhancing user experience.
-- Deployed as a Streamlit web app, used by 100+ users to discover personalized movie suggestions.
+- Deployed the system as a Streamlit web app, used by 100+ users to discover personalized movie suggestions.
 
 ➔ Impact
 - If this system gets scaled and integrated with a streaming service, this could :
