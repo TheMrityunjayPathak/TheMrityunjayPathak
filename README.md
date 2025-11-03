@@ -96,7 +96,7 @@ If you're looking for someone who's eager to learn, collaborate, and deliver res
 
 ➔ Problem
 - In the used car market, buyers and sellers often struggle to determine a fair price for their vehicles.
-- This project aims to provide accurate and transparent pricing for used cars by analyzing real-world data.
+- This project aims to provide an accurate and transparent pricing for used cars by analyzing real-world data.
 
 ➔ Solution
 - Built and deployed an end-to-end machine learning pipeline to predict used car prices from real-world data.
