@@ -40,7 +40,9 @@ Blogs
 
 Hello! My name is Mrityunjay Pathak.
 
-I'm a data scientist who enjoys building real-world, end-to-end systems. I love creating projects that don't just stay in notebooks, but are deployed online where people can actually use them.
+I'm a data scientist who enjoys building real-world, end-to-end systems.
+
+I love creating projects that don't just stay in notebooks, but are deployed online where people can actually use them.
 
 Some projects I've worked on :
 
