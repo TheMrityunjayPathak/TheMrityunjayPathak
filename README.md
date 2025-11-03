@@ -69,7 +69,7 @@ Tools and Technologies I've worked with :
 - Automation : GitHub Actions
 - Shell Scripting : Bash (Linux)
 
-I'm currently seeking opportunities as a Data Scientist or Machine Learning Engineer, where I can contribute to building data-driven solutions that create measurable business impact.
+I'm currently seeking opportunities as a Data Scientist or a Machine Learning Engineer, where I can contribute to building data-driven solutions that create measurable business impact.
 
 If you're looking for someone who's eager to learn, collaborate, and deliver results, I'd love to connect and explore how I can add value to your team.
 
