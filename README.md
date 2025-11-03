@@ -48,7 +48,7 @@ Some projects I've worked on :
 
 - AutoIQ : Car Price Prediction
   - Developed a car price prediction system using FastAPI and Docker, trained on 2,800+ scraped car records from Cars24.
-  - Deployed an interactive HTML/CSS/JS application on GitHub Pages that connects to the API, allowing users to get real-time price predictions.
+  - Deployed an interactive HTML/CSS/JS application on GitHub Pages that queries the API, allowing users to get real-time price predictions.
 - Pickify : Movie Recommender System
   - Built a content-based movie recommender system using metadata from 5,000+ movies.
   - Integrated the TMDB API to fetch and display movie posters dynamically, delivering a personalized user experience.
@@ -58,7 +58,7 @@ Some projects I've worked on :
 
 Tools and Technologies I've worked with :
 
-- Programming Language : Python
+- Programming Language : Python, SQL
 - Libraries : NumPy, Pandas, Matplotlib, Seaborn, Plotly
 - Machine Learning : Scikit-learn
 - Database : MySQL, PostgreSQL
@@ -69,7 +69,7 @@ Tools and Technologies I've worked with :
 - Automation : GitHub Actions
 - Shell Scripting : Bash (Linux)
 
-I'm currently seeking opportunities as a Data Scientist, Data Analyst, or Machine Learning Engineer, where I can contribute to building data-driven solutions that create measurable business impact.
+I'm currently seeking opportunities as a Data Scientist or Machine Learning Engineer, where I can contribute to building data-driven solutions that create measurable business impact.
 
 If you're looking for someone who's eager to learn, collaborate, and deliver results, I'd love to connect and explore how I can add value to your team.
 
@@ -95,7 +95,7 @@ If you're looking for someone who's eager to learn, collaborate, and deliver res
 <a href="https://github.com/TheMrityunjayPathak/AutoIQ"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" title="GitHub" width="80px"></a>&nbsp;&nbsp;<a href="https://themrityunjaypathak.github.io/AutoIQ/"><img src="https://github.com/user-attachments/assets/5876b6a4-9ab2-48aa-90d3-70117399aff3" title="Application" width="80px"></a>&nbsp;&nbsp;<a href="https://autoiq.onrender.com/docs"><img src="https://github.com/user-attachments/assets/453026e0-6b16-4b24-af29-415de2bc6bf8" title="Swagger UI" width="80px"></a>
 
 ➔ Problem
-- In the used car market, buyers and sellers often struggle to determine a fair price for their vehicle.
+- In the used car market, buyers and sellers often struggle to determine a fair price for their vehicles.
 - This project aims to provide accurate and transparent pricing for used cars by analyzing real-world data.
 
 ➔ Solution
