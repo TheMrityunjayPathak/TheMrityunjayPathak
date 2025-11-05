@@ -11,9 +11,6 @@
 <a href="#about">
 About
 </a>&nbsp;&nbsp;&nbsp;
-<a href="#skills">
-Skills
-</a>&nbsp;&nbsp;&nbsp;
 <a href="#projects">
 Projects
 </a>&nbsp;&nbsp;&nbsp;
@@ -76,18 +73,6 @@ If you're looking for someone who's eager to learn, collaborate, and deliver res
 📫 Connect with Me
 
 [Kaggle](https://www.kaggle.com/themrityunjaypathak)&nbsp;&nbsp;|&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/themrityunjaypathak)&nbsp;&nbsp;|&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak)&nbsp;&nbsp;|&nbsp;&nbsp;[Medium](https://medium.com/@themrityunjaypathak)&nbsp;&nbsp;|&nbsp;&nbsp;[Portfolio](https://themrityunjaypathak.github.io/)
-
-## Skills
-
-<div align="left">
-
-<a href=''><img src='https://github.com/user-attachments/assets/78edfa30-3f27-4318-b992-242a20a9dacf' title='Python' width='90px'></a> <a href=''><img src='https://github.com/user-attachments/assets/8cfc02b1-3e91-4a3c-b765-7f2635023d08' title='NumPy' width='90px'></a> <a href=''><img src='https://github.com/user-attachments/assets/8e24cdf0-5ca2-4491-a37f-af00d59d9bea' title='Pandas' width='90px'></a> <a href=''><img src='https://github.com/user-attachments/assets/d8c97060-0459-4959-bcd4-dd0c9f9aec4b' title='Matplotlib' width='90px'></a>
-<br>
-<a href=''><img src='https://github.com/user-attachments/assets/8d803cc2-3079-4962-9dab-72923eee8257' title='Seaborn' width='90px'></a> <a href=''><img src='https://github.com/user-attachments/assets/4a01d9a6-488c-477d-945d-cbda19aeb7c3' title='Plotly' width='90px'></a> <a href=''><img src='https://github.com/user-attachments/assets/aa29ca4d-502c-4897-bda0-2612434dc523' title='Scikit-learn' width='90px'></a> <a href=''><img src='https://github.com/user-attachments/assets/cff6805d-0843-42ff-8195-b3ff4d1e29bc' title='MySQL' width='90px'></a>
-<br>
-<a href=''><img src='https://github.com/user-attachments/assets/ecee95dc-e4b9-4d03-a673-c1508e232242' title='Power BI' width='90px'></a> <a href=''><img src='https://github.com/user-attachments/assets/d7b3414b-f1b9-4e95-ae4c-73630bff4582' title='FastAPI' width='90px'></a> <a href=''><img src='https://github.com/user-attachments/assets/6f168c07-670d-4b8e-a724-4d54a6c25363' title='Docker' width='90px'></a> <a href=''><img src='https://github.com/user-attachments/assets/9c5deb99-3359-43b3-9e18-b8fe5183e54b' title='Git' width='90px'></a>
-
-</div>
 
 ## Projects
 
