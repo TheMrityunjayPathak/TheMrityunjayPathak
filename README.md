@@ -44,14 +44,14 @@ I love creating projects that don't just stay in notebooks, but are deployed onl
 Some projects I've worked on :
 
 - AutoIQ : Car Price Prediction
-  - Developed a car price prediction system using FastAPI and Docker, trained on 2,800+ scraped car records from Cars24.
-  - Deployed an interactive HTML/CSS/JS application on GitHub Pages that queries the API, allowing users to get real-time price predictions.
+  - Built a car price prediction system with FastAPI and Docker, trained on 2,800+ scraped car listings from Cars24.
+  - Deployed an interactive HTML/CSS/JS application on GitHub Pages that fetches real-time predictions via the API.
 - Pickify : Movie Recommender System
-  - Built a content-based movie recommender system using metadata from 5,000+ movies.
-  - Integrated the TMDB API to fetch and display movie posters dynamically, delivering a personalized user experience.
+  - Developed a content-based movie recommender system using metadata from 5,000+ movies.
+  - Integrated the TMDB API to fetch and display movie posters dynamically, for a personalized user experience.
 - Dashly : Live Sales Dashboard
   - Designed a live Power BI dashboard connected to a Neon PostgreSQL database, containing 50,000+ sales records.
-  - Engineered an automated ETL pipeline using GitHub Actions to collect and ingest data daily, keeping the dashboard continuously updated with the latest insights.
+  - Automated an ETL pipeline with GitHub Actions to keep the dashboard continuously updated with real-time insights.
 
 Tools and Technologies I've worked with :
 
@@ -64,11 +64,11 @@ Tools and Technologies I've worked with :
 - Containerization : Docker
 - Version Control : Git
 - Automation : GitHub Actions
-- Shell Scripting : Bash (Linux)
+- Shell Scripting : Bash
 
 I'm currently seeking opportunities as a Data Scientist or a Machine Learning Engineer, where I can contribute to building data-driven solutions that create measurable business impact.
 
-If you're looking for someone who's eager to learn, collaborate, and deliver results, I'd love to connect and explore how I can add value to your team.
+If you're looking for someone who's eager to learn, collaborate and deliver results, I'd love to connect and explore how I can add value to your team.
 
 📫 Connect with Me
 
