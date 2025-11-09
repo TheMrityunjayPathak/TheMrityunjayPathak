@@ -109,6 +109,33 @@ If you're looking for someone who's eager to learn, collaborate and deliver resu
 
 <hr>
 
+➔ Problem
+- Quick Buy is a leading superstore operating across the United States.
+- It manages thousands of product transactions daily across multiple regions.
+- The store's operations relied on manual spreadsheets and SQL queries to track business performance.
+- As a result, decision-making was slowed down and made it harder to identify growth opportunities.
+
+➔ Solution
+- Designed and deployed fully automated ETL pipeline using Python, SQLAlchemy and GitHub Actions for seamless daily data updates.
+- Built custom Python ETL scripts to extract, transform and load over 50,000+ sales records into a Neon PostgreSQL cloud database.
+- Automated daily data generation (~100 new transactions daily) to simulate real-time sales activity and maintain a continuously refreshed dataset.
+- Integrated Power BI directly with the database, enabling real-time auto-refreshing dashboard without manual uploads.
+
+➔ Key Insights
+- Standard Class drives ~60% of total sales (~₹5.1M) and profit (~₹897K), making it the most profitable and preferred shipping mode.
+- Consumer Segment generates ~50% of total revenue (~₹4.26M) and profit (~₹757K), highlighting it as the primary customer base.
+- Q4 (Oct–Dec) delivers ~27% of yearly revenue, suggesting a strong seasonal demand, ideal for marketing and inventory planning.
+- Paper, Binders and Phones emerge as top-performing sub-categories, together making up ~45% of total revenue.
+- West and East regions lead the market with ~58% of total sales, while the South region with ~19% shows room for growth.
+- Top 5 States (CA, NY, TX, PA, OH) contribute ~54% of total sales, with CA alone driving ~21%, showing strong regional concentration.
+
+➔ Impact
+- Enabled real-time insights through Power BI dashboards with automatic daily refresh.
+- Reduced daily data update time from hours to under a minute (average ~40 sec) using GitHub Actions.
+- Delivered a reliable, low-latency, fully automated data pipeline with zero manual intervention.
+
+<hr>
+
 ### Netflix Data Analysis
 <a href="https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" title="GitHub" width="80px"></a>&nbsp;&nbsp;<a href="https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis"><img src="https://github.com/user-attachments/assets/7b33292b-2a68-4af3-ae25-281105385f8d" title="Notebook" width="80px"></a>
 
