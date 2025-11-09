@@ -124,7 +124,7 @@ If you're looking for someone who's eager to learn, collaborate and deliver resu
 ➔ Key Insights
 - Standard Class drives ~60% of sales (~₹5.1M) and profit (~₹897K), making it the most profitable and preferred shipping mode.
 - Consumer Segment generates ~50% of revenue (~₹4.26M) and profit (~₹757K), highlighting it as the primary customer base.
-- Q4 (Oct–Dec) delivers ~27% of yearly revenue, highlighting strong seasonal demand, ideal for marketing and inventory planning.
+- Q4 (Oct–Dec) delivers ~27% of yearly revenue, highlighting strong seasonal demand, ideal for marketing and promotions.
 - Paper, Binders and Phones emerge as top-performing sub-categories, together making up ~45% of total revenue.
 - West and East regions lead the market with ~58% of total sales, while the South region with ~19% shows room for growth.
 - Top 5 States (CA, NY, TX, PA, OH) contribute ~54% of sales, with CA alone driving ~21%, showing strong regional concentration.
