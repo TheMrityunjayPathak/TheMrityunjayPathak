@@ -86,6 +86,37 @@ If you're looking for someone who's eager to learn, collaborate and deliver resu
 
 <hr>
 
+### Dashly : Live Sales Dashboard
+<a href="https://github.com/TheMrityunjayPathak/Dashly"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" title="GitHub" width="80px"></a>&nbsp;&nbsp;<a href="https://app.powerbi.com/view?r=eyJrIjoiZTgxODBhYmMtYjc1Zi00YjVkLWIyZDItZDYxY2RjZmIwNGY5IiwidCI6ImZhYjAyYzVkLTYxYjYtNGIxMi05ZTY2LTdhMDhkOWY0ZmNjMSJ9&pageName=5b9aaf645951a59cacdc"><img src="https://github.com/user-attachments/assets/97f1694b-8595-40cd-a234-308f143613d4" title="Dashboard" width="80px"></a>
+
+➔ Problem
+- Quick Buy is a leading superstore operating across the United States.
+- It manages thousands of product transactions daily across multiple regions.
+- The store's operations relied on manual spreadsheets and SQL queries to track business performance.
+- As a result, decision-making was slowed down and made it harder to identify growth opportunities.
+
+➔ Solution
+- Designed a fully automated ETL pipeline using Python, SQLAlchemy and GitHub Actions for seamless daily data updates.
+- Built custom Python ETL scripts to extract, transform and load over 50,000+ sales records into a Neon PostgreSQL database.
+- Automated daily data generation (~100 new transactions daily) to simulate real-time sales activity.
+- Integrated Power BI directly with the database, enabling real-time auto-refreshing dashboard without manual uploads.
+
+➔ Key Insights
+- Standard Class drives ~60% of sales (~₹5.1M) and profit (~₹897K), making it the most profitable and preferred shipping mode.
+- Consumer Segment generates ~50% of revenue (~₹4.26M) and profit (~₹757K), highlighting it as the primary customer base.
+- Q4 (Oct–Dec) delivers ~27% of yearly revenue, highlighting strong seasonal demand, ideal for marketing and promotions.
+- Paper, Binders and Phones emerge as top-performing sub-categories, together making up ~45% of total revenue.
+- West and East regions lead the market with ~58% of total sales, while the South region with ~19% shows room for growth.
+- Top 5 States (CA, NY, TX, PA, OH) contribute ~54% of sales, with CA alone driving ~21%, showing strong regional concentration.
+
+➔ Impact
+- Enabled real-time insights through Power BI dashboards with automatic daily refresh.
+- Reduced daily data update time from hours to under a minute (average ~40 sec) using GitHub Actions.
+- Delivered a reliable, low-latency, fully automated data pipeline with zero manual intervention.
+- Achieved 100% workflow reliability as recorded in the GitHub Actions, with zero pipeline failures since deployment.
+
+<hr>
+
 ### Pickify : Movie Recommender System
 <a href="https://github.com/TheMrityunjayPathak/Pickify"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" title="GitHub" width="80px"></a>&nbsp;&nbsp;<a href="https://pickify.streamlit.app/"><img src="https://github.com/user-attachments/assets/5876b6a4-9ab2-48aa-90d3-70117399aff3" title="Application" width="80px"></a>
 
