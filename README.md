@@ -116,18 +116,18 @@ If you're looking for someone who's eager to learn, collaborate and deliver resu
 - As a result, decision-making was slowed down and made it harder to identify growth opportunities.
 
 ➔ Solution
-- Designed and deployed fully automated ETL pipeline using Python, SQLAlchemy and GitHub Actions for seamless daily data updates.
-- Built custom Python ETL scripts to extract, transform and load over 50,000+ sales records into a Neon PostgreSQL cloud database.
-- Automated daily data generation (~100 new transactions daily) to simulate real-time sales activity and maintain a continuously refreshed dataset.
+- Designed a fully automated ETL pipeline using Python, SQLAlchemy and GitHub Actions for seamless daily data updates.
+- Built custom Python ETL scripts to extract, transform and load over 50,000+ sales records into a Neon PostgreSQL database.
+- Automated daily data generation (~100 new transactions daily) to simulate real-time sales activity.
 - Integrated Power BI directly with the database, enabling real-time auto-refreshing dashboard without manual uploads.
 
 ➔ Key Insights
-- Standard Class drives ~60% of total sales (~₹5.1M) and profit (~₹897K), making it the most profitable and preferred shipping mode.
-- Consumer Segment generates ~50% of total revenue (~₹4.26M) and profit (~₹757K), highlighting it as the primary customer base.
-- Q4 (Oct–Dec) delivers ~27% of yearly revenue, suggesting a strong seasonal demand, ideal for marketing and inventory planning.
+- Standard Class drives ~60% of sales (~₹5.1M) and profit (~₹897K), making it the most profitable and preferred shipping mode.
+- Consumer Segment generates ~50% of revenue (~₹4.26M) and profit (~₹757K), highlighting it as the primary customer base.
+- Q4 (Oct–Dec) delivers ~27% of yearly revenue, highlighting strong seasonal demand, ideal for marketing and inventory planning.
 - Paper, Binders and Phones emerge as top-performing sub-categories, together making up ~45% of total revenue.
 - West and East regions lead the market with ~58% of total sales, while the South region with ~19% shows room for growth.
-- Top 5 States (CA, NY, TX, PA, OH) contribute ~54% of total sales, with CA alone driving ~21%, showing strong regional concentration.
+- Top 5 States (CA, NY, TX, PA, OH) contribute ~54% of sales, with CA alone driving ~21%, showing strong regional concentration.
 
 ➔ Impact
 - Enabled real-time insights through Power BI dashboards with automatic daily refresh.
