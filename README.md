@@ -133,6 +133,7 @@ If you're looking for someone who's eager to learn, collaborate and deliver resu
 - Enabled real-time insights through Power BI dashboards with automatic daily refresh.
 - Reduced daily data update time from hours to under a minute (average ~40 sec) using GitHub Actions.
 - Delivered a reliable, low-latency, fully automated data pipeline with zero manual intervention.
+- Achieved 100% workflow reliability as recorded in the GitHub Actions, with zero pipeline failures since deployment.
 
 <hr>
 
