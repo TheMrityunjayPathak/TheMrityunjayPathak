@@ -29,12 +29,12 @@ Some projects I've worked on :
 - AutoIQ : Car Price Prediction
   - Built a car price prediction system with FastAPI and Docker, trained on 2,800+ scraped car listings from Cars24.
   - Deployed an interactive HTML/CSS/JS application on GitHub Pages that fetches real-time predictions via the API.
-- Pickify : Movie Recommender System
-  - Developed a content-based movie recommender system using metadata from 5,000+ movies.
-  - Integrated the TMDB API to fetch and display movie posters dynamically, for a personalized user experience.
 - Dashly : Live Sales Dashboard
   - Designed a live Power BI dashboard connected to a Neon PostgreSQL database, containing 50,000+ sales records.
   - Automated an ETL pipeline with GitHub Actions to keep the dashboard continuously updated with real-time insights.
+- Pickify : Movie Recommender System
+  - Developed a content-based movie recommender system using metadata from 5,000+ movies.
+  - Integrated the TMDB API to fetch and display movie posters dynamically, for a personalized user experience.
 
 Tools and Technologies I've worked with :
 
