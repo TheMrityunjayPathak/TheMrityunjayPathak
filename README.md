@@ -109,7 +109,7 @@ If you're looking for someone who's eager to learn, collaborate and deliver resu
 - Consumer Segment generates ~50% of revenue (~₹4.26M) and profit (~₹757K), highlighting it as the primary customer base.
 - Q4 (Oct–Dec) contributes ~27% of annual revenue, indicating strong seasonal demand, ideal for marketing and promotions.
 - Paper, Binders and Phones are the top-performing sub-categories, together making up ~45% of total revenue.
-- West and East regions dominate the market with ~58% of total sales, while the South region with ~19% shows significant growth potential.
+- West and East regions lead the market with ~58% of total sales, while South region with ~19% shows significant growth potential.
 - Top 5 States (CA, NY, TX, PA, OH) contribute ~54% of sales, with CA alone driving ~21%, showing strong regional concentration.
 
 ➔ Impact
