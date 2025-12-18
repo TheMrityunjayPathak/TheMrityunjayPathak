@@ -24,19 +24,22 @@ I'm a data scientist who enjoys building real-world, end-to-end systems.
 
 I love creating projects that don't just stay in notebooks, but are deployed online where people can actually use them.
 
-Some projects I've worked on :
+Projects I've worked on :
 
 - AutoIQ : Car Price Prediction
-  - Built a car price prediction system with FastAPI and Docker, trained on 2,800+ scraped car listings from Cars24.
+  - Built an end-to-end car price prediction system with FastAPI and Docker, trained on 2,800+ records scraped from Cars24.
   - Deployed an interactive HTML/CSS/JS application on GitHub Pages that fetches real-time predictions via the API.
+  - Tech Stack : Python, Pandas, BeautifulSoup, Selenium, Scikit-learn, FastAPI, Docker, Git
 - Dashly : Live Sales Dashboard
   - Designed a live Power BI dashboard connected to a Neon PostgreSQL database, containing 50,000+ sales records.
-  - Automated an ETL pipeline with GitHub Actions to keep the dashboard continuously updated with real-time insights.
+  - Automated ETL pipeline with GitHub Actions for daily data refresh to keep the dashboard updated with real-time insights.
+  - Tech Stack : Python, Pandas, SQLAlchemy, PostgreSQL, Power BI, GitHub Actions, Git
 - Pickify : Movie Recommender System
   - Developed a content-based movie recommender system using metadata from 5,000+ movies.
   - Integrated the TMDB API to fetch and display movie posters dynamically, for a personalized user experience.
+  - Tech Stack : Python, Pandas, Scikit-learn, NLTK, Streamlit, TMDB API, Git 
 
-Tools and Technologies I've worked with :
+Tools I've worked with :
 
 - Programming Language : Python, SQL
 - Libraries : NumPy, Pandas, Matplotlib, Seaborn, Plotly
@@ -49,7 +52,7 @@ Tools and Technologies I've worked with :
 - Automation : GitHub Actions
 - Shell Scripting : Bash
 
-I'm currently seeking opportunities as a Data Scientist or a Machine Learning Engineer, where I can contribute to building data-driven solutions that create measurable business impact.
+I'm currently seeking opportunities as a Junior Data Scientist or a Junior Machine Learning Engineer, where I can contribute to building solutions that create measurable business impact.
 
 If you're looking for someone who's eager to learn, collaborate and deliver results, I'd love to connect and explore how I can add value to your team.
 
