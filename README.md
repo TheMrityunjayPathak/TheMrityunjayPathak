@@ -79,9 +79,9 @@ If you're looking for someone who's eager to learn, collaborate and deliver resu
 - Containerized the entire application using Docker and pushed to Docker Hub for reproducibility.
 
 ➔ Results
-- Reduced dataset memory usage by 90% using optimized storage techniques.
-- Achieved a 30% lower MAE and a 12% higher R2-score compared to the baseline model.
-- Improved model stability by 70%, ensuring more stable and reliable predictions.
+- Optimized dataset memory usage by 90% using optimized storage techniques.
+- Achieved a 30% lower MAE and a 12% higher R2 score compared to the baseline model.
+- Reduced prediction error variance by 70%, ensuring more stable and reliable predictions.
 
 ➔ Impact
 - Helps car owners quickly find the right selling price for their vehicles based on real-world data.
@@ -102,14 +102,14 @@ If you're looking for someone who's eager to learn, collaborate and deliver resu
 - Designed a fully automated ETL pipeline using Python, SQLAlchemy and GitHub Actions for seamless daily data updates.
 - Built custom Python ETL scripts to extract, transform and load over 50,000+ sales records into a Neon PostgreSQL database.
 - Automated daily data generation (~100 new transactions daily) to simulate real-time sales activity.
-- Integrated Power BI directly with the database, enabling real-time auto-refreshing dashboard without manual uploads.
+- Integrated Power BI directly with the database, enabling real-time auto-refreshing dashboard without manual updates.
 
 ➔ Key Insights
-- Standard Class drives ~60% of sales (~₹5.1M) and profit (~₹897K), making it the most profitable and preferred shipping mode.
+- Standard Class accounts for ~60% of sales (~₹5.1M) and profit (~₹897K), making it the most profitable shipping mode.
 - Consumer Segment generates ~50% of revenue (~₹4.26M) and profit (~₹757K), highlighting it as the primary customer base.
-- Q4 (Oct–Dec) delivers ~27% of yearly revenue, highlighting strong seasonal demand, ideal for marketing and promotions.
-- Paper, Binders and Phones emerge as top-performing sub-categories, together making up ~45% of total revenue.
-- West and East regions lead the market with ~58% of total sales, while the South region with ~19% shows room for growth.
+- Q4 (Oct–Dec) contributes ~27% of annual revenue, indicating strong seasonal demand, ideal for marketing and promotions.
+- Paper, Binders and Phones are the top-performing sub-categories, together making up ~45% of total revenue.
+- West and East regions dominate the market with ~58% of total sales, while the South region with ~19% shows significant growth potential.
 - Top 5 States (CA, NY, TX, PA, OH) contribute ~54% of sales, with CA alone driving ~21%, showing strong regional concentration.
 
 ➔ Impact
