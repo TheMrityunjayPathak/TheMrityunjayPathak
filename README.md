@@ -44,7 +44,7 @@ Tools I've worked with :
 - Programming Language : Python, SQL
 - Libraries : NumPy, Pandas, Matplotlib, Seaborn, Plotly
 - Machine Learning : Scikit-learn
-- Database : MySQL
+- Database : MySQL, PostgreSQL
 - BI Tool : Power BI, Excel
 - Web Framework : FastAPI
 - Containerization : Docker
@@ -59,6 +59,16 @@ If you're looking for someone who's eager to learn, collaborate and deliver resu
 ## Get in Touch
 
 [Kaggle](https://www.kaggle.com/themrityunjaypathak)&nbsp;&nbsp;✦&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/themrityunjaypathak)&nbsp;&nbsp;✦&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak)&nbsp;&nbsp;✦&nbsp;&nbsp;[Medium](https://medium.com/@themrityunjaypathak)&nbsp;&nbsp;✦&nbsp;&nbsp;[Portfolio](https://themrityunjaypathak.github.io/)
+
+## Experience
+### Data Science Intern
+Boston Institute of Analytics | Internship
+Sep 2025 - Present
+Mumbai, Maharashtra, India | Hybrid
+- Built Random Forest and Gradient Boosting models for churn and forecasting on datasets of 5K to 25K records.
+- Applied hyperparameter tuning and cross-validation to improve generalization on class-imbalanced datasets.
+- Utilized Scikit-learn Pipelines to prevent data leakage and maintain clean, reproducible ML workflows.
+- Improved churn-class precision by 15% through threshold tuning and metric-driven evaluation.
 
 ## Projects
 
