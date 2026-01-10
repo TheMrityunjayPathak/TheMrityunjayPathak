@@ -62,9 +62,7 @@ If you're looking for someone who's eager to learn, collaborate and deliver resu
 
 ## Experience
 ### Data Science Intern
-Boston Institute of Analytics | Internship
-Sep 2025 - Present
-Mumbai, Maharashtra, India | Hybrid
+Boston Institute of Analytics
 - Built Random Forest and Gradient Boosting models for churn and forecasting on datasets of 5K to 25K records.
 - Applied hyperparameter tuning and cross-validation to improve generalization on class-imbalanced datasets.
 - Utilized Scikit-learn Pipelines to prevent data leakage and maintain clean, reproducible ML workflows.
