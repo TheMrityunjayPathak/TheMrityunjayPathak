@@ -100,18 +100,17 @@ Boston Institute of Analytics
 ➔ Solution
 - Built and deployed an end-to-end machine learning pipeline to predict used car prices from real-world data.
 - Collected and cleaned 2,800+ used car records from Cars24 using Selenium and BeautifulSoup.
-- Optimized memory consumption of the dataset by downcasting data types and converting to Parquet format.
+- Optimized dataset memory usage by 90% through downcasting data types and converting to Parquet format.
 - Trained models with Scikit-learn Pipelines & ColumnTransformer to avoid data leakage.
 - Deployed the machine learning model as an API using FastAPI on Render.
-- Built a HTML/CSS/JS application hosted on GitHub Pages to interact with the API and display predictions in real-time.
+- Built an HTML/CSS/JS application hosted on GitHub Pages to interact with the API and display predictions in real-time.
 - Containerized the entire application using Docker and pushed to Docker Hub for reproducibility.
 
-➔ Results
-- Optimized dataset memory usage by 90% using optimized storage techniques.
-- Achieved a 30% lower MAE and a 12% higher R2 score compared to the baseline model.
+➔ Impact
+- Achieved a 30% lower MAE and a 12% higher R2 score compared to the baseline regression model.
 - Reduced prediction error variance by 70%, ensuring more stable and reliable predictions.
 
-➔ Impact
+➔ Result
 - Helps car owners quickly find the right selling price for their vehicles based on real-world data.
 - Makes it easier for buyers to know if a car is fairly priced before making a purchase.
 
@@ -141,7 +140,6 @@ Boston Institute of Analytics
 - Top 5 States (CA, NY, TX, PA, OH) contribute ~54% of sales, with CA alone driving ~21%, showing strong regional concentration.
 
 ➔ Impact
-- Enabled real-time insights through Power BI dashboards with automatic daily refresh.
 - Reduced daily data update time from hours to under a minute (average ~45 sec) using GitHub Actions.
 - Delivered a reliable, low-latency, fully automated data pipeline with zero manual intervention.
 - Achieved 100% workflow reliability as recorded in the GitHub Actions, with zero pipeline failures since deployment.
@@ -154,7 +152,7 @@ Boston Institute of Analytics
 ➔ Problem
 - With the rise of streaming services, viewers now have access to thousands of movies across platforms.
 - As a result, many viewers spend more time browsing than actually watching.
-- This problem can lead to frustration, lower satisfaction and less time spent on the platform.
+- This problem can lead to frustration, lower satisfaction and reduced watch time on the platform.
 - Ultimately, this impacts both user experience and business performance.
 
 ➔ Solution
@@ -164,10 +162,9 @@ Boston Institute of Analytics
 - Deployed the system as a Streamlit web app, used by 100+ users to discover personalized movie suggestions.
 
 ➔ Impact
-- If this system gets scaled and integrated with a streaming service, this could :
-  - Reduce the time users spend choosing what to watch.
-  - Increase user engagement, watch time and customer satisfaction.
-  - Help streaming platforms retain users by offering better personalized content.
+- Reduces the time users spend choosing what to watch.
+- Increases user engagement, watch time and satisfaction.
+- Helps retain users by offering more personalized recommendations.
 
 <hr>
 
@@ -181,9 +178,9 @@ Boston Institute of Analytics
 - Cleaned and analyzed a dataset of 8,000+ Netflix Movies and TV Shows.
 - More than 60% of the content on Netflix is rated for mature audiences.
   - Suggests that Netflix targets adult viewers to boost engagement and retention.
-- More than 25% of the Movies and TV Shows were released on 1st day of the month.
+- More than 25% of the Movies and TV Shows were released on the 1st day of the month.
   - Shows a consistent release schedule, likely aligned with subscription renewal cycles.
-- More than 40% of the content on Netflix is exclusive to United States.
+- More than 40% of the content on Netflix is exclusive to the United States.
   - Shows a strong focus on U.S. market and content availability by location.
 - More than 20% of the content on Netflix falls under the "Drama" genre.
   - Confirms that "Drama" is a key part of Netflix's content library.
@@ -202,9 +199,9 @@ Boston Institute of Analytics
 - Analyzed purchasing patterns of 9,000+ customers of a Supermarket.
 - More than 15% of the products sold were Snacks.
   - Shows that Snacks are a convenient choice and a major source of revenue.
-- More than 32% of total sales came from the West region of the Supermarket.
-  - Suggests that West region is a strong performing area as compared to others.
-- Health and Soft drinks were the most profitable sub-categories in Beverages.
+- More than 32% of total sales came from the West region of the supermarket.
+  - Suggests that West region is a strong-performing area as compared to others.
+- Health and Soft drinks were the most profitable sub-categories in beverages.
   - Shows that both type of drink options perform well among customers.
 - November was the most profitable month contributing about 15% of the total annual profits.
   - Makes it an ideal time for running promotions and special offers.
