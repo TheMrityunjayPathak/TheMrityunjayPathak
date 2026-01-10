@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://github.com/TheMrityunjayPathak" title="Mrityunjay's GitHub"><img src="https://github.com/user-attachments/assets/9ce7099b-121e-433c-8380-e962d16958c5"></a>
+<a href="https://github.com/themrityunjaypathak" title="Mrityunjay's GitHub"><img src="https://github.com/user-attachments/assets/9ce7099b-121e-433c-8380-e962d16958c5"></a>
 
 </div>
 
@@ -78,7 +78,7 @@ If you're looking for someone who's eager to learn, collaborate and deliver resu
 
 ## Get in Touch
 
-[Kaggle](https://www.kaggle.com/themrityunjaypathak)&nbsp;&nbsp;✦&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/themrityunjaypathak)&nbsp;&nbsp;✦&nbsp;&nbsp;[GitHub](https://github.com/TheMrityunjayPathak)&nbsp;&nbsp;✦&nbsp;&nbsp;[Medium](https://medium.com/@themrityunjaypathak)&nbsp;&nbsp;✦&nbsp;&nbsp;[Portfolio](https://themrityunjaypathak.github.io/)
+[Kaggle](https://www.kaggle.com/themrityunjaypathak)&nbsp;&nbsp;✦&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/themrityunjaypathak)&nbsp;&nbsp;✦&nbsp;&nbsp;[GitHub](https://github.com/themrityunjaypathak)&nbsp;&nbsp;✦&nbsp;&nbsp;[Medium](https://medium.com/@themrityunjaypathak)&nbsp;&nbsp;✦&nbsp;&nbsp;[Portfolio](https://themrityunjaypathak.github.io/)
 
 ## Experience
 ### Data Science Intern
@@ -91,7 +91,7 @@ Boston Institute of Analytics
 ## Projects
 
 ### AutoIQ : Car Price Prediction 
-<a href="https://github.com/TheMrityunjayPathak/AutoIQ"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" title="GitHub" width="80px"></a>&nbsp;&nbsp;<a href="https://themrityunjaypathak.github.io/AutoIQ/"><img src="https://github.com/user-attachments/assets/5876b6a4-9ab2-48aa-90d3-70117399aff3" title="Application" width="80px"></a>&nbsp;&nbsp;<a href="https://autoiq.onrender.com/docs"><img src="https://github.com/user-attachments/assets/453026e0-6b16-4b24-af29-415de2bc6bf8" title="Swagger UI" width="80px"></a>
+<a href="https://github.com/themrityunjaypathak/AutoIQ"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" title="GitHub" width="80px"></a>&nbsp;&nbsp;<a href="https://themrityunjaypathak.github.io/AutoIQ/"><img src="https://github.com/user-attachments/assets/5876b6a4-9ab2-48aa-90d3-70117399aff3" title="Application" width="80px"></a>&nbsp;&nbsp;<a href="https://autoiq.onrender.com/docs"><img src="https://github.com/user-attachments/assets/453026e0-6b16-4b24-af29-415de2bc6bf8" title="Swagger UI" width="80px"></a>
 
 ➔ Problem
 - In the used car market, buyers and sellers often struggle to determine a fair price for their vehicles.
@@ -117,7 +117,7 @@ Boston Institute of Analytics
 <hr>
 
 ### Dashly : Live Sales Dashboard
-<a href="https://github.com/TheMrityunjayPathak/Dashly"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" title="GitHub" width="80px"></a>&nbsp;&nbsp;<a href="https://app.powerbi.com/view?r=eyJrIjoiZTgxODBhYmMtYjc1Zi00YjVkLWIyZDItZDYxY2RjZmIwNGY5IiwidCI6ImZhYjAyYzVkLTYxYjYtNGIxMi05ZTY2LTdhMDhkOWY0ZmNjMSJ9&pageName=5b9aaf645951a59cacdc"><img src="https://github.com/user-attachments/assets/97f1694b-8595-40cd-a234-308f143613d4" title="Dashboard" width="80px"></a>
+<a href="https://github.com/themrityunjaypathak/Dashly"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" title="GitHub" width="80px"></a>&nbsp;&nbsp;<a href="https://app.powerbi.com/view?r=eyJrIjoiZTgxODBhYmMtYjc1Zi00YjVkLWIyZDItZDYxY2RjZmIwNGY5IiwidCI6ImZhYjAyYzVkLTYxYjYtNGIxMi05ZTY2LTdhMDhkOWY0ZmNjMSJ9&pageName=5b9aaf645951a59cacdc"><img src="https://github.com/user-attachments/assets/97f1694b-8595-40cd-a234-308f143613d4" title="Dashboard" width="80px"></a>
 
 ➔ Problem
 - Quick Buy is a leading superstore operating across the United States.
@@ -147,7 +147,7 @@ Boston Institute of Analytics
 <hr>
 
 ### Pickify : Movie Recommender System
-<a href="https://github.com/TheMrityunjayPathak/Pickify"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" title="GitHub" width="80px"></a>&nbsp;&nbsp;<a href="https://pickify.streamlit.app/"><img src="https://github.com/user-attachments/assets/5876b6a4-9ab2-48aa-90d3-70117399aff3" title="Application" width="80px"></a>
+<a href="https://github.com/themrityunjaypathak/Pickify"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" title="GitHub" width="80px"></a>&nbsp;&nbsp;<a href="https://pickify.streamlit.app/"><img src="https://github.com/user-attachments/assets/5876b6a4-9ab2-48aa-90d3-70117399aff3" title="Application" width="80px"></a>
 
 ➔ Problem
 - With the rise of streaming services, viewers now have access to thousands of movies across platforms.
@@ -169,7 +169,7 @@ Boston Institute of Analytics
 <hr>
 
 ### Netflix Data Analysis
-<a href="https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" title="GitHub" width="80px"></a>&nbsp;&nbsp;<a href="https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis"><img src="https://github.com/user-attachments/assets/7b33292b-2a68-4af3-ae25-281105385f8d" title="Notebook" width="80px"></a>
+<a href="https://github.com/themrityunjaypathak/Netflix-Data-Analysis"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" title="GitHub" width="80px"></a>&nbsp;&nbsp;<a href="https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis"><img src="https://github.com/user-attachments/assets/7b33292b-2a68-4af3-ae25-281105385f8d" title="Notebook" width="80px"></a>
 
 ➔ Problem Statement
 - To analyze Netflix content data, uncovering valuable insights into how the platform evolves over time.
@@ -190,7 +190,7 @@ Boston Institute of Analytics
 <hr>
 
 ### Supermarket Sales Analysis
-<a href="https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" title="GitHub" width="80px"></a>&nbsp;&nbsp;<a href="https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis"><img src="https://github.com/user-attachments/assets/7b33292b-2a68-4af3-ae25-281105385f8d" title="Notebook" width="80px"></a>
+<a href="https://github.com/themrityunjaypathak/Supermarket-Sales-Analysis"><img src="https://github.com/user-attachments/assets/92d6ca72-44fa-4874-8495-f07811dddd60" title="GitHub" width="80px"></a>&nbsp;&nbsp;<a href="https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis"><img src="https://github.com/user-attachments/assets/7b33292b-2a68-4af3-ae25-281105385f8d" title="Notebook" width="80px"></a>
 
 ➔ Problem Statement
 - To analyze Supermarket Sales data, identifying key factors for improving profitability and operational efficiency.
