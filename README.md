@@ -6,6 +6,26 @@
 
 </div>
 
+<div align="center">
+ 
+<a href="#about">
+About
+</a>&nbsp;&nbsp;&nbsp;
+<a href="#experience">
+Experience
+</a>&nbsp;&nbsp;&nbsp;
+<a href="#projects">
+Projects
+</a>&nbsp;&nbsp;&nbsp;
+<a href="#certificates">
+Certificates
+</a>&nbsp;&nbsp;&nbsp;
+<a href="#blogs">
+Blogs
+</a>
+
+</div>
+
 <div align="right">
 
 <a href='mailto:themrityunjaypathak@gmail.com' title='Email'>
